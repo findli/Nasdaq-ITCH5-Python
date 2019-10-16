@@ -1,0 +1,8 @@
+hour stock vwap
+4 AJG 72.04
+5 AJG 71.98
+6 AJG 72.35
+7 AJG 72.48
+8 AJG 72.55
+9 AJG 72.8
+10 AJG 72.84

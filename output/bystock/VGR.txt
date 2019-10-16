@@ -1,0 +1,8 @@
+hour stock vwap
+4 VGR 10.34
+5 VGR 10.45
+6 VGR 10.52
+7 VGR 10.58
+8 VGR 10.56
+9 VGR 10.58
+10 VGR 10.59

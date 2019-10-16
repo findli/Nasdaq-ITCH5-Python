@@ -1,0 +1,4 @@
+hour stock vwap
+7 TSQ 6.11
+8 TSQ 6.12
+10 TSQ 6.21

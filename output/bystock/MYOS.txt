@@ -1,0 +1,2 @@
+hour stock vwap
+9 MYOS 1.71

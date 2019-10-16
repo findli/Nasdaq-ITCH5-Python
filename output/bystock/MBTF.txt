@@ -1,0 +1,7 @@
+hour stock vwap
+4 MBTF 10.28
+5 MBTF 10.28
+7 MBTF 10.19
+8 MBTF 10.16
+9 MBTF 10.19
+10 MBTF 10.14

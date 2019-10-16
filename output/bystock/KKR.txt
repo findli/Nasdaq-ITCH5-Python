@@ -1,0 +1,8 @@
+hour stock vwap
+4 KKR 22.28
+5 KKR 22.49
+6 KKR 22.41
+7 KKR 22.31
+8 KKR 22.31
+9 KKR 22.51
+10 KKR 22.53

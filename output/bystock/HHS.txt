@@ -1,0 +1,4 @@
+hour stock vwap
+6 HHS 3.07
+8 HHS 3.13
+10 HHS 3.18

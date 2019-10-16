@@ -1,0 +1,3 @@
+hour stock vwap
+4 WFC-O 22.99
+6 WFC-O 23.05

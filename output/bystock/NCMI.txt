@@ -1,0 +1,6 @@
+hour stock vwap
+4 NCMI 6.89
+5 NCMI 6.92
+8 NCMI 6.91
+9 NCMI 6.91
+10 NCMI 6.88

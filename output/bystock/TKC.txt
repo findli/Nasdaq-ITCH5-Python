@@ -1,0 +1,8 @@
+hour stock vwap
+4 TKC 6.89
+5 TKC 6.86
+6 TKC 6.84
+7 TKC 6.89
+8 TKC 6.92
+9 TKC 6.95
+10 TKC 6.99

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BBVA 6.02
+5 BBVA 6.01
+6 BBVA 6.03
+7 BBVA 6.02
+8 BBVA 6.02
+9 BBVA 6.09
+10 BBVA 6.06

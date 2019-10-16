@@ -1,0 +1,4 @@
+hour stock vwap
+6 MGC 91.75
+9 MGC 92.47
+10 MGC 92.49

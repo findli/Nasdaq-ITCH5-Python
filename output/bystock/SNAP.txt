@@ -1,0 +1,9 @@
+hour stock vwap
+4 SNAP 6.45
+5 SNAP 6.38
+6 SNAP 6.4
+7 SNAP 6.4
+8 SNAP 6.45
+9 SNAP 6.55
+10 SNAP 6.56
+11 SNAP 6.64

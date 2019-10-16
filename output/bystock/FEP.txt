@@ -1,0 +1,5 @@
+hour stock vwap
+5 FEP 33.85
+6 FEP 33.89
+7 FEP 33.94
+10 FEP 34.18

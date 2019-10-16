@@ -1,0 +1,4 @@
+hour stock vwap
+4 TLC 6.5
+7 TLC 6.51
+8 TLC 6.51

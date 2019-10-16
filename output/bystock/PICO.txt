@@ -1,0 +1,6 @@
+hour stock vwap
+4 PICO 9.66
+5 PICO 9.66
+7 PICO 9.76
+9 PICO 9.87
+10 PICO 9.83

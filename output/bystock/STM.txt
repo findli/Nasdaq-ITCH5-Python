@@ -1,0 +1,8 @@
+hour stock vwap
+4 STM 16.08
+5 STM 15.92
+6 STM 15.87
+7 STM 15.89
+8 STM 15.88
+9 STM 16.04
+10 STM 16.2

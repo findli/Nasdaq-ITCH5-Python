@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKEP 2.13
+5 BKEP 2.23
+6 BKEP 2.24
+7 BKEP 2.23
+8 BKEP 2.24
+9 BKEP 2.24
+10 BKEP 2.22

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MUR 27.65
+5 MUR 27.59
+6 MUR 27.71
+7 MUR 27.76
+8 MUR 27.67
+9 MUR 27.69
+10 MUR 27.76

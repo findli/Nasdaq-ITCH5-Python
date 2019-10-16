@@ -1,0 +1,7 @@
+hour stock vwap
+5 MOO 61.12
+6 MOO 61.45
+7 MOO 61.58
+8 MOO 61.41
+9 MOO 61.98
+10 MOO 61.75

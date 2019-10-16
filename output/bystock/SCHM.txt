@@ -1,0 +1,5 @@
+hour stock vwap
+4 SCHM 52.31
+7 SCHM 52.69
+8 SCHM 52.57
+9 SCHM 52.9

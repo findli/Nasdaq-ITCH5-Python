@@ -1,0 +1,4 @@
+hour stock vwap
+7 ACNB 37.08
+8 ACNB 37.2
+10 ACNB 37.19

@@ -1,0 +1,9 @@
+hour stock vwap
+2 FTI 23.01
+4 FTI 22.93
+5 FTI 23.0
+6 FTI 23.01
+7 FTI 22.97
+8 FTI 22.93
+9 FTI 23.12
+10 FTI 23.13

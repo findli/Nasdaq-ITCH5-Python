@@ -1,0 +1,9 @@
+hour stock vwap
+3 GDX 21.92
+4 GDX 21.82
+5 GDX 21.9
+6 GDX 21.87
+7 GDX 21.92
+8 GDX 21.87
+9 GDX 22.32
+10 GDX 22.2

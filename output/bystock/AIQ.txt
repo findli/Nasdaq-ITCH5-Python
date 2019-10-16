@@ -1,0 +1,4 @@
+hour stock vwap
+7 AIQ 14.19
+9 AIQ 14.24
+10 AIQ 14.36

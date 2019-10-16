@@ -1,0 +1,5 @@
+hour stock vwap
+5 OCSI 8.41
+7 OCSI 8.44
+8 OCSI 8.47
+10 OCSI 8.5

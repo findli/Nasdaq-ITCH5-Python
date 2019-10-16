@@ -1,0 +1,8 @@
+hour stock vwap
+4 TMK 81.97
+5 TMK 81.71
+6 TMK 82.31
+7 TMK 82.65
+8 TMK 82.52
+9 TMK 82.88
+10 TMK 82.84

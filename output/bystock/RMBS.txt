@@ -1,0 +1,8 @@
+hour stock vwap
+4 RMBS 8.73
+5 RMBS 8.93
+6 RMBS 8.93
+7 RMBS 9.01
+8 RMBS 9.07
+9 RMBS 9.05
+10 RMBS 8.99

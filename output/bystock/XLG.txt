@@ -1,0 +1,4 @@
+hour stock vwap
+6 XLG 188.6
+9 XLG 189.53
+10 XLG 190.12

@@ -1,0 +1,6 @@
+hour stock vwap
+5 VIGI 60.67
+6 VIGI 60.72
+7 VIGI 60.81
+9 VIGI 61.28
+10 VIGI 61.33

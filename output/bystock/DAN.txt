@@ -1,0 +1,8 @@
+hour stock vwap
+4 DAN 17.46
+5 DAN 17.43
+6 DAN 17.53
+7 DAN 17.51
+8 DAN 17.49
+9 DAN 17.74
+10 DAN 17.73

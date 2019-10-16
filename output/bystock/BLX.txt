@@ -1,0 +1,5 @@
+hour stock vwap
+6 BLX 18.64
+8 BLX 18.62
+9 BLX 18.69
+10 BLX 18.74

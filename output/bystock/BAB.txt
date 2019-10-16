@@ -1,0 +1,3 @@
+hour stock vwap
+4 BAB 29.5
+10 BAB 29.56

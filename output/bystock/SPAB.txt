@@ -1,0 +1,6 @@
+hour stock vwap
+4 SPAB 27.97
+5 SPAB 27.98
+7 SPAB 27.98
+8 SPAB 27.98
+10 SPAB 28.03

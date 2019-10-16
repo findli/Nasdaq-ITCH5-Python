@@ -1,0 +1,7 @@
+hour stock vwap
+4 CEF 12.88
+5 CEF 12.86
+7 CEF 12.88
+8 CEF 12.87
+9 CEF 12.96
+10 CEF 12.97

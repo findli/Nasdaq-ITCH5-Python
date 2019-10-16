@@ -1,0 +1,8 @@
+hour stock vwap
+4 GTX 15.46
+5 GTX 15.24
+6 GTX 15.5
+7 GTX 15.5
+8 GTX 15.58
+9 GTX 15.67
+10 GTX 15.78

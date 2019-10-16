@@ -1,0 +1,4 @@
+hour stock vwap
+8 DSU 10.35
+9 DSU 10.42
+10 DSU 10.42

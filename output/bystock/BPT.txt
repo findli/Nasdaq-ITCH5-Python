@@ -1,0 +1,5 @@
+hour stock vwap
+4 BPT 24.03
+5 BPT 24.04
+6 BPT 23.72
+7 BPT 24.0

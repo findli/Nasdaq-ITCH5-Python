@@ -1,0 +1,7 @@
+hour stock vwap
+4 GLDD 7.08
+6 GLDD 7.14
+7 GLDD 7.12
+8 GLDD 7.07
+9 GLDD 7.08
+10 GLDD 7.09

@@ -1,0 +1,5 @@
+hour stock vwap
+5 C-J 26.65
+6 C-J 26.75
+7 C-J 26.74
+9 C-J 26.76

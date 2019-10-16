@@ -1,0 +1,5 @@
+hour stock vwap
+7 MH-A 6.41
+8 MH-A 6.25
+9 MH-A 6.17
+10 MH-A 6.1

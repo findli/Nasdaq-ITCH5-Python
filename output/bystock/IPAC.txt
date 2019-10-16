@@ -1,0 +1,4 @@
+hour stock vwap
+8 IPAC 53.83
+9 IPAC 54.32
+10 IPAC 54.42

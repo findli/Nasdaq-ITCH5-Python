@@ -1,0 +1,4 @@
+hour stock vwap
+5 CSS 8.86
+9 CSS 8.72
+10 CSS 8.75

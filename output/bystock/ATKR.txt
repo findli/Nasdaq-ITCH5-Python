@@ -1,0 +1,6 @@
+hour stock vwap
+4 ATKR 22.13
+5 ATKR 22.1
+6 ATKR 22.1
+9 ATKR 22.25
+10 ATKR 22.24

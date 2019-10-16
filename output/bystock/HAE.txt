@@ -1,0 +1,8 @@
+hour stock vwap
+4 HAE 96.66
+5 HAE 95.84
+6 HAE 96.11
+7 HAE 96.74
+8 HAE 96.34
+9 HAE 97.19
+10 HAE 97.07

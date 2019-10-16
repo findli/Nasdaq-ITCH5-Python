@@ -1,0 +1,8 @@
+hour stock vwap
+4 AVAL 6.81
+5 AVAL 6.76
+6 AVAL 6.76
+7 AVAL 6.8
+8 AVAL 6.8
+9 AVAL 6.81
+10 AVAL 6.82

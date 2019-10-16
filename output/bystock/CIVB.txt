@@ -1,0 +1,6 @@
+hour stock vwap
+6 CIVB 18.87
+7 CIVB 18.9
+8 CIVB 18.89
+9 CIVB 18.97
+10 CIVB 18.92

@@ -1,0 +1,6 @@
+hour stock vwap
+6 FRA 12.52
+7 FRA 12.53
+8 FRA 12.53
+9 FRA 12.52
+10 FRA 12.52

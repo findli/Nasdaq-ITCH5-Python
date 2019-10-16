@@ -1,0 +1,5 @@
+hour stock vwap
+4 PFLT 12.82
+6 PFLT 12.85
+9 PFLT 12.87
+10 PFLT 12.88

@@ -1,0 +1,7 @@
+hour stock vwap
+5 JBT 79.79
+6 JBT 79.72
+7 JBT 79.3
+8 JBT 79.15
+9 JBT 79.41
+10 JBT 79.08

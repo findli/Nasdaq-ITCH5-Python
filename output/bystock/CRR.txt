@@ -1,0 +1,8 @@
+hour stock vwap
+4 CRR 4.32
+5 CRR 4.29
+6 CRR 4.32
+7 CRR 4.3
+8 CRR 4.34
+9 CRR 4.37
+10 CRR 4.3

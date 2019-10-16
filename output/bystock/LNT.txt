@@ -1,0 +1,8 @@
+hour stock vwap
+4 LNT 42.86
+5 LNT 43.02
+6 LNT 43.18
+7 LNT 43.31
+8 LNT 43.19
+9 LNT 43.36
+10 LNT 43.38

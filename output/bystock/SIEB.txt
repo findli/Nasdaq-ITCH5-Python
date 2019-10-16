@@ -1,0 +1,7 @@
+hour stock vwap
+5 SIEB 11.6
+6 SIEB 11.53
+7 SIEB 10.99
+8 SIEB 11.01
+9 SIEB 11.06
+10 SIEB 11.08

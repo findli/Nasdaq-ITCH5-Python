@@ -1,0 +1,5 @@
+hour stock vwap
+5 SPHD 40.47
+6 SPHD 40.68
+9 SPHD 40.81
+10 SPHD 40.79

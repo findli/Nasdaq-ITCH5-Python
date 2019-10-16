@@ -1,0 +1,3 @@
+hour stock vwap
+4 PSA-F 22.94
+10 PSA-F 23.26

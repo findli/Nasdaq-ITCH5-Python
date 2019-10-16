@@ -1,0 +1,7 @@
+hour stock vwap
+4 PLSE 12.11
+5 PLSE 12.63
+6 PLSE 13.03
+8 PLSE 13.03
+9 PLSE 13.0
+10 PLSE 12.96

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TBT 35.58
+5 TBT 35.53
+6 TBT 35.53
+7 TBT 35.61
+8 TBT 35.6
+9 TBT 35.66
+10 TBT 35.61

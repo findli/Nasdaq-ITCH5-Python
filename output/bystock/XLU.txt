@@ -1,0 +1,8 @@
+hour stock vwap
+4 XLU 53.26
+5 XLU 53.53
+6 XLU 53.47
+7 XLU 53.44
+8 XLU 53.31
+9 XLU 53.63
+10 XLU 53.65

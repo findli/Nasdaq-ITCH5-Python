@@ -1,0 +1,5 @@
+hour stock vwap
+5 MCC 3.13
+8 MCC 3.17
+9 MCC 3.14
+10 MCC 3.17

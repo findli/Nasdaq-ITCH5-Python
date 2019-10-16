@@ -1,0 +1,9 @@
+hour stock vwap
+3 TNA 54.47
+4 TNA 54.31
+5 TNA 54.15
+6 TNA 54.66
+7 TNA 54.88
+8 TNA 54.68
+9 TNA 55.38
+10 TNA 55.63

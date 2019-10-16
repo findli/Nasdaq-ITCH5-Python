@@ -1,0 +1,8 @@
+hour stock vwap
+4 HBI 15.18
+5 HBI 15.05
+6 HBI 14.95
+7 HBI 14.88
+8 HBI 14.9
+9 HBI 14.98
+10 HBI 14.94

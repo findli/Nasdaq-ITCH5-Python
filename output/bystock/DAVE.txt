@@ -1,0 +1,3 @@
+hour stock vwap
+8 DAVE 4.44
+9 DAVE 4.61

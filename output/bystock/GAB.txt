@@ -1,0 +1,5 @@
+hour stock vwap
+5 GAB 5.76
+6 GAB 5.78
+8 GAB 5.77
+10 GAB 5.76

@@ -1,0 +1,4 @@
+hour stock vwap
+5 OPNT 14.75
+8 OPNT 14.72
+10 OPNT 15.41

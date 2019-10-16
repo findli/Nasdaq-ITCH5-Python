@@ -1,0 +1,4 @@
+hour stock vwap
+5 GMDA 14.68
+6 GMDA 14.79
+8 GMDA 13.8

@@ -1,0 +1,3 @@
+hour stock vwap
+9 CFFAU 10.08
+10 CFFAU 10.1

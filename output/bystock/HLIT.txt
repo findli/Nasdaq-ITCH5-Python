@@ -1,0 +1,8 @@
+hour stock vwap
+4 HLIT 5.13
+5 HLIT 5.13
+6 HLIT 5.14
+7 HLIT 5.15
+8 HLIT 5.11
+9 HLIT 5.16
+10 HLIT 5.15

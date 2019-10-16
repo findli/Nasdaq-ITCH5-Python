@@ -1,0 +1,4 @@
+hour stock vwap
+5 GNUS 2.47
+6 GNUS 2.47
+7 GNUS 2.48

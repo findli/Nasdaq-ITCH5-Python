@@ -1,0 +1,5 @@
+hour stock vwap
+6 CWI 34.81
+7 CWI 34.85
+9 CWI 35.1
+10 CWI 35.12

@@ -1,0 +1,8 @@
+hour stock vwap
+4 WHD 32.88
+5 WHD 32.61
+6 WHD 32.28
+7 WHD 32.07
+8 WHD 32.02
+9 WHD 32.3
+10 WHD 32.45

@@ -1,0 +1,7 @@
+hour stock vwap
+4 TYME 2.58
+5 TYME 2.66
+6 TYME 2.76
+7 TYME 2.75
+9 TYME 2.74
+10 TYME 2.77

@@ -1,0 +1,4 @@
+hour stock vwap
+7 EOT 20.83
+9 EOT 20.74
+10 EOT 20.37

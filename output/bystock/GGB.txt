@@ -1,0 +1,8 @@
+hour stock vwap
+4 GGB 4.34
+5 GGB 4.32
+6 GGB 4.31
+7 GGB 4.28
+8 GGB 4.28
+9 GGB 4.32
+10 GGB 4.36

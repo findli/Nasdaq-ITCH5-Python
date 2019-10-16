@@ -1,0 +1,3 @@
+hour stock vwap
+9 PWOD 35.86
+10 PWOD 35.83

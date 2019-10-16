@@ -1,0 +1,6 @@
+hour stock vwap
+6 ERA 9.53
+7 ERA 9.59
+8 ERA 9.72
+9 ERA 9.89
+10 ERA 9.69

@@ -1,0 +1,4 @@
+hour stock vwap
+8 NL 4.02
+9 NL 3.99
+10 NL 3.95

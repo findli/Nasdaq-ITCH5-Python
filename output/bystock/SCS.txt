@@ -1,0 +1,8 @@
+hour stock vwap
+4 SCS 16.17
+5 SCS 16.21
+6 SCS 16.26
+7 SCS 16.26
+8 SCS 16.25
+9 SCS 16.3
+10 SCS 16.29

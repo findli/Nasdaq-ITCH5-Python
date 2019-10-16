@@ -1,0 +1,5 @@
+hour stock vwap
+6 BSCS 20.11
+7 BSCS 20.1
+8 BSCS 20.1
+9 BSCS 20.14

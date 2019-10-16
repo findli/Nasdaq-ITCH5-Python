@@ -1,0 +1,7 @@
+hour stock vwap
+4 FARO 40.75
+5 FARO 40.32
+6 FARO 40.03
+8 FARO 40.83
+9 FARO 41.09
+10 FARO 41.52

@@ -1,0 +1,7 @@
+hour stock vwap
+4 FFNW 15.38
+6 FFNW 15.44
+7 FFNW 15.52
+8 FFNW 15.49
+9 FFNW 15.45
+10 FFNW 15.48

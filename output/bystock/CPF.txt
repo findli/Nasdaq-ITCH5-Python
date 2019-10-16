@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPF 28.56
+5 CPF 28.27
+6 CPF 29.0
+7 CPF 29.01
+8 CPF 28.99
+9 CPF 28.94
+10 CPF 28.74

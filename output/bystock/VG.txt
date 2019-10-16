@@ -1,0 +1,8 @@
+hour stock vwap
+4 VG 8.93
+5 VG 8.99
+6 VG 9.09
+7 VG 9.08
+8 VG 9.04
+9 VG 9.08
+10 VG 9.08

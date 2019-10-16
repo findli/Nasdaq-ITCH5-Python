@@ -1,0 +1,5 @@
+hour stock vwap
+5 MKGI 2.36
+6 MKGI 2.37
+7 MKGI 2.36
+9 MKGI 2.36

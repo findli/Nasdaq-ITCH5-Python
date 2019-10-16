@@ -1,0 +1,8 @@
+hour stock vwap
+4 AKBA 5.44
+5 AKBA 5.52
+6 AKBA 5.55
+7 AKBA 5.63
+8 AKBA 5.65
+9 AKBA 5.7
+10 AKBA 5.71

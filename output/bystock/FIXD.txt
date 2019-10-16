@@ -1,0 +1,5 @@
+hour stock vwap
+6 FIXD 49.53
+8 FIXD 49.57
+9 FIXD 49.6
+10 FIXD 49.64

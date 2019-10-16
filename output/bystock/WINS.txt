@@ -1,0 +1,4 @@
+hour stock vwap
+4 WINS 25.15
+5 WINS 24.99
+7 WINS 24.9

@@ -1,0 +1,6 @@
+hour stock vwap
+5 MET-E 24.96
+6 MET-E 24.91
+7 MET-E 24.86
+8 MET-E 24.83
+10 MET-E 24.83

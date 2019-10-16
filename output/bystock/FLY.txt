@@ -1,0 +1,5 @@
+hour stock vwap
+5 FLY 11.05
+6 FLY 11.12
+7 FLY 11.08
+10 FLY 11.11

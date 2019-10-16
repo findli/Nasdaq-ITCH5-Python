@@ -1,0 +1,6 @@
+hour stock vwap
+6 VERU 1.5
+7 VERU 1.51
+8 VERU 1.48
+9 VERU 1.48
+10 VERU 1.49

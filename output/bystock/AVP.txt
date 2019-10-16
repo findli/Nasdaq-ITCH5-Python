@@ -1,0 +1,9 @@
+hour stock vwap
+3 AVP 1.87
+4 AVP 1.94
+5 AVP 1.92
+6 AVP 1.93
+7 AVP 1.92
+8 AVP 1.9
+9 AVP 1.91
+10 AVP 1.88

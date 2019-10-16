@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKI 48.22
+5 BKI 48.24
+6 BKI 48.57
+7 BKI 48.57
+8 BKI 48.28
+9 BKI 48.35
+10 BKI 48.73

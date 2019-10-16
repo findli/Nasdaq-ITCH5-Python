@@ -1,0 +1,7 @@
+hour stock vwap
+4 DNB 144.63
+5 DNB 144.62
+7 DNB 144.6
+8 DNB 144.59
+9 DNB 144.6
+10 DNB 144.6

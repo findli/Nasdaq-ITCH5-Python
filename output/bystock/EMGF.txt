@@ -1,0 +1,6 @@
+hour stock vwap
+5 EMGF 41.95
+6 EMGF 42.02
+7 EMGF 42.1
+9 EMGF 42.31
+10 EMGF 42.71

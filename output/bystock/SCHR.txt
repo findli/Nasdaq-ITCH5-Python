@@ -1,0 +1,6 @@
+hour stock vwap
+4 SCHR 52.9
+6 SCHR 52.88
+7 SCHR 52.88
+9 SCHR 52.96
+10 SCHR 53.03

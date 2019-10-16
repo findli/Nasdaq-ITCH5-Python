@@ -1,0 +1,3 @@
+hour stock vwap
+9 FPX 69.18
+10 FPX 69.05

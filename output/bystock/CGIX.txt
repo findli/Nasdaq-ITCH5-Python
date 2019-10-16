@@ -1,0 +1,9 @@
+hour stock vwap
+3 CGIX 0.26
+4 CGIX 0.25
+5 CGIX 0.25
+6 CGIX 0.25
+7 CGIX 0.25
+8 CGIX 0.25
+9 CGIX 0.25
+10 CGIX 0.25

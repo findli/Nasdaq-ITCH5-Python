@@ -1,0 +1,7 @@
+hour stock vwap
+4 TWO-A 25.97
+5 TWO-A 25.87
+6 TWO-A 25.88
+8 TWO-A 26.0
+9 TWO-A 26.09
+10 TWO-A 26.08

@@ -1,0 +1,4 @@
+hour stock vwap
+6 APTO 1.98
+9 APTO 2.0
+10 APTO 2.07

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PNM 41.93
+5 PNM 42.28
+6 PNM 42.24
+7 PNM 42.2
+8 PNM 41.96
+9 PNM 42.12
+10 PNM 42.12

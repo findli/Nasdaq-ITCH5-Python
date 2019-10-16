@@ -1,0 +1,8 @@
+hour stock vwap
+4 AYR 20.39
+5 AYR 20.4
+6 AYR 20.59
+7 AYR 20.61
+8 AYR 20.62
+9 AYR 20.82
+10 AYR 20.82

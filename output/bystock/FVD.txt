@@ -1,0 +1,6 @@
+hour stock vwap
+5 FVD 30.57
+6 FVD 30.68
+8 FVD 30.63
+9 FVD 30.84
+10 FVD 30.84

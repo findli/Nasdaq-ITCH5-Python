@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABM 33.15
+5 ABM 33.35
+6 ABM 33.12
+7 ABM 32.87
+8 ABM 32.87
+9 ABM 33.15
+10 ABM 33.41

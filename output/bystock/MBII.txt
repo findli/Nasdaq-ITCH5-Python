@@ -1,0 +1,4 @@
+hour stock vwap
+4 MBII 1.43
+5 MBII 1.42
+10 MBII 1.44

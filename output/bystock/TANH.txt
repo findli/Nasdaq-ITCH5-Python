@@ -1,0 +1,4 @@
+hour stock vwap
+4 TANH 1.73
+5 TANH 1.72
+7 TANH 1.71

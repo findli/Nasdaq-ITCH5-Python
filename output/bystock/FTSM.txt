@@ -1,0 +1,5 @@
+hour stock vwap
+4 FTSM 60.02
+7 FTSM 60.02
+8 FTSM 60.02
+10 FTSM 60.01

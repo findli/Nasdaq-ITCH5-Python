@@ -1,0 +1,3 @@
+hour stock vwap
+7 BCOM 4.52
+8 BCOM 4.87

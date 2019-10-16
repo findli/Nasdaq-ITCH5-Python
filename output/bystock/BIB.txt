@@ -1,0 +1,7 @@
+hour stock vwap
+4 BIB 51.51
+5 BIB 50.64
+6 BIB 50.83
+8 BIB 51.33
+9 BIB 52.51
+10 BIB 52.51

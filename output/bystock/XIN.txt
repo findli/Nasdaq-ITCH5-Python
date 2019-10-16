@@ -1,0 +1,7 @@
+hour stock vwap
+4 XIN 4.74
+5 XIN 4.78
+6 XIN 4.78
+7 XIN 4.74
+8 XIN 4.74
+10 XIN 4.76

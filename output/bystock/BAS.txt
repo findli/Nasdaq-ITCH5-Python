@@ -1,0 +1,7 @@
+hour stock vwap
+4 BAS 4.68
+5 BAS 4.65
+7 BAS 4.79
+8 BAS 4.8
+9 BAS 4.87
+10 BAS 4.83

@@ -1,0 +1,4 @@
+hour stock vwap
+6 EXI 84.42
+8 EXI 84.39
+10 EXI 84.96

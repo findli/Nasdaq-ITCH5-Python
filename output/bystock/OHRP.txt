@@ -1,0 +1,7 @@
+hour stock vwap
+4 OHRP 0.12
+5 OHRP 0.12
+6 OHRP 0.12
+7 OHRP 0.12
+9 OHRP 0.12
+10 OHRP 0.13

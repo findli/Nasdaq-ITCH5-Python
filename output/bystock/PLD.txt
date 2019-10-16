@@ -1,0 +1,8 @@
+hour stock vwap
+4 PLD 67.46
+5 PLD 68.01
+6 PLD 68.04
+7 PLD 68.12
+8 PLD 68.01
+9 PLD 68.31
+10 PLD 68.26

@@ -1,0 +1,7 @@
+hour stock vwap
+5 PAGP 23.09
+6 PAGP 23.17
+7 PAGP 23.12
+8 PAGP 23.01
+9 PAGP 23.23
+10 PAGP 23.15

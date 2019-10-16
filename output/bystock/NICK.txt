@@ -1,0 +1,4 @@
+hour stock vwap
+4 NICK 9.28
+5 NICK 10.55
+10 NICK 10.53

@@ -1,0 +1,6 @@
+hour stock vwap
+4 CLCT 13.66
+6 CLCT 13.51
+7 CLCT 13.53
+8 CLCT 13.43
+10 CLCT 13.57

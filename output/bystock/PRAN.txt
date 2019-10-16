@@ -1,0 +1,4 @@
+hour stock vwap
+4 PRAN 1.44
+6 PRAN 1.4
+10 PRAN 1.42

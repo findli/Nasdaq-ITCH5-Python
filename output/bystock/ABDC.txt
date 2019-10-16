@@ -1,0 +1,7 @@
+hour stock vwap
+5 ABDC 7.0
+6 ABDC 7.0
+7 ABDC 7.18
+8 ABDC 7.14
+9 ABDC 7.16
+10 ABDC 7.21

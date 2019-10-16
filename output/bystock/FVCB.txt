@@ -1,0 +1,4 @@
+hour stock vwap
+4 FVCB 17.3
+6 FVCB 17.49
+10 FVCB 17.49

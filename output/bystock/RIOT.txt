@@ -1,0 +1,6 @@
+hour stock vwap
+3 RIOT 1.8
+5 RIOT 1.85
+6 RIOT 1.91
+7 RIOT 1.91
+8 RIOT 1.9

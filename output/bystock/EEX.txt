@@ -1,0 +1,8 @@
+hour stock vwap
+4 EEX 13.89
+5 EEX 13.85
+6 EEX 13.99
+7 EEX 14.05
+8 EEX 13.99
+9 EEX 14.1
+10 EEX 14.07

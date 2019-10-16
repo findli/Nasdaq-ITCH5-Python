@@ -1,0 +1,4 @@
+hour stock vwap
+4 HIFS 180.21
+7 HIFS 180.21
+10 HIFS 184.31

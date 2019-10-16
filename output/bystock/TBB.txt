@@ -1,0 +1,3 @@
+hour stock vwap
+7 TBB 24.32
+9 TBB 24.24

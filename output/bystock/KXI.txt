@@ -1,0 +1,3 @@
+hour stock vwap
+7 KXI 47.75
+10 KXI 47.88

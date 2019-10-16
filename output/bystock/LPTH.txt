@@ -1,0 +1,4 @@
+hour stock vwap
+5 LPTH 1.67
+8 LPTH 1.66
+10 LPTH 1.67

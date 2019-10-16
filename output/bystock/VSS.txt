@@ -1,0 +1,7 @@
+hour stock vwap
+5 VSS 100.5
+6 VSS 100.58
+7 VSS 100.66
+8 VSS 100.65
+9 VSS 101.2
+10 VSS 101.56

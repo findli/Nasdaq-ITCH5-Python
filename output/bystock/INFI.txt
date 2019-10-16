@@ -1,0 +1,8 @@
+hour stock vwap
+4 INFI 1.28
+5 INFI 1.21
+6 INFI 1.21
+7 INFI 1.23
+8 INFI 1.23
+9 INFI 1.23
+10 INFI 1.24

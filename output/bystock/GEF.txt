@@ -1,0 +1,8 @@
+hour stock vwap
+4 GEF 38.74
+5 GEF 38.47
+6 GEF 38.94
+7 GEF 38.97
+8 GEF 38.87
+9 GEF 39.04
+10 GEF 39.03

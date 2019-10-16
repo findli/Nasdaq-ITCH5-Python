@@ -1,0 +1,7 @@
+hour stock vwap
+4 JILL 6.02
+5 JILL 6.01
+6 JILL 6.05
+7 JILL 6.01
+9 JILL 6.04
+10 JILL 6.05

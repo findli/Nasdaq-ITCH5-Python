@@ -1,0 +1,6 @@
+hour stock vwap
+5 ROM 87.08
+7 ROM 88.6
+8 ROM 88.63
+9 ROM 89.24
+10 ROM 90.38

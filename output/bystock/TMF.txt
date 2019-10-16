@@ -1,0 +1,4 @@
+hour stock vwap
+4 TMF 18.95
+9 TMF 18.8
+10 TMF 18.96

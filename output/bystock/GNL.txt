@@ -1,0 +1,8 @@
+hour stock vwap
+4 GNL 19.71
+5 GNL 19.86
+6 GNL 19.73
+7 GNL 19.59
+8 GNL 19.3
+9 GNL 19.3
+10 GNL 19.27

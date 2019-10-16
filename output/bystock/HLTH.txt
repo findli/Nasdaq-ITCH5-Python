@@ -1,0 +1,4 @@
+hour stock vwap
+5 HLTH 0.44
+8 HLTH 0.44
+10 HLTH 0.44

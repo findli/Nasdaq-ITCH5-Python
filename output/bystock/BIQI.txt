@@ -1,0 +1,3 @@
+hour stock vwap
+7 BIQI 2.85
+8 BIQI 2.79

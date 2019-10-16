@@ -1,0 +1,6 @@
+hour stock vwap
+4 AGE 4.05
+5 AGE 4.0
+7 AGE 3.94
+8 AGE 3.81
+10 AGE 3.89

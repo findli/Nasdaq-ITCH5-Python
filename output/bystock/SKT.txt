@@ -1,0 +1,9 @@
+hour stock vwap
+3 SKT 22.89
+4 SKT 22.76
+5 SKT 22.88
+6 SKT 23.06
+7 SKT 23.06
+8 SKT 22.99
+9 SKT 23.04
+10 SKT 22.9

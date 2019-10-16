@@ -1,0 +1,8 @@
+hour stock vwap
+4 TAP 64.74
+5 TAP 64.48
+6 TAP 64.83
+7 TAP 65.11
+8 TAP 65.13
+9 TAP 65.59
+10 TAP 65.42

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CX 5.28
+5 CX 5.23
+6 CX 5.28
+7 CX 5.27
+8 CX 5.27
+9 CX 5.36
+10 CX 5.36

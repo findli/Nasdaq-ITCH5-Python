@@ -1,0 +1,5 @@
+hour stock vwap
+4 RIBT 3.31
+7 RIBT 3.28
+9 RIBT 3.31
+10 RIBT 3.3

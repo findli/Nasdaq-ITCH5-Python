@@ -1,0 +1,5 @@
+hour stock vwap
+6 WAAS 21.0
+7 WAAS 20.97
+8 WAAS 20.97
+10 WAAS 20.8

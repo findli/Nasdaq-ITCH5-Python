@@ -1,0 +1,6 @@
+hour stock vwap
+4 TOPS 0.95
+5 TOPS 0.92
+6 TOPS 0.93
+7 TOPS 0.95
+10 TOPS 0.96

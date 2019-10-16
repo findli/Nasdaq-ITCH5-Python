@@ -1,0 +1,8 @@
+hour stock vwap
+4 BLPH 0.68
+5 BLPH 0.68
+6 BLPH 0.68
+7 BLPH 0.68
+8 BLPH 0.68
+9 BLPH 0.68
+10 BLPH 0.7

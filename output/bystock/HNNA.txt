@@ -1,0 +1,4 @@
+hour stock vwap
+6 HNNA 11.73
+7 HNNA 11.86
+10 HNNA 11.82

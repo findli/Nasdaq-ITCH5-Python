@@ -1,0 +1,4 @@
+hour stock vwap
+6 GBIL 100.24
+7 GBIL 100.24
+8 GBIL 100.24

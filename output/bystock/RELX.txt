@@ -1,0 +1,7 @@
+hour stock vwap
+4 RELX 21.98
+5 RELX 21.9
+6 RELX 21.91
+8 RELX 21.85
+9 RELX 21.91
+10 RELX 21.94

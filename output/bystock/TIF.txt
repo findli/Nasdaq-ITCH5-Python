@@ -1,0 +1,8 @@
+hour stock vwap
+4 TIF 87.39
+5 TIF 87.05
+6 TIF 87.56
+7 TIF 87.69
+8 TIF 87.48
+9 TIF 87.63
+10 TIF 88.11

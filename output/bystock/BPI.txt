@@ -1,0 +1,6 @@
+hour stock vwap
+4 BPI 7.99
+5 BPI 7.99
+6 BPI 7.85
+8 BPI 7.88
+10 BPI 7.94

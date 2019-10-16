@@ -1,0 +1,7 @@
+hour stock vwap
+5 JQC 7.67
+6 JQC 7.68
+7 JQC 7.66
+8 JQC 7.65
+9 JQC 7.64
+10 JQC 7.65

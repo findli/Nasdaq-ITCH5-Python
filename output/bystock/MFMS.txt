@@ -1,0 +1,3 @@
+hour stock vwap
+6 MFMS 20.8
+9 MFMS 20.84

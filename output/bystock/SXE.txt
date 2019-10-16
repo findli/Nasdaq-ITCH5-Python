@@ -1,0 +1,4 @@
+hour stock vwap
+5 SXE 0.35
+8 SXE 0.34
+10 SXE 0.35

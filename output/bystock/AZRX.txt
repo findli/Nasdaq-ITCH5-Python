@@ -1,0 +1,4 @@
+hour stock vwap
+6 AZRX 2.06
+8 AZRX 2.02
+10 AZRX 2.07

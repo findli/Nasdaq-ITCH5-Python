@@ -1,0 +1,5 @@
+hour stock vwap
+4 JAGX 0.25
+7 JAGX 0.25
+8 JAGX 0.25
+10 JAGX 0.25

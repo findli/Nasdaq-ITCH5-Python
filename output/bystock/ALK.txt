@@ -1,0 +1,8 @@
+hour stock vwap
+4 ALK 64.26
+5 ALK 64.17
+6 ALK 64.49
+7 ALK 65.04
+8 ALK 65.02
+9 ALK 65.11
+10 ALK 64.58

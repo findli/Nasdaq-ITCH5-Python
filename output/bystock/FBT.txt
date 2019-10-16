@@ -1,0 +1,7 @@
+hour stock vwap
+5 FBT 139.28
+6 FBT 139.44
+7 FBT 140.41
+8 FBT 140.24
+9 FBT 141.83
+10 FBT 141.94

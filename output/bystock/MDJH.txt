@@ -1,0 +1,7 @@
+hour stock vwap
+5 MDJH 3.89
+6 MDJH 3.91
+7 MDJH 3.9
+8 MDJH 3.83
+9 MDJH 3.74
+10 MDJH 3.5

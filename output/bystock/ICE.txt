@@ -1,0 +1,8 @@
+hour stock vwap
+4 ICE 75.2
+5 ICE 75.46
+6 ICE 75.65
+7 ICE 75.72
+8 ICE 75.74
+9 ICE 76.22
+10 ICE 76.16

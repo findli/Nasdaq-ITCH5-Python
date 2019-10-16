@@ -1,0 +1,4 @@
+hour stock vwap
+7 TCFC 29.31
+9 TCFC 29.57
+10 TCFC 29.61

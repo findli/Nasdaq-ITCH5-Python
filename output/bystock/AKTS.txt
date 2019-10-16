@@ -1,0 +1,8 @@
+hour stock vwap
+4 AKTS 7.29
+5 AKTS 7.3
+6 AKTS 7.26
+7 AKTS 7.32
+8 AKTS 7.44
+9 AKTS 7.5
+10 AKTS 7.52

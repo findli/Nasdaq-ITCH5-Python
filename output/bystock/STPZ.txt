@@ -1,0 +1,3 @@
+hour stock vwap
+7 STPZ 51.05
+9 STPZ 51.11

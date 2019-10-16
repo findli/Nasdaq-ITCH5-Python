@@ -1,0 +1,9 @@
+hour stock vwap
+2 BHP 49.86
+4 BHP 50.0
+5 BHP 50.08
+6 BHP 49.95
+7 BHP 50.04
+8 BHP 50.12
+9 BHP 50.75
+10 BHP 50.83

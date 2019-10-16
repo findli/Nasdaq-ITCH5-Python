@@ -1,0 +1,6 @@
+hour stock vwap
+4 PHII 3.39
+5 PHII 3.44
+6 PHII 3.43
+8 PHII 3.5
+9 PHII 3.5

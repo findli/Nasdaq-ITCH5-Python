@@ -1,0 +1,8 @@
+hour stock vwap
+4 QD 5.14
+5 QD 5.24
+6 QD 5.25
+7 QD 5.31
+8 QD 5.3
+9 QD 5.31
+10 QD 5.28

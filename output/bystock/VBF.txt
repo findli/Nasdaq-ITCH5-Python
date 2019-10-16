@@ -1,0 +1,3 @@
+hour stock vwap
+8 VBF 17.61
+10 VBF 17.64

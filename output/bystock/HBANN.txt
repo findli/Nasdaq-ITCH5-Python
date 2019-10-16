@@ -1,0 +1,3 @@
+hour stock vwap
+8 HBANN 25.36
+10 HBANN 25.39

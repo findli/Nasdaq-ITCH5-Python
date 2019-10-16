@@ -1,0 +1,4 @@
+hour stock vwap
+5 TCON 0.81
+6 TCON 0.8
+9 TCON 0.82

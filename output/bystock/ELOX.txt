@@ -1,0 +1,7 @@
+hour stock vwap
+5 ELOX 11.01
+6 ELOX 11.15
+7 ELOX 10.95
+8 ELOX 11.03
+9 ELOX 11.1
+10 ELOX 11.49

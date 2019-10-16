@@ -1,0 +1,8 @@
+hour stock vwap
+4 KEX 70.23
+5 KEX 69.2
+6 KEX 69.43
+7 KEX 70.08
+8 KEX 70.1
+9 KEX 71.25
+10 KEX 71.41

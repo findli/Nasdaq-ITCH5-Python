@@ -1,0 +1,7 @@
+hour stock vwap
+4 BSAC 31.87
+5 BSAC 31.78
+6 BSAC 31.84
+7 BSAC 31.83
+9 BSAC 32.02
+10 BSAC 31.96

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SXT 61.62
+5 SXT 61.55
+6 SXT 61.39
+7 SXT 61.71
+8 SXT 61.71
+9 SXT 62.41
+10 SXT 62.48

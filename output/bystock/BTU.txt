@@ -1,0 +1,8 @@
+hour stock vwap
+4 BTU 35.55
+5 BTU 35.54
+6 BTU 35.7
+7 BTU 35.87
+8 BTU 36.0
+9 BTU 36.07
+10 BTU 36.19

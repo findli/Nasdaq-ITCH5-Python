@@ -1,0 +1,3 @@
+hour stock vwap
+9 RAVE 1.09
+10 RAVE 1.05

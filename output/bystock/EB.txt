@@ -1,0 +1,7 @@
+hour stock vwap
+4 EB 30.9
+5 EB 31.07
+7 EB 31.0
+8 EB 31.0
+9 EB 30.9
+10 EB 30.9

@@ -1,0 +1,3 @@
+hour stock vwap
+4 NBR-A 23.79
+9 NBR-A 24.39

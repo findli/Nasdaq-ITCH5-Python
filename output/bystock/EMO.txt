@@ -1,0 +1,4 @@
+hour stock vwap
+4 EMO 9.61
+5 EMO 9.52
+8 EMO 9.7

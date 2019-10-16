@@ -1,0 +1,6 @@
+hour stock vwap
+5 SRT 6.79
+6 SRT 6.9
+7 SRT 6.9
+9 SRT 6.92
+10 SRT 6.87

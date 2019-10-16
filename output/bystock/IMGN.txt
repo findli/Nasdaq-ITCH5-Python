@@ -1,0 +1,8 @@
+hour stock vwap
+4 IMGN 4.85
+5 IMGN 4.83
+6 IMGN 4.88
+7 IMGN 4.89
+8 IMGN 4.87
+9 IMGN 4.97
+10 IMGN 5.05

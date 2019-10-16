@@ -1,0 +1,4 @@
+hour stock vwap
+4 CSTR 16.01
+7 CSTR 15.97
+10 CSTR 15.98

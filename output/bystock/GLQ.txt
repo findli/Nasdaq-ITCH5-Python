@@ -1,0 +1,4 @@
+hour stock vwap
+5 GLQ 12.02
+7 GLQ 12.07
+8 GLQ 12.02

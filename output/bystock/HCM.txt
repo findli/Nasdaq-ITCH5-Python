@@ -1,0 +1,7 @@
+hour stock vwap
+4 HCM 22.36
+5 HCM 22.17
+6 HCM 22.3
+7 HCM 22.25
+8 HCM 22.24
+10 HCM 22.5

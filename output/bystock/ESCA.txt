@@ -1,0 +1,7 @@
+hour stock vwap
+4 ESCA 11.85
+5 ESCA 11.6
+7 ESCA 11.51
+8 ESCA 11.55
+9 ESCA 11.72
+10 ESCA 11.6

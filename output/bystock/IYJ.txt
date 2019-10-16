@@ -1,0 +1,6 @@
+hour stock vwap
+4 IYJ 141.15
+6 IYJ 141.09
+7 IYJ 141.43
+9 IYJ 142.06
+10 IYJ 142.73

@@ -1,0 +1,5 @@
+hour stock vwap
+4 AXON 1.02
+6 AXON 1.01
+7 AXON 1.01
+10 AXON 1.02

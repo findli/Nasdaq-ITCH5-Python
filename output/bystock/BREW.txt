@@ -1,0 +1,7 @@
+hour stock vwap
+4 BREW 16.12
+6 BREW 16.26
+7 BREW 16.43
+8 BREW 16.23
+9 BREW 16.33
+10 BREW 16.32

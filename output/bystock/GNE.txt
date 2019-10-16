@@ -1,0 +1,7 @@
+hour stock vwap
+4 GNE 8.9
+5 GNE 8.82
+6 GNE 8.75
+7 GNE 8.71
+9 GNE 8.64
+10 GNE 8.58

@@ -1,0 +1,8 @@
+hour stock vwap
+4 APO 27.67
+5 APO 27.48
+6 APO 27.63
+7 APO 27.45
+8 APO 27.24
+9 APO 27.57
+10 APO 27.65

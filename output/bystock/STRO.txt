@@ -1,0 +1,7 @@
+hour stock vwap
+4 STRO 10.16
+6 STRO 10.61
+7 STRO 10.62
+8 STRO 10.68
+9 STRO 10.67
+10 STRO 10.55

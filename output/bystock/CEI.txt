@@ -1,0 +1,7 @@
+hour stock vwap
+5 CEI 0.46
+6 CEI 0.46
+7 CEI 0.46
+8 CEI 0.47
+9 CEI 0.47
+10 CEI 0.47

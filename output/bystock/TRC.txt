@@ -1,0 +1,6 @@
+hour stock vwap
+6 TRC 18.59
+7 TRC 18.66
+8 TRC 18.59
+9 TRC 18.64
+10 TRC 18.7

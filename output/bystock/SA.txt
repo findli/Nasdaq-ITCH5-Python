@@ -1,0 +1,7 @@
+hour stock vwap
+4 SA 13.75
+6 SA 13.73
+7 SA 13.64
+8 SA 13.64
+9 SA 13.98
+10 SA 13.94

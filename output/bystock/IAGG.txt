@@ -1,0 +1,2 @@
+hour stock vwap
+10 IAGG 52.5

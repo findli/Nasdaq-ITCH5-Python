@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABEV 4.76
+5 ABEV 4.73
+6 ABEV 4.73
+7 ABEV 4.72
+8 ABEV 4.73
+9 ABEV 4.8
+10 ABEV 4.82

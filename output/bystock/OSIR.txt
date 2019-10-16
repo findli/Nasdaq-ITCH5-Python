@@ -1,0 +1,7 @@
+hour stock vwap
+5 OSIR 14.39
+6 OSIR 14.29
+7 OSIR 14.47
+8 OSIR 14.53
+9 OSIR 14.53
+10 OSIR 14.56

@@ -1,0 +1,7 @@
+hour stock vwap
+5 CYTX 0.31
+6 CYTX 0.31
+7 CYTX 0.29
+8 CYTX 0.31
+9 CYTX 0.3
+10 CYTX 0.3

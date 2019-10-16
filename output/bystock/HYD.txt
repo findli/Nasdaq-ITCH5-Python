@@ -1,0 +1,7 @@
+hour stock vwap
+4 HYD 61.28
+5 HYD 61.29
+6 HYD 61.27
+8 HYD 61.24
+9 HYD 61.23
+10 HYD 61.3

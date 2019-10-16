@@ -1,0 +1,5 @@
+hour stock vwap
+4 AQ 8.7
+5 AQ 8.7
+9 AQ 8.87
+10 AQ 8.86

@@ -1,0 +1,8 @@
+hour stock vwap
+4 KBR 17.01
+5 KBR 17.07
+6 KBR 17.13
+7 KBR 17.2
+8 KBR 17.16
+9 KBR 17.34
+10 KBR 17.29

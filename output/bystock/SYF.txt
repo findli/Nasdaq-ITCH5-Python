@@ -1,0 +1,8 @@
+hour stock vwap
+4 SYF 29.93
+5 SYF 29.99
+6 SYF 30.11
+7 SYF 30.08
+8 SYF 29.96
+9 SYF 30.12
+10 SYF 30.08

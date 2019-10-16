@@ -1,0 +1,7 @@
+hour stock vwap
+4 AOR 42.85
+5 AOR 42.84
+6 AOR 42.9
+7 AOR 42.95
+9 AOR 43.05
+10 AOR 43.13

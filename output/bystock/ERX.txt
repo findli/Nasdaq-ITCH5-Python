@@ -1,0 +1,8 @@
+hour stock vwap
+4 ERX 19.68
+5 ERX 19.54
+6 ERX 19.78
+7 ERX 19.75
+8 ERX 19.67
+9 ERX 20.0
+10 ERX 20.05

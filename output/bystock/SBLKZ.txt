@@ -1,0 +1,5 @@
+hour stock vwap
+4 SBLKZ 25.55
+6 SBLKZ 25.12
+7 SBLKZ 25.05
+10 SBLKZ 25.15

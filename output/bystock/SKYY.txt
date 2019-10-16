@@ -1,0 +1,4 @@
+hour stock vwap
+4 SKYY 52.4
+9 SKYY 52.58
+10 SKYY 52.79

@@ -1,0 +1,6 @@
+hour stock vwap
+4 SNES 0.79
+6 SNES 0.82
+7 SNES 0.83
+8 SNES 0.82
+9 SNES 0.81

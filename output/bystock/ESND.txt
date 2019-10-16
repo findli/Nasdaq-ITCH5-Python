@@ -1,0 +1,5 @@
+hour stock vwap
+4 ESND 12.81
+5 ESND 12.8
+7 ESND 12.8
+10 ESND 12.8

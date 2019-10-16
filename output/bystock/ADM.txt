@@ -1,0 +1,9 @@
+hour stock vwap
+1 ADM 44.69
+4 ADM 44.29
+5 ADM 44.47
+6 ADM 44.62
+7 ADM 44.68
+8 ADM 44.6
+9 ADM 44.74
+10 ADM 44.64

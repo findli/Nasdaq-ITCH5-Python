@@ -1,0 +1,8 @@
+hour stock vwap
+4 LGF.A 17.95
+5 LGF.A 18.02
+6 LGF.A 18.04
+7 LGF.A 18.1
+8 LGF.A 18.1
+9 LGF.A 18.14
+10 LGF.A 18.06

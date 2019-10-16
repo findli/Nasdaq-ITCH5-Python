@@ -1,0 +1,6 @@
+hour stock vwap
+4 GLRE 10.15
+5 GLRE 10.09
+8 GLRE 10.29
+9 GLRE 10.31
+10 GLRE 10.35

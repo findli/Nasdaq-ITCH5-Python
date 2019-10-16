@@ -1,0 +1,4 @@
+hour stock vwap
+5 CHA 54.61
+9 CHA 54.95
+10 CHA 54.96

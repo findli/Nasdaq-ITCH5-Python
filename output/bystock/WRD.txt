@@ -1,0 +1,9 @@
+hour stock vwap
+4 WRD 17.11
+5 WRD 17.03
+6 WRD 17.26
+7 WRD 17.17
+8 WRD 17.36
+9 WRD 17.57
+10 WRD 17.31
+11 WRD 17.4

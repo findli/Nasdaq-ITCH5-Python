@@ -1,0 +1,6 @@
+hour stock vwap
+4 SAMG 12.69
+6 SAMG 12.76
+7 SAMG 13.06
+8 SAMG 13.06
+10 SAMG 13.16

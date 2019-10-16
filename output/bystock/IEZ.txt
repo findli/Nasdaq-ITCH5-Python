@@ -1,0 +1,5 @@
+hour stock vwap
+5 IEZ 24.25
+6 IEZ 24.4
+7 IEZ 24.49
+10 IEZ 24.77

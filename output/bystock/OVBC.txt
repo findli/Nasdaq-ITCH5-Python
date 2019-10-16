@@ -1,0 +1,7 @@
+hour stock vwap
+4 OVBC 35.61
+5 OVBC 35.06
+6 OVBC 35.54
+8 OVBC 35.37
+9 OVBC 35.53
+10 OVBC 35.86

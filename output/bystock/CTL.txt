@@ -1,0 +1,8 @@
+hour stock vwap
+4 CTL 14.6
+5 CTL 14.64
+6 CTL 14.93
+7 CTL 14.94
+8 CTL 14.92
+9 CTL 15.05
+10 CTL 14.99

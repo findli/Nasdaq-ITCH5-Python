@@ -1,0 +1,5 @@
+hour stock vwap
+5 WBAI 14.14
+6 WBAI 13.85
+7 WBAI 13.94
+10 WBAI 14.51

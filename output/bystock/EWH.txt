@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWH 24.28
+5 EWH 24.27
+6 EWH 24.27
+7 EWH 24.3
+8 EWH 24.29
+9 EWH 24.48
+10 EWH 24.49

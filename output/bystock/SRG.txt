@@ -1,0 +1,8 @@
+hour stock vwap
+4 SRG 39.84
+5 SRG 40.09
+6 SRG 40.04
+7 SRG 40.1
+8 SRG 40.05
+9 SRG 40.01
+10 SRG 39.9

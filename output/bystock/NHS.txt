@@ -1,0 +1,7 @@
+hour stock vwap
+4 NHS 10.61
+5 NHS 10.61
+7 NHS 10.62
+8 NHS 10.63
+9 NHS 10.65
+10 NHS 10.65

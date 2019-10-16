@@ -1,0 +1,8 @@
+hour stock vwap
+4 DOVA 7.72
+5 DOVA 7.63
+6 DOVA 7.64
+7 DOVA 7.65
+8 DOVA 7.65
+9 DOVA 7.7
+10 DOVA 7.65

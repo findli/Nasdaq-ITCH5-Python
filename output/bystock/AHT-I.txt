@@ -1,0 +1,5 @@
+hour stock vwap
+4 AHT-I 21.16
+5 AHT-I 21.16
+6 AHT-I 21.33
+10 AHT-I 21.38

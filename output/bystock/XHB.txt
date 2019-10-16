@@ -1,0 +1,8 @@
+hour stock vwap
+4 XHB 35.6
+5 XHB 35.49
+6 XHB 35.59
+7 XHB 35.52
+8 XHB 35.5
+9 XHB 35.92
+10 XHB 36.03

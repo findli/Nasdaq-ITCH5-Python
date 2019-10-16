@@ -1,0 +1,7 @@
+hour stock vwap
+4 PIXY 1.31
+5 PIXY 1.32
+6 PIXY 1.32
+7 PIXY 1.32
+9 PIXY 1.32
+10 PIXY 1.32

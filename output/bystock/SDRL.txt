@@ -1,0 +1,8 @@
+hour stock vwap
+4 SDRL 8.97
+5 SDRL 8.96
+6 SDRL 8.84
+7 SDRL 8.81
+8 SDRL 8.85
+9 SDRL 8.88
+10 SDRL 8.88

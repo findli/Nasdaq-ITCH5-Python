@@ -1,0 +1,8 @@
+hour stock vwap
+4 TXT 52.77
+5 TXT 52.88
+6 TXT 53.29
+7 TXT 53.4
+8 TXT 53.35
+9 TXT 53.66
+10 TXT 53.41

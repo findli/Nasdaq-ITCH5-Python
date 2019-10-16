@@ -1,0 +1,9 @@
+hour stock vwap
+3 TBLT 2.75
+4 TBLT 2.61
+5 TBLT 2.45
+6 TBLT 2.43
+7 TBLT 2.63
+8 TBLT 2.64
+9 TBLT 2.64
+10 TBLT 2.62

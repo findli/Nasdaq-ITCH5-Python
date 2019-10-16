@@ -1,0 +1,7 @@
+hour stock vwap
+4 SAEX 3.73
+6 SAEX 4.0
+7 SAEX 4.03
+8 SAEX 4.21
+9 SAEX 4.06
+10 SAEX 4.2

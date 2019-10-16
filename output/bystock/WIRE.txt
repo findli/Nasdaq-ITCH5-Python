@@ -1,0 +1,7 @@
+hour stock vwap
+4 WIRE 52.5
+5 WIRE 52.49
+6 WIRE 52.62
+7 WIRE 52.87
+9 WIRE 53.47
+10 WIRE 53.34

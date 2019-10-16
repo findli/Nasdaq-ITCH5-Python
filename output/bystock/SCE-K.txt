@@ -1,0 +1,4 @@
+hour stock vwap
+5 SCE-K 20.82
+9 SCE-K 20.92
+10 SCE-K 20.94

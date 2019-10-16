@@ -1,0 +1,5 @@
+hour stock vwap
+5 SPYV 29.0
+6 SPYV 29.13
+8 SPYV 29.1
+10 SPYV 29.34

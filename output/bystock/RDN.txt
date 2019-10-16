@@ -1,0 +1,8 @@
+hour stock vwap
+4 RDN 18.8
+5 RDN 18.9
+6 RDN 18.92
+7 RDN 18.84
+8 RDN 18.79
+9 RDN 19.0
+10 RDN 18.98

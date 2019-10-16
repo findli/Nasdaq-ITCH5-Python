@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABG 69.18
+5 ABG 69.53
+6 ABG 69.88
+7 ABG 69.82
+8 ABG 69.51
+9 ABG 69.92
+10 ABG 70.1

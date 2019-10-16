@@ -1,0 +1,8 @@
+hour stock vwap
+4 MRKR 5.5
+5 MRKR 5.34
+6 MRKR 5.35
+7 MRKR 5.43
+8 MRKR 5.44
+9 MRKR 5.44
+10 MRKR 5.52

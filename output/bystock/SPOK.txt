@@ -1,0 +1,7 @@
+hour stock vwap
+4 SPOK 13.69
+5 SPOK 13.73
+6 SPOK 13.66
+7 SPOK 13.69
+9 SPOK 13.73
+10 SPOK 13.76

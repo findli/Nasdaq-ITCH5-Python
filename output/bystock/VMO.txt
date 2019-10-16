@@ -1,0 +1,3 @@
+hour stock vwap
+9 VMO 11.72
+10 VMO 11.71

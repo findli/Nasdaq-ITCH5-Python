@@ -1,0 +1,7 @@
+hour stock vwap
+4 SAFT 81.34
+5 SAFT 80.9
+6 SAFT 81.44
+7 SAFT 81.42
+9 SAFT 81.42
+10 SAFT 81.13

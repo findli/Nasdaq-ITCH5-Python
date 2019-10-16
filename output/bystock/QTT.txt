@@ -1,0 +1,10 @@
+hour stock vwap
+4 QTT 9.39
+5 QTT 9.47
+6 QTT 9.46
+7 QTT 9.48
+8 QTT 9.44
+9 QTT 9.52
+10 QTT 9.5
+11 QTT 9.7
+12 QTT 9.55

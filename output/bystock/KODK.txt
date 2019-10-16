@@ -1,0 +1,7 @@
+hour stock vwap
+5 KODK 2.78
+6 KODK 2.78
+7 KODK 2.88
+8 KODK 2.88
+9 KODK 2.82
+10 KODK 2.86

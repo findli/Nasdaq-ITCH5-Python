@@ -1,0 +1,4 @@
+hour stock vwap
+4 UGA 24.14
+6 UGA 24.62
+8 UGA 24.4

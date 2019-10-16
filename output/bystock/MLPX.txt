@@ -1,0 +1,4 @@
+hour stock vwap
+5 MLPX 12.66
+9 MLPX 12.84
+10 MLPX 12.78

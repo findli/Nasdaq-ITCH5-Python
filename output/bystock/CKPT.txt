@@ -1,0 +1,5 @@
+hour stock vwap
+6 CKPT 3.6
+7 CKPT 3.63
+8 CKPT 3.75
+10 CKPT 3.79

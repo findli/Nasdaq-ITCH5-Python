@@ -1,0 +1,7 @@
+hour stock vwap
+4 WTER 3.54
+6 WTER 3.48
+7 WTER 3.48
+9 WTER 3.49
+10 WTER 3.49
+11 WTER 3.42

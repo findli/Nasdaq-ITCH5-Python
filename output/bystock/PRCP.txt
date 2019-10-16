@@ -1,0 +1,4 @@
+hour stock vwap
+7 PRCP 8.13
+8 PRCP 8.13
+10 PRCP 7.71

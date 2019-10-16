@@ -1,0 +1,6 @@
+hour stock vwap
+6 NVGS 9.49
+7 NVGS 9.48
+8 NVGS 9.46
+9 NVGS 9.45
+10 NVGS 9.45

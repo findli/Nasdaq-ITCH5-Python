@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNCR 7.35
+5 SNCR 7.32
+6 SNCR 7.33
+7 SNCR 7.37
+8 SNCR 7.3
+9 SNCR 7.28
+10 SNCR 7.17

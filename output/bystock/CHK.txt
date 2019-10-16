@@ -1,0 +1,8 @@
+hour stock vwap
+4 CHK 2.85
+5 CHK 2.85
+6 CHK 2.88
+7 CHK 2.87
+8 CHK 2.9
+9 CHK 2.93
+10 CHK 2.89

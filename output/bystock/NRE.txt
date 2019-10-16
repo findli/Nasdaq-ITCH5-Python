@@ -1,0 +1,6 @@
+hour stock vwap
+4 NRE 16.47
+5 NRE 16.48
+8 NRE 16.43
+9 NRE 16.46
+10 NRE 16.51

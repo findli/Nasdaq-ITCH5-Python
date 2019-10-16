@@ -1,0 +1,8 @@
+hour stock vwap
+4 CHL 52.41
+5 CHL 52.26
+6 CHL 52.25
+7 CHL 52.26
+8 CHL 52.21
+9 CHL 52.47
+10 CHL 52.57

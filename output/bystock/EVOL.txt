@@ -1,0 +1,5 @@
+hour stock vwap
+5 EVOL 1.33
+7 EVOL 1.33
+9 EVOL 1.33
+10 EVOL 1.31

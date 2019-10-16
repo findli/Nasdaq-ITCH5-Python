@@ -1,0 +1,4 @@
+hour stock vwap
+7 FDUS 13.76
+9 FDUS 13.86
+10 FDUS 13.92

@@ -1,0 +1,6 @@
+hour stock vwap
+5 USWS 7.29
+7 USWS 7.49
+8 USWS 7.49
+9 USWS 7.96
+10 USWS 7.67

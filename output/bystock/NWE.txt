@@ -1,0 +1,8 @@
+hour stock vwap
+4 NWE 62.19
+5 NWE 62.64
+6 NWE 62.63
+7 NWE 62.58
+8 NWE 62.45
+9 NWE 62.9
+10 NWE 62.92

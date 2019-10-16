@@ -1,0 +1,4 @@
+hour stock vwap
+8 PSB-X 22.43
+9 PSB-X 22.43
+10 PSB-X 22.43

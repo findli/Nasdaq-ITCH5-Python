@@ -1,0 +1,8 @@
+hour stock vwap
+4 DXC 62.69
+5 DXC 62.37
+6 DXC 62.54
+7 DXC 62.67
+8 DXC 62.62
+9 DXC 63.41
+10 DXC 63.97

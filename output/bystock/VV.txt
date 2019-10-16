@@ -1,0 +1,5 @@
+hour stock vwap
+4 VV 121.68
+5 VV 121.85
+9 VV 122.99
+10 VV 122.92

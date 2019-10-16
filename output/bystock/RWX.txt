@@ -1,0 +1,5 @@
+hour stock vwap
+6 RWX 38.57
+8 RWX 38.58
+9 RWX 38.78
+10 RWX 38.91

@@ -1,0 +1,8 @@
+hour stock vwap
+4 APH 86.42
+5 APH 86.61
+6 APH 86.99
+7 APH 87.08
+8 APH 87.11
+9 APH 87.76
+10 APH 87.98

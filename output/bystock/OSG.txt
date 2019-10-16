@@ -1,0 +1,5 @@
+hour stock vwap
+5 OSG 1.95
+7 OSG 1.88
+9 OSG 1.9
+10 OSG 1.89

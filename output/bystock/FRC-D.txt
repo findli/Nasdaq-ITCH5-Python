@@ -1,0 +1,5 @@
+hour stock vwap
+7 FRC-D 24.1
+8 FRC-D 24.18
+9 FRC-D 24.19
+10 FRC-D 24.14

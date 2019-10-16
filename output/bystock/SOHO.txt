@@ -1,0 +1,7 @@
+hour stock vwap
+4 SOHO 6.42
+6 SOHO 6.42
+7 SOHO 6.42
+8 SOHO 6.46
+9 SOHO 6.7
+10 SOHO 6.65

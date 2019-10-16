@@ -1,0 +1,4 @@
+hour stock vwap
+7 INCO 40.17
+8 INCO 40.12
+10 INCO 40.44

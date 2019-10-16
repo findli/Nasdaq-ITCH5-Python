@@ -1,0 +1,5 @@
+hour stock vwap
+5 MGV 74.89
+7 MGV 75.27
+9 MGV 75.54
+10 MGV 75.54

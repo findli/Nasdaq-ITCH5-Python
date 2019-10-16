@@ -1,0 +1,8 @@
+hour stock vwap
+4 HPR 2.76
+5 HPR 2.79
+6 HPR 2.8
+7 HPR 2.81
+8 HPR 2.82
+9 HPR 2.86
+10 HPR 2.84

@@ -1,0 +1,6 @@
+hour stock vwap
+5 SUZ 25.58
+6 SUZ 25.49
+7 SUZ 25.4
+8 SUZ 25.33
+10 SUZ 25.27

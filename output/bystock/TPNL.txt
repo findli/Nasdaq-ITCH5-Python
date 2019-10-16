@@ -1,0 +1,5 @@
+hour stock vwap
+4 TPNL 4.72
+5 TPNL 4.61
+6 TPNL 4.62
+7 TPNL 4.58

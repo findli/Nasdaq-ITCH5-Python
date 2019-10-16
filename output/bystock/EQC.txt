@@ -1,0 +1,8 @@
+hour stock vwap
+4 EQC 31.85
+5 EQC 32.15
+6 EQC 32.14
+7 EQC 32.18
+8 EQC 32.08
+9 EQC 32.14
+10 EQC 32.09

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AHT 4.8
+5 AHT 4.89
+6 AHT 4.9
+7 AHT 4.9
+8 AHT 4.9
+9 AHT 4.96
+10 AHT 4.92

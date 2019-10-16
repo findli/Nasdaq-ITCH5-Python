@@ -1,0 +1,8 @@
+hour stock vwap
+4 STC 43.63
+5 STC 43.64
+6 STC 43.61
+7 STC 43.74
+8 STC 43.72
+9 STC 43.96
+10 STC 44.04

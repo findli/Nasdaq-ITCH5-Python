@@ -1,0 +1,4 @@
+hour stock vwap
+5 PIN 23.16
+6 PIN 23.18
+10 PIN 23.46

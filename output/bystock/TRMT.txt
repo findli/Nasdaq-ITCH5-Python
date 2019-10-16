@@ -1,0 +1,7 @@
+hour stock vwap
+5 TRMT 8.64
+6 TRMT 8.74
+7 TRMT 8.74
+8 TRMT 8.75
+9 TRMT 8.74
+10 TRMT 8.75

@@ -1,0 +1,7 @@
+hour stock vwap
+4 MOFG 28.15
+5 MOFG 28.14
+6 MOFG 27.84
+7 MOFG 27.7
+8 MOFG 27.55
+10 MOFG 27.74

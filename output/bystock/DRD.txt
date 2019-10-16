@@ -1,0 +1,3 @@
+hour stock vwap
+7 DRD 2.16
+9 DRD 2.16

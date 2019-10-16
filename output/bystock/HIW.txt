@@ -1,0 +1,7 @@
+hour stock vwap
+5 HIW 44.61
+6 HIW 44.66
+7 HIW 44.74
+8 HIW 44.52
+9 HIW 44.56
+10 HIW 44.23

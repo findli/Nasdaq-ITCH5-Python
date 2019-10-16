@@ -1,0 +1,7 @@
+hour stock vwap
+4 VGLT 74.3
+5 VGLT 74.39
+6 VGLT 74.37
+7 VGLT 74.33
+9 VGLT 74.26
+10 VGLT 74.29

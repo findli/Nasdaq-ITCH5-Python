@@ -1,0 +1,8 @@
+hour stock vwap
+4 BBN 21.8
+5 BBN 21.69
+6 BBN 21.65
+7 BBN 21.59
+8 BBN 21.5
+9 BBN 21.55
+10 BBN 21.52

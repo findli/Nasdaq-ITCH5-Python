@@ -1,0 +1,4 @@
+hour stock vwap
+8 UTMD 92.01
+9 UTMD 92.3
+10 UTMD 93.17

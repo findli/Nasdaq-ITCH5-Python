@@ -1,0 +1,9 @@
+hour stock vwap
+3 XLI 71.01
+4 XLI 70.55
+5 XLI 70.61
+6 XLI 70.92
+7 XLI 71.13
+8 XLI 71.01
+9 XLI 71.5
+10 XLI 71.44

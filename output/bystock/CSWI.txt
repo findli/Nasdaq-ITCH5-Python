@@ -1,0 +1,7 @@
+hour stock vwap
+4 CSWI 50.84
+5 CSWI 51.23
+6 CSWI 51.26
+8 CSWI 50.9
+9 CSWI 51.3
+10 CSWI 51.5

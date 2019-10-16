@@ -1,0 +1,4 @@
+hour stock vwap
+5 SCM 14.14
+6 SCM 14.12
+10 SCM 14.24

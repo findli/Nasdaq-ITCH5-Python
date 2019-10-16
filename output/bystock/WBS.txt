@@ -1,0 +1,8 @@
+hour stock vwap
+4 WBS 56.27
+5 WBS 56.03
+6 WBS 56.06
+7 WBS 56.1
+8 WBS 55.86
+9 WBS 55.87
+10 WBS 55.3

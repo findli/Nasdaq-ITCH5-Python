@@ -1,0 +1,7 @@
+hour stock vwap
+4 ATEN 6.54
+5 ATEN 6.56
+6 ATEN 6.58
+7 ATEN 6.65
+9 ATEN 6.65
+10 ATEN 6.69

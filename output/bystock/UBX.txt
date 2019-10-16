@@ -1,0 +1,8 @@
+hour stock vwap
+4 UBX 11.76
+5 UBX 11.66
+6 UBX 11.86
+7 UBX 11.68
+8 UBX 11.55
+9 UBX 11.45
+10 UBX 11.48

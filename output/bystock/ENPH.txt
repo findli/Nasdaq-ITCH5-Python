@@ -1,0 +1,8 @@
+hour stock vwap
+4 ENPH 7.18
+5 ENPH 7.09
+6 ENPH 7.14
+7 ENPH 7.14
+8 ENPH 7.16
+9 ENPH 7.24
+10 ENPH 7.18

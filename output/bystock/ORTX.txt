@@ -1,0 +1,4 @@
+hour stock vwap
+6 ORTX 12.03
+7 ORTX 12.02
+10 ORTX 12.14

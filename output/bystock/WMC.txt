@@ -1,0 +1,5 @@
+hour stock vwap
+7 WMC 9.59
+8 WMC 9.59
+9 WMC 9.6
+10 WMC 9.57

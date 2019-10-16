@@ -1,0 +1,5 @@
+hour stock vwap
+5 GSB 4.6
+6 GSB 4.6
+7 GSB 4.63
+10 GSB 4.58

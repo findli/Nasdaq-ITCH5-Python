@@ -1,0 +1,4 @@
+hour stock vwap
+8 VOT 130.79
+9 VOT 131.67
+10 VOT 131.99

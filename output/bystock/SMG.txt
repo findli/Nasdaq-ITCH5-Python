@@ -1,0 +1,8 @@
+hour stock vwap
+4 SMG 72.71
+5 SMG 72.72
+6 SMG 71.82
+7 SMG 71.92
+8 SMG 71.36
+9 SMG 71.59
+10 SMG 71.25

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HLG 35.61
+5 HLG 35.47
+6 HLG 34.07
+7 HLG 34.96
+9 HLG 34.87
+10 HLG 34.92
+11 HLG 34.21

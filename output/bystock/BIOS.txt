@@ -1,0 +1,8 @@
+hour stock vwap
+4 BIOS 3.56
+5 BIOS 3.58
+6 BIOS 3.56
+7 BIOS 3.58
+8 BIOS 3.58
+9 BIOS 3.61
+10 BIOS 3.61

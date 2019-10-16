@@ -1,0 +1,6 @@
+hour stock vwap
+5 SFE 9.53
+6 SFE 9.52
+7 SFE 9.5
+9 SFE 9.51
+10 SFE 9.52

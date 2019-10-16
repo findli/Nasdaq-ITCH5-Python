@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARI 17.9
+5 ARI 17.87
+6 ARI 17.99
+7 ARI 18.01
+8 ARI 17.96
+9 ARI 18.0
+10 ARI 18.01

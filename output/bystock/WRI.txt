@@ -1,0 +1,8 @@
+hour stock vwap
+4 WRI 28.22
+5 WRI 28.32
+6 WRI 28.45
+7 WRI 28.54
+8 WRI 28.38
+9 WRI 28.51
+10 WRI 28.55

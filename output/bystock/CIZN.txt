@@ -1,0 +1,4 @@
+hour stock vwap
+6 CIZN 21.32
+8 CIZN 21.65
+10 CIZN 21.72

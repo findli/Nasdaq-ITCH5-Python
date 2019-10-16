@@ -1,0 +1,4 @@
+hour stock vwap
+5 GBLIL 25.06
+8 GBLIL 25.07
+9 GBLIL 25.01

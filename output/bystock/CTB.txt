@@ -1,0 +1,8 @@
+hour stock vwap
+4 CTB 34.22
+5 CTB 33.85
+6 CTB 34.02
+7 CTB 34.14
+8 CTB 34.07
+9 CTB 34.35
+10 CTB 34.29

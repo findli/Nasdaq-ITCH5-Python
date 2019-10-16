@@ -1,0 +1,5 @@
+hour stock vwap
+5 PSK 41.69
+7 PSK 41.79
+9 PSK 41.81
+10 PSK 41.81

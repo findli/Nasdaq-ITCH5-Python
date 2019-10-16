@@ -1,0 +1,8 @@
+hour stock vwap
+4 STL 19.35
+5 STL 19.32
+6 STL 19.39
+7 STL 19.41
+8 STL 19.39
+9 STL 19.48
+10 STL 19.44

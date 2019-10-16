@@ -1,0 +1,7 @@
+hour stock vwap
+4 MCF 3.52
+6 MCF 3.6
+7 MCF 3.64
+8 MCF 3.66
+9 MCF 3.69
+10 MCF 3.73

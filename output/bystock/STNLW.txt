@@ -1,0 +1,3 @@
+hour stock vwap
+4 STNLW 0.85
+6 STNLW 0.85

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CMP 51.5
+5 CMP 51.23
+6 CMP 51.68
+7 CMP 51.63
+8 CMP 51.6
+9 CMP 52.39
+10 CMP 52.49

@@ -1,0 +1,4 @@
+hour stock vwap
+4 OVLY 17.54
+5 OVLY 17.84
+10 OVLY 17.86

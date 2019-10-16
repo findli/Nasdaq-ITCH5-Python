@@ -1,0 +1,9 @@
+hour stock vwap
+3 LPL 8.97
+4 LPL 8.85
+5 LPL 8.77
+6 LPL 8.75
+7 LPL 8.72
+8 LPL 8.67
+9 LPL 8.76
+10 LPL 8.76

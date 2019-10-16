@@ -1,0 +1,5 @@
+hour stock vwap
+6 ALCO 30.47
+8 ALCO 30.27
+9 ALCO 30.32
+10 ALCO 30.18

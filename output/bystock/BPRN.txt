@@ -1,0 +1,5 @@
+hour stock vwap
+4 BPRN 29.86
+6 BPRN 29.77
+8 BPRN 29.62
+10 BPRN 29.85

@@ -1,0 +1,5 @@
+hour stock vwap
+5 FEI 11.37
+6 FEI 11.46
+7 FEI 11.48
+10 FEI 11.54

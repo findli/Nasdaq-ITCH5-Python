@@ -1,0 +1,4 @@
+hour stock vwap
+6 COF-F 26.16
+9 COF-F 26.14
+10 COF-F 26.16

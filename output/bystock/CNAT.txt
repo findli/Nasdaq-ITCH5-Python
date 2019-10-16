@@ -1,0 +1,8 @@
+hour stock vwap
+4 CNAT 2.22
+5 CNAT 2.13
+6 CNAT 2.24
+7 CNAT 2.29
+8 CNAT 2.3
+9 CNAT 2.3
+10 CNAT 2.29

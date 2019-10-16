@@ -1,0 +1,8 @@
+hour stock vwap
+4 CAAP 7.0
+5 CAAP 6.99
+6 CAAP 7.01
+7 CAAP 6.94
+8 CAAP 6.96
+9 CAAP 6.93
+10 CAAP 6.97

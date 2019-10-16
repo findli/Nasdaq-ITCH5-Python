@@ -1,0 +1,6 @@
+hour stock vwap
+6 PLXP 5.32
+7 PLXP 5.35
+8 PLXP 5.38
+9 PLXP 5.22
+10 PLXP 5.37

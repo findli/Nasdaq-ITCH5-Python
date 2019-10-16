@@ -1,0 +1,4 @@
+hour stock vwap
+4 DRIO 0.72
+6 DRIO 0.71
+9 DRIO 0.71

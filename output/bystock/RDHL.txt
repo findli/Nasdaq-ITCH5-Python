@@ -1,0 +1,9 @@
+hour stock vwap
+3 RDHL 8.78
+4 RDHL 8.63
+5 RDHL 8.62
+6 RDHL 8.55
+7 RDHL 8.55
+8 RDHL 8.45
+9 RDHL 8.52
+10 RDHL 8.57

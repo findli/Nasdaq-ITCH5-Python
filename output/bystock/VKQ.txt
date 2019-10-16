@@ -1,0 +1,2 @@
+hour stock vwap
+10 VKQ 11.78

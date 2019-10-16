@@ -1,0 +1,4 @@
+hour stock vwap
+7 PLYM 15.54
+8 PLYM 15.56
+9 PLYM 15.44

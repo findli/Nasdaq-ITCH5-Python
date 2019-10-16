@@ -1,0 +1,4 @@
+hour stock vwap
+8 SLNO 1.72
+9 SLNO 1.72
+10 SLNO 1.72

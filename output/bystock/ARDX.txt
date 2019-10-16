@@ -1,0 +1,6 @@
+hour stock vwap
+4 ARDX 2.1
+6 ARDX 2.06
+7 ARDX 2.09
+8 ARDX 2.08
+10 ARDX 2.12

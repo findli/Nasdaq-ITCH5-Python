@@ -1,0 +1,6 @@
+hour stock vwap
+6 NRC 39.16
+7 NRC 39.04
+8 NRC 38.89
+9 NRC 39.35
+10 NRC 39.11

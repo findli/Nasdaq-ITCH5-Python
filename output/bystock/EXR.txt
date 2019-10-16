@@ -1,0 +1,8 @@
+hour stock vwap
+4 EXR 96.62
+5 EXR 97.16
+6 EXR 97.33
+7 EXR 97.36
+8 EXR 97.04
+9 EXR 97.35
+10 EXR 97.4

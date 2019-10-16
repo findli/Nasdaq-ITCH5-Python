@@ -1,0 +1,3 @@
+hour stock vwap
+6 DON 34.76
+10 DON 34.89

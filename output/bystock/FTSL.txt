@@ -1,0 +1,5 @@
+hour stock vwap
+5 FTSL 46.84
+6 FTSL 46.82
+9 FTSL 46.81
+10 FTSL 46.82

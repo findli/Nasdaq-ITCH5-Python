@@ -1,0 +1,5 @@
+hour stock vwap
+4 KCAP 3.68
+7 KCAP 3.67
+9 KCAP 3.67
+10 KCAP 3.67

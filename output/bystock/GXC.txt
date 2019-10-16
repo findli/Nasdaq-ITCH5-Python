@@ -1,0 +1,6 @@
+hour stock vwap
+5 GXC 93.0
+6 GXC 93.26
+7 GXC 93.16
+8 GXC 93.28
+10 GXC 94.4

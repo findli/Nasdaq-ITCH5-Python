@@ -1,0 +1,5 @@
+hour stock vwap
+4 MSF 17.24
+7 MSF 17.35
+8 MSF 17.35
+9 MSF 17.41

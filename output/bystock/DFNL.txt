@@ -1,0 +1,5 @@
+hour stock vwap
+4 DFNL 21.97
+5 DFNL 21.94
+6 DFNL 22.06
+8 DFNL 22.04

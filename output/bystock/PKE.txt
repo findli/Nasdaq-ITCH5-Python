@@ -1,0 +1,8 @@
+hour stock vwap
+4 PKE 22.41
+5 PKE 22.43
+6 PKE 22.43
+7 PKE 22.48
+8 PKE 22.47
+9 PKE 22.52
+10 PKE 22.59

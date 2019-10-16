@@ -1,0 +1,4 @@
+hour stock vwap
+4 BME 39.35
+9 BME 39.26
+10 BME 39.41

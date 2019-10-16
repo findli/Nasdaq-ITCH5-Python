@@ -1,0 +1,8 @@
+hour stock vwap
+4 ROL 36.64
+5 ROL 36.64
+6 ROL 36.68
+7 ROL 36.76
+8 ROL 36.55
+9 ROL 36.8
+10 ROL 37.07

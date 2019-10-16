@@ -1,0 +1,7 @@
+hour stock vwap
+5 KZR 17.31
+6 KZR 17.45
+7 KZR 17.39
+8 KZR 17.82
+9 KZR 17.74
+10 KZR 17.05

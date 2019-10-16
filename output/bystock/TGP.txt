@@ -1,0 +1,6 @@
+hour stock vwap
+5 TGP 12.76
+6 TGP 12.76
+8 TGP 12.76
+9 TGP 12.84
+10 TGP 12.82

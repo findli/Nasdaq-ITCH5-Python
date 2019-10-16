@@ -1,0 +1,3 @@
+hour stock vwap
+6 HUSA 0.2
+8 HUSA 0.2

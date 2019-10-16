@@ -1,0 +1,8 @@
+hour stock vwap
+4 AMC 14.17
+5 AMC 14.1
+6 AMC 14.1
+7 AMC 14.06
+8 AMC 14.06
+9 AMC 14.12
+10 AMC 14.09

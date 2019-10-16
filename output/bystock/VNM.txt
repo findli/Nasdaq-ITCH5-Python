@@ -1,0 +1,7 @@
+hour stock vwap
+4 VNM 15.8
+5 VNM 15.71
+6 VNM 15.71
+7 VNM 15.78
+9 VNM 15.88
+10 VNM 15.87

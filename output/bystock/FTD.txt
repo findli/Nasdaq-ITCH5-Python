@@ -1,0 +1,8 @@
+hour stock vwap
+4 FTD 2.42
+5 FTD 2.48
+6 FTD 2.5
+7 FTD 2.48
+8 FTD 2.46
+9 FTD 2.47
+10 FTD 2.47

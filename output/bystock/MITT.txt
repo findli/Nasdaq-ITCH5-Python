@@ -1,0 +1,6 @@
+hour stock vwap
+4 MITT 17.71
+5 MITT 17.73
+7 MITT 17.86
+9 MITT 17.9
+10 MITT 17.94

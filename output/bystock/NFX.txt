@@ -1,0 +1,8 @@
+hour stock vwap
+4 NFX 18.3
+5 NFX 18.3
+6 NFX 18.47
+7 NFX 18.38
+8 NFX 18.32
+9 NFX 18.41
+10 NFX 18.53

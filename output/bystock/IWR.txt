@@ -1,0 +1,8 @@
+hour stock vwap
+4 IWR 50.68
+5 IWR 50.68
+6 IWR 50.77
+7 IWR 50.82
+8 IWR 50.75
+9 IWR 50.92
+10 IWR 51.11

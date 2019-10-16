@@ -1,0 +1,6 @@
+hour stock vwap
+4 CVCY 19.93
+7 CVCY 19.76
+8 CVCY 19.75
+9 CVCY 19.82
+10 CVCY 19.78

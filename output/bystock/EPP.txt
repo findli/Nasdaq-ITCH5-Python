@@ -1,0 +1,7 @@
+hour stock vwap
+4 EPP 43.46
+5 EPP 43.43
+6 EPP 43.49
+7 EPP 43.53
+9 EPP 43.87
+10 EPP 43.9

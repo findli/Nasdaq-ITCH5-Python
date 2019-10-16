@@ -1,0 +1,8 @@
+hour stock vwap
+4 CHEK 3.98
+5 CHEK 3.94
+6 CHEK 3.89
+7 CHEK 3.67
+8 CHEK 3.59
+9 CHEK 3.57
+10 CHEK 3.54

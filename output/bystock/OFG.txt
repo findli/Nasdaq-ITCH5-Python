@@ -1,0 +1,9 @@
+hour stock vwap
+3 OFG 19.32
+4 OFG 19.78
+5 OFG 19.62
+6 OFG 19.7
+7 OFG 19.6
+8 OFG 19.46
+9 OFG 19.61
+10 OFG 19.55

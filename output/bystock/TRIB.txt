@@ -1,0 +1,5 @@
+hour stock vwap
+4 TRIB 2.49
+8 TRIB 2.53
+9 TRIB 2.53
+10 TRIB 2.6

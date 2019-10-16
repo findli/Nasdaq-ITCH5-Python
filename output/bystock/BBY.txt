@@ -1,0 +1,9 @@
+hour stock vwap
+4 BBY 58.92
+5 BBY 58.68
+6 BBY 58.7
+7 BBY 58.78
+8 BBY 58.78
+9 BBY 58.98
+10 BBY 59.01
+11 BBY 58.47

@@ -1,0 +1,5 @@
+hour stock vwap
+4 LKCO 12.03
+5 LKCO 11.94
+6 LKCO 11.61
+10 LKCO 11.72

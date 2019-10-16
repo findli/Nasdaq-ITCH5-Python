@@ -1,0 +1,3 @@
+hour stock vwap
+9 CUBA 5.62
+10 CUBA 5.6

@@ -1,0 +1,8 @@
+hour stock vwap
+4 REVG 8.16
+5 REVG 8.23
+6 REVG 8.27
+7 REVG 8.27
+8 REVG 8.26
+9 REVG 8.38
+10 REVG 8.29

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MEET 5.5
+5 MEET 5.55
+6 MEET 5.58
+7 MEET 5.56
+8 MEET 5.57
+9 MEET 5.67
+10 MEET 5.65

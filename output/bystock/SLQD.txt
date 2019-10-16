@@ -1,0 +1,5 @@
+hour stock vwap
+7 SLQD 49.9
+8 SLQD 49.9
+9 SLQD 49.9
+10 SLQD 49.98

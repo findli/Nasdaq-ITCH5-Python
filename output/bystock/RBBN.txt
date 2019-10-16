@@ -1,0 +1,8 @@
+hour stock vwap
+4 RBBN 5.55
+5 RBBN 5.53
+6 RBBN 5.54
+7 RBBN 5.55
+8 RBBN 5.55
+9 RBBN 5.56
+10 RBBN 5.54

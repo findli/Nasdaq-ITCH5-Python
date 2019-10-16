@@ -1,0 +1,7 @@
+hour stock vwap
+4 DMLP 16.5
+6 DMLP 16.61
+7 DMLP 16.64
+8 DMLP 16.65
+9 DMLP 16.74
+10 DMLP 16.98

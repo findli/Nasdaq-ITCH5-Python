@@ -1,0 +1,8 @@
+hour stock vwap
+4 UPL 0.73
+5 UPL 0.74
+6 UPL 0.77
+7 UPL 0.77
+8 UPL 0.75
+9 UPL 0.74
+10 UPL 0.74

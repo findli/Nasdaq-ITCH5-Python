@@ -1,0 +1,8 @@
+hour stock vwap
+4 OR 9.48
+5 OR 9.54
+6 OR 9.6
+7 OR 9.57
+8 OR 9.54
+9 OR 9.67
+10 OR 9.62

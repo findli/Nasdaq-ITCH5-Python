@@ -1,0 +1,8 @@
+hour stock vwap
+4 HAS 90.82
+5 HAS 90.38
+6 HAS 90.63
+7 HAS 90.67
+8 HAS 90.77
+9 HAS 91.1
+10 HAS 91.25

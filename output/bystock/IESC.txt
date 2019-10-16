@@ -1,0 +1,7 @@
+hour stock vwap
+4 IESC 16.87
+5 IESC 16.71
+6 IESC 16.62
+7 IESC 16.62
+9 IESC 16.64
+10 IESC 16.65

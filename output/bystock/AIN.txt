@@ -1,0 +1,8 @@
+hour stock vwap
+4 AIN 68.01
+5 AIN 67.68
+6 AIN 68.23
+7 AIN 68.41
+8 AIN 68.51
+9 AIN 68.93
+10 AIN 68.74

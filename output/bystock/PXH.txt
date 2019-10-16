@@ -1,0 +1,5 @@
+hour stock vwap
+5 PXH 21.28
+6 PXH 21.32
+9 PXH 21.59
+10 PXH 21.67

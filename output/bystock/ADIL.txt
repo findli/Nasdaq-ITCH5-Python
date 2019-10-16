@@ -1,0 +1,7 @@
+hour stock vwap
+4 ADIL 4.99
+6 ADIL 5.19
+7 ADIL 5.78
+8 ADIL 5.35
+9 ADIL 5.47
+10 ADIL 5.59

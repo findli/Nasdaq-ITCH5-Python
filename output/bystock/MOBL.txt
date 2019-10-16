@@ -1,0 +1,8 @@
+hour stock vwap
+4 MOBL 4.8
+5 MOBL 4.76
+6 MOBL 4.76
+7 MOBL 4.75
+8 MOBL 4.76
+9 MOBL 4.79
+10 MOBL 4.81

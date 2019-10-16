@@ -1,0 +1,7 @@
+hour stock vwap
+4 BMI 51.94
+5 BMI 51.86
+6 BMI 51.71
+7 BMI 51.86
+9 BMI 51.85
+10 BMI 52.3

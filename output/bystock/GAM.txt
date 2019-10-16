@@ -1,0 +1,4 @@
+hour stock vwap
+7 GAM 30.67
+8 GAM 30.67
+9 GAM 30.83

@@ -1,0 +1,7 @@
+hour stock vwap
+5 TK 3.45
+6 TK 3.52
+7 TK 3.51
+8 TK 3.52
+9 TK 3.55
+10 TK 3.58

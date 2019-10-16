@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARR 21.03
+5 ARR 21.15
+6 ARR 21.18
+7 ARR 21.18
+8 ARR 21.1
+9 ARR 21.1
+10 ARR 21.0

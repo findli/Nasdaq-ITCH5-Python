@@ -1,0 +1,8 @@
+hour stock vwap
+4 DVN 27.15
+5 DVN 27.1
+6 DVN 27.26
+7 DVN 27.24
+8 DVN 27.3
+9 DVN 27.56
+10 DVN 27.58

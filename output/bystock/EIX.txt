@@ -1,0 +1,8 @@
+hour stock vwap
+4 EIX 55.33
+5 EIX 55.72
+6 EIX 55.67
+7 EIX 55.31
+8 EIX 55.43
+9 EIX 55.91
+10 EIX 55.96

@@ -1,0 +1,8 @@
+hour stock vwap
+4 JW.A 51.15
+5 JW.A 50.7
+6 JW.A 51.15
+7 JW.A 51.22
+8 JW.A 51.38
+9 JW.A 51.7
+10 JW.A 51.68

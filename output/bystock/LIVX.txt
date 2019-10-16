@@ -1,0 +1,4 @@
+hour stock vwap
+7 LIVX 5.98
+9 LIVX 5.88
+10 LIVX 5.88

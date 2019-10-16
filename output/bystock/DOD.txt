@@ -1,0 +1,4 @@
+hour stock vwap
+8 DOD 23.87
+9 DOD 24.21
+10 DOD 24.2

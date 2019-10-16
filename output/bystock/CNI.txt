@@ -1,0 +1,9 @@
+hour stock vwap
+3 CNI 83.33
+4 CNI 83.42
+5 CNI 83.21
+6 CNI 83.29
+7 CNI 83.52
+8 CNI 83.07
+9 CNI 83.46
+10 CNI 83.51

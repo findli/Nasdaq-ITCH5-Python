@@ -1,0 +1,8 @@
+hour stock vwap
+4 VDE 84.96
+5 VDE 84.66
+6 VDE 85.24
+7 VDE 85.35
+8 VDE 85.06
+9 VDE 85.73
+10 VDE 85.56

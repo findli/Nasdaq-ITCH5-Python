@@ -1,0 +1,7 @@
+hour stock vwap
+4 AIG+ 6.9
+5 AIG+ 7.03
+6 AIG+ 7.06
+7 AIG+ 7.03
+8 AIG+ 7.02
+10 AIG+ 7.01

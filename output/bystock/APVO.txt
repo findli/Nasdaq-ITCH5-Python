@@ -1,0 +1,5 @@
+hour stock vwap
+5 APVO 1.43
+7 APVO 1.4
+9 APVO 1.41
+10 APVO 1.4

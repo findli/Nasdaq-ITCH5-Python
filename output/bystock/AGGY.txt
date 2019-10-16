@@ -1,0 +1,5 @@
+hour stock vwap
+5 AGGY 48.62
+7 AGGY 48.56
+8 AGGY 48.62
+9 AGGY 48.69

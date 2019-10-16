@@ -1,0 +1,4 @@
+hour stock vwap
+4 MAV 10.94
+5 MAV 10.93
+7 MAV 10.92

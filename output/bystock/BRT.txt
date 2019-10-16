@@ -1,0 +1,4 @@
+hour stock vwap
+4 BRT 12.45
+5 BRT 12.64
+9 BRT 12.6

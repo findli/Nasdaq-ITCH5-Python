@@ -1,0 +1,8 @@
+hour stock vwap
+4 XLP 52.11
+5 XLP 52.15
+6 XLP 52.27
+7 XLP 52.34
+8 XLP 52.19
+9 XLP 52.35
+10 XLP 52.33

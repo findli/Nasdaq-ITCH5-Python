@@ -1,0 +1,2 @@
+hour stock vwap
+6 ECNS 41.9

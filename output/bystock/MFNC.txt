@@ -1,0 +1,6 @@
+hour stock vwap
+5 MFNC 15.83
+6 MFNC 15.8
+8 MFNC 15.82
+9 MFNC 15.83
+10 MFNC 15.83

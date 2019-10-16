@@ -1,0 +1,8 @@
+hour stock vwap
+4 HOV 0.69
+5 HOV 0.71
+6 HOV 0.68
+7 HOV 0.67
+8 HOV 0.66
+9 HOV 0.67
+10 HOV 0.67

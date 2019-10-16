@@ -1,0 +1,6 @@
+hour stock vwap
+6 BHB 23.67
+7 BHB 23.67
+8 BHB 23.65
+9 BHB 23.67
+10 BHB 23.67

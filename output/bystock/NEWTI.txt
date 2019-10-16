@@ -1,0 +1,4 @@
+hour stock vwap
+6 NEWTI 25.56
+7 NEWTI 25.58
+10 NEWTI 25.59

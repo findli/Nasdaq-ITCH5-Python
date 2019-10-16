@@ -1,0 +1,4 @@
+hour stock vwap
+4 HYZD 23.11
+5 HYZD 23.12
+10 HYZD 23.14

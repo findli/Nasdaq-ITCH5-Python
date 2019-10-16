@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABR 11.67
+5 ABR 11.68
+6 ABR 11.75
+7 ABR 11.74
+8 ABR 11.71
+9 ABR 11.77
+10 ABR 11.8

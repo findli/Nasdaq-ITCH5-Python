@@ -1,0 +1,8 @@
+hour stock vwap
+4 MAS 31.98
+5 MAS 32.01
+6 MAS 31.92
+7 MAS 31.82
+8 MAS 31.7
+9 MAS 31.88
+10 MAS 32.11

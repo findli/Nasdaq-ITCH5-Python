@@ -1,0 +1,7 @@
+hour stock vwap
+5 OLP 27.59
+6 OLP 27.48
+7 OLP 27.51
+8 OLP 27.27
+9 OLP 27.33
+10 OLP 27.49

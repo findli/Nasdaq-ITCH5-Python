@@ -1,0 +1,7 @@
+hour stock vwap
+5 SCHO 49.9
+6 SCHO 49.9
+7 SCHO 49.9
+8 SCHO 49.9
+9 SCHO 49.91
+10 SCHO 49.96

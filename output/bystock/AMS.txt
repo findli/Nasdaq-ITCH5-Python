@@ -1,0 +1,2 @@
+hour stock vwap
+7 AMS 2.51

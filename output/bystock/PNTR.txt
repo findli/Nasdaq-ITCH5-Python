@@ -1,0 +1,4 @@
+hour stock vwap
+4 PNTR 13.7
+5 PNTR 13.5
+10 PNTR 13.4

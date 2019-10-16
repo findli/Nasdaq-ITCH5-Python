@@ -1,0 +1,5 @@
+hour stock vwap
+5 WOOD 65.95
+7 WOOD 66.1
+8 WOOD 65.96
+10 WOOD 66.31

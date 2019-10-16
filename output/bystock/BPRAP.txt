@@ -1,0 +1,6 @@
+hour stock vwap
+4 BPRAP 22.95
+5 BPRAP 23.1
+6 BPRAP 23.12
+9 BPRAP 23.28
+10 BPRAP 23.27

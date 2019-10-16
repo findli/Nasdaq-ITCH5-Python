@@ -1,0 +1,4 @@
+hour stock vwap
+5 NAO 3.46
+6 NAO 3.46
+8 NAO 3.42

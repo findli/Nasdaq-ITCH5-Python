@@ -1,0 +1,9 @@
+hour stock vwap
+4 WTI 5.05
+5 WTI 5.08
+6 WTI 5.09
+7 WTI 5.02
+8 WTI 5.09
+9 WTI 5.1
+10 WTI 5.12
+11 WTI 5.11

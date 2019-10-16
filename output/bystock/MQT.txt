@@ -1,0 +1,2 @@
+hour stock vwap
+5 MQT 11.86

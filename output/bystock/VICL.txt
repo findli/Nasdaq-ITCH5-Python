@@ -1,0 +1,5 @@
+hour stock vwap
+5 VICL 0.96
+6 VICL 0.96
+9 VICL 0.96
+10 VICL 0.98

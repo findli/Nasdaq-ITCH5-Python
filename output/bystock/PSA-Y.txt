@@ -1,0 +1,5 @@
+hour stock vwap
+5 PSA-Y 25.46
+6 PSA-Y 25.46
+7 PSA-Y 25.45
+8 PSA-Y 25.47

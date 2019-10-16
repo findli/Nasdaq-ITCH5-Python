@@ -1,0 +1,8 @@
+hour stock vwap
+4 AKAO 1.69
+5 AKAO 1.68
+6 AKAO 1.69
+7 AKAO 1.69
+8 AKAO 1.7
+9 AKAO 1.68
+10 AKAO 1.69

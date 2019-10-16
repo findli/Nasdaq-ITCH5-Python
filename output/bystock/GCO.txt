@@ -1,0 +1,8 @@
+hour stock vwap
+4 GCO 48.72
+5 GCO 48.56
+6 GCO 48.19
+7 GCO 47.78
+8 GCO 47.45
+9 GCO 47.6
+10 GCO 47.06

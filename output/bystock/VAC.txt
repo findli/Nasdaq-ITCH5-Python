@@ -1,0 +1,8 @@
+hour stock vwap
+4 VAC 87.5
+5 VAC 87.17
+6 VAC 86.95
+7 VAC 87.62
+8 VAC 87.52
+9 VAC 88.03
+10 VAC 87.91

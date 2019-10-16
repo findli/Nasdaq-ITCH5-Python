@@ -1,0 +1,5 @@
+hour stock vwap
+6 ATAX 6.48
+7 ATAX 6.48
+8 ATAX 6.48
+10 ATAX 6.49

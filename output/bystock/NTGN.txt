@@ -1,0 +1,7 @@
+hour stock vwap
+4 NTGN 4.68
+5 NTGN 4.61
+6 NTGN 4.46
+7 NTGN 4.43
+9 NTGN 4.49
+10 NTGN 4.5

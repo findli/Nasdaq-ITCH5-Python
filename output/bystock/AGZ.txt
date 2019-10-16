@@ -1,0 +1,3 @@
+hour stock vwap
+7 AGZ 112.11
+9 AGZ 112.26

@@ -1,0 +1,8 @@
+hour stock vwap
+4 STT 70.44
+5 STT 70.07
+6 STT 70.34
+7 STT 70.54
+8 STT 70.44
+9 STT 71.01
+10 STT 71.11

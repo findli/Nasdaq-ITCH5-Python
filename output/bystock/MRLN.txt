@@ -1,0 +1,6 @@
+hour stock vwap
+4 MRLN 22.36
+6 MRLN 22.11
+7 MRLN 22.11
+8 MRLN 21.99
+10 MRLN 22.1

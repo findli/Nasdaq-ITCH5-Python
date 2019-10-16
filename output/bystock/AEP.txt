@@ -1,0 +1,8 @@
+hour stock vwap
+4 AEP 76.99
+5 AEP 77.45
+6 AEP 77.25
+7 AEP 77.2
+8 AEP 76.98
+9 AEP 77.56
+10 AEP 77.43

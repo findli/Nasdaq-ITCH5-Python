@@ -1,0 +1,8 @@
+hour stock vwap
+4 NEXT 3.88
+5 NEXT 3.84
+6 NEXT 3.78
+7 NEXT 3.83
+8 NEXT 3.84
+9 NEXT 3.78
+10 NEXT 3.8

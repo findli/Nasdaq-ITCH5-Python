@@ -1,0 +1,6 @@
+hour stock vwap
+4 GNC 3.09
+6 GNC 3.06
+7 GNC 3.05
+9 GNC 3.05
+10 GNC 3.02

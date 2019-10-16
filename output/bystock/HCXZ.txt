@@ -1,0 +1,3 @@
+hour stock vwap
+6 HCXZ 24.2
+7 HCXZ 24.24

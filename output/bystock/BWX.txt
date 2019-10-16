@@ -1,0 +1,5 @@
+hour stock vwap
+5 BWX 27.82
+7 BWX 27.82
+9 BWX 27.95
+10 BWX 28.02

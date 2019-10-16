@@ -1,0 +1,2 @@
+hour stock vwap
+5 DAX 24.87

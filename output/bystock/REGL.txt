@@ -1,0 +1,3 @@
+hour stock vwap
+4 REGL 54.61
+7 REGL 54.69

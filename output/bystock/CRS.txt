@@ -1,0 +1,8 @@
+hour stock vwap
+4 CRS 43.8
+5 CRS 43.89
+6 CRS 44.27
+7 CRS 44.52
+8 CRS 44.45
+9 CRS 44.81
+10 CRS 45.22

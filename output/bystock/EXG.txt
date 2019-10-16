@@ -1,0 +1,7 @@
+hour stock vwap
+5 EXG 7.79
+6 EXG 7.8
+7 EXG 7.83
+8 EXG 7.84
+9 EXG 7.86
+10 EXG 7.83

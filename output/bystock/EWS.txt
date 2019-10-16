@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWS 23.37
+5 EWS 23.31
+6 EWS 23.34
+7 EWS 23.34
+8 EWS 23.34
+9 EWS 23.53
+10 EWS 23.56

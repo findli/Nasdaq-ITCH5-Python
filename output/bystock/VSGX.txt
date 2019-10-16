@@ -1,0 +1,3 @@
+hour stock vwap
+7 VSGX 47.74
+10 VSGX 48.14

@@ -1,0 +1,4 @@
+hour stock vwap
+4 LCNB 16.4
+7 LCNB 16.38
+10 LCNB 16.58

@@ -1,0 +1,7 @@
+hour stock vwap
+4 DEM 43.33
+5 DEM 43.3
+7 DEM 43.36
+8 DEM 43.34
+9 DEM 43.88
+10 DEM 43.94

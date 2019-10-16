@@ -1,0 +1,2 @@
+hour stock vwap
+5 GYB 20.87

@@ -1,0 +1,6 @@
+hour stock vwap
+4 ISTR 23.38
+5 ISTR 23.15
+7 ISTR 23.1
+9 ISTR 23.24
+10 ISTR 23.11

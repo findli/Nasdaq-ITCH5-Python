@@ -1,0 +1,8 @@
+hour stock vwap
+4 NMM 1.08
+5 NMM 1.01
+6 NMM 1.01
+7 NMM 1.0
+8 NMM 1.0
+9 NMM 1.01
+10 NMM 1.0

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FLDM 8.58
+5 FLDM 8.68
+6 FLDM 8.74
+7 FLDM 8.74
+8 FLDM 8.67
+9 FLDM 8.68
+10 FLDM 8.56

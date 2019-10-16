@@ -1,0 +1,8 @@
+hour stock vwap
+4 FLR 36.21
+5 FLR 35.98
+6 FLR 35.96
+7 FLR 35.97
+8 FLR 35.89
+9 FLR 36.23
+10 FLR 36.18

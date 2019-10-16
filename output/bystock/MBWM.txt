@@ -1,0 +1,7 @@
+hour stock vwap
+4 MBWM 33.54
+6 MBWM 33.46
+7 MBWM 33.31
+8 MBWM 33.26
+9 MBWM 33.5
+10 MBWM 33.53

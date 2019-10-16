@@ -1,0 +1,5 @@
+hour stock vwap
+5 CECE 6.7
+7 CECE 6.76
+9 CECE 6.84
+10 CECE 6.9

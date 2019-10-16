@@ -1,0 +1,8 @@
+hour stock vwap
+4 XBIT 6.49
+5 XBIT 6.52
+6 XBIT 6.5
+7 XBIT 6.47
+8 XBIT 6.45
+9 XBIT 6.48
+10 XBIT 6.46

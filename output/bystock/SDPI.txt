@@ -1,0 +1,4 @@
+hour stock vwap
+6 SDPI 1.86
+9 SDPI 1.87
+10 SDPI 1.84

@@ -1,0 +1,9 @@
+hour stock vwap
+4 CRBP 6.95
+5 CRBP 6.9
+6 CRBP 6.95
+7 CRBP 7.12
+8 CRBP 7.15
+9 CRBP 7.18
+10 CRBP 7.22
+11 CRBP 7.3

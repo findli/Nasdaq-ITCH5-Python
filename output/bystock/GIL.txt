@@ -1,0 +1,8 @@
+hour stock vwap
+4 GIL 33.89
+5 GIL 33.74
+6 GIL 33.62
+7 GIL 33.68
+8 GIL 33.6
+9 GIL 33.69
+10 GIL 33.54

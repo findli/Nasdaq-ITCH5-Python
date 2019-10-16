@@ -1,0 +1,6 @@
+hour stock vwap
+4 ESGE 33.26
+5 ESGE 33.26
+7 ESGE 33.3
+9 ESGE 33.45
+10 ESGE 33.75

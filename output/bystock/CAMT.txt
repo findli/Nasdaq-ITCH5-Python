@@ -1,0 +1,7 @@
+hour stock vwap
+4 CAMT 7.02
+5 CAMT 6.95
+6 CAMT 6.99
+8 CAMT 6.99
+9 CAMT 7.02
+10 CAMT 7.05

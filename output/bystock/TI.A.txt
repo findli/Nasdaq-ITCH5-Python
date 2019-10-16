@@ -1,0 +1,4 @@
+hour stock vwap
+6 TI.A 4.55
+9 TI.A 4.58
+10 TI.A 4.61

@@ -1,0 +1,7 @@
+hour stock vwap
+4 DDM 42.61
+5 DDM 42.48
+7 DDM 42.87
+8 DDM 42.59
+9 DDM 43.14
+10 DDM 43.15

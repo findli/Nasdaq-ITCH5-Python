@@ -1,0 +1,8 @@
+hour stock vwap
+4 AROC 9.53
+5 AROC 9.44
+6 AROC 9.54
+7 AROC 9.55
+8 AROC 9.63
+9 AROC 9.75
+10 AROC 9.77

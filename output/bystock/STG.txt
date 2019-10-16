@@ -1,0 +1,6 @@
+hour stock vwap
+4 STG 5.5
+5 STG 5.49
+6 STG 5.5
+8 STG 5.21
+10 STG 5.4

@@ -1,0 +1,6 @@
+hour stock vwap
+4 AEG 5.2
+5 AEG 5.18
+6 AEG 5.19
+9 AEG 5.24
+10 AEG 5.23

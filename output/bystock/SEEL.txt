@@ -1,0 +1,7 @@
+hour stock vwap
+4 SEEL 4.09
+5 SEEL 4.2
+6 SEEL 4.3
+7 SEEL 4.3
+9 SEEL 4.32
+10 SEEL 4.4

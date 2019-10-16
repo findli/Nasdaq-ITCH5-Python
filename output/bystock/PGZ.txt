@@ -1,0 +1,3 @@
+hour stock vwap
+9 PGZ 17.21
+10 PGZ 17.28

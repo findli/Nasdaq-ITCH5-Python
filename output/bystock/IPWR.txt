@@ -1,0 +1,5 @@
+hour stock vwap
+6 IPWR 0.36
+8 IPWR 0.36
+9 IPWR 0.36
+10 IPWR 0.35

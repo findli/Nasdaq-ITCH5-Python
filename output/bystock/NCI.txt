@@ -1,0 +1,8 @@
+hour stock vwap
+4 NCI 25.29
+5 NCI 25.33
+6 NCI 25.37
+7 NCI 25.37
+8 NCI 25.46
+9 NCI 25.5
+10 NCI 25.51

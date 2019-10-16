@@ -1,0 +1,8 @@
+hour stock vwap
+4 XLC 43.61
+5 XLC 43.59
+6 XLC 43.7
+7 XLC 43.84
+8 XLC 43.9
+9 XLC 44.16
+10 XLC 44.25

@@ -1,0 +1,3 @@
+hour stock vwap
+7 DXB 24.91
+8 DXB 24.93

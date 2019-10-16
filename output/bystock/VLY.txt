@@ -1,0 +1,8 @@
+hour stock vwap
+4 VLY 10.3
+5 VLY 10.25
+6 VLY 10.28
+7 VLY 10.27
+8 VLY 10.27
+9 VLY 10.29
+10 VLY 10.38

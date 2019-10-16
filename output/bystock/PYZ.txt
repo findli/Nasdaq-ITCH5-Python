@@ -1,0 +1,3 @@
+hour stock vwap
+8 PYZ 58.07
+9 PYZ 58.44

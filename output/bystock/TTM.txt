@@ -1,0 +1,8 @@
+hour stock vwap
+4 TTM 12.37
+5 TTM 12.48
+6 TTM 12.4
+7 TTM 12.48
+8 TTM 12.46
+9 TTM 12.48
+10 TTM 12.56

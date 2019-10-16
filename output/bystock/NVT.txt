@@ -1,0 +1,8 @@
+hour stock vwap
+4 NVT 25.17
+5 NVT 25.07
+6 NVT 25.12
+7 NVT 25.19
+8 NVT 25.03
+9 NVT 25.14
+10 NVT 25.03

@@ -1,0 +1,7 @@
+hour stock vwap
+4 CSWC 21.71
+5 CSWC 21.64
+6 CSWC 21.52
+8 CSWC 21.62
+9 CSWC 21.65
+10 CSWC 21.54

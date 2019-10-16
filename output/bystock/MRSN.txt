@@ -1,0 +1,5 @@
+hour stock vwap
+5 MRSN 4.33
+6 MRSN 4.34
+7 MRSN 4.39
+10 MRSN 4.56

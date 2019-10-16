@@ -1,0 +1,4 @@
+hour stock vwap
+5 PLBC 24.3
+8 PLBC 24.82
+10 PLBC 24.41

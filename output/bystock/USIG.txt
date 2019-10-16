@@ -1,0 +1,6 @@
+hour stock vwap
+5 USIG 53.75
+7 USIG 53.74
+8 USIG 53.75
+9 USIG 53.81
+10 USIG 53.86

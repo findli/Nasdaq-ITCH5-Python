@@ -1,0 +1,6 @@
+hour stock vwap
+4 DSL 18.93
+5 DSL 19.0
+6 DSL 19.06
+9 DSL 19.05
+10 DSL 19.07

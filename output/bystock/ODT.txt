@@ -1,0 +1,7 @@
+hour stock vwap
+5 ODT 16.71
+6 ODT 16.31
+7 ODT 16.27
+8 ODT 16.07
+9 ODT 16.2
+10 ODT 16.23

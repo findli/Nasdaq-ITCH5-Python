@@ -1,0 +1,7 @@
+hour stock vwap
+5 ENBL 15.42
+6 ENBL 15.56
+7 ENBL 15.59
+8 ENBL 15.52
+9 ENBL 15.62
+10 ENBL 15.7

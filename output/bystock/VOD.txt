@@ -1,0 +1,8 @@
+hour stock vwap
+4 VOD 17.83
+5 VOD 17.81
+6 VOD 17.83
+7 VOD 17.86
+8 VOD 17.89
+9 VOD 17.92
+10 VOD 17.96

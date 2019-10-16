@@ -1,0 +1,6 @@
+hour stock vwap
+4 ELF 8.48
+6 ELF 8.47
+7 ELF 8.41
+9 ELF 8.47
+10 ELF 8.44

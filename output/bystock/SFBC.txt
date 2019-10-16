@@ -1,0 +1,3 @@
+hour stock vwap
+6 SFBC 34.13
+10 SFBC 33.61

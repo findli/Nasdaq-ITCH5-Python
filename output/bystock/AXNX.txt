@@ -1,0 +1,7 @@
+hour stock vwap
+4 AXNX 14.54
+5 AXNX 14.3
+6 AXNX 14.25
+7 AXNX 14.4
+8 AXNX 14.2
+10 AXNX 14.18

@@ -1,0 +1,4 @@
+hour stock vwap
+4 CBFV 24.15
+5 CBFV 24.33
+10 CBFV 24.12

@@ -1,0 +1,4 @@
+hour stock vwap
+5 NM 2.46
+6 NM 2.46
+7 NM 2.38

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MNTX 7.24
+5 MNTX 6.95
+6 MNTX 6.94
+7 MNTX 6.97
+8 MNTX 6.84
+9 MNTX 6.91
+10 MNTX 6.97

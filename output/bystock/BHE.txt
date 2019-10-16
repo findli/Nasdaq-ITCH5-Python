@@ -1,0 +1,5 @@
+hour stock vwap
+5 BHE 24.55
+6 BHE 24.64
+9 BHE 24.92
+10 BHE 24.85

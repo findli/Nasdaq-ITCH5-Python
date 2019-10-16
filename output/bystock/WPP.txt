@@ -1,0 +1,7 @@
+hour stock vwap
+5 WPP 57.66
+6 WPP 57.68
+7 WPP 57.57
+9 WPP 57.89
+10 WPP 57.74
+11 WPP 57.23

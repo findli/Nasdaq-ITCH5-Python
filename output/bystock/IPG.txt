@@ -1,0 +1,8 @@
+hour stock vwap
+4 IPG 22.53
+5 IPG 22.62
+6 IPG 22.71
+7 IPG 22.75
+8 IPG 22.68
+9 IPG 22.75
+10 IPG 22.69

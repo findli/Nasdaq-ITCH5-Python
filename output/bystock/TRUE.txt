@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRUE 9.32
+5 TRUE 9.16
+6 TRUE 9.13
+7 TRUE 9.17
+8 TRUE 9.15
+9 TRUE 9.24
+10 TRUE 9.24

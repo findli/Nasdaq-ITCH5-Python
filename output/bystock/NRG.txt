@@ -1,0 +1,8 @@
+hour stock vwap
+4 NRG 40.22
+5 NRG 40.21
+6 NRG 40.19
+7 NRG 40.33
+8 NRG 40.09
+9 NRG 40.15
+10 NRG 40.15

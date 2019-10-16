@@ -1,0 +1,2 @@
+hour stock vwap
+10 USMF 27.9

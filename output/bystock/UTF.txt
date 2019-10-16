@@ -1,0 +1,4 @@
+hour stock vwap
+5 UTF 22.93
+8 UTF 22.97
+10 UTF 23.04

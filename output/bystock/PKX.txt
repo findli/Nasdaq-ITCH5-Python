@@ -1,0 +1,8 @@
+hour stock vwap
+4 PKX 62.69
+5 PKX 62.42
+6 PKX 61.64
+7 PKX 61.64
+8 PKX 61.09
+9 PKX 61.99
+10 PKX 62.18

@@ -1,0 +1,2 @@
+hour stock vwap
+7 JJT 52.27

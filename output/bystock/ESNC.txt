@@ -1,0 +1,3 @@
+hour stock vwap
+6 ESNC 0.19
+10 ESNC 0.19

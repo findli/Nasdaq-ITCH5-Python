@@ -1,0 +1,8 @@
+hour stock vwap
+4 DEA 17.7
+5 DEA 17.89
+6 DEA 17.96
+7 DEA 17.92
+8 DEA 17.9
+9 DEA 17.91
+10 DEA 17.8

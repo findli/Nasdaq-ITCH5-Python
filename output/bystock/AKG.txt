@@ -1,0 +1,5 @@
+hour stock vwap
+4 AKG 0.75
+6 AKG 0.74
+9 AKG 0.76
+10 AKG 0.77

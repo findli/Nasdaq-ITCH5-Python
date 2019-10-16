@@ -1,0 +1,8 @@
+hour stock vwap
+4 DRNA 10.01
+5 DRNA 10.09
+6 DRNA 9.8
+7 DRNA 9.81
+8 DRNA 9.77
+9 DRNA 9.86
+10 DRNA 9.96

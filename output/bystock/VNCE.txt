@@ -1,0 +1,4 @@
+hour stock vwap
+7 VNCE 11.6
+8 VNCE 11.63
+9 VNCE 11.81

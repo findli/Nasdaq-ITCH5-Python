@@ -1,0 +1,8 @@
+hour stock vwap
+4 NYT 25.93
+5 NYT 26.06
+6 NYT 26.17
+7 NYT 26.14
+8 NYT 25.99
+9 NYT 26.12
+10 NYT 25.96

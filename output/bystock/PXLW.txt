@@ -1,0 +1,8 @@
+hour stock vwap
+5 PXLW 3.21
+6 PXLW 3.25
+7 PXLW 3.26
+8 PXLW 3.32
+9 PXLW 3.3
+10 PXLW 3.29
+11 PXLW 3.34

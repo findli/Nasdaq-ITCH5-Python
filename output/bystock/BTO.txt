@@ -1,0 +1,5 @@
+hour stock vwap
+4 BTO 34.02
+5 BTO 33.92
+7 BTO 34.04
+9 BTO 34.06

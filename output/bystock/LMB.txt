@@ -1,0 +1,4 @@
+hour stock vwap
+6 LMB 5.53
+7 LMB 5.54
+10 LMB 5.53

@@ -1,0 +1,6 @@
+hour stock vwap
+4 OFLX 63.38
+5 OFLX 63.51
+6 OFLX 63.49
+9 OFLX 63.37
+10 OFLX 63.24

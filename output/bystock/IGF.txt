@@ -1,0 +1,6 @@
+hour stock vwap
+5 IGF 42.14
+6 IGF 42.17
+8 IGF 42.09
+9 IGF 42.41
+10 IGF 42.38

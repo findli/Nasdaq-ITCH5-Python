@@ -1,0 +1,8 @@
+hour stock vwap
+4 WES 49.07
+5 WES 49.46
+6 WES 50.02
+7 WES 50.4
+8 WES 50.28
+9 WES 50.33
+10 WES 50.38

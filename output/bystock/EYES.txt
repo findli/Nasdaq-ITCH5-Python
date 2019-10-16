@@ -1,0 +1,5 @@
+hour stock vwap
+6 EYES 0.83
+7 EYES 0.84
+8 EYES 0.82
+10 EYES 0.81

@@ -1,0 +1,3 @@
+hour stock vwap
+6 CASM 1.69
+10 CASM 1.66

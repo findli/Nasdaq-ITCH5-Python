@@ -1,0 +1,8 @@
+hour stock vwap
+4 GSK 39.08
+5 GSK 39.02
+6 GSK 39.02
+7 GSK 39.06
+8 GSK 39.06
+9 GSK 39.09
+10 GSK 38.73

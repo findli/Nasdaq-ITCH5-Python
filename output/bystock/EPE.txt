@@ -1,0 +1,5 @@
+hour stock vwap
+7 EPE 0.68
+8 EPE 0.7
+9 EPE 0.71
+10 EPE 0.71

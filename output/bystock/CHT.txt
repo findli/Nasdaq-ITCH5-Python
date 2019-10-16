@@ -1,0 +1,3 @@
+hour stock vwap
+9 CHT 34.94
+10 CHT 35.02

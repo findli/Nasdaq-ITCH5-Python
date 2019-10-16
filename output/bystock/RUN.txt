@@ -1,0 +1,8 @@
+hour stock vwap
+4 RUN 12.4
+5 RUN 12.33
+6 RUN 12.3
+7 RUN 12.33
+8 RUN 12.29
+9 RUN 12.42
+10 RUN 12.34

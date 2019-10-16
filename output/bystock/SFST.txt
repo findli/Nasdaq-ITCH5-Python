@@ -1,0 +1,7 @@
+hour stock vwap
+4 SFST 36.91
+5 SFST 37.06
+7 SFST 37.14
+8 SFST 36.76
+9 SFST 37.02
+10 SFST 36.86

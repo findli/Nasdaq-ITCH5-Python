@@ -1,0 +1,4 @@
+hour stock vwap
+5 SWP 93.36
+7 SWP 94.2
+9 SWP 94.87

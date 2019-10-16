@@ -1,0 +1,7 @@
+hour stock vwap
+4 SMP 48.79
+5 SMP 48.89
+6 SMP 49.25
+7 SMP 49.16
+8 SMP 48.98
+10 SMP 49.17

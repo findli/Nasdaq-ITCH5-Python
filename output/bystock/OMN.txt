@@ -1,0 +1,7 @@
+hour stock vwap
+5 OMN 8.5
+6 OMN 8.6
+7 OMN 8.62
+8 OMN 8.61
+9 OMN 8.71
+10 OMN 8.71

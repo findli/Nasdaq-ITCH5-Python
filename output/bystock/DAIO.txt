@@ -1,0 +1,5 @@
+hour stock vwap
+6 DAIO 5.86
+7 DAIO 5.84
+9 DAIO 5.85
+10 DAIO 5.87

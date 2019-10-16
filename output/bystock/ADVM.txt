@@ -1,0 +1,8 @@
+hour stock vwap
+4 ADVM 2.97
+5 ADVM 2.94
+6 ADVM 2.98
+7 ADVM 3.02
+8 ADVM 3.04
+9 ADVM 3.02
+10 ADVM 3.01

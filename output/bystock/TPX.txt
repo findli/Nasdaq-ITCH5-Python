@@ -1,0 +1,8 @@
+hour stock vwap
+4 TPX 52.24
+5 TPX 51.56
+6 TPX 52.33
+7 TPX 52.57
+8 TPX 52.54
+9 TPX 52.83
+10 TPX 52.62

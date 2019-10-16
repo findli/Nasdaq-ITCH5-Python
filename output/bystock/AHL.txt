@@ -1,0 +1,7 @@
+hour stock vwap
+5 AHL 41.84
+6 AHL 41.81
+7 AHL 41.8
+8 AHL 41.78
+9 AHL 41.8
+10 AHL 41.79

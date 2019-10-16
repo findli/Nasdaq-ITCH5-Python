@@ -1,0 +1,4 @@
+hour stock vwap
+5 BSCL 20.83
+7 BSCL 20.82
+9 BSCL 20.86

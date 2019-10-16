@@ -1,0 +1,4 @@
+hour stock vwap
+7 LTS 2.76
+8 LTS 2.8
+10 LTS 2.86

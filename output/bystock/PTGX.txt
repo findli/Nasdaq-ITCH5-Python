@@ -1,0 +1,8 @@
+hour stock vwap
+4 PTGX 8.13
+5 PTGX 8.12
+6 PTGX 8.1
+7 PTGX 8.04
+8 PTGX 7.97
+9 PTGX 8.08
+10 PTGX 8.07

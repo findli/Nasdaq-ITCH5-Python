@@ -1,0 +1,8 @@
+hour stock vwap
+4 YUM 93.7
+5 YUM 93.56
+6 YUM 93.25
+7 YUM 93.13
+8 YUM 92.96
+9 YUM 93.37
+10 YUM 93.4

@@ -1,0 +1,8 @@
+hour stock vwap
+4 RLI 65.26
+5 RLI 65.59
+6 RLI 66.09
+7 RLI 66.41
+8 RLI 66.37
+9 RLI 66.17
+10 RLI 66.13

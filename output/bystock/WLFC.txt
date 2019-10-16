@@ -1,0 +1,6 @@
+hour stock vwap
+5 WLFC 37.8
+6 WLFC 37.8
+8 WLFC 37.93
+9 WLFC 37.92
+10 WLFC 38.11

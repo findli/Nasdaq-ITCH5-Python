@@ -1,0 +1,7 @@
+hour stock vwap
+4 TSBK 28.12
+5 TSBK 28.27
+7 TSBK 28.21
+8 TSBK 28.13
+9 TSBK 28.14
+10 TSBK 27.99

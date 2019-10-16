@@ -1,0 +1,3 @@
+hour stock vwap
+6 RZA 26.88
+10 RZA 26.73

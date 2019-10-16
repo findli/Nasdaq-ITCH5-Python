@@ -1,0 +1,8 @@
+hour stock vwap
+4 VUZI 4.18
+5 VUZI 4.04
+6 VUZI 4.02
+7 VUZI 4.03
+8 VUZI 4.01
+9 VUZI 4.02
+10 VUZI 4.02

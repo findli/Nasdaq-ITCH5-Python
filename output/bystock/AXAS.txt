@@ -1,0 +1,6 @@
+hour stock vwap
+4 AXAS 1.2
+5 AXAS 1.19
+6 AXAS 1.21
+9 AXAS 1.2
+10 AXAS 1.17

@@ -1,0 +1,5 @@
+hour stock vwap
+7 CTRC 3.92
+8 CTRC 3.85
+9 CTRC 3.68
+10 CTRC 3.77

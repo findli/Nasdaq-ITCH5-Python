@@ -1,0 +1,7 @@
+hour stock vwap
+4 CLNE 1.9
+5 CLNE 1.88
+6 CLNE 1.88
+8 CLNE 1.88
+9 CLNE 1.89
+10 CLNE 1.89

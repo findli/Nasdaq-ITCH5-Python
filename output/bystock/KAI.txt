@@ -1,0 +1,8 @@
+hour stock vwap
+4 KAI 85.32
+5 KAI 85.88
+6 KAI 85.54
+7 KAI 85.49
+8 KAI 85.41
+9 KAI 85.39
+10 KAI 85.23

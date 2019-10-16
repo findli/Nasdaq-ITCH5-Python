@@ -1,0 +1,2 @@
+hour stock vwap
+10 OBLN 1.7

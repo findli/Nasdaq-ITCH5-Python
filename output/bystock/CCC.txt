@@ -1,0 +1,7 @@
+hour stock vwap
+4 CCC 10.39
+5 CCC 10.4
+6 CCC 10.4
+7 CCC 10.41
+8 CCC 10.45
+10 CCC 10.42

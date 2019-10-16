@@ -1,0 +1,4 @@
+hour stock vwap
+4 NGS 16.83
+6 NGS 16.67
+9 NGS 16.85

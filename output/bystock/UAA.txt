@@ -1,0 +1,8 @@
+hour stock vwap
+4 UAA 20.94
+5 UAA 20.97
+6 UAA 20.93
+7 UAA 20.91
+8 UAA 20.89
+9 UAA 20.92
+10 UAA 20.86

@@ -1,0 +1,4 @@
+hour stock vwap
+8 EPU 37.17
+9 EPU 37.22
+10 EPU 37.39

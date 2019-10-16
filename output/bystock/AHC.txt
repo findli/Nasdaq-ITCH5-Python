@@ -1,0 +1,2 @@
+hour stock vwap
+4 AHC 3.92

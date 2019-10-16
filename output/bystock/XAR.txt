@@ -1,0 +1,8 @@
+hour stock vwap
+4 XAR 88.47
+5 XAR 88.25
+6 XAR 88.56
+7 XAR 88.9
+8 XAR 88.95
+9 XAR 89.27
+10 XAR 89.18

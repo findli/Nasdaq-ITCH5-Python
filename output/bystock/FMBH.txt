@@ -1,0 +1,6 @@
+hour stock vwap
+4 FMBH 32.8
+5 FMBH 32.51
+7 FMBH 32.62
+8 FMBH 32.62
+10 FMBH 32.51

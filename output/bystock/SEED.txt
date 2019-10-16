@@ -1,0 +1,3 @@
+hour stock vwap
+8 SEED 6.25
+10 SEED 6.39

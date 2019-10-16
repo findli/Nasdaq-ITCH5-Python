@@ -1,0 +1,5 @@
+hour stock vwap
+5 CDR-B 24.82
+6 CDR-B 24.3
+9 CDR-B 24.76
+10 CDR-B 24.89

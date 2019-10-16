@@ -1,0 +1,7 @@
+hour stock vwap
+4 IBCP 22.08
+5 IBCP 22.1
+7 IBCP 22.1
+8 IBCP 22.2
+9 IBCP 22.29
+10 IBCP 22.15

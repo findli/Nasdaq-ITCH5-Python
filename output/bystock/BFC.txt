@@ -1,0 +1,4 @@
+hour stock vwap
+5 BFC 47.51
+7 BFC 49.67
+10 BFC 49.67

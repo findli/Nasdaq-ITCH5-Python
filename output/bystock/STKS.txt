@@ -1,0 +1,8 @@
+hour stock vwap
+4 STKS 3.22
+5 STKS 3.31
+6 STKS 3.3
+7 STKS 3.3
+8 STKS 3.3
+9 STKS 3.3
+10 STKS 3.23

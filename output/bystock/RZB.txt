@@ -1,0 +1,4 @@
+hour stock vwap
+6 RZB 25.1
+7 RZB 25.09
+8 RZB 25.06

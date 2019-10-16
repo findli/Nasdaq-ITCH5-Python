@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRU 59.17
+5 TRU 59.26
+6 TRU 59.26
+7 TRU 59.41
+8 TRU 59.14
+9 TRU 59.38
+10 TRU 59.4

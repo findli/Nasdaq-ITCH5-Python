@@ -1,0 +1,8 @@
+hour stock vwap
+4 TROX 8.68
+5 TROX 8.66
+6 TROX 8.76
+7 TROX 8.8
+8 TROX 8.72
+9 TROX 8.76
+10 TROX 8.83

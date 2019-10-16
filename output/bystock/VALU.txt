@@ -1,0 +1,6 @@
+hour stock vwap
+4 VALU 20.6
+6 VALU 19.78
+9 VALU 20.51
+10 VALU 21.67
+11 VALU 21.45

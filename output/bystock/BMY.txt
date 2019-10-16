@@ -1,0 +1,9 @@
+hour stock vwap
+4 BMY 48.59
+5 BMY 48.4
+6 BMY 48.65
+7 BMY 48.76
+8 BMY 48.84
+9 BMY 49.02
+10 BMY 48.87
+12 BMY 48.79

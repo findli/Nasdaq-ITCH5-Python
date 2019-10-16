@@ -1,0 +1,6 @@
+hour stock vwap
+5 REM 43.22
+6 REM 43.38
+7 REM 43.37
+8 REM 43.34
+10 REM 43.33

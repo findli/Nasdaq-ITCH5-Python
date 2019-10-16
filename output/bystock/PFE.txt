@@ -1,0 +1,9 @@
+hour stock vwap
+2 PFE 40.79
+4 PFE 41.06
+5 PFE 41.11
+6 PFE 41.25
+7 PFE 41.3
+8 PFE 41.11
+9 PFE 41.54
+10 PFE 41.55

@@ -1,0 +1,7 @@
+hour stock vwap
+4 EVTC 27.45
+5 EVTC 27.52
+6 EVTC 27.79
+7 EVTC 28.01
+8 EVTC 27.86
+10 EVTC 28.22

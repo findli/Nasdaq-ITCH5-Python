@@ -1,0 +1,7 @@
+hour stock vwap
+4 CORE 27.94
+5 CORE 27.71
+6 CORE 27.77
+7 CORE 27.86
+9 CORE 28.01
+10 CORE 27.99

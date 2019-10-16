@@ -1,0 +1,4 @@
+hour stock vwap
+4 PATI 19.49
+7 PATI 18.99
+8 PATI 18.86

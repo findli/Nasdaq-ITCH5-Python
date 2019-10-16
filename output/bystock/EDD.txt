@@ -1,0 +1,4 @@
+hour stock vwap
+6 EDD 6.64
+9 EDD 6.68
+10 EDD 6.72

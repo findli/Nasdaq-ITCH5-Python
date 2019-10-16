@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGM 71.58
+5 AGM 71.76
+6 AGM 71.23
+7 AGM 71.26
+8 AGM 71.33
+9 AGM 71.79
+10 AGM 72.21

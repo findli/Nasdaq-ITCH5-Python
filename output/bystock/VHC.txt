@@ -1,0 +1,8 @@
+hour stock vwap
+4 VHC 4.82
+5 VHC 4.87
+6 VHC 4.88
+7 VHC 4.93
+8 VHC 4.95
+9 VHC 5.08
+10 VHC 5.08

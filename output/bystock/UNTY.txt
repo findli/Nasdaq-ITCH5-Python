@@ -1,0 +1,7 @@
+hour stock vwap
+4 UNTY 19.84
+5 UNTY 20.25
+6 UNTY 20.04
+8 UNTY 20.13
+9 UNTY 20.07
+10 UNTY 19.95

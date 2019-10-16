@@ -1,0 +1,7 @@
+hour stock vwap
+4 AYTU 1.14
+5 AYTU 1.12
+7 AYTU 1.17
+8 AYTU 1.18
+9 AYTU 1.2
+10 AYTU 1.19

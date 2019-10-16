@@ -1,0 +1,7 @@
+hour stock vwap
+4 SPIB 33.48
+5 SPIB 33.48
+6 SPIB 33.48
+8 SPIB 33.48
+9 SPIB 33.56
+10 SPIB 33.56

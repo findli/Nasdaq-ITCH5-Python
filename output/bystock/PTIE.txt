@@ -1,0 +1,6 @@
+hour stock vwap
+5 PTIE 1.16
+7 PTIE 1.16
+8 PTIE 1.14
+9 PTIE 1.19
+10 PTIE 1.19

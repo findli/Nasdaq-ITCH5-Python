@@ -1,0 +1,8 @@
+hour stock vwap
+4 IAU 12.56
+5 IAU 12.56
+6 IAU 12.56
+7 IAU 12.56
+8 IAU 12.56
+9 IAU 12.62
+10 IAU 12.64

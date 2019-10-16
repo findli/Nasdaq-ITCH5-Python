@@ -1,0 +1,7 @@
+hour stock vwap
+4 HAFC 22.33
+5 HAFC 22.36
+6 HAFC 22.31
+7 HAFC 22.34
+9 HAFC 22.43
+10 HAFC 22.41

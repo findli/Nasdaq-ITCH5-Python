@@ -1,0 +1,7 @@
+hour stock vwap
+4 FAZ 10.56
+5 FAZ 10.54
+6 FAZ 10.46
+7 FAZ 10.4
+9 FAZ 10.35
+10 FAZ 10.34

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ORI 19.95
+5 ORI 19.94
+6 ORI 20.07
+7 ORI 20.13
+8 ORI 20.05
+9 ORI 20.16
+10 ORI 20.08

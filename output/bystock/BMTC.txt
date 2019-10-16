@@ -1,0 +1,6 @@
+hour stock vwap
+4 BMTC 37.46
+5 BMTC 37.34
+8 BMTC 37.28
+9 BMTC 37.48
+10 BMTC 37.28

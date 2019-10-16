@@ -1,0 +1,7 @@
+hour stock vwap
+4 STOR 31.46
+5 STOR 31.8
+6 STOR 31.84
+8 STOR 31.63
+9 STOR 31.72
+10 STOR 31.72

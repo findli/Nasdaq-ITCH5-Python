@@ -1,0 +1,8 @@
+hour stock vwap
+4 TOL 34.94
+5 TOL 35.15
+6 TOL 35.04
+7 TOL 34.97
+8 TOL 34.96
+9 TOL 35.47
+10 TOL 35.74

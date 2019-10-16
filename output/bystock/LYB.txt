@@ -1,0 +1,8 @@
+hour stock vwap
+4 LYB 87.0
+5 LYB 86.87
+6 LYB 87.28
+7 LYB 87.49
+8 LYB 87.38
+9 LYB 88.04
+10 LYB 88.41

@@ -1,0 +1,3 @@
+hour stock vwap
+6 SCHW-D 26.26
+10 SCHW-D 26.29

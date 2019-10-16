@@ -1,0 +1,9 @@
+hour stock vwap
+3 IVZ 18.5
+4 IVZ 18.34
+5 IVZ 18.36
+6 IVZ 18.73
+7 IVZ 18.7
+8 IVZ 18.63
+9 IVZ 18.68
+10 IVZ 18.64

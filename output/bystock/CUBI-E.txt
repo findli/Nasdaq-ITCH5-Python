@@ -1,0 +1,2 @@
+hour stock vwap
+6 CUBI-E 25.83

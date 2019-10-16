@@ -1,0 +1,8 @@
+hour stock vwap
+4 CNQ 26.85
+5 CNQ 26.91
+6 CNQ 27.05
+7 CNQ 27.12
+8 CNQ 27.1
+9 CNQ 27.34
+10 CNQ 27.27

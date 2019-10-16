@@ -1,0 +1,7 @@
+hour stock vwap
+4 TUSK 23.16
+5 TUSK 23.09
+6 TUSK 23.03
+7 TUSK 22.95
+8 TUSK 23.07
+9 TUSK 23.13

@@ -1,0 +1,5 @@
+hour stock vwap
+6 FDRR 30.26
+7 FDRR 30.28
+9 FDRR 30.39
+10 FDRR 30.4

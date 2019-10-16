@@ -1,0 +1,7 @@
+hour stock vwap
+5 PHI 25.04
+6 PHI 24.88
+7 PHI 24.9
+8 PHI 24.81
+9 PHI 25.01
+10 PHI 25.0

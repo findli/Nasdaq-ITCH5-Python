@@ -1,0 +1,8 @@
+hour stock vwap
+4 TEX 29.87
+5 TEX 29.56
+6 TEX 29.88
+7 TEX 29.91
+8 TEX 29.79
+9 TEX 30.37
+10 TEX 30.27

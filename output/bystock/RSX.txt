@@ -1,0 +1,8 @@
+hour stock vwap
+4 RSX 20.83
+5 RSX 20.78
+6 RSX 20.86
+7 RSX 20.89
+8 RSX 20.87
+9 RSX 21.08
+10 RSX 21.14

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BBD 11.5
+5 BBD 11.35
+6 BBD 11.33
+7 BBD 11.29
+8 BBD 11.28
+9 BBD 11.52
+10 BBD 11.57

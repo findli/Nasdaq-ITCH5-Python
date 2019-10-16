@@ -1,0 +1,8 @@
+hour stock vwap
+4 PDLI 3.11
+5 PDLI 3.15
+6 PDLI 3.16
+7 PDLI 3.18
+8 PDLI 3.15
+9 PDLI 3.17
+10 PDLI 3.2

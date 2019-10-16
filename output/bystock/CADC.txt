@@ -1,0 +1,4 @@
+hour stock vwap
+5 CADC 4.31
+7 CADC 4.7
+8 CADC 4.56

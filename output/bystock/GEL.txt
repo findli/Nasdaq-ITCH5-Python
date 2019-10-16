@@ -1,0 +1,8 @@
+hour stock vwap
+4 GEL 21.06
+5 GEL 20.89
+6 GEL 20.97
+7 GEL 20.99
+8 GEL 20.96
+9 GEL 21.09
+10 GEL 21.03

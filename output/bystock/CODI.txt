@@ -1,0 +1,5 @@
+hour stock vwap
+5 CODI 14.54
+6 CODI 14.57
+9 CODI 14.75
+10 CODI 14.81

@@ -1,0 +1,7 @@
+hour stock vwap
+4 VCR 162.81
+5 VCR 162.72
+6 VCR 162.85
+8 VCR 162.6
+9 VCR 163.52
+10 VCR 163.94

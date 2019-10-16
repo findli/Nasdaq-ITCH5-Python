@@ -1,0 +1,8 @@
+hour stock vwap
+4 FOE 16.55
+5 FOE 16.49
+6 FOE 16.49
+7 FOE 16.47
+8 FOE 16.42
+9 FOE 16.66
+10 FOE 16.52

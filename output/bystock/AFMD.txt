@@ -1,0 +1,7 @@
+hour stock vwap
+5 AFMD 3.2
+6 AFMD 3.2
+7 AFMD 3.19
+8 AFMD 3.2
+9 AFMD 3.22
+10 AFMD 3.34

@@ -1,0 +1,2 @@
+hour stock vwap
+8 BFZ 12.39

@@ -1,0 +1,6 @@
+hour stock vwap
+5 NCV 6.08
+6 NCV 6.1
+7 NCV 6.1
+9 NCV 6.14
+10 NCV 6.14

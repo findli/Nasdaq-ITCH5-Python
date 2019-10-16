@@ -1,0 +1,6 @@
+hour stock vwap
+4 GER 5.44
+5 GER 5.42
+7 GER 5.49
+8 GER 5.5
+9 GER 5.54

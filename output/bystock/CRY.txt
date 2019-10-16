@@ -1,0 +1,7 @@
+hour stock vwap
+4 CRY 26.85
+6 CRY 27.14
+7 CRY 27.05
+8 CRY 26.99
+9 CRY 27.17
+10 CRY 27.28

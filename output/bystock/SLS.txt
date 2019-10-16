@@ -1,0 +1,4 @@
+hour stock vwap
+7 SLS 1.42
+9 SLS 1.44
+10 SLS 1.45

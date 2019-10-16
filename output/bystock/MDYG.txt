@@ -1,0 +1,2 @@
+hour stock vwap
+9 MDYG 49.83

@@ -1,0 +1,3 @@
+hour stock vwap
+4 HYI 13.85
+10 HYI 13.98

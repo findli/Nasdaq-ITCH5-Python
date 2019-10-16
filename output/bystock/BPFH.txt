@@ -1,0 +1,7 @@
+hour stock vwap
+4 BPFH 11.73
+5 BPFH 11.68
+7 BPFH 11.72
+8 BPFH 11.72
+9 BPFH 11.78
+10 BPFH 11.73

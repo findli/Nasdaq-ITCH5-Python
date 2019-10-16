@@ -1,0 +1,8 @@
+hour stock vwap
+4 GPS 25.42
+5 GPS 25.32
+6 GPS 25.38
+7 GPS 25.32
+8 GPS 25.3
+9 GPS 25.37
+10 GPS 25.27

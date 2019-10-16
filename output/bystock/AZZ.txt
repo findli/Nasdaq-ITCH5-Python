@@ -1,0 +1,5 @@
+hour stock vwap
+6 AZZ 43.92
+8 AZZ 44.18
+9 AZZ 44.5
+10 AZZ 44.69

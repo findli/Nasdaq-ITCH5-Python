@@ -1,0 +1,6 @@
+hour stock vwap
+4 VNO-L 23.42
+5 VNO-L 23.44
+6 VNO-L 23.46
+7 VNO-L 23.52
+10 VNO-L 23.6

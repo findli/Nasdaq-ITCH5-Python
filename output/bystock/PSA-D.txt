@@ -1,0 +1,2 @@
+hour stock vwap
+6 PSA-D 22.87

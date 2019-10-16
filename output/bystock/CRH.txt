@@ -1,0 +1,6 @@
+hour stock vwap
+4 CRH 28.71
+5 CRH 28.77
+6 CRH 28.82
+9 CRH 29.06
+10 CRH 29.09

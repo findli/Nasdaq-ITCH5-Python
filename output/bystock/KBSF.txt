@@ -1,0 +1,4 @@
+hour stock vwap
+5 KBSF 3.8
+9 KBSF 3.75
+10 KBSF 3.72

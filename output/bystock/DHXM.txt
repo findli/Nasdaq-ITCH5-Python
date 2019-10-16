@@ -1,0 +1,3 @@
+hour stock vwap
+5 DHXM 1.99
+10 DHXM 1.98

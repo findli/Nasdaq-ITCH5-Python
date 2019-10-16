@@ -1,0 +1,7 @@
+hour stock vwap
+5 ASYS 4.81
+6 ASYS 4.85
+7 ASYS 4.9
+8 ASYS 4.95
+9 ASYS 5.0
+10 ASYS 4.99

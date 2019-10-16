@@ -1,0 +1,4 @@
+hour stock vwap
+6 SLYV 59.47
+7 SLYV 59.6
+9 SLYV 59.81

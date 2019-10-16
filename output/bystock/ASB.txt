@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASB 22.09
+5 ASB 22.05
+6 ASB 22.08
+7 ASB 22.07
+8 ASB 22.02
+9 ASB 22.04
+10 ASB 21.9

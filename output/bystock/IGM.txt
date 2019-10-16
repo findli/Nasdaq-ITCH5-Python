@@ -1,0 +1,5 @@
+hour stock vwap
+4 IGM 183.97
+5 IGM 184.07
+6 IGM 184.61
+9 IGM 186.72

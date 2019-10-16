@@ -1,0 +1,5 @@
+hour stock vwap
+4 GEM 32.35
+6 GEM 32.37
+9 GEM 32.6
+10 GEM 32.91

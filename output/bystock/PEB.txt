@@ -1,0 +1,8 @@
+hour stock vwap
+4 PEB 31.58
+5 PEB 31.88
+6 PEB 31.95
+7 PEB 32.06
+8 PEB 31.92
+9 PEB 31.96
+10 PEB 31.86

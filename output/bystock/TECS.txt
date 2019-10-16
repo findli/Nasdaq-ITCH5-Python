@@ -1,0 +1,5 @@
+hour stock vwap
+4 TECS 22.97
+7 TECS 22.43
+9 TECS 21.94
+10 TECS 21.75

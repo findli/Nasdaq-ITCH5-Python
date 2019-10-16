@@ -1,0 +1,4 @@
+hour stock vwap
+4 RILYH 25.55
+8 RILYH 25.65
+10 RILYH 25.72

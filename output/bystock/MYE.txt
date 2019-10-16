@@ -1,0 +1,5 @@
+hour stock vwap
+6 MYE 16.17
+8 MYE 16.04
+9 MYE 16.15
+10 MYE 16.21

@@ -1,0 +1,7 @@
+hour stock vwap
+4 NURO 0.91
+5 NURO 0.92
+6 NURO 0.91
+7 NURO 0.92
+9 NURO 0.92
+10 NURO 0.86

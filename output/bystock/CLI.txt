@@ -1,0 +1,8 @@
+hour stock vwap
+4 CLI 20.22
+5 CLI 20.26
+6 CLI 20.38
+7 CLI 20.39
+8 CLI 20.26
+9 CLI 20.29
+10 CLI 20.21

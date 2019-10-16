@@ -1,0 +1,9 @@
+hour stock vwap
+4 SCO 20.77
+5 SCO 20.6
+6 SCO 20.19
+7 SCO 20.11
+8 SCO 20.32
+9 SCO 20.39
+10 SCO 20.53
+11 SCO 20.51

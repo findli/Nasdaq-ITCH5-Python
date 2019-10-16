@@ -1,0 +1,5 @@
+hour stock vwap
+4 OSMT 8.33
+5 OSMT 7.93
+9 OSMT 7.92
+10 OSMT 7.91

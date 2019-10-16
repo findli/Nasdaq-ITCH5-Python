@@ -1,0 +1,8 @@
+hour stock vwap
+4 CSU 7.14
+5 CSU 7.24
+6 CSU 7.21
+7 CSU 7.12
+8 CSU 7.1
+9 CSU 7.09
+10 CSU 7.07

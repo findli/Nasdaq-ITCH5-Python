@@ -1,0 +1,8 @@
+hour stock vwap
+4 UEPS 4.52
+5 UEPS 4.56
+6 UEPS 4.65
+7 UEPS 4.61
+8 UEPS 4.6
+9 UEPS 4.66
+10 UEPS 4.64

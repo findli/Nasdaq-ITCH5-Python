@@ -1,0 +1,4 @@
+hour stock vwap
+8 MCBC 9.68
+9 MCBC 9.73
+10 MCBC 9.8

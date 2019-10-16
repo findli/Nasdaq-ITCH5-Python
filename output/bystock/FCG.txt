@@ -1,0 +1,6 @@
+hour stock vwap
+4 FCG 17.21
+5 FCG 17.15
+6 FCG 17.31
+8 FCG 17.36
+9 FCG 17.44

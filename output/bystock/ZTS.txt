@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZTS 85.13
+5 ZTS 85.02
+6 ZTS 85.35
+7 ZTS 85.39
+8 ZTS 84.95
+9 ZTS 85.4
+10 ZTS 85.16

@@ -1,0 +1,4 @@
+hour stock vwap
+4 ASV 3.13
+7 ASV 3.06
+10 ASV 2.96

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AQST 7.36
+5 AQST 7.07
+6 AQST 7.2
+7 AQST 7.26
+8 AQST 7.12
+9 AQST 7.13
+10 AQST 7.21

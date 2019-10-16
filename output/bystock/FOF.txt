@@ -1,0 +1,2 @@
+hour stock vwap
+10 FOF 12.12

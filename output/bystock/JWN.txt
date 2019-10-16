@@ -1,0 +1,8 @@
+hour stock vwap
+4 JWN 45.95
+5 JWN 45.86
+6 JWN 46.17
+7 JWN 46.01
+8 JWN 45.71
+9 JWN 45.73
+10 JWN 45.45

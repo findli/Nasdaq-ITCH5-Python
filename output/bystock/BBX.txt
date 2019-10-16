@@ -1,0 +1,6 @@
+hour stock vwap
+4 BBX 6.08
+5 BBX 6.1
+6 BBX 6.13
+7 BBX 6.16
+10 BBX 6.12

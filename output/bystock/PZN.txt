@@ -1,0 +1,4 @@
+hour stock vwap
+7 PZN 8.38
+9 PZN 8.5
+10 PZN 8.5

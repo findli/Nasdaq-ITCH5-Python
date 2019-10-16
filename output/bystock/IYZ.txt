@@ -1,0 +1,6 @@
+hour stock vwap
+6 IYZ 27.43
+7 IYZ 27.44
+8 IYZ 27.4
+9 IYZ 27.58
+10 IYZ 27.58

@@ -1,0 +1,5 @@
+hour stock vwap
+6 AMRK 13.09
+7 AMRK 13.13
+8 AMRK 13.14
+10 AMRK 13.06

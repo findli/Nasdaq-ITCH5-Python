@@ -1,0 +1,9 @@
+hour stock vwap
+4 MET 44.65
+5 MET 44.51
+6 MET 44.8
+7 MET 45.0
+8 MET 44.99
+9 MET 45.24
+10 MET 45.2
+11 MET 45.21

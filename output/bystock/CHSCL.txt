@@ -1,0 +1,4 @@
+hour stock vwap
+5 CHSCL 27.5
+6 CHSCL 27.6
+10 CHSCL 27.6

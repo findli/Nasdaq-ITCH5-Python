@@ -1,0 +1,3 @@
+hour stock vwap
+8 EELV 24.09
+9 EELV 24.27

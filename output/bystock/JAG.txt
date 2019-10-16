@@ -1,0 +1,8 @@
+hour stock vwap
+4 JAG 10.45
+5 JAG 10.4
+6 JAG 10.48
+7 JAG 10.52
+8 JAG 10.56
+9 JAG 10.62
+10 JAG 10.63

@@ -1,0 +1,7 @@
+hour stock vwap
+4 FCPT 27.6
+6 FCPT 27.79
+7 FCPT 27.82
+8 FCPT 27.9
+9 FCPT 27.85
+10 FCPT 27.75

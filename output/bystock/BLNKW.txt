@@ -1,0 +1,3 @@
+hour stock vwap
+8 BLNKW 0.54
+10 BLNKW 0.55

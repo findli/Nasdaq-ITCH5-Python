@@ -1,0 +1,8 @@
+hour stock vwap
+4 FIT 6.05
+5 FIT 6.0
+6 FIT 5.98
+7 FIT 6.01
+8 FIT 6.01
+9 FIT 6.06
+10 FIT 6.09

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MCS 45.05
+5 MCS 44.88
+6 MCS 45.16
+7 MCS 45.08
+8 MCS 44.7
+9 MCS 44.93
+10 MCS 44.69

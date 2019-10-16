@@ -1,0 +1,8 @@
+hour stock vwap
+4 RDS.B 60.75
+5 RDS.B 60.58
+6 RDS.B 60.59
+7 RDS.B 60.58
+8 RDS.B 60.56
+9 RDS.B 60.73
+10 RDS.B 60.71

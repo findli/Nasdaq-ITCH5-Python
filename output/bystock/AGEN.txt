@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGEN 3.34
+5 AGEN 3.39
+6 AGEN 3.41
+7 AGEN 3.42
+8 AGEN 3.48
+9 AGEN 3.49
+10 AGEN 3.49

@@ -1,0 +1,8 @@
+hour stock vwap
+4 UBS 13.07
+5 UBS 13.08
+6 UBS 13.11
+7 UBS 13.11
+8 UBS 13.12
+9 UBS 13.22
+10 UBS 13.22

@@ -1,0 +1,9 @@
+hour stock vwap
+4 NUE 60.18
+5 NUE 59.79
+6 NUE 59.8
+7 NUE 59.81
+8 NUE 59.86
+9 NUE 60.47
+10 NUE 60.44
+12 NUE 60.01

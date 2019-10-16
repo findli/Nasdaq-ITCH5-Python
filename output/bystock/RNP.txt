@@ -1,0 +1,6 @@
+hour stock vwap
+4 RNP 19.33
+5 RNP 19.36
+7 RNP 19.44
+9 RNP 19.43
+10 RNP 19.45

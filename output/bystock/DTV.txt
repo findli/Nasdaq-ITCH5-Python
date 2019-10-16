@@ -1,0 +1,4 @@
+hour stock vwap
+7 DTV 53.3
+9 DTV 53.49
+10 DTV 53.34

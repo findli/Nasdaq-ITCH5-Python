@@ -1,0 +1,8 @@
+hour stock vwap
+4 RPM 55.73
+5 RPM 55.7
+6 RPM 55.82
+7 RPM 55.98
+8 RPM 56.06
+9 RPM 56.38
+10 RPM 56.28

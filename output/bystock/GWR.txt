@@ -1,0 +1,8 @@
+hour stock vwap
+4 GWR 78.1
+5 GWR 78.28
+6 GWR 78.5
+7 GWR 78.75
+8 GWR 78.41
+9 GWR 79.18
+10 GWR 79.08

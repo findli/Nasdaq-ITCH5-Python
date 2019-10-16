@@ -1,0 +1,8 @@
+hour stock vwap
+4 HSC 20.96
+5 HSC 20.89
+6 HSC 21.09
+7 HSC 21.19
+8 HSC 21.01
+9 HSC 21.19
+10 HSC 21.18

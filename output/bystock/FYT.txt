@@ -1,0 +1,3 @@
+hour stock vwap
+8 FYT 34.7
+10 FYT 34.9

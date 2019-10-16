@@ -1,0 +1,9 @@
+hour stock vwap
+3 VTR 63.56
+4 VTR 63.58
+5 VTR 63.86
+6 VTR 63.96
+7 VTR 64.14
+8 VTR 63.8
+9 VTR 63.84
+10 VTR 63.89

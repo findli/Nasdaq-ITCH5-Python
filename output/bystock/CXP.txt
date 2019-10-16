@@ -1,0 +1,6 @@
+hour stock vwap
+6 CXP 21.58
+7 CXP 21.64
+8 CXP 21.6
+9 CXP 21.6
+10 CXP 21.57

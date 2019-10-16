@@ -1,0 +1,8 @@
+hour stock vwap
+4 LYG 2.99
+5 LYG 3.0
+6 LYG 3.0
+7 LYG 3.0
+8 LYG 2.99
+9 LYG 3.02
+10 LYG 3.01

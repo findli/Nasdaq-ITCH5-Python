@@ -1,0 +1,8 @@
+hour stock vwap
+4 BNS 56.42
+5 BNS 56.37
+6 BNS 56.48
+7 BNS 56.48
+8 BNS 56.34
+9 BNS 56.73
+10 BNS 56.69

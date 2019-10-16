@@ -1,0 +1,7 @@
+hour stock vwap
+4 LEVL 23.09
+5 LEVL 24.2
+7 LEVL 23.28
+8 LEVL 23.2
+9 LEVL 23.19
+10 LEVL 23.02

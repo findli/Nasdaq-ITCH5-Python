@@ -1,0 +1,6 @@
+hour stock vwap
+5 ROAD 11.92
+6 ROAD 12.04
+8 ROAD 11.98
+9 ROAD 12.04
+10 ROAD 12.1

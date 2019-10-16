@@ -1,0 +1,8 @@
+hour stock vwap
+4 WPC 73.59
+5 WPC 74.03
+6 WPC 73.99
+7 WPC 74.05
+8 WPC 73.89
+9 WPC 74.02
+10 WPC 74.03

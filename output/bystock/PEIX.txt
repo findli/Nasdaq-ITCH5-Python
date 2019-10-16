@@ -1,0 +1,7 @@
+hour stock vwap
+4 PEIX 1.44
+5 PEIX 1.43
+6 PEIX 1.42
+7 PEIX 1.37
+9 PEIX 1.37
+10 PEIX 1.37

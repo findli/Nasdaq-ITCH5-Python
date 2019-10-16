@@ -1,0 +1,8 @@
+hour stock vwap
+4 LNG 65.97
+5 LNG 65.72
+6 LNG 66.29
+7 LNG 66.55
+8 LNG 66.29
+9 LNG 66.62
+10 LNG 66.38

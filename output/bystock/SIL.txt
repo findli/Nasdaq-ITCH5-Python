@@ -1,0 +1,6 @@
+hour stock vwap
+5 SIL 26.3
+6 SIL 26.26
+7 SIL 26.26
+9 SIL 26.97
+10 SIL 26.89

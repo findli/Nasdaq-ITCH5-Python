@@ -1,0 +1,6 @@
+hour stock vwap
+5 ADMA 3.05
+6 ADMA 3.01
+8 ADMA 2.99
+9 ADMA 3.08
+10 ADMA 3.12

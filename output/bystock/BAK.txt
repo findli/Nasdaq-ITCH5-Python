@@ -1,0 +1,8 @@
+hour stock vwap
+3 BAK 28.01
+4 BAK 28.2
+5 BAK 28.03
+6 BAK 27.9
+7 BAK 28.0
+9 BAK 28.04
+10 BAK 27.94

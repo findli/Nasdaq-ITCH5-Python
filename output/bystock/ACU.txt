@@ -1,0 +1,3 @@
+hour stock vwap
+7 ACU 17.11
+10 ACU 16.81

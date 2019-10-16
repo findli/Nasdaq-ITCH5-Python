@@ -1,0 +1,4 @@
+hour stock vwap
+8 BSD 12.62
+9 BSD 12.6
+10 BSD 12.59

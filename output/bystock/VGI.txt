@@ -1,0 +1,3 @@
+hour stock vwap
+6 VGI 11.9
+7 VGI 11.97

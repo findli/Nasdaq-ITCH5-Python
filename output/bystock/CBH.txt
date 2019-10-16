@@ -1,0 +1,3 @@
+hour stock vwap
+6 CBH 8.79
+10 CBH 8.83

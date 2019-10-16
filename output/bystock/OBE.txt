@@ -1,0 +1,8 @@
+hour stock vwap
+4 OBE 0.43
+5 OBE 0.43
+6 OBE 0.42
+7 OBE 0.42
+8 OBE 0.41
+9 OBE 0.4
+10 OBE 0.4

@@ -1,0 +1,6 @@
+hour stock vwap
+5 REX 71.66
+7 REX 72.43
+8 REX 72.42
+9 REX 72.45
+10 REX 72.6

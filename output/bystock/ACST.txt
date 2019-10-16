@@ -1,0 +1,6 @@
+hour stock vwap
+5 ACST 1.03
+6 ACST 1.03
+7 ACST 1.02
+8 ACST 1.02
+9 ACST 1.02

@@ -1,0 +1,7 @@
+hour stock vwap
+4 WOW 7.26
+5 WOW 7.28
+6 WOW 7.3
+8 WOW 7.22
+9 WOW 7.26
+10 WOW 7.2

@@ -1,0 +1,4 @@
+hour stock vwap
+5 SBIO 30.83
+9 SBIO 31.41
+10 SBIO 31.54

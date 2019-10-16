@@ -1,0 +1,6 @@
+hour stock vwap
+4 NRIM 32.47
+7 NRIM 32.91
+8 NRIM 33.13
+9 NRIM 33.08
+10 NRIM 33.16

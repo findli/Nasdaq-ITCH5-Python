@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDC 30.64
+5 MDC 30.61
+6 MDC 30.46
+7 MDC 30.31
+8 MDC 30.3
+9 MDC 30.75
+10 MDC 31.13

@@ -1,0 +1,3 @@
+hour stock vwap
+4 SFET 2.84
+9 SFET 2.78

@@ -1,0 +1,5 @@
+hour stock vwap
+5 MLR 29.45
+6 MLR 29.41
+8 MLR 29.4
+9 MLR 29.41

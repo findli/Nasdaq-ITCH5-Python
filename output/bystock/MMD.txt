@@ -1,0 +1,4 @@
+hour stock vwap
+7 MMD 19.71
+9 MMD 19.71
+10 MMD 19.59

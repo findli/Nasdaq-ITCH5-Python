@@ -1,0 +1,8 @@
+hour stock vwap
+4 KEY 16.71
+5 KEY 16.73
+6 KEY 16.8
+7 KEY 16.79
+8 KEY 16.77
+9 KEY 16.78
+10 KEY 16.72

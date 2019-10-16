@@ -1,0 +1,7 @@
+hour stock vwap
+5 RFIL 8.2
+6 RFIL 8.16
+7 RFIL 8.13
+8 RFIL 8.2
+9 RFIL 8.17
+10 RFIL 8.18

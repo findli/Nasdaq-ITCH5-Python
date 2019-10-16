@@ -1,0 +1,7 @@
+hour stock vwap
+4 IMAX 20.82
+5 IMAX 20.96
+6 IMAX 21.0
+7 IMAX 20.99
+9 IMAX 20.93
+10 IMAX 20.79

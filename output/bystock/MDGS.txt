@@ -1,0 +1,5 @@
+hour stock vwap
+4 MDGS 2.51
+5 MDGS 2.42
+7 MDGS 2.47
+8 MDGS 2.44

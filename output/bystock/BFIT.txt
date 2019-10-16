@@ -1,0 +1,2 @@
+hour stock vwap
+4 BFIT 18.87

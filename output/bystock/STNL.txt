@@ -1,0 +1,5 @@
+hour stock vwap
+4 STNL 10.05
+6 STNL 10.05
+7 STNL 10.05
+8 STNL 10.06

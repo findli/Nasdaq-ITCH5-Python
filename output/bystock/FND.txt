@@ -1,0 +1,8 @@
+hour stock vwap
+4 FND 32.83
+5 FND 32.75
+6 FND 32.96
+7 FND 33.02
+8 FND 33.0
+9 FND 33.44
+10 FND 33.52

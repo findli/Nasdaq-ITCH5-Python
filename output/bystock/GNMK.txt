@@ -1,0 +1,8 @@
+hour stock vwap
+4 GNMK 6.54
+5 GNMK 6.52
+6 GNMK 6.57
+7 GNMK 6.54
+8 GNMK 6.44
+9 GNMK 6.44
+10 GNMK 6.48

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PKI 88.22
+5 PKI 88.14
+6 PKI 88.68
+7 PKI 89.27
+8 PKI 89.22
+9 PKI 90.46
+10 PKI 90.53

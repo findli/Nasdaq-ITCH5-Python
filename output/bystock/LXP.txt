@@ -1,0 +1,8 @@
+hour stock vwap
+4 LXP 9.42
+5 LXP 9.44
+6 LXP 9.5
+7 LXP 9.49
+8 LXP 9.45
+9 LXP 9.48
+10 LXP 9.47

@@ -1,0 +1,4 @@
+hour stock vwap
+7 TACT 10.29
+9 TACT 10.44
+10 TACT 10.3

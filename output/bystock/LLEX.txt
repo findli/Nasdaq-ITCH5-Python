@@ -1,0 +1,9 @@
+hour stock vwap
+4 LLEX 1.72
+5 LLEX 1.75
+6 LLEX 1.8
+7 LLEX 1.8
+8 LLEX 1.86
+9 LLEX 1.9
+10 LLEX 1.9
+11 LLEX 1.9

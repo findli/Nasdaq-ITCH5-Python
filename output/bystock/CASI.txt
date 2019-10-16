@@ -1,0 +1,7 @@
+hour stock vwap
+4 CASI 3.3
+6 CASI 3.32
+7 CASI 3.43
+8 CASI 3.43
+9 CASI 3.55
+10 CASI 3.51

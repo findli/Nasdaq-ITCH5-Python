@@ -1,0 +1,9 @@
+hour stock vwap
+4 DBX 23.51
+5 DBX 23.6
+6 DBX 23.51
+7 DBX 23.53
+8 DBX 23.64
+9 DBX 23.92
+10 DBX 23.89
+11 DBX 23.98

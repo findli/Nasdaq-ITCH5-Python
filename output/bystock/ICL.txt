@@ -1,0 +1,5 @@
+hour stock vwap
+4 ICL 5.86
+7 ICL 5.87
+9 ICL 5.9
+10 ICL 5.9

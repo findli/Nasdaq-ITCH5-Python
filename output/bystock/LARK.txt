@@ -1,0 +1,4 @@
+hour stock vwap
+4 LARK 23.44
+8 LARK 22.39
+9 LARK 23.04

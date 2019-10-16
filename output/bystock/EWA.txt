@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWA 20.48
+5 EWA 20.49
+6 EWA 20.52
+7 EWA 20.54
+8 EWA 20.52
+9 EWA 20.7
+10 EWA 20.71

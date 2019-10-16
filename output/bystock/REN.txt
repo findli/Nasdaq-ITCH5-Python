@@ -1,0 +1,8 @@
+hour stock vwap
+4 REN 32.88
+5 REN 32.76
+6 REN 33.37
+7 REN 33.42
+8 REN 33.39
+9 REN 33.37
+10 REN 33.28

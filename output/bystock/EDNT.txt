@@ -1,0 +1,5 @@
+hour stock vwap
+4 EDNT 4.87
+7 EDNT 4.86
+8 EDNT 4.86
+9 EDNT 4.7

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MSA 97.79
+5 MSA 97.31
+6 MSA 96.58
+7 MSA 97.29
+8 MSA 97.39
+9 MSA 98.4
+10 MSA 98.69

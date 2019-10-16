@@ -1,0 +1,6 @@
+hour stock vwap
+6 AGRO 7.2
+7 AGRO 7.28
+8 AGRO 7.41
+9 AGRO 7.48
+10 AGRO 7.48

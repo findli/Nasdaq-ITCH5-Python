@@ -1,0 +1,6 @@
+hour stock vwap
+4 PRK 94.16
+7 PRK 92.83
+8 PRK 92.74
+9 PRK 93.23
+10 PRK 92.98

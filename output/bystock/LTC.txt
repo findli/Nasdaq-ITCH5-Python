@@ -1,0 +1,8 @@
+hour stock vwap
+4 LTC 46.17
+5 LTC 46.52
+6 LTC 46.64
+7 LTC 46.86
+8 LTC 46.71
+9 LTC 46.73
+10 LTC 46.76

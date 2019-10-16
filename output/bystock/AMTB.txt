@@ -1,0 +1,7 @@
+hour stock vwap
+4 AMTB 13.69
+5 AMTB 13.96
+6 AMTB 14.12
+7 AMTB 13.96
+9 AMTB 14.02
+10 AMTB 13.98

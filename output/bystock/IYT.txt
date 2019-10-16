@@ -1,0 +1,6 @@
+hour stock vwap
+5 IYT 178.56
+6 IYT 180.01
+7 IYT 180.36
+9 IYT 181.56
+10 IYT 181.15

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DAL 48.65
+5 DAL 48.88
+6 DAL 49.4
+7 DAL 49.68
+8 DAL 49.92
+9 DAL 50.19
+10 DAL 50.29

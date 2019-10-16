@@ -1,0 +1,4 @@
+hour stock vwap
+5 HSBC-A 25.78
+9 HSBC-A 25.78
+10 HSBC-A 25.86

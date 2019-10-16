@@ -1,0 +1,4 @@
+hour stock vwap
+4 CWCO 12.55
+7 CWCO 12.75
+10 CWCO 12.8

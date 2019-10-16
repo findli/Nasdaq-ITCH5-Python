@@ -1,0 +1,7 @@
+hour stock vwap
+4 KRO 13.2
+5 KRO 13.09
+6 KRO 13.26
+8 KRO 13.3
+9 KRO 13.36
+10 KRO 13.39

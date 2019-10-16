@@ -1,0 +1,3 @@
+hour stock vwap
+6 MMT 5.56
+10 MMT 5.58

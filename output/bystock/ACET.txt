@@ -1,0 +1,6 @@
+hour stock vwap
+5 ACET 1.19
+6 ACET 1.18
+8 ACET 1.18
+9 ACET 1.23
+10 ACET 1.22

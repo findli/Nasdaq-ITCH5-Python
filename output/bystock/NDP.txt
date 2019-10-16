@@ -1,0 +1,3 @@
+hour stock vwap
+7 NDP 9.28
+8 NDP 9.3

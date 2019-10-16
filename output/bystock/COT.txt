@@ -1,0 +1,8 @@
+hour stock vwap
+4 COT 14.99
+5 COT 14.98
+6 COT 15.01
+7 COT 15.05
+8 COT 14.97
+9 COT 15.01
+10 COT 14.95

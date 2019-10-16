@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCF 96.75
+5 CCF 96.5
+6 CCF 96.3
+7 CCF 96.16
+8 CCF 96.18
+9 CCF 96.37
+10 CCF 96.05

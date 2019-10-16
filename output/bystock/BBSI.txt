@@ -1,0 +1,7 @@
+hour stock vwap
+4 BBSI 62.62
+5 BBSI 62.55
+7 BBSI 63.05
+8 BBSI 63.15
+9 BBSI 63.15
+10 BBSI 63.11

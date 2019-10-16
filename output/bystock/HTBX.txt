@@ -1,0 +1,7 @@
+hour stock vwap
+4 HTBX 1.42
+6 HTBX 1.41
+7 HTBX 1.4
+8 HTBX 1.4
+9 HTBX 1.4
+10 HTBX 1.41

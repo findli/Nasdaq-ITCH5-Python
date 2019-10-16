@@ -1,0 +1,4 @@
+hour stock vwap
+4 C-N 26.24
+6 C-N 26.28
+8 C-N 26.28

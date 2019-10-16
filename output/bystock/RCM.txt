@@ -1,0 +1,8 @@
+hour stock vwap
+4 RCM 7.89
+5 RCM 7.86
+6 RCM 7.88
+7 RCM 7.88
+8 RCM 7.89
+9 RCM 7.94
+10 RCM 7.94

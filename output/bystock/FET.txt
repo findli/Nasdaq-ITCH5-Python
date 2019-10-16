@@ -1,0 +1,8 @@
+hour stock vwap
+4 FET 4.94
+5 FET 4.8
+6 FET 4.87
+7 FET 4.86
+8 FET 4.96
+9 FET 4.98
+10 FET 4.97

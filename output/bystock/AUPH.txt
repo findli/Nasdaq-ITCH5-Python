@@ -1,0 +1,8 @@
+hour stock vwap
+4 AUPH 6.33
+5 AUPH 6.36
+6 AUPH 6.33
+7 AUPH 6.36
+8 AUPH 6.41
+9 AUPH 6.36
+10 AUPH 6.36

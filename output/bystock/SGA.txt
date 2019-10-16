@@ -1,0 +1,5 @@
+hour stock vwap
+4 SGA 32.71
+5 SGA 32.42
+7 SGA 32.85
+10 SGA 33.51

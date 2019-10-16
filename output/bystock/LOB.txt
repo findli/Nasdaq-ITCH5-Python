@@ -1,0 +1,8 @@
+hour stock vwap
+4 LOB 13.75
+5 LOB 13.88
+6 LOB 13.88
+7 LOB 13.82
+8 LOB 13.76
+9 LOB 13.89
+10 LOB 13.78

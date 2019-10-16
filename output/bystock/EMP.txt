@@ -1,0 +1,3 @@
+hour stock vwap
+7 EMP 23.76
+10 EMP 23.84

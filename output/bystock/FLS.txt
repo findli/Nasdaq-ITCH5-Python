@@ -1,0 +1,8 @@
+hour stock vwap
+4 FLS 43.06
+5 FLS 42.91
+6 FLS 43.25
+7 FLS 43.31
+8 FLS 43.13
+9 FLS 43.58
+10 FLS 43.59

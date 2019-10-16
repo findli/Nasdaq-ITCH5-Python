@@ -1,0 +1,4 @@
+hour stock vwap
+5 CFG-D 25.45
+6 CFG-D 25.43
+10 CFG-D 25.45

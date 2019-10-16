@@ -1,0 +1,7 @@
+hour stock vwap
+4 AUDC 14.37
+5 AUDC 14.46
+6 AUDC 14.73
+8 AUDC 14.71
+9 AUDC 14.75
+10 AUDC 14.76

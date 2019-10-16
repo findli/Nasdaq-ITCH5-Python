@@ -1,0 +1,5 @@
+hour stock vwap
+5 CATC 76.0
+8 CATC 75.95
+9 CATC 75.12
+10 CATC 75.01

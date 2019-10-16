@@ -1,0 +1,5 @@
+hour stock vwap
+5 UROV 9.01
+6 UROV 8.95
+8 UROV 8.85
+10 UROV 8.84

@@ -1,0 +1,7 @@
+hour stock vwap
+5 PCI 22.76
+6 PCI 22.8
+7 PCI 22.75
+8 PCI 22.8
+9 PCI 22.89
+10 PCI 22.82

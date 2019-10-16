@@ -1,0 +1,7 @@
+hour stock vwap
+4 MNLO 5.39
+5 MNLO 5.3
+6 MNLO 5.3
+8 MNLO 5.3
+9 MNLO 5.35
+10 MNLO 5.32

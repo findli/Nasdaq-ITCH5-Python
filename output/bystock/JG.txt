@@ -1,0 +1,3 @@
+hour stock vwap
+6 JG 7.71
+10 JG 7.68

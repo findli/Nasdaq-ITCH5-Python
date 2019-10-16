@@ -1,0 +1,8 @@
+hour stock vwap
+4 RHP 77.98
+5 RHP 78.59
+6 RHP 78.56
+7 RHP 78.85
+8 RHP 78.99
+9 RHP 79.18
+10 RHP 79.33

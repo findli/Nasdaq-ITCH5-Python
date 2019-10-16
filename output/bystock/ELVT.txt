@@ -1,0 +1,5 @@
+hour stock vwap
+6 ELVT 4.55
+7 ELVT 4.57
+9 ELVT 4.53
+10 ELVT 4.53

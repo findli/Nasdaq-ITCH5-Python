@@ -1,0 +1,8 @@
+hour stock vwap
+4 BOKF 85.35
+5 BOKF 84.11
+6 BOKF 85.43
+7 BOKF 85.0
+8 BOKF 85.1
+9 BOKF 85.6
+10 BOKF 85.1

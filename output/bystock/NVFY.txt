@@ -1,0 +1,4 @@
+hour stock vwap
+5 NVFY 0.7
+6 NVFY 0.7
+10 NVFY 0.7

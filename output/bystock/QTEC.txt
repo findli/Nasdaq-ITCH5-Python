@@ -1,0 +1,4 @@
+hour stock vwap
+4 QTEC 73.87
+9 QTEC 74.78
+10 QTEC 75.1

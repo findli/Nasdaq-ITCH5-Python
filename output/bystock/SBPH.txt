@@ -1,0 +1,5 @@
+hour stock vwap
+4 SBPH 10.35
+5 SBPH 10.34
+9 SBPH 10.5
+10 SBPH 10.73

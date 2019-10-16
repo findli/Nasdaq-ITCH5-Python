@@ -1,0 +1,7 @@
+hour stock vwap
+5 RLGT 4.86
+6 RLGT 4.93
+7 RLGT 4.98
+8 RLGT 4.98
+9 RLGT 4.92
+10 RLGT 4.93

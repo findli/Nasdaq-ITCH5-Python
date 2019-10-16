@@ -1,0 +1,8 @@
+hour stock vwap
+4 BCRX 8.77
+5 BCRX 8.63
+6 BCRX 8.62
+7 BCRX 8.69
+8 BCRX 8.65
+9 BCRX 8.7
+10 BCRX 8.66

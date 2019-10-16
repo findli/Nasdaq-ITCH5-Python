@@ -1,0 +1,5 @@
+hour stock vwap
+6 TRCB 16.23
+8 TRCB 16.39
+9 TRCB 16.4
+10 TRCB 16.24

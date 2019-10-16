@@ -1,0 +1,3 @@
+hour stock vwap
+7 BDC-B 72.19
+10 BDC-B 71.66

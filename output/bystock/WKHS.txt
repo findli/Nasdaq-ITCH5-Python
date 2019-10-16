@@ -1,0 +1,7 @@
+hour stock vwap
+4 WKHS 0.9
+5 WKHS 0.87
+6 WKHS 0.89
+7 WKHS 0.89
+8 WKHS 0.89
+9 WKHS 0.89

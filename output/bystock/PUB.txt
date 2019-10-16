@@ -1,0 +1,5 @@
+hour stock vwap
+6 PUB 29.75
+7 PUB 29.45
+8 PUB 29.47
+10 PUB 29.31

@@ -1,0 +1,4 @@
+hour stock vwap
+8 TBNK 27.6
+9 TBNK 27.61
+10 TBNK 27.61

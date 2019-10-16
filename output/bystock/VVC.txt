@@ -1,0 +1,8 @@
+hour stock vwap
+4 VVC 72.08
+5 VVC 72.09
+6 VVC 72.05
+7 VVC 72.09
+8 VVC 72.3
+9 VVC 72.35
+10 VVC 72.36

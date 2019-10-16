@@ -1,0 +1,8 @@
+hour stock vwap
+4 SWX 76.34
+5 SWX 76.34
+6 SWX 76.34
+7 SWX 76.01
+8 SWX 75.71
+9 SWX 76.2
+10 SWX 76.12

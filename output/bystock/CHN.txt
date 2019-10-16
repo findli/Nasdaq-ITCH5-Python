@@ -1,0 +1,7 @@
+hour stock vwap
+4 CHN 18.84
+5 CHN 18.88
+6 CHN 18.86
+7 CHN 18.86
+8 CHN 18.9
+9 CHN 18.96

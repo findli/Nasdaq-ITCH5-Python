@@ -1,0 +1,8 @@
+hour stock vwap
+4 PLUG 1.41
+5 PLUG 1.39
+6 PLUG 1.4
+7 PLUG 1.39
+8 PLUG 1.38
+9 PLUG 1.38
+10 PLUG 1.38

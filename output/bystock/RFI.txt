@@ -1,0 +1,4 @@
+hour stock vwap
+5 RFI 12.71
+7 RFI 12.75
+10 RFI 12.75

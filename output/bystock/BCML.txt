@@ -1,0 +1,7 @@
+hour stock vwap
+4 BCML 22.04
+5 BCML 21.96
+6 BCML 21.86
+8 BCML 21.64
+9 BCML 21.39
+10 BCML 21.48

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OKE 64.04
+5 OKE 64.03
+6 OKE 64.24
+7 OKE 64.29
+8 OKE 63.81
+9 OKE 64.1
+10 OKE 64.13

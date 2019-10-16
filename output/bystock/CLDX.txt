@@ -1,0 +1,8 @@
+hour stock vwap
+4 CLDX 0.36
+5 CLDX 0.37
+6 CLDX 0.37
+7 CLDX 0.38
+8 CLDX 0.39
+9 CLDX 0.41
+10 CLDX 0.41

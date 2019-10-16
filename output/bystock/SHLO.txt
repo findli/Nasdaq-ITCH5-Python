@@ -1,0 +1,6 @@
+hour stock vwap
+5 SHLO 5.95
+6 SHLO 5.96
+7 SHLO 5.96
+9 SHLO 5.98
+10 SHLO 5.97

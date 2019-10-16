@@ -1,0 +1,4 @@
+hour stock vwap
+5 DBO 9.9
+9 DBO 10.01
+10 DBO 9.96

@@ -1,0 +1,5 @@
+hour stock vwap
+5 USB-H 19.52
+8 USB-H 19.45
+9 USB-H 19.5
+10 USB-H 19.55

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPRX 2.39
+5 CPRX 2.42
+6 CPRX 2.4
+7 CPRX 2.41
+8 CPRX 2.41
+9 CPRX 2.43
+10 CPRX 2.46

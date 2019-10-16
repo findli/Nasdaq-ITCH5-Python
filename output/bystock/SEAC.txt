@@ -1,0 +1,5 @@
+hour stock vwap
+6 SEAC 1.58
+7 SEAC 1.6
+9 SEAC 1.6
+10 SEAC 1.6

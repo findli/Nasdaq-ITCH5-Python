@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARW 74.71
+5 ARW 74.5
+6 ARW 74.87
+7 ARW 75.04
+8 ARW 74.73
+9 ARW 75.41
+10 ARW 75.46

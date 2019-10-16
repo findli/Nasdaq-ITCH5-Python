@@ -1,0 +1,4 @@
+hour stock vwap
+4 MIXT 15.77
+5 MIXT 15.65
+8 MIXT 15.69

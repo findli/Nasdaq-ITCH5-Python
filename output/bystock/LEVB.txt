@@ -1,0 +1,8 @@
+hour stock vwap
+5 LEVB 4.46
+6 LEVB 4.43
+7 LEVB 4.49
+8 LEVB 4.46
+9 LEVB 4.57
+10 LEVB 4.59
+11 LEVB 4.67

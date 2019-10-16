@@ -1,0 +1,4 @@
+hour stock vwap
+8 TUZ 50.18
+9 TUZ 50.19
+10 TUZ 50.24

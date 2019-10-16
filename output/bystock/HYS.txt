@@ -1,0 +1,8 @@
+hour stock vwap
+4 HYS 98.34
+5 HYS 98.4
+6 HYS 98.45
+7 HYS 98.46
+8 HYS 98.43
+9 HYS 98.73
+10 HYS 98.77

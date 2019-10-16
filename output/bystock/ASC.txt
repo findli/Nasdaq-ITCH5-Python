@@ -1,0 +1,3 @@
+hour stock vwap
+6 ASC 5.63
+10 ASC 5.56

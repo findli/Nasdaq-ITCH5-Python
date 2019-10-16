@@ -1,0 +1,7 @@
+hour stock vwap
+4 FISI 27.39
+5 FISI 27.31
+6 FISI 27.31
+8 FISI 27.24
+9 FISI 27.28
+10 FISI 27.23

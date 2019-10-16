@@ -1,0 +1,7 @@
+hour stock vwap
+4 NAV 32.05
+5 NAV 31.8
+6 NAV 31.98
+7 NAV 32.01
+9 NAV 32.33
+10 NAV 32.05

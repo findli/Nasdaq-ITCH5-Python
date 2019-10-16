@@ -1,0 +1,5 @@
+hour stock vwap
+5 RYT 152.82
+6 RYT 153.0
+8 RYT 153.44
+9 RYT 155.22

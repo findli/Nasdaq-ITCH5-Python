@@ -1,0 +1,4 @@
+hour stock vwap
+4 CHW 7.58
+9 CHW 7.66
+10 CHW 7.64

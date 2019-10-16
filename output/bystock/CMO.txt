@@ -1,0 +1,7 @@
+hour stock vwap
+4 CMO 7.22
+5 CMO 7.24
+6 CMO 7.25
+8 CMO 7.24
+9 CMO 7.24
+10 CMO 7.2

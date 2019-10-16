@@ -1,0 +1,4 @@
+hour stock vwap
+4 RRTS 0.48
+6 RRTS 0.49
+10 RRTS 0.49

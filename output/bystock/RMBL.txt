@@ -1,0 +1,8 @@
+hour stock vwap
+4 RMBL 6.28
+5 RMBL 6.2
+6 RMBL 6.21
+7 RMBL 6.21
+8 RMBL 6.2
+9 RMBL 6.21
+10 RMBL 6.25

@@ -1,0 +1,2 @@
+hour stock vwap
+10 NLY-F 25.26

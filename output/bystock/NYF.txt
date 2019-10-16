@@ -1,0 +1,4 @@
+hour stock vwap
+7 NYF 54.94
+8 NYF 54.93
+9 NYF 54.93

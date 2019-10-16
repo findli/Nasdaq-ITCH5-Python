@@ -1,0 +1,8 @@
+hour stock vwap
+4 FMC 80.31
+5 FMC 79.85
+6 FMC 80.28
+7 FMC 80.49
+8 FMC 80.24
+9 FMC 80.99
+10 FMC 80.84

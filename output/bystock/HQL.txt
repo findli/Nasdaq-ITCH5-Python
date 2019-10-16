@@ -1,0 +1,5 @@
+hour stock vwap
+4 HQL 17.07
+5 HQL 17.05
+6 HQL 17.05
+10 HQL 17.31

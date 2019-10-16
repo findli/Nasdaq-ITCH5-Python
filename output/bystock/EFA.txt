@@ -1,0 +1,8 @@
+hour stock vwap
+4 EFA 62.23
+5 EFA 62.17
+6 EFA 62.28
+7 EFA 62.32
+8 EFA 62.27
+9 EFA 62.75
+10 EFA 62.74

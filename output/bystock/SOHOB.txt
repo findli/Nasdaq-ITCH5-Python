@@ -1,0 +1,2 @@
+hour stock vwap
+10 SOHOB 24.43

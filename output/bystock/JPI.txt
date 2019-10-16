@@ -1,0 +1,4 @@
+hour stock vwap
+5 JPI 21.81
+6 JPI 21.8
+10 JPI 21.94

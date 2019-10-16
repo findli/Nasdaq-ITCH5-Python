@@ -1,0 +1,5 @@
+hour stock vwap
+4 RBB 18.98
+7 RBB 18.61
+8 RBB 18.73
+10 RBB 18.84

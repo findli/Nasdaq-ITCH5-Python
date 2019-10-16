@@ -1,0 +1,8 @@
+hour stock vwap
+4 AYX 70.39
+5 AYX 69.77
+6 AYX 69.67
+7 AYX 69.8
+8 AYX 69.86
+9 AYX 70.64
+10 AYX 70.68

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CDMO 3.74
+5 CDMO 3.71
+6 CDMO 3.69
+7 CDMO 3.72
+8 CDMO 3.71
+9 CDMO 3.75
+10 CDMO 3.76

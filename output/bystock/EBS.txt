@@ -1,0 +1,8 @@
+hour stock vwap
+4 EBS 60.45
+5 EBS 60.01
+6 EBS 59.64
+7 EBS 60.12
+8 EBS 60.22
+9 EBS 60.29
+10 EBS 60.41

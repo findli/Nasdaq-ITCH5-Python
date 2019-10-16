@@ -1,0 +1,7 @@
+hour stock vwap
+5 TEO 16.25
+6 TEO 16.17
+7 TEO 16.48
+8 TEO 16.7
+9 TEO 16.62
+10 TEO 16.45

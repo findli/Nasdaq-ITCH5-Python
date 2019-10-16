@@ -1,0 +1,7 @@
+hour stock vwap
+5 RA 20.8
+6 RA 20.81
+7 RA 20.81
+8 RA 20.81
+9 RA 20.92
+10 RA 20.9

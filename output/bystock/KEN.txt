@@ -1,0 +1,3 @@
+hour stock vwap
+4 KEN 16.72
+7 KEN 18.1

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HMC 29.77
+5 HMC 29.69
+6 HMC 29.75
+7 HMC 29.78
+8 HMC 29.78
+9 HMC 30.0
+10 HMC 30.03

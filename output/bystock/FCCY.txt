@@ -1,0 +1,4 @@
+hour stock vwap
+4 FCCY 19.54
+9 FCCY 19.51
+10 FCCY 19.56

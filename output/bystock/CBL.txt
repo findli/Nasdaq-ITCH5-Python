@@ -1,0 +1,7 @@
+hour stock vwap
+4 CBL 2.42
+5 CBL 2.44
+6 CBL 2.42
+8 CBL 2.41
+9 CBL 2.45
+10 CBL 2.42

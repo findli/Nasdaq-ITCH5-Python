@@ -1,0 +1,4 @@
+hour stock vwap
+7 AFH 8.98
+9 AFH 9.1
+10 AFH 9.12

@@ -1,0 +1,4 @@
+hour stock vwap
+5 HIE 11.23
+8 HIE 11.28
+10 HIE 11.29

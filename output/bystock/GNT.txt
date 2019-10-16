@@ -1,0 +1,4 @@
+hour stock vwap
+5 GNT 5.48
+7 GNT 5.52
+8 GNT 5.52

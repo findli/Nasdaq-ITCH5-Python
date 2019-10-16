@@ -1,0 +1,7 @@
+hour stock vwap
+5 SIBN 18.4
+6 SIBN 18.28
+7 SIBN 18.15
+8 SIBN 18.05
+9 SIBN 17.79
+10 SIBN 17.43

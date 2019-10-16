@@ -1,0 +1,7 @@
+hour stock vwap
+4 HYLS 46.79
+5 HYLS 46.75
+6 HYLS 46.78
+7 HYLS 46.79
+8 HYLS 46.78
+10 HYLS 46.92

@@ -1,0 +1,4 @@
+hour stock vwap
+4 SCJ 68.37
+5 SCJ 68.39
+10 SCJ 69.02

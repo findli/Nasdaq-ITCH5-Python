@@ -1,0 +1,5 @@
+hour stock vwap
+5 MTP 0.12
+7 MTP 0.12
+9 MTP 0.12
+10 MTP 0.12

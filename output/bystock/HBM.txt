@@ -1,0 +1,7 @@
+hour stock vwap
+5 HBM 5.78
+6 HBM 5.83
+7 HBM 5.88
+8 HBM 5.91
+9 HBM 5.98
+10 HBM 6.01

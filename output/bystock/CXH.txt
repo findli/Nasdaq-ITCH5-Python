@@ -1,0 +1,3 @@
+hour stock vwap
+7 CXH 9.41
+9 CXH 9.46

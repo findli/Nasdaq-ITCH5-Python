@@ -1,0 +1,4 @@
+hour stock vwap
+5 VOOV 104.21
+9 VOOV 104.81
+10 VOOV 105.21

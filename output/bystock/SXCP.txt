@@ -1,0 +1,4 @@
+hour stock vwap
+4 SXCP 13.34
+9 SXCP 13.66
+10 SXCP 13.54

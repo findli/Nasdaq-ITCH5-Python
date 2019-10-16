@@ -1,0 +1,8 @@
+hour stock vwap
+4 NVO 46.72
+5 NVO 46.81
+6 NVO 46.8
+7 NVO 46.82
+8 NVO 46.81
+9 NVO 47.01
+10 NVO 47.06

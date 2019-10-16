@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKE 17.49
+5 BKE 17.26
+6 BKE 17.3
+7 BKE 17.26
+8 BKE 17.22
+9 BKE 17.41
+10 BKE 17.42

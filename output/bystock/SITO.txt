@@ -1,0 +1,6 @@
+hour stock vwap
+4 SITO 1.52
+6 SITO 1.49
+7 SITO 1.46
+8 SITO 1.46
+10 SITO 1.42

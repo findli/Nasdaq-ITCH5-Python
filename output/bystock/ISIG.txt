@@ -1,0 +1,3 @@
+hour stock vwap
+8 ISIG 1.18
+10 ISIG 1.2

@@ -1,0 +1,4 @@
+hour stock vwap
+7 TPOR 24.28
+9 TPOR 24.8
+10 TPOR 24.42

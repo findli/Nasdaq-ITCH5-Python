@@ -1,0 +1,7 @@
+hour stock vwap
+5 FFG 67.88
+6 FFG 67.65
+7 FFG 67.72
+8 FFG 67.77
+9 FFG 68.3
+10 FFG 68.13

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SALT 5.03
+5 SALT 4.98
+6 SALT 4.82
+7 SALT 4.77
+8 SALT 4.61
+9 SALT 4.61
+10 SALT 4.68

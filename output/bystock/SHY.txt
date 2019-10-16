@@ -1,0 +1,8 @@
+hour stock vwap
+4 SHY 83.65
+5 SHY 83.65
+6 SHY 83.64
+7 SHY 83.64
+8 SHY 83.64
+9 SHY 83.7
+10 SHY 83.74

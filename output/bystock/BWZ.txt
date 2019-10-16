@@ -1,0 +1,3 @@
+hour stock vwap
+7 BWZ 30.97
+9 BWZ 30.96

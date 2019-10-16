@@ -1,0 +1,8 @@
+hour stock vwap
+4 TSU 16.03
+5 TSU 15.92
+6 TSU 15.9
+7 TSU 15.86
+8 TSU 15.97
+9 TSU 16.19
+10 TSU 16.35

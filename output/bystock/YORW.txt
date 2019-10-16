@@ -1,0 +1,7 @@
+hour stock vwap
+4 YORW 32.57
+5 YORW 32.3
+6 YORW 32.5
+7 YORW 32.47
+8 YORW 32.32
+10 YORW 32.47

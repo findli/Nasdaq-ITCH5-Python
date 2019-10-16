@@ -1,0 +1,7 @@
+hour stock vwap
+4 AP 3.7
+5 AP 3.48
+7 AP 3.32
+8 AP 3.36
+9 AP 3.41
+10 AP 3.44

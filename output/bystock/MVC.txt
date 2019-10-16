@@ -1,0 +1,4 @@
+hour stock vwap
+7 MVC 8.81
+9 MVC 8.81
+10 MVC 8.82

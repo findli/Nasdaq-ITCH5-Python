@@ -1,0 +1,8 @@
+hour stock vwap
+4 POL 32.14
+5 POL 31.99
+6 POL 32.09
+7 POL 32.18
+8 POL 32.03
+9 POL 32.43
+10 POL 32.49

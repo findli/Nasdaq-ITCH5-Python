@@ -1,0 +1,8 @@
+hour stock vwap
+4 SRNE 2.12
+5 SRNE 2.07
+6 SRNE 2.08
+7 SRNE 2.08
+8 SRNE 2.06
+9 SRNE 2.09
+10 SRNE 2.14

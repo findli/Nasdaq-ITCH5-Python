@@ -1,0 +1,8 @@
+hour stock vwap
+4 PI 14.07
+5 PI 14.1
+6 PI 14.64
+7 PI 14.59
+8 PI 14.66
+9 PI 14.8
+10 PI 14.76

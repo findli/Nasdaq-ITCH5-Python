@@ -1,0 +1,5 @@
+hour stock vwap
+5 NBRV 1.95
+7 NBRV 1.92
+8 NBRV 1.9
+10 NBRV 1.91

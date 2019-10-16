@@ -1,0 +1,6 @@
+hour stock vwap
+4 OPHT 1.28
+7 OPHT 1.25
+8 OPHT 1.23
+9 OPHT 1.25
+10 OPHT 1.24

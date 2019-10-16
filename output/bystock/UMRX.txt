@@ -1,0 +1,8 @@
+hour stock vwap
+4 UMRX 3.9
+5 UMRX 3.9
+6 UMRX 3.92
+7 UMRX 3.92
+8 UMRX 3.9
+9 UMRX 3.92
+10 UMRX 3.95

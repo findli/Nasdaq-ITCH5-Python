@@ -1,0 +1,8 @@
+hour stock vwap
+4 BIG 31.92
+5 BIG 31.49
+6 BIG 31.29
+7 BIG 30.97
+8 BIG 30.87
+9 BIG 31.17
+10 BIG 31.18

@@ -1,0 +1,7 @@
+hour stock vwap
+5 LEN.B 36.76
+6 LEN.B 36.58
+7 LEN.B 36.47
+8 LEN.B 36.54
+9 LEN.B 37.09
+10 LEN.B 37.33

@@ -1,0 +1,9 @@
+hour stock vwap
+3 WFC 50.06
+4 WFC 49.82
+5 WFC 49.72
+6 WFC 49.91
+7 WFC 49.98
+8 WFC 49.92
+9 WFC 50.13
+10 WFC 50.15

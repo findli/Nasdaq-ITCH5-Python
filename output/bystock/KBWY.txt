@@ -1,0 +1,5 @@
+hour stock vwap
+4 KBWY 31.68
+6 KBWY 31.97
+8 KBWY 31.89
+9 KBWY 31.94

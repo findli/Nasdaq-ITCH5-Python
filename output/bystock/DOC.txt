@@ -1,0 +1,8 @@
+hour stock vwap
+4 DOC 17.62
+5 DOC 17.79
+6 DOC 17.84
+7 DOC 17.96
+8 DOC 17.91
+9 DOC 17.91
+10 DOC 17.83

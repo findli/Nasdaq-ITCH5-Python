@@ -1,0 +1,3 @@
+hour stock vwap
+9 SOCL 30.66
+10 SOCL 30.78

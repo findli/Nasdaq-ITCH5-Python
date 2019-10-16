@@ -1,0 +1,10 @@
+hour stock vwap
+2 JVA 5.98
+3 JVA 5.85
+4 JVA 5.64
+5 JVA 5.89
+6 JVA 5.62
+7 JVA 5.65
+8 JVA 5.6
+9 JVA 5.6
+10 JVA 5.35

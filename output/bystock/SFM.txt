@@ -1,0 +1,8 @@
+hour stock vwap
+4 SFM 24.05
+5 SFM 24.07
+6 SFM 24.01
+7 SFM 23.95
+8 SFM 23.87
+9 SFM 23.88
+10 SFM 23.93

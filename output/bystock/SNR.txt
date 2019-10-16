@@ -1,0 +1,7 @@
+hour stock vwap
+5 SNR 5.06
+6 SNR 5.1
+7 SNR 5.12
+8 SNR 5.08
+9 SNR 5.17
+10 SNR 5.16

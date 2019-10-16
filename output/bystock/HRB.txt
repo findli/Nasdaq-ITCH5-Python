@@ -1,0 +1,8 @@
+hour stock vwap
+4 HRB 25.65
+5 HRB 25.63
+6 HRB 25.6
+7 HRB 25.62
+8 HRB 25.55
+9 HRB 25.53
+10 HRB 25.52

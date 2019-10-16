@@ -1,0 +1,8 @@
+hour stock vwap
+4 MFC 15.88
+5 MFC 15.88
+6 MFC 15.97
+7 MFC 15.96
+8 MFC 15.88
+9 MFC 16.05
+10 MFC 15.98

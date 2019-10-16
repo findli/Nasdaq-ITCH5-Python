@@ -1,0 +1,3 @@
+hour stock vwap
+4 PRTO 2.57
+7 PRTO 2.59

@@ -1,0 +1,4 @@
+hour stock vwap
+7 CMU 4.53
+9 CMU 4.54
+10 CMU 4.54

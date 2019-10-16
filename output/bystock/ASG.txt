@@ -1,0 +1,4 @@
+hour stock vwap
+6 ASG 4.86
+7 ASG 4.88
+10 ASG 4.9

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DRYS 5.13
+5 DRYS 5.17
+6 DRYS 5.18
+7 DRYS 5.17
+8 DRYS 5.14
+9 DRYS 5.16
+10 DRYS 5.13

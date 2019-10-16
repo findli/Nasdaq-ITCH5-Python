@@ -1,0 +1,4 @@
+hour stock vwap
+4 CEA 30.81
+5 CEA 30.85
+8 CEA 30.75

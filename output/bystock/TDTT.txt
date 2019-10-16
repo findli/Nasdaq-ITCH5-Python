@@ -1,0 +1,4 @@
+hour stock vwap
+6 TDTT 23.9
+8 TDTT 23.9
+9 TDTT 23.94

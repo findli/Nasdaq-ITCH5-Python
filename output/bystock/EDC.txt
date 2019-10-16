@@ -1,0 +1,9 @@
+hour stock vwap
+3 EDC 77.44
+4 EDC 76.92
+5 EDC 76.61
+6 EDC 77.07
+7 EDC 77.36
+8 EDC 77.5
+9 EDC 79.68
+10 EDC 80.69

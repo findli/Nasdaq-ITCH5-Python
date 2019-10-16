@@ -1,0 +1,7 @@
+hour stock vwap
+5 ECOM 10.54
+6 ECOM 10.54
+7 ECOM 10.54
+8 ECOM 10.56
+9 ECOM 10.57
+10 ECOM 10.62

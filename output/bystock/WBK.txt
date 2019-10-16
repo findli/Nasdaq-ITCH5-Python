@@ -1,0 +1,4 @@
+hour stock vwap
+6 WBK 18.2
+8 WBK 18.18
+9 WBK 18.36

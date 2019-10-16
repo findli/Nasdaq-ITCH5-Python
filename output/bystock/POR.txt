@@ -1,0 +1,8 @@
+hour stock vwap
+4 POR 46.86
+5 POR 47.04
+6 POR 47.03
+7 POR 46.97
+8 POR 46.88
+9 POR 47.22
+10 POR 47.18

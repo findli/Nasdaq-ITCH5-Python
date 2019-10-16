@@ -1,0 +1,8 @@
+hour stock vwap
+4 YRIV 2.15
+5 YRIV 2.04
+6 YRIV 2.06
+7 YRIV 2.1
+8 YRIV 2.1
+9 YRIV 2.07
+10 YRIV 2.08

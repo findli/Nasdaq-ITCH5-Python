@@ -1,0 +1,8 @@
+hour stock vwap
+4 HYG 84.4
+5 HYG 84.42
+6 HYG 84.47
+7 HYG 84.5
+8 HYG 84.45
+9 HYG 84.8
+10 HYG 84.93

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PCY 26.98
+5 PCY 26.99
+6 PCY 27.02
+7 PCY 27.0
+8 PCY 27.01
+9 PCY 27.14
+10 PCY 27.2

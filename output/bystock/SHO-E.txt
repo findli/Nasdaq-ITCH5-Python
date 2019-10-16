@@ -1,0 +1,2 @@
+hour stock vwap
+7 SHO-E 25.63

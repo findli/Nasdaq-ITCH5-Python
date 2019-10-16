@@ -1,0 +1,8 @@
+hour stock vwap
+4 SSL 30.48
+5 SSL 30.44
+6 SSL 30.4
+7 SSL 30.49
+8 SSL 30.41
+9 SSL 30.64
+10 SSL 30.71

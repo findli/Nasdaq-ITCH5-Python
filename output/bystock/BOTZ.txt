@@ -1,0 +1,7 @@
+hour stock vwap
+2 BOTZ 18.03
+4 BOTZ 18.1
+5 BOTZ 18.06
+8 BOTZ 18.1
+9 BOTZ 18.28
+10 BOTZ 18.28

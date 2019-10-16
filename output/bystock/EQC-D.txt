@@ -1,0 +1,5 @@
+hour stock vwap
+7 EQC-D 25.73
+8 EQC-D 25.61
+9 EQC-D 25.45
+10 EQC-D 25.79

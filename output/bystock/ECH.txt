@@ -1,0 +1,8 @@
+hour stock vwap
+4 ECH 45.58
+5 ECH 45.38
+6 ECH 45.44
+7 ECH 45.54
+8 ECH 45.55
+9 ECH 45.92
+10 ECH 46.13

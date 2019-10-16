@@ -1,0 +1,5 @@
+hour stock vwap
+4 ANIX 5.28
+5 ANIX 5.18
+8 ANIX 5.24
+9 ANIX 5.2

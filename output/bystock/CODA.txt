@@ -1,0 +1,5 @@
+hour stock vwap
+4 CODA 5.95
+6 CODA 6.15
+7 CODA 6.18
+8 CODA 6.28

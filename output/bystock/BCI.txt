@@ -1,0 +1,2 @@
+hour stock vwap
+5 BCI 22.65

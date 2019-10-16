@@ -1,0 +1,4 @@
+hour stock vwap
+5 DRV 8.04
+7 DRV 7.96
+8 DRV 8.02

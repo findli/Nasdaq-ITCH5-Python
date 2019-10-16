@@ -1,0 +1,9 @@
+hour stock vwap
+4 IYR 82.11
+5 IYR 82.54
+6 IYR 82.64
+7 IYR 82.8
+8 IYR 82.52
+9 IYR 82.75
+10 IYR 82.63
+11 IYR 82.69

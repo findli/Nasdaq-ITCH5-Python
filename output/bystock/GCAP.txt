@@ -1,0 +1,7 @@
+hour stock vwap
+4 GCAP 6.63
+5 GCAP 6.61
+6 GCAP 6.61
+8 GCAP 6.5
+9 GCAP 6.56
+10 GCAP 6.51

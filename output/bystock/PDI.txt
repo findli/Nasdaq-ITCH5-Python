@@ -1,0 +1,6 @@
+hour stock vwap
+4 PDI 31.87
+5 PDI 31.86
+8 PDI 31.9
+9 PDI 31.96
+10 PDI 31.86

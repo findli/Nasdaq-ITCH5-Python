@@ -1,0 +1,7 @@
+hour stock vwap
+5 KWR 196.16
+6 KWR 195.56
+7 KWR 196.06
+8 KWR 196.13
+9 KWR 197.1
+10 KWR 199.12

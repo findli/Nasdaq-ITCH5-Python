@@ -1,0 +1,7 @@
+hour stock vwap
+4 CBIO 7.94
+5 CBIO 8.32
+6 CBIO 8.34
+8 CBIO 8.37
+9 CBIO 8.46
+10 CBIO 8.55

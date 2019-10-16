@@ -1,0 +1,8 @@
+hour stock vwap
+4 GPI 60.36
+5 GPI 60.89
+6 GPI 60.65
+7 GPI 60.78
+8 GPI 60.33
+9 GPI 60.74
+10 GPI 60.94

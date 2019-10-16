@@ -1,0 +1,5 @@
+hour stock vwap
+6 IRCP 21.6
+7 IRCP 21.6
+9 IRCP 21.6
+10 IRCP 20.73

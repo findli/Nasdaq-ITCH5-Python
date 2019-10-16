@@ -1,0 +1,8 @@
+hour stock vwap
+4 NNN 51.76
+5 NNN 52.14
+6 NNN 52.13
+7 NNN 52.11
+8 NNN 51.87
+9 NNN 52.16
+10 NNN 52.06

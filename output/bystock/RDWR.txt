@@ -1,0 +1,7 @@
+hour stock vwap
+4 RDWR 23.58
+5 RDWR 23.54
+7 RDWR 23.66
+8 RDWR 23.6
+9 RDWR 23.66
+10 RDWR 23.89

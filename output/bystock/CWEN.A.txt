@@ -1,0 +1,6 @@
+hour stock vwap
+4 CWEN.A 14.81
+5 CWEN.A 14.87
+6 CWEN.A 14.7
+7 CWEN.A 14.74
+10 CWEN.A 14.46

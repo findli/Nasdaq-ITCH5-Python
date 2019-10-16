@@ -1,0 +1,5 @@
+hour stock vwap
+7 IJT 173.82
+8 IJT 173.63
+9 IJT 174.12
+10 IJT 174.28

@@ -1,0 +1,5 @@
+hour stock vwap
+4 FUNC 16.05
+5 FUNC 16.45
+8 FUNC 16.29
+10 FUNC 16.32

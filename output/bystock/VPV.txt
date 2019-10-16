@@ -1,0 +1,3 @@
+hour stock vwap
+7 VPV 12.06
+10 VPV 12.07

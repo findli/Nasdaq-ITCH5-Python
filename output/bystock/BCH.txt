@@ -1,0 +1,5 @@
+hour stock vwap
+7 BCH 31.09
+8 BCH 31.17
+9 BCH 31.19
+10 BCH 31.18

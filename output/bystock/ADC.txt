@@ -1,0 +1,8 @@
+hour stock vwap
+4 ADC 64.42
+5 ADC 64.68
+6 ADC 64.7
+7 ADC 64.91
+8 ADC 64.93
+9 ADC 65.0
+10 ADC 64.97

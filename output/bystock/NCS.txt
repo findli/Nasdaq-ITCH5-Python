@@ -1,0 +1,7 @@
+hour stock vwap
+4 NCS 7.89
+6 NCS 7.98
+7 NCS 7.97
+8 NCS 7.96
+9 NCS 8.04
+10 NCS 8.1

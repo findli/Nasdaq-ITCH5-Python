@@ -1,0 +1,7 @@
+hour stock vwap
+4 TRS 28.46
+5 TRS 28.27
+7 TRS 28.5
+8 TRS 28.5
+9 TRS 28.72
+10 TRS 28.57

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DB 9.21
+5 DB 9.19
+6 DB 9.22
+7 DB 9.23
+8 DB 9.21
+9 DB 9.28
+10 DB 9.31

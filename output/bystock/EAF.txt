@@ -1,0 +1,8 @@
+hour stock vwap
+4 EAF 12.57
+5 EAF 12.57
+6 EAF 12.79
+7 EAF 12.8
+8 EAF 12.78
+9 EAF 12.94
+10 EAF 13.13

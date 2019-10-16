@@ -1,0 +1,8 @@
+hour stock vwap
+4 OAS 6.09
+5 OAS 6.09
+6 OAS 6.15
+7 OAS 6.17
+8 OAS 6.16
+9 OAS 6.21
+10 OAS 6.24

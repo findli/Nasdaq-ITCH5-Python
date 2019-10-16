@@ -1,0 +1,6 @@
+hour stock vwap
+4 HWCC 6.32
+5 HWCC 6.39
+7 HWCC 6.38
+9 HWCC 6.2
+10 HWCC 6.28

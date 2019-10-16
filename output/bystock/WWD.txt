@@ -1,0 +1,8 @@
+hour stock vwap
+4 WWD 86.3
+5 WWD 85.44
+6 WWD 85.76
+7 WWD 85.93
+8 WWD 85.8
+9 WWD 86.5
+10 WWD 86.46

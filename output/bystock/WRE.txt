@@ -1,0 +1,8 @@
+hour stock vwap
+4 WRE 24.79
+5 WRE 25.05
+6 WRE 25.1
+7 WRE 25.16
+8 WRE 25.19
+9 WRE 25.21
+10 WRE 25.18

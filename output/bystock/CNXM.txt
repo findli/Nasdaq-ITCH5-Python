@@ -1,0 +1,7 @@
+hour stock vwap
+5 CNXM 17.21
+6 CNXM 17.35
+7 CNXM 17.43
+8 CNXM 17.42
+9 CNXM 17.43
+10 CNXM 17.46

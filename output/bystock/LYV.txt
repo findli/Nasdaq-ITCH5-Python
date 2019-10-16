@@ -1,0 +1,8 @@
+hour stock vwap
+4 LYV 52.46
+5 LYV 52.28
+6 LYV 52.54
+7 LYV 52.77
+8 LYV 52.57
+9 LYV 52.92
+10 LYV 53.15

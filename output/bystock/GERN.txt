@@ -1,0 +1,8 @@
+hour stock vwap
+4 GERN 1.03
+5 GERN 1.03
+6 GERN 1.04
+7 GERN 1.02
+8 GERN 1.03
+9 GERN 1.02
+10 GERN 1.03

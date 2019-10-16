@@ -1,0 +1,4 @@
+hour stock vwap
+5 ZROZ 112.18
+9 ZROZ 111.78
+10 ZROZ 111.87

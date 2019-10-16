@@ -1,0 +1,8 @@
+hour stock vwap
+4 NRZ 16.81
+5 NRZ 16.78
+6 NRZ 16.83
+7 NRZ 16.84
+8 NRZ 16.82
+9 NRZ 16.88
+10 NRZ 16.86

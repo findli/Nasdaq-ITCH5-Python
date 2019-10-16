@@ -1,0 +1,4 @@
+hour stock vwap
+6 IBKCP 26.17
+7 IBKCP 26.21
+8 IBKCP 26.22

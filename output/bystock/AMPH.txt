@@ -1,0 +1,7 @@
+hour stock vwap
+4 AMPH 21.97
+5 AMPH 22.28
+6 AMPH 22.08
+7 AMPH 22.19
+9 AMPH 22.06
+10 AMPH 22.19

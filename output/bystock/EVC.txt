@@ -1,0 +1,6 @@
+hour stock vwap
+4 EVC 3.79
+5 EVC 3.83
+6 EVC 3.86
+8 EVC 3.92
+10 EVC 3.91

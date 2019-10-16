@@ -1,0 +1,5 @@
+hour stock vwap
+6 MIN 3.74
+7 MIN 3.74
+8 MIN 3.76
+9 MIN 3.76

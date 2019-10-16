@@ -1,0 +1,7 @@
+hour stock vwap
+5 AWF 11.27
+6 AWF 11.29
+7 AWF 11.3
+8 AWF 11.3
+9 AWF 11.34
+10 AWF 11.37

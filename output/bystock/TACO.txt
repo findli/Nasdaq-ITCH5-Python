@@ -1,0 +1,7 @@
+hour stock vwap
+5 TACO 10.71
+6 TACO 10.64
+7 TACO 10.67
+8 TACO 10.67
+9 TACO 10.67
+10 TACO 10.61

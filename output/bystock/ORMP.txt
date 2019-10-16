@@ -1,0 +1,8 @@
+hour stock vwap
+4 ORMP 3.49
+6 ORMP 3.48
+7 ORMP 3.4
+8 ORMP 3.4
+9 ORMP 3.4
+10 ORMP 3.08
+14 ORMP 3.1

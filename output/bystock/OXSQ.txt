@@ -1,0 +1,6 @@
+hour stock vwap
+5 OXSQ 6.58
+6 OXSQ 6.66
+7 OXSQ 6.66
+9 OXSQ 6.68
+10 OXSQ 6.69

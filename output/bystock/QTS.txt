@@ -1,0 +1,8 @@
+hour stock vwap
+4 QTS 41.04
+5 QTS 41.56
+6 QTS 41.79
+7 QTS 41.72
+8 QTS 41.43
+9 QTS 41.52
+10 QTS 41.63

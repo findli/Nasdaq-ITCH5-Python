@@ -1,0 +1,8 @@
+hour stock vwap
+4 VEA 39.57
+5 VEA 39.52
+6 VEA 39.62
+7 VEA 39.64
+8 VEA 39.6
+9 VEA 39.88
+10 VEA 39.91

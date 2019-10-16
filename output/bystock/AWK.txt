@@ -1,0 +1,8 @@
+hour stock vwap
+4 AWK 93.27
+5 AWK 93.46
+6 AWK 93.39
+7 AWK 93.79
+8 AWK 93.71
+9 AWK 94.25
+10 AWK 93.92

@@ -1,0 +1,9 @@
+hour stock vwap
+4 ZYNE 5.05
+5 ZYNE 5.01
+6 ZYNE 5.07
+7 ZYNE 5.04
+8 ZYNE 5.11
+9 ZYNE 5.16
+10 ZYNE 5.1
+11 ZYNE 5.23

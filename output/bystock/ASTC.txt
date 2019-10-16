@@ -1,0 +1,4 @@
+hour stock vwap
+4 ASTC 5.03
+5 ASTC 5.0
+7 ASTC 5.05

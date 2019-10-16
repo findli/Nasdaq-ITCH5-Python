@@ -1,0 +1,8 @@
+hour stock vwap
+4 BWA 40.12
+5 BWA 40.08
+6 BWA 40.17
+7 BWA 40.35
+8 BWA 40.32
+9 BWA 40.57
+10 BWA 40.5

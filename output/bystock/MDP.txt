@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDP 53.96
+5 MDP 53.99
+6 MDP 54.48
+7 MDP 54.09
+8 MDP 54.33
+9 MDP 54.46
+10 MDP 54.42

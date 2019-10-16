@@ -1,0 +1,4 @@
+hour stock vwap
+6 COMT 32.31
+7 COMT 32.3
+8 COMT 32.26

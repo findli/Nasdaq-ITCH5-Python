@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBD 26.12
+5 CBD 25.97
+6 CBD 25.94
+7 CBD 26.02
+8 CBD 26.05
+9 CBD 26.37
+10 CBD 26.5

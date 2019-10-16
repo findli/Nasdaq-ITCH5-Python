@@ -1,0 +1,6 @@
+hour stock vwap
+4 STKL 3.92
+5 STKL 4.11
+7 STKL 4.03
+9 STKL 4.06
+10 STKL 4.07

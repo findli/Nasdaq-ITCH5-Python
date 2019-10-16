@@ -1,0 +1,7 @@
+hour stock vwap
+4 FMAO 31.04
+5 FMAO 31.18
+7 FMAO 31.49
+8 FMAO 30.99
+9 FMAO 31.02
+10 FMAO 31.02

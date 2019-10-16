@@ -1,0 +1,8 @@
+hour stock vwap
+4 RMR 68.18
+5 RMR 67.74
+6 RMR 67.26
+7 RMR 66.94
+8 RMR 66.69
+9 RMR 66.8
+10 RMR 66.72

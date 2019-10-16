@@ -1,0 +1,3 @@
+hour stock vwap
+9 AQN 10.98
+10 AQN 10.98

@@ -1,0 +1,9 @@
+hour stock vwap
+4 KRE 53.71
+5 KRE 53.65
+6 KRE 53.83
+7 KRE 53.83
+8 KRE 53.72
+9 KRE 53.88
+10 KRE 53.64
+11 KRE 53.4

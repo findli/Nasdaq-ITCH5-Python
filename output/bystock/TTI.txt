@@ -1,0 +1,8 @@
+hour stock vwap
+4 TTI 2.22
+5 TTI 2.18
+6 TTI 2.15
+7 TTI 2.14
+8 TTI 2.17
+9 TTI 2.2
+10 TTI 2.18

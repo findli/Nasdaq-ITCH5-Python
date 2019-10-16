@@ -1,0 +1,5 @@
+hour stock vwap
+4 ITI 3.71
+8 ITI 3.9
+9 ITI 3.9
+10 ITI 3.88

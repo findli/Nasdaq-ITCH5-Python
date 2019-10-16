@@ -1,0 +1,8 @@
+hour stock vwap
+4 CNX 13.26
+5 CNX 13.31
+6 CNX 13.45
+7 CNX 13.5
+8 CNX 13.53
+9 CNX 13.55
+10 CNX 13.52

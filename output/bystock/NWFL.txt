@@ -1,0 +1,7 @@
+hour stock vwap
+4 NWFL 29.45
+5 NWFL 29.3
+6 NWFL 29.38
+7 NWFL 29.38
+9 NWFL 29.37
+10 NWFL 29.19

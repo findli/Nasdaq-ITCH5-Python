@@ -1,0 +1,4 @@
+hour stock vwap
+4 PKBK 19.44
+6 PKBK 19.44
+10 PKBK 19.45

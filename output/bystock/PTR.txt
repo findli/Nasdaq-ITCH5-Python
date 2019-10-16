@@ -1,0 +1,8 @@
+hour stock vwap
+4 PTR 63.82
+5 PTR 63.66
+6 PTR 63.78
+7 PTR 63.67
+8 PTR 63.61
+9 PTR 63.97
+10 PTR 64.32

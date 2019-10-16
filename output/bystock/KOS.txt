@@ -1,0 +1,8 @@
+hour stock vwap
+4 KOS 4.95
+5 KOS 4.95
+6 KOS 5.01
+7 KOS 5.02
+8 KOS 5.04
+9 KOS 5.09
+10 KOS 5.11

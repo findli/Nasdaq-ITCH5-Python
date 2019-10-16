@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNV 35.81
+5 SNV 36.0
+6 SNV 36.17
+7 SNV 36.16
+8 SNV 36.12
+9 SNV 36.26
+10 SNV 36.21

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BE 9.57
+5 BE 9.34
+6 BE 9.3
+7 BE 9.38
+8 BE 9.25
+9 BE 9.4
+10 BE 9.23

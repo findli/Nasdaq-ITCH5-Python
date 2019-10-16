@@ -1,0 +1,6 @@
+hour stock vwap
+6 EMD 13.43
+7 EMD 13.48
+8 EMD 13.49
+9 EMD 13.56
+10 EMD 13.58

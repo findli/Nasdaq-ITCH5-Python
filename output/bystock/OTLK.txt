@@ -1,0 +1,4 @@
+hour stock vwap
+4 OTLK 0.71
+5 OTLK 0.72
+8 OTLK 0.72

@@ -1,0 +1,7 @@
+hour stock vwap
+5 TORC 8.23
+6 TORC 8.18
+7 TORC 8.26
+8 TORC 8.29
+9 TORC 8.52
+10 TORC 8.76

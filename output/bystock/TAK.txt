@@ -1,0 +1,9 @@
+hour stock vwap
+4 TAK 20.41
+5 TAK 20.4
+6 TAK 20.34
+7 TAK 20.34
+8 TAK 20.29
+9 TAK 20.34
+10 TAK 20.31
+11 TAK 20.39

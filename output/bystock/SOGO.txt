@@ -1,0 +1,8 @@
+hour stock vwap
+4 SOGO 6.26
+5 SOGO 6.15
+6 SOGO 6.21
+7 SOGO 6.15
+8 SOGO 6.17
+9 SOGO 6.29
+10 SOGO 6.27

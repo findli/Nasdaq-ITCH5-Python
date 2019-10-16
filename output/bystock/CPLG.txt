@@ -1,0 +1,5 @@
+hour stock vwap
+4 CPLG 12.17
+5 CPLG 12.12
+9 CPLG 12.18
+10 CPLG 12.14

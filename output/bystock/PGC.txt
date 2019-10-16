@@ -1,0 +1,8 @@
+hour stock vwap
+4 PGC 27.17
+5 PGC 27.03
+6 PGC 27.07
+7 PGC 27.01
+8 PGC 26.93
+9 PGC 27.0
+10 PGC 27.0

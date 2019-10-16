@@ -1,0 +1,8 @@
+hour stock vwap
+4 SQM 42.13
+5 SQM 41.87
+6 SQM 41.78
+7 SQM 41.84
+8 SQM 41.59
+9 SQM 41.91
+10 SQM 42.06

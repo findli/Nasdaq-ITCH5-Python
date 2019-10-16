@@ -1,0 +1,6 @@
+hour stock vwap
+5 MSB 26.57
+6 MSB 27.14
+8 MSB 27.04
+9 MSB 26.94
+10 MSB 26.55

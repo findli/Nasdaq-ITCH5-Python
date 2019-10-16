@@ -1,0 +1,8 @@
+hour stock vwap
+4 HRI 35.79
+5 HRI 36.12
+6 HRI 36.55
+7 HRI 36.75
+8 HRI 36.9
+9 HRI 36.82
+10 HRI 36.78

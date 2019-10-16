@@ -1,0 +1,8 @@
+hour stock vwap
+4 PPC 19.57
+5 PPC 19.65
+6 PPC 19.84
+7 PPC 19.85
+8 PPC 19.83
+9 PPC 19.86
+10 PPC 19.67

@@ -1,0 +1,5 @@
+hour stock vwap
+4 GECC 8.05
+5 GECC 8.01
+6 GECC 8.02
+10 GECC 8.01

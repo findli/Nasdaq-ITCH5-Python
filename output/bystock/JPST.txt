@@ -1,0 +1,8 @@
+hour stock vwap
+4 JPST 50.3
+5 JPST 50.3
+6 JPST 50.3
+7 JPST 50.3
+8 JPST 50.3
+9 JPST 50.3
+10 JPST 50.31

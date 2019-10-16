@@ -1,0 +1,6 @@
+hour stock vwap
+5 FUN 55.34
+6 FUN 55.24
+7 FUN 55.26
+9 FUN 55.26
+10 FUN 55.34

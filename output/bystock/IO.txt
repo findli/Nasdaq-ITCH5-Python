@@ -1,0 +1,7 @@
+hour stock vwap
+5 IO 8.62
+6 IO 8.77
+7 IO 8.87
+8 IO 9.15
+9 IO 9.42
+10 IO 9.43

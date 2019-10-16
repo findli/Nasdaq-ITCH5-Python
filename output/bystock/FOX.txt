@@ -1,0 +1,9 @@
+hour stock vwap
+4 FOX 48.66
+5 FOX 48.58
+6 FOX 48.71
+7 FOX 48.77
+8 FOX 48.75
+9 FOX 48.8
+10 FOX 48.77
+11 FOX 48.79

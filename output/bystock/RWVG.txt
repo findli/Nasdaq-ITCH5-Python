@@ -1,0 +1,2 @@
+hour stock vwap
+7 RWVG 51.32

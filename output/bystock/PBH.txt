@@ -1,0 +1,8 @@
+hour stock vwap
+4 PBH 27.45
+5 PBH 27.33
+6 PBH 27.57
+7 PBH 27.86
+8 PBH 27.86
+9 PBH 27.89
+10 PBH 27.7

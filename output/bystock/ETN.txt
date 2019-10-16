@@ -1,0 +1,9 @@
+hour stock vwap
+3 ETN 70.64
+4 ETN 71.68
+5 ETN 71.22
+6 ETN 71.83
+7 ETN 71.74
+8 ETN 71.44
+9 ETN 72.59
+10 ETN 72.7

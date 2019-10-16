@@ -1,0 +1,8 @@
+hour stock vwap
+4 FTR 1.85
+5 FTR 1.9
+6 FTR 1.92
+7 FTR 1.93
+8 FTR 1.92
+9 FTR 1.94
+10 FTR 1.95

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCS 22.2
+5 CCS 22.14
+6 CCS 21.91
+7 CCS 21.73
+8 CCS 21.7
+9 CCS 22.28
+10 CCS 22.42

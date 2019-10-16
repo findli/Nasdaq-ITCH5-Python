@@ -1,0 +1,8 @@
+hour stock vwap
+4 CVE 7.98
+5 CVE 8.0
+6 CVE 8.05
+7 CVE 8.06
+8 CVE 8.02
+9 CVE 8.07
+10 CVE 8.1

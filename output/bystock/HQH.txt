@@ -1,0 +1,4 @@
+hour stock vwap
+4 HQH 20.36
+5 HQH 20.38
+6 HQH 20.39

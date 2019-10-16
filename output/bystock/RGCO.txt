@@ -1,0 +1,7 @@
+hour stock vwap
+4 RGCO 28.37
+5 RGCO 28.46
+6 RGCO 28.58
+8 RGCO 28.5
+9 RGCO 28.73
+10 RGCO 28.67

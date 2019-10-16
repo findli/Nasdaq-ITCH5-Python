@@ -1,0 +1,7 @@
+hour stock vwap
+4 INDY 34.09
+5 INDY 33.87
+7 INDY 33.93
+8 INDY 33.97
+9 INDY 34.31
+10 INDY 34.3

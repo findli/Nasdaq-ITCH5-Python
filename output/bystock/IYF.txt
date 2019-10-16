@@ -1,0 +1,7 @@
+hour stock vwap
+4 IYF 115.14
+5 IYF 115.35
+6 IYF 115.55
+8 IYF 115.64
+9 IYF 115.95
+10 IYF 116.05

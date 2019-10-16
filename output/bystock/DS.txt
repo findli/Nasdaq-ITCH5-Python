@@ -1,0 +1,8 @@
+hour stock vwap
+4 DS 4.23
+5 DS 4.24
+6 DS 4.17
+7 DS 4.11
+8 DS 4.11
+9 DS 4.12
+10 DS 4.05

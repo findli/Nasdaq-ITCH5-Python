@@ -1,0 +1,9 @@
+hour stock vwap
+2 SLV 14.95
+4 SLV 14.92
+5 SLV 14.91
+6 SLV 14.95
+7 SLV 14.94
+8 SLV 14.93
+9 SLV 15.0
+10 SLV 15.06

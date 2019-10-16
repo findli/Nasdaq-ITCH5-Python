@@ -1,0 +1,4 @@
+hour stock vwap
+4 TNK 1.01
+8 TNK 1.01
+10 TNK 1.01

@@ -1,0 +1,5 @@
+hour stock vwap
+5 DNP 11.08
+6 DNP 11.08
+9 DNP 11.09
+10 DNP 11.08

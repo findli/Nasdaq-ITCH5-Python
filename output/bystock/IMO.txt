@@ -1,0 +1,6 @@
+hour stock vwap
+4 IMO 27.7
+5 IMO 28.06
+6 IMO 28.26
+9 IMO 28.38
+10 IMO 28.41

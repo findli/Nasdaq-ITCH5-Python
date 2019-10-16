@@ -1,0 +1,5 @@
+hour stock vwap
+4 TPVG 12.45
+7 TPVG 12.58
+8 TPVG 12.59
+10 TPVG 12.61

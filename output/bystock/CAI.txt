@@ -1,0 +1,8 @@
+hour stock vwap
+4 CAI 24.63
+5 CAI 24.41
+6 CAI 24.5
+7 CAI 24.73
+8 CAI 24.36
+9 CAI 24.56
+10 CAI 24.56

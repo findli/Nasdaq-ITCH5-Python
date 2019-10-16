@@ -1,0 +1,8 @@
+hour stock vwap
+4 IIN 25.25
+5 IIN 25.31
+6 IIN 25.15
+7 IIN 25.21
+8 IIN 25.04
+9 IIN 25.56
+10 IIN 25.95

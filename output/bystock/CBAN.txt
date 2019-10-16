@@ -1,0 +1,4 @@
+hour stock vwap
+5 CBAN 15.35
+6 CBAN 15.42
+7 CBAN 15.33

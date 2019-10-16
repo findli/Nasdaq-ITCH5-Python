@@ -1,0 +1,7 @@
+hour stock vwap
+4 CSQ 11.69
+5 CSQ 11.62
+7 CSQ 11.69
+8 CSQ 11.7
+9 CSQ 11.74
+10 CSQ 11.85

@@ -1,0 +1,8 @@
+hour stock vwap
+4 NERV 6.3
+5 NERV 6.33
+6 NERV 6.26
+7 NERV 6.26
+8 NERV 6.31
+9 NERV 6.38
+10 NERV 6.29

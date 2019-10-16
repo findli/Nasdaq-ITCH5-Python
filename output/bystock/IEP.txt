@@ -1,0 +1,8 @@
+hour stock vwap
+4 IEP 67.29
+5 IEP 67.59
+6 IEP 67.58
+7 IEP 68.0
+8 IEP 67.94
+9 IEP 68.01
+10 IEP 68.09

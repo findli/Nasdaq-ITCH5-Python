@@ -1,0 +1,4 @@
+hour stock vwap
+8 NID 12.7
+9 NID 12.7
+10 NID 12.74

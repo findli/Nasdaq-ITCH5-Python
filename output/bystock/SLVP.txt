@@ -1,0 +1,3 @@
+hour stock vwap
+5 SLVP 8.77
+9 SLVP 8.92

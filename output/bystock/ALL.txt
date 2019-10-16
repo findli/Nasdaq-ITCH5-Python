@@ -1,0 +1,8 @@
+hour stock vwap
+4 ALL 86.67
+5 ALL 86.28
+6 ALL 87.0
+7 ALL 87.17
+8 ALL 86.96
+9 ALL 87.4
+10 ALL 87.23

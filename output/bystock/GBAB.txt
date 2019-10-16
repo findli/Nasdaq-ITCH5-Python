@@ -1,0 +1,4 @@
+hour stock vwap
+6 GBAB 22.44
+9 GBAB 22.22
+10 GBAB 22.18

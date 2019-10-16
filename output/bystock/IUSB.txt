@@ -1,0 +1,6 @@
+hour stock vwap
+6 IUSB 49.56
+7 IUSB 49.54
+8 IUSB 49.54
+9 IUSB 49.61
+10 IUSB 49.61

@@ -1,0 +1,8 @@
+hour stock vwap
+4 NNBR 8.93
+5 NNBR 8.83
+6 NNBR 8.94
+7 NNBR 8.98
+8 NNBR 8.99
+9 NNBR 9.15
+10 NNBR 9.09

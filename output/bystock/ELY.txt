@@ -1,0 +1,8 @@
+hour stock vwap
+4 ELY 15.92
+5 ELY 15.92
+6 ELY 15.99
+7 ELY 16.07
+8 ELY 16.13
+9 ELY 16.29
+10 ELY 16.28

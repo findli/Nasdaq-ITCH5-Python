@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNE 48.52
+5 SNE 48.45
+6 SNE 48.49
+7 SNE 48.57
+8 SNE 48.57
+9 SNE 48.92
+10 SNE 49.16

@@ -1,0 +1,5 @@
+hour stock vwap
+4 GSUM 2.02
+5 GSUM 2.12
+6 GSUM 2.12
+10 GSUM 2.13

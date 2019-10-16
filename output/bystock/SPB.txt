@@ -1,0 +1,8 @@
+hour stock vwap
+4 SPB 54.18
+5 SPB 53.92
+6 SPB 53.94
+7 SPB 54.06
+8 SPB 54.24
+9 SPB 54.73
+10 SPB 54.78

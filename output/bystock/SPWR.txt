@@ -1,0 +1,8 @@
+hour stock vwap
+4 SPWR 5.6
+5 SPWR 5.58
+6 SPWR 5.61
+7 SPWR 5.63
+8 SPWR 5.65
+9 SPWR 5.68
+10 SPWR 5.65

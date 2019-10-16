@@ -1,0 +1,8 @@
+hour stock vwap
+4 WBT 13.64
+5 WBT 13.75
+6 WBT 13.8
+7 WBT 13.82
+8 WBT 13.82
+9 WBT 13.92
+10 WBT 13.81

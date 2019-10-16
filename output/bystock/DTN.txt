@@ -1,0 +1,5 @@
+hour stock vwap
+5 DTN 81.73
+6 DTN 82.14
+9 DTN 82.64
+10 DTN 82.58

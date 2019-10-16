@@ -1,0 +1,3 @@
+hour stock vwap
+8 MYSZ 0.8
+11 MYSZ 0.79

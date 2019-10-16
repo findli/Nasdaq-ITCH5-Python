@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABEO 6.52
+5 ABEO 6.52
+6 ABEO 6.52
+7 ABEO 6.59
+8 ABEO 6.58
+9 ABEO 6.6
+10 ABEO 6.55

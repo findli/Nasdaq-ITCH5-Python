@@ -1,0 +1,4 @@
+hour stock vwap
+5 MFDX 23.7
+6 MFDX 23.73
+7 MFDX 23.76

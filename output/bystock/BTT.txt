@@ -1,0 +1,2 @@
+hour stock vwap
+6 BTT 21.7

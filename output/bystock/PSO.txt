@@ -1,0 +1,4 @@
+hour stock vwap
+8 PSO 12.07
+9 PSO 12.12
+10 PSO 12.13

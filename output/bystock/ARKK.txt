@@ -1,0 +1,6 @@
+hour stock vwap
+4 ARKK 41.54
+5 ARKK 41.52
+6 ARKK 41.53
+7 ARKK 41.68
+10 ARKK 42.24

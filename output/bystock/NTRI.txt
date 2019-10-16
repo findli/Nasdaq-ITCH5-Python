@@ -1,0 +1,6 @@
+hour stock vwap
+4 NTRI 43.32
+7 NTRI 43.19
+8 NTRI 43.25
+9 NTRI 43.25
+10 NTRI 43.27

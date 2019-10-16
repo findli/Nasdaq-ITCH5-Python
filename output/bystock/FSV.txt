@@ -1,0 +1,8 @@
+hour stock vwap
+4 FSV 80.91
+5 FSV 80.87
+6 FSV 80.85
+7 FSV 80.13
+8 FSV 80.28
+9 FSV 80.68
+10 FSV 80.89

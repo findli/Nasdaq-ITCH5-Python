@@ -1,0 +1,7 @@
+hour stock vwap
+5 BDJ 8.34
+6 BDJ 8.34
+7 BDJ 8.35
+8 BDJ 8.32
+9 BDJ 8.41
+10 BDJ 8.42

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BHF 36.57
+5 BHF 36.61
+6 BHF 36.85
+7 BHF 36.84
+8 BHF 36.75
+9 BHF 36.93
+10 BHF 36.98

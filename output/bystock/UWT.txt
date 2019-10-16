@@ -1,0 +1,9 @@
+hour stock vwap
+4 UWT 13.85
+5 UWT 14.04
+6 UWT 14.43
+7 UWT 14.53
+8 UWT 14.34
+9 UWT 14.19
+10 UWT 14.12
+12 UWT 14.1

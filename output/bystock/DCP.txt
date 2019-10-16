@@ -1,0 +1,8 @@
+hour stock vwap
+4 DCP 33.21
+5 DCP 33.24
+6 DCP 33.38
+7 DCP 33.63
+8 DCP 33.89
+9 DCP 34.15
+10 DCP 33.97

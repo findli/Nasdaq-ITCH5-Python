@@ -1,0 +1,4 @@
+hour stock vwap
+5 VTWG 133.41
+6 VTWG 133.55
+7 VTWG 133.58

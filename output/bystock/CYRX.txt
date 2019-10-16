@@ -1,0 +1,8 @@
+hour stock vwap
+4 CYRX 9.68
+5 CYRX 9.83
+6 CYRX 9.88
+7 CYRX 9.97
+8 CYRX 10.0
+9 CYRX 10.11
+10 CYRX 10.17

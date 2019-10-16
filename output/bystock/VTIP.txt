@@ -1,0 +1,7 @@
+hour stock vwap
+4 VTIP 48.04
+5 VTIP 48.05
+7 VTIP 48.06
+8 VTIP 48.05
+9 VTIP 48.1
+10 VTIP 48.14

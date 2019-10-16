@@ -1,0 +1,8 @@
+hour stock vwap
+4 BWB 11.04
+5 BWB 11.11
+6 BWB 11.24
+7 BWB 11.24
+8 BWB 11.18
+9 BWB 11.28
+10 BWB 11.23

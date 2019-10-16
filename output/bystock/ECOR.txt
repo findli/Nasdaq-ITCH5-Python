@@ -1,0 +1,6 @@
+hour stock vwap
+4 ECOR 6.19
+5 ECOR 6.09
+6 ECOR 6.13
+8 ECOR 6.19
+10 ECOR 6.29

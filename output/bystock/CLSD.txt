@@ -1,0 +1,3 @@
+hour stock vwap
+8 CLSD 1.13
+10 CLSD 1.17

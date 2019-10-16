@@ -1,0 +1,3 @@
+hour stock vwap
+6 NOM 12.3
+8 NOM 12.32

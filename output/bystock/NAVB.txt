@@ -1,0 +1,4 @@
+hour stock vwap
+7 NAVB 0.13
+9 NAVB 0.13
+10 NAVB 0.13

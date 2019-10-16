@@ -1,0 +1,6 @@
+hour stock vwap
+4 DTEA 1.51
+6 DTEA 1.53
+8 DTEA 1.53
+9 DTEA 1.51
+10 DTEA 1.49

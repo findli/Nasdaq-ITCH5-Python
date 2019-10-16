@@ -1,0 +1,6 @@
+hour stock vwap
+4 FLXS 24.56
+6 FLXS 24.72
+7 FLXS 24.69
+9 FLXS 24.8
+10 FLXS 24.67

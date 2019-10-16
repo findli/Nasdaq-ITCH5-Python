@@ -1,0 +1,4 @@
+hour stock vwap
+5 JPEU 54.0
+6 JPEU 54.1
+9 JPEU 54.11

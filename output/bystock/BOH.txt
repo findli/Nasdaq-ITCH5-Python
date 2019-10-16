@@ -1,0 +1,8 @@
+hour stock vwap
+4 BOH 77.75
+5 BOH 77.92
+6 BOH 77.99
+7 BOH 77.96
+8 BOH 77.87
+9 BOH 78.07
+10 BOH 77.75

@@ -1,0 +1,4 @@
+hour stock vwap
+5 FDBC 60.69
+9 FDBC 61.39
+10 FDBC 60.44

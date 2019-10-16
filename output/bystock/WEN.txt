@@ -1,0 +1,8 @@
+hour stock vwap
+4 WEN 17.36
+5 WEN 17.33
+6 WEN 17.33
+7 WEN 17.27
+8 WEN 17.26
+9 WEN 17.38
+10 WEN 17.34

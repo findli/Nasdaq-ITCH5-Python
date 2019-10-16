@@ -1,0 +1,7 @@
+hour stock vwap
+5 PAC 88.43
+6 PAC 88.46
+7 PAC 87.25
+8 PAC 86.63
+9 PAC 87.86
+10 PAC 87.53

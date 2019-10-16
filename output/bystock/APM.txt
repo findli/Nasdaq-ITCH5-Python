@@ -1,0 +1,8 @@
+hour stock vwap
+4 APM 13.86
+5 APM 13.0
+6 APM 12.39
+7 APM 12.71
+8 APM 12.77
+9 APM 13.63
+10 APM 14.07

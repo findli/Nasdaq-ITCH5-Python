@@ -1,0 +1,7 @@
+hour stock vwap
+4 EVRI 6.64
+5 EVRI 6.6
+6 EVRI 6.55
+8 EVRI 6.57
+9 EVRI 6.63
+10 EVRI 6.65

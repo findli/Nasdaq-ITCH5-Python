@@ -1,0 +1,4 @@
+hour stock vwap
+5 LTBR 0.71
+6 LTBR 0.7
+9 LTBR 0.69

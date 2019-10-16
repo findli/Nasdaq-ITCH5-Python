@@ -1,0 +1,8 @@
+hour stock vwap
+4 WTW 32.51
+5 WTW 32.22
+6 WTW 32.09
+7 WTW 31.91
+8 WTW 31.56
+9 WTW 31.33
+10 WTW 31.42

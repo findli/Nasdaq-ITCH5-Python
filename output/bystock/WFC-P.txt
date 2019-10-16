@@ -1,0 +1,2 @@
+hour stock vwap
+8 WFC-P 23.59

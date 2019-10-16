@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARCO 8.77
+5 ARCO 8.78
+6 ARCO 8.79
+7 ARCO 8.81
+8 ARCO 8.83
+9 ARCO 8.86
+10 ARCO 8.94

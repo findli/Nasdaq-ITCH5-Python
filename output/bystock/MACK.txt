@@ -1,0 +1,6 @@
+hour stock vwap
+6 MACK 5.33
+7 MACK 5.37
+8 MACK 5.36
+9 MACK 5.43
+10 MACK 5.41

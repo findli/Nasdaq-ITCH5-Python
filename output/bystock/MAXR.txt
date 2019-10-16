@@ -1,0 +1,7 @@
+hour stock vwap
+4 MAXR 5.56
+5 MAXR 5.86
+6 MAXR 5.78
+8 MAXR 5.76
+9 MAXR 5.72
+10 MAXR 5.61

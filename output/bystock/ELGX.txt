@@ -1,0 +1,8 @@
+hour stock vwap
+4 ELGX 0.78
+5 ELGX 0.77
+6 ELGX 0.73
+7 ELGX 0.75
+8 ELGX 0.75
+9 ELGX 0.75
+10 ELGX 0.75

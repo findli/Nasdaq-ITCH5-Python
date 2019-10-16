@@ -1,0 +1,8 @@
+hour stock vwap
+4 DOV 86.91
+5 DOV 87.38
+6 DOV 88.09
+7 DOV 88.3
+8 DOV 87.96
+9 DOV 89.16
+10 DOV 88.95

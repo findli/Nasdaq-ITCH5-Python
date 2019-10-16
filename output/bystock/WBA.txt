@@ -1,0 +1,9 @@
+hour stock vwap
+4 WBA 71.43
+5 WBA 71.43
+6 WBA 71.7
+7 WBA 71.8
+8 WBA 71.59
+9 WBA 71.84
+10 WBA 71.65
+14 WBA 71.6

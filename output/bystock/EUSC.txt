@@ -1,0 +1,4 @@
+hour stock vwap
+5 EUSC 28.66
+6 EUSC 28.7
+9 EUSC 28.72

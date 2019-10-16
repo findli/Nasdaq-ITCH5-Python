@@ -1,0 +1,7 @@
+hour stock vwap
+5 GABC 29.2
+6 GABC 29.25
+7 GABC 29.06
+8 GABC 29.08
+9 GABC 29.06
+10 GABC 29.11

@@ -1,0 +1,4 @@
+hour stock vwap
+6 AVD 17.1
+9 AVD 17.29
+10 AVD 17.38

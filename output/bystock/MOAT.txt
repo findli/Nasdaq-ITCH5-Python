@@ -1,0 +1,5 @@
+hour stock vwap
+5 MOAT 43.96
+6 MOAT 43.97
+9 MOAT 44.22
+10 MOAT 44.28

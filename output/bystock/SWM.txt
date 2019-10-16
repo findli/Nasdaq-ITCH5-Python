@@ -1,0 +1,8 @@
+hour stock vwap
+4 SWM 31.25
+5 SWM 31.25
+6 SWM 31.3
+7 SWM 31.31
+8 SWM 31.37
+9 SWM 31.78
+10 SWM 31.82

@@ -1,0 +1,5 @@
+hour stock vwap
+4 ORGS 4.44
+7 ORGS 4.28
+8 ORGS 4.26
+10 ORGS 4.37

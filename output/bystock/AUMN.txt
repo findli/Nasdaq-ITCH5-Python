@@ -1,0 +1,5 @@
+hour stock vwap
+6 AUMN 0.34
+8 AUMN 0.34
+9 AUMN 0.34
+10 AUMN 0.35

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HBIO 3.15
+5 HBIO 3.02
+6 HBIO 3.08
+7 HBIO 3.11
+8 HBIO 3.09
+9 HBIO 3.17
+10 HBIO 3.38

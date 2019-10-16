@@ -1,0 +1,8 @@
+hour stock vwap
+4 PFG 47.4
+5 PFG 47.29
+6 PFG 47.76
+7 PFG 47.76
+8 PFG 47.67
+9 PFG 48.04
+10 PFG 48.15

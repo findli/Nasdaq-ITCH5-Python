@@ -1,0 +1,8 @@
+hour stock vwap
+4 HCP 30.66
+5 HCP 30.87
+6 HCP 30.86
+7 HCP 30.96
+8 HCP 30.81
+9 HCP 30.87
+10 HCP 30.85

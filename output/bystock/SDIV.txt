@@ -1,0 +1,7 @@
+hour stock vwap
+4 SDIV 19.0
+5 SDIV 18.95
+6 SDIV 19.04
+7 SDIV 19.04
+8 SDIV 19.01
+9 SDIV 19.11

@@ -1,0 +1,7 @@
+hour stock vwap
+5 MANU 19.25
+6 MANU 19.3
+7 MANU 19.13
+8 MANU 19.37
+9 MANU 19.21
+10 MANU 19.22

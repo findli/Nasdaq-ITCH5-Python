@@ -1,0 +1,4 @@
+hour stock vwap
+4 LBY 4.98
+6 LBY 4.99
+8 LBY 5.0

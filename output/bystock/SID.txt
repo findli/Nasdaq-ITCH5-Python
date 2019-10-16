@@ -1,0 +1,8 @@
+hour stock vwap
+4 SID 2.85
+5 SID 2.92
+6 SID 2.86
+7 SID 2.81
+8 SID 2.8
+9 SID 2.8
+10 SID 2.77

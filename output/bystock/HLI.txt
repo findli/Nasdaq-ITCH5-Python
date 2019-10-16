@@ -1,0 +1,8 @@
+hour stock vwap
+4 HLI 44.66
+5 HLI 45.41
+6 HLI 45.46
+7 HLI 45.49
+8 HLI 44.62
+9 HLI 44.97
+10 HLI 44.63

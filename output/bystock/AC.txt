@@ -1,0 +1,6 @@
+hour stock vwap
+6 AC 41.22
+7 AC 41.26
+8 AC 41.28
+9 AC 40.78
+10 AC 41.04

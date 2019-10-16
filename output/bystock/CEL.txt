@@ -1,0 +1,3 @@
+hour stock vwap
+8 CEL 5.07
+10 CEL 5.08

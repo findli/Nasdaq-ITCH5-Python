@@ -1,0 +1,8 @@
+hour stock vwap
+4 CZZ 10.6
+5 CZZ 10.5
+6 CZZ 10.47
+7 CZZ 10.51
+8 CZZ 10.58
+9 CZZ 10.72
+10 CZZ 10.75

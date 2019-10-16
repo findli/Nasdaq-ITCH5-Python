@@ -1,0 +1,4 @@
+hour stock vwap
+5 NGHCZ 23.21
+9 NGHCZ 23.3
+10 NGHCZ 23.29

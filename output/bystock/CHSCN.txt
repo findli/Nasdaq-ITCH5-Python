@@ -1,0 +1,6 @@
+hour stock vwap
+5 CHSCN 26.6
+6 CHSCN 26.66
+7 CHSCN 26.59
+9 CHSCN 26.61
+10 CHSCN 26.61

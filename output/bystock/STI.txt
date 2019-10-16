@@ -1,0 +1,8 @@
+hour stock vwap
+4 STI 61.21
+5 STI 61.07
+6 STI 61.3
+7 STI 61.38
+8 STI 61.21
+9 STI 61.25
+10 STI 60.73

@@ -1,0 +1,5 @@
+hour stock vwap
+6 DSPG 12.41
+8 DSPG 12.4
+9 DSPG 12.51
+10 DSPG 12.4

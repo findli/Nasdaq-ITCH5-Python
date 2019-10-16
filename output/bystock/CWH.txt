@@ -1,0 +1,8 @@
+hour stock vwap
+4 CWH 13.86
+5 CWH 13.87
+6 CWH 14.13
+7 CWH 14.09
+8 CWH 14.19
+9 CWH 14.12
+10 CWH 14.11

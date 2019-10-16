@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKD 8.04
+5 BKD 8.0
+6 BKD 8.03
+7 BKD 8.13
+8 BKD 8.15
+9 BKD 8.25
+10 BKD 8.26

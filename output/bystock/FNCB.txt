@@ -1,0 +1,5 @@
+hour stock vwap
+4 FNCB 9.99
+5 FNCB 10.42
+9 FNCB 10.39
+10 FNCB 10.17

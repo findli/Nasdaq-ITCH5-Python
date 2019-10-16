@@ -1,0 +1,8 @@
+hour stock vwap
+4 XES 10.86
+5 XES 10.87
+6 XES 10.92
+7 XES 10.93
+8 XES 10.96
+9 XES 11.07
+10 XES 11.03

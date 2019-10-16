@@ -1,0 +1,8 @@
+hour stock vwap
+4 NP 69.2
+5 NP 69.17
+6 NP 69.69
+7 NP 69.55
+8 NP 69.4
+9 NP 69.89
+10 NP 70.29

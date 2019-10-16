@@ -1,0 +1,8 @@
+hour stock vwap
+4 AES 16.09
+5 AES 16.14
+6 AES 16.16
+7 AES 16.16
+8 AES 16.17
+9 AES 16.29
+10 AES 16.31

@@ -1,0 +1,2 @@
+hour stock vwap
+5 DINT 16.76

@@ -1,0 +1,7 @@
+hour stock vwap
+5 CSV 19.71
+6 CSV 19.67
+7 CSV 19.64
+8 CSV 19.67
+9 CSV 19.8
+10 CSV 19.74

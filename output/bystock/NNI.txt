@@ -1,0 +1,7 @@
+hour stock vwap
+5 NNI 51.7
+6 NNI 52.24
+7 NNI 52.2
+8 NNI 52.28
+9 NNI 52.49
+10 NNI 52.44

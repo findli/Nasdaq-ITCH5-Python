@@ -1,0 +1,8 @@
+hour stock vwap
+4 FSB 33.43
+5 FSB 33.15
+6 FSB 33.19
+7 FSB 33.33
+8 FSB 33.1
+9 FSB 32.82
+10 FSB 32.65

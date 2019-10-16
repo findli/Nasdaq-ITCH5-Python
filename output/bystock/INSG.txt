@@ -1,0 +1,7 @@
+hour stock vwap
+5 INSG 5.19
+6 INSG 5.21
+7 INSG 5.22
+8 INSG 5.23
+9 INSG 5.22
+10 INSG 5.19

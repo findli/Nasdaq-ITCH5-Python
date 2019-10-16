@@ -1,0 +1,4 @@
+hour stock vwap
+6 NNA 5.46
+7 NNA 5.49
+10 NNA 5.44

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CHH 78.1
+5 CHH 78.27
+6 CHH 78.23
+7 CHH 78.32
+8 CHH 78.17
+9 CHH 78.56
+10 CHH 78.75

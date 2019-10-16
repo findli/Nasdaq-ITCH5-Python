@@ -1,0 +1,8 @@
+hour stock vwap
+4 NGG 53.86
+5 NGG 53.78
+6 NGG 53.68
+7 NGG 53.66
+8 NGG 53.73
+9 NGG 53.91
+10 NGG 53.97

@@ -1,0 +1,6 @@
+hour stock vwap
+6 FENG 3.59
+7 FENG 3.66
+8 FENG 3.68
+9 FENG 3.7
+10 FENG 3.89

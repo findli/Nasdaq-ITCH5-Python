@@ -1,0 +1,8 @@
+hour stock vwap
+4 OPRA 8.07
+5 OPRA 8.13
+6 OPRA 8.19
+7 OPRA 8.21
+8 OPRA 8.21
+9 OPRA 8.24
+10 OPRA 8.08

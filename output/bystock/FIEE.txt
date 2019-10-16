@@ -1,0 +1,2 @@
+hour stock vwap
+9 FIEE 135.77

@@ -1,0 +1,4 @@
+hour stock vwap
+4 FTXO 25.52
+5 FTXO 25.5
+9 FTXO 25.59

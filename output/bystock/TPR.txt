@@ -1,0 +1,8 @@
+hour stock vwap
+4 TPR 37.77
+5 TPR 37.88
+6 TPR 38.08
+7 TPR 38.11
+8 TPR 38.03
+9 TPR 38.22
+10 TPR 38.31

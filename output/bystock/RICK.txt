@@ -1,0 +1,7 @@
+hour stock vwap
+5 RICK 22.23
+6 RICK 22.0
+7 RICK 22.0
+8 RICK 22.0
+9 RICK 22.04
+10 RICK 22.13

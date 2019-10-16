@@ -1,0 +1,9 @@
+hour stock vwap
+3 RWLK 0.29
+4 RWLK 0.28
+5 RWLK 0.27
+6 RWLK 0.28
+7 RWLK 0.28
+8 RWLK 0.29
+9 RWLK 0.29
+10 RWLK 0.29

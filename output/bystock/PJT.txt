@@ -1,0 +1,5 @@
+hour stock vwap
+6 PJT 43.54
+7 PJT 43.64
+9 PJT 44.07
+10 PJT 43.69

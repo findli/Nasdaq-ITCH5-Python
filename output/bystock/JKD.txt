@@ -1,0 +1,4 @@
+hour stock vwap
+5 JKD 150.13
+6 JKD 150.29
+9 JKD 150.84

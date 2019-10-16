@@ -1,0 +1,8 @@
+hour stock vwap
+4 MXL 18.9
+5 MXL 19.09
+6 MXL 19.05
+7 MXL 19.17
+8 MXL 19.13
+9 MXL 19.31
+10 MXL 19.3

@@ -1,0 +1,8 @@
+hour stock vwap
+4 RXN 25.05
+5 RXN 24.97
+6 RXN 25.07
+7 RXN 25.13
+8 RXN 25.15
+9 RXN 25.61
+10 RXN 25.61

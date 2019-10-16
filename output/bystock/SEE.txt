@@ -1,0 +1,8 @@
+hour stock vwap
+4 SEE 38.52
+5 SEE 38.81
+6 SEE 38.93
+7 SEE 39.03
+8 SEE 38.88
+9 SEE 39.14
+10 SEE 39.11

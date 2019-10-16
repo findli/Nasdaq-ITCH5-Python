@@ -1,0 +1,8 @@
+hour stock vwap
+4 BSX 37.21
+5 BSX 37.1
+6 BSX 37.2
+7 BSX 37.23
+8 BSX 37.19
+9 BSX 37.36
+10 BSX 37.46

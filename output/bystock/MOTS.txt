@@ -1,0 +1,6 @@
+hour stock vwap
+6 MOTS 4.14
+7 MOTS 4.16
+8 MOTS 4.07
+9 MOTS 4.09
+10 MOTS 4.1

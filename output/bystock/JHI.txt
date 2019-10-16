@@ -1,0 +1,2 @@
+hour stock vwap
+9 JHI 15.38

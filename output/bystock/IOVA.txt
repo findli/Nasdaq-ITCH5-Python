@@ -1,0 +1,8 @@
+hour stock vwap
+4 IOVA 8.5
+5 IOVA 8.42
+6 IOVA 8.36
+7 IOVA 8.43
+8 IOVA 8.43
+9 IOVA 8.5
+10 IOVA 8.61

@@ -1,0 +1,3 @@
+hour stock vwap
+9 RNR-C 25.37
+10 RNR-C 25.49

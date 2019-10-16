@@ -1,0 +1,7 @@
+hour stock vwap
+4 USG 43.14
+5 USG 43.13
+7 USG 43.13
+8 USG 43.11
+9 USG 43.14
+10 USG 43.13

@@ -1,0 +1,8 @@
+hour stock vwap
+4 GFF 13.89
+5 GFF 13.9
+6 GFF 14.0
+7 GFF 14.1
+8 GFF 14.02
+9 GFF 14.03
+10 GFF 14.14

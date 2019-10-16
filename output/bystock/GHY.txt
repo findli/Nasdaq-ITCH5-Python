@@ -1,0 +1,4 @@
+hour stock vwap
+4 GHY 13.64
+9 GHY 13.76
+10 GHY 13.81

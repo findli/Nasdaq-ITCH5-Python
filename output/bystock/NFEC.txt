@@ -1,0 +1,8 @@
+hour stock vwap
+4 NFEC 8.03
+5 NFEC 7.05
+6 NFEC 6.83
+7 NFEC 7.11
+8 NFEC 7.06
+9 NFEC 6.82
+10 NFEC 6.82

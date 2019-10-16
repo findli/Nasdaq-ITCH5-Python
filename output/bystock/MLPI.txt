@@ -1,0 +1,6 @@
+hour stock vwap
+4 MLPI 21.79
+6 MLPI 22.0
+7 MLPI 22.06
+9 MLPI 22.14
+10 MLPI 22.13

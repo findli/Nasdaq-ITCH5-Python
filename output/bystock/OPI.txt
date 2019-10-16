@@ -1,0 +1,8 @@
+hour stock vwap
+4 OPI 31.7
+5 OPI 32.34
+6 OPI 32.45
+7 OPI 32.39
+8 OPI 32.15
+9 OPI 32.47
+10 OPI 32.13

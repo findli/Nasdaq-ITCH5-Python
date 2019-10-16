@@ -1,0 +1,8 @@
+hour stock vwap
+4 GDI 24.37
+5 GDI 24.43
+6 GDI 24.48
+7 GDI 24.44
+8 GDI 24.43
+9 GDI 24.52
+10 GDI 24.66

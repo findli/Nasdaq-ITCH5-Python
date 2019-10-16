@@ -1,0 +1,7 @@
+hour stock vwap
+4 PRSP 19.81
+5 PRSP 19.8
+6 PRSP 19.79
+8 PRSP 19.92
+9 PRSP 20.04
+10 PRSP 19.97

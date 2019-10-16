@@ -1,0 +1,7 @@
+hour stock vwap
+5 NR 8.26
+6 NR 8.26
+7 NR 8.26
+8 NR 8.31
+9 NR 8.41
+10 NR 8.34

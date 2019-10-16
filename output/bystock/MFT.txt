@@ -1,0 +1,4 @@
+hour stock vwap
+6 MFT 13.09
+7 MFT 13.04
+9 MFT 13.07

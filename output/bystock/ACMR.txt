@@ -1,0 +1,7 @@
+hour stock vwap
+4 ACMR 9.46
+5 ACMR 9.46
+6 ACMR 9.34
+7 ACMR 9.36
+8 ACMR 9.39
+10 ACMR 9.39

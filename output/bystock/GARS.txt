@@ -1,0 +1,4 @@
+hour stock vwap
+4 GARS 7.35
+6 GARS 7.39
+10 GARS 7.4

@@ -1,0 +1,6 @@
+hour stock vwap
+4 MTEM 4.23
+7 MTEM 4.41
+8 MTEM 4.43
+9 MTEM 4.44
+10 MTEM 4.46

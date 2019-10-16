@@ -1,0 +1,8 @@
+hour stock vwap
+4 EQH 18.43
+5 EQH 18.39
+6 EQH 18.45
+7 EQH 18.51
+8 EQH 18.5
+9 EQH 18.59
+10 EQH 18.59

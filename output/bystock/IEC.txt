@@ -1,0 +1,5 @@
+hour stock vwap
+5 IEC 7.29
+7 IEC 7.25
+9 IEC 7.2
+10 IEC 7.23

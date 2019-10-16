@@ -1,0 +1,6 @@
+hour stock vwap
+4 YTRA 5.09
+6 YTRA 5.11
+8 YTRA 5.1
+9 YTRA 5.1
+10 YTRA 5.1

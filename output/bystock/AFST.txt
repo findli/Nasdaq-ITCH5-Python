@@ -1,0 +1,4 @@
+hour stock vwap
+5 AFST 14.5
+6 AFST 14.88
+10 AFST 14.9

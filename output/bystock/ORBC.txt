@@ -1,0 +1,8 @@
+hour stock vwap
+4 ORBC 8.01
+5 ORBC 8.0
+6 ORBC 7.96
+7 ORBC 7.92
+8 ORBC 7.94
+9 ORBC 7.99
+10 ORBC 8.04

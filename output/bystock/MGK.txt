@@ -1,0 +1,5 @@
+hour stock vwap
+4 MGK 113.5
+5 MGK 113.26
+9 MGK 114.31
+10 MGK 114.97

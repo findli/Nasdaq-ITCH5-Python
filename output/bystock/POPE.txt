@@ -1,0 +1,3 @@
+hour stock vwap
+9 POPE 70.09
+10 POPE 69.11

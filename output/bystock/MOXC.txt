@@ -1,0 +1,5 @@
+hour stock vwap
+5 MOXC 0.52
+6 MOXC 0.52
+9 MOXC 0.55
+10 MOXC 0.55

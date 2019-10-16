@@ -1,0 +1,7 @@
+hour stock vwap
+4 TPCO 11.72
+5 TPCO 11.84
+7 TPCO 12.07
+8 TPCO 12.1
+9 TPCO 12.2
+10 TPCO 12.28

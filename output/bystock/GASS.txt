@@ -1,0 +1,8 @@
+hour stock vwap
+4 GASS 3.08
+5 GASS 3.08
+6 GASS 3.1
+7 GASS 3.12
+8 GASS 3.13
+9 GASS 3.11
+10 GASS 3.13

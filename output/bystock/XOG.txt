@@ -1,0 +1,8 @@
+hour stock vwap
+4 XOG 4.07
+5 XOG 4.02
+6 XOG 4.08
+7 XOG 4.09
+8 XOG 4.13
+9 XOG 4.15
+10 XOG 4.14

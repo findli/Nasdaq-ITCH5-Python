@@ -1,0 +1,7 @@
+hour stock vwap
+4 CRVL 61.44
+5 CRVL 61.77
+7 CRVL 61.85
+8 CRVL 61.91
+9 CRVL 62.42
+10 CRVL 62.4

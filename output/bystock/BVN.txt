@@ -1,0 +1,8 @@
+hour stock vwap
+4 BVN 15.69
+5 BVN 15.48
+6 BVN 15.51
+7 BVN 15.55
+8 BVN 15.39
+9 BVN 15.54
+10 BVN 15.37

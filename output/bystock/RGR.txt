@@ -1,0 +1,8 @@
+hour stock vwap
+4 RGR 53.45
+5 RGR 53.49
+6 RGR 53.37
+7 RGR 53.48
+8 RGR 53.48
+9 RGR 53.76
+10 RGR 53.36

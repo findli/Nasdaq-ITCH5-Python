@@ -1,0 +1,8 @@
+hour stock vwap
+4 LOGC 8.66
+5 LOGC 8.61
+6 LOGC 8.52
+7 LOGC 8.54
+8 LOGC 8.7
+9 LOGC 8.68
+10 LOGC 8.74

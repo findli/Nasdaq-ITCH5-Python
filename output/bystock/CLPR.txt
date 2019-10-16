@@ -1,0 +1,5 @@
+hour stock vwap
+4 CLPR 12.89
+6 CLPR 12.89
+7 CLPR 12.88
+10 CLPR 12.97

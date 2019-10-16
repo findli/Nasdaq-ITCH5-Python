@@ -1,0 +1,2 @@
+hour stock vwap
+9 RJA 5.75

@@ -1,0 +1,3 @@
+hour stock vwap
+9 FEIM 12.44
+10 FEIM 12.92

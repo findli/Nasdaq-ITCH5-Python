@@ -1,0 +1,8 @@
+hour stock vwap
+4 GEO 22.58
+5 GEO 22.45
+6 GEO 22.55
+7 GEO 22.58
+8 GEO 22.4
+9 GEO 22.52
+10 GEO 22.45

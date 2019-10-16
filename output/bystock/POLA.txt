@@ -1,0 +1,4 @@
+hour stock vwap
+4 POLA 5.04
+9 POLA 5.12
+10 POLA 5.02

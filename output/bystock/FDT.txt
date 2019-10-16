@@ -1,0 +1,4 @@
+hour stock vwap
+5 FDT 53.32
+6 FDT 53.39
+7 FDT 53.44

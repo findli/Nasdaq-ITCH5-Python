@@ -1,0 +1,7 @@
+hour stock vwap
+4 REET 25.82
+5 REET 25.97
+6 REET 25.96
+7 REET 25.99
+9 REET 26.02
+10 REET 26.06

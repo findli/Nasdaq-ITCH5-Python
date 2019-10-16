@@ -1,0 +1,3 @@
+hour stock vwap
+4 CBLI 1.42
+6 CBLI 1.62

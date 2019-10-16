@@ -1,0 +1,7 @@
+hour stock vwap
+4 FBIZ 21.07
+5 FBIZ 20.58
+6 FBIZ 20.7
+7 FBIZ 20.68
+8 FBIZ 20.68
+10 FBIZ 20.73

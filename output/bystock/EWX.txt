@@ -1,0 +1,3 @@
+hour stock vwap
+9 EWX 43.51
+10 EWX 43.75

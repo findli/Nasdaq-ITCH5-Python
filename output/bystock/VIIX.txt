@@ -1,0 +1,4 @@
+hour stock vwap
+5 VIIX 16.27
+9 VIIX 15.78
+10 VIIX 15.63

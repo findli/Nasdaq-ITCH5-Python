@@ -1,0 +1,7 @@
+hour stock vwap
+4 BPMX 0.1
+5 BPMX 0.1
+6 BPMX 0.1
+7 BPMX 0.1
+8 BPMX 0.1
+9 BPMX 0.1

@@ -1,0 +1,7 @@
+hour stock vwap
+5 TCP 32.7
+6 TCP 32.81
+7 TCP 32.86
+8 TCP 32.83
+9 TCP 33.15
+10 TCP 32.83

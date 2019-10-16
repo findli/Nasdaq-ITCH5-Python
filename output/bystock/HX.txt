@@ -1,0 +1,7 @@
+hour stock vwap
+4 HX 2.56
+5 HX 2.54
+6 HX 2.54
+7 HX 2.57
+9 HX 2.58
+10 HX 2.6

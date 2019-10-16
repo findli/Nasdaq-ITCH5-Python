@@ -1,0 +1,8 @@
+hour stock vwap
+4 OPB 21.61
+5 OPB 21.39
+6 OPB 21.43
+7 OPB 21.49
+8 OPB 21.42
+9 OPB 21.47
+10 OPB 21.2

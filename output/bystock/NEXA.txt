@@ -1,0 +1,8 @@
+hour stock vwap
+4 NEXA 8.71
+5 NEXA 8.58
+6 NEXA 8.33
+7 NEXA 8.3
+8 NEXA 8.42
+9 NEXA 8.49
+10 NEXA 8.5

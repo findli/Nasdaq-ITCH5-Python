@@ -1,0 +1,7 @@
+hour stock vwap
+4 ATEC 1.57
+5 ATEC 1.56
+6 ATEC 1.53
+7 ATEC 1.55
+9 ATEC 1.53
+10 ATEC 1.55

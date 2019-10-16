@@ -1,0 +1,4 @@
+hour stock vwap
+7 RIV 16.89
+8 RIV 16.89
+10 RIV 16.88

@@ -1,0 +1,5 @@
+hour stock vwap
+6 BICK 27.19
+7 BICK 27.22
+8 BICK 27.24
+10 BICK 27.54

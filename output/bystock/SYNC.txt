@@ -1,0 +1,5 @@
+hour stock vwap
+5 SYNC 1.85
+7 SYNC 1.84
+8 SYNC 1.83
+9 SYNC 1.83

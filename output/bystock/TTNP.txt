@@ -1,0 +1,8 @@
+hour stock vwap
+4 TTNP 1.23
+5 TTNP 1.2
+6 TTNP 1.21
+7 TTNP 1.2
+8 TTNP 1.2
+9 TTNP 1.21
+10 TTNP 1.21

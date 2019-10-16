@@ -1,0 +1,4 @@
+hour stock vwap
+7 AKP 13.75
+9 AKP 13.76
+10 AKP 13.7

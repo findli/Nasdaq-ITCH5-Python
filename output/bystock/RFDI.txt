@@ -1,0 +1,3 @@
+hour stock vwap
+7 RFDI 55.35
+8 RFDI 55.27

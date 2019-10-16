@@ -1,0 +1,6 @@
+hour stock vwap
+4 MPX 13.99
+5 MPX 14.18
+8 MPX 14.19
+9 MPX 14.24
+10 MPX 14.21

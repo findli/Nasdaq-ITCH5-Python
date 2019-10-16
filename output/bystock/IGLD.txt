@@ -1,0 +1,4 @@
+hour stock vwap
+6 IGLD 0.58
+7 IGLD 0.57
+10 IGLD 0.59

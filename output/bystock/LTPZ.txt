@@ -1,0 +1,4 @@
+hour stock vwap
+6 LTPZ 62.57
+8 LTPZ 62.51
+9 LTPZ 62.45

@@ -1,0 +1,5 @@
+hour stock vwap
+5 IBA 44.89
+7 IBA 44.58
+8 IBA 44.51
+10 IBA 45.59

@@ -1,0 +1,8 @@
+hour stock vwap
+4 EA 87.4
+5 EA 87.65
+6 EA 87.2
+7 EA 87.24
+8 EA 88.06
+9 EA 88.58
+10 EA 89.1

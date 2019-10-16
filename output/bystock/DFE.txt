@@ -1,0 +1,6 @@
+hour stock vwap
+4 DFE 57.68
+6 DFE 57.58
+7 DFE 57.67
+9 DFE 57.9
+10 DFE 58.07

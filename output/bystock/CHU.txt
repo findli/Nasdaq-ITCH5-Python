@@ -1,0 +1,7 @@
+hour stock vwap
+4 CHU 11.38
+6 CHU 11.37
+7 CHU 11.37
+8 CHU 11.38
+9 CHU 11.49
+10 CHU 11.49

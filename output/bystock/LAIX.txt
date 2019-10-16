@@ -1,0 +1,7 @@
+hour stock vwap
+4 LAIX 9.77
+5 LAIX 10.52
+6 LAIX 10.99
+7 LAIX 10.85
+9 LAIX 10.89
+10 LAIX 10.89

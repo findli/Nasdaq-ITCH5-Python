@@ -1,0 +1,8 @@
+hour stock vwap
+4 WSC 10.01
+5 WSC 10.1
+6 WSC 10.22
+7 WSC 10.17
+8 WSC 10.05
+9 WSC 10.15
+10 WSC 10.22

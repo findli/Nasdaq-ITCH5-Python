@@ -1,0 +1,7 @@
+hour stock vwap
+4 ADES 11.47
+6 ADES 11.54
+7 ADES 11.53
+8 ADES 11.45
+9 ADES 11.44
+10 ADES 11.5

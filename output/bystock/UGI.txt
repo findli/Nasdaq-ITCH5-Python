@@ -1,0 +1,8 @@
+hour stock vwap
+4 UGI 55.55
+5 UGI 55.69
+6 UGI 55.95
+7 UGI 55.97
+8 UGI 55.92
+9 UGI 56.18
+10 UGI 56.25

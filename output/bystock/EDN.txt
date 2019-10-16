@@ -1,0 +1,6 @@
+hour stock vwap
+6 EDN 28.42
+7 EDN 28.32
+8 EDN 28.25
+9 EDN 28.33
+10 EDN 28.46

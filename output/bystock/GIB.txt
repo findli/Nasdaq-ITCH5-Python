@@ -1,0 +1,8 @@
+hour stock vwap
+4 GIB 64.18
+5 GIB 64.33
+6 GIB 65.01
+7 GIB 65.11
+8 GIB 64.97
+9 GIB 65.41
+10 GIB 65.41

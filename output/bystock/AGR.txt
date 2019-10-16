@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGR 48.73
+5 AGR 48.96
+6 AGR 49.08
+7 AGR 48.98
+8 AGR 48.99
+9 AGR 49.1
+10 AGR 49.17

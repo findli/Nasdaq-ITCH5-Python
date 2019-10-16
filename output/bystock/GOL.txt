@@ -1,0 +1,8 @@
+hour stock vwap
+4 GOL 13.0
+5 GOL 12.92
+6 GOL 12.85
+7 GOL 12.77
+8 GOL 12.86
+9 GOL 13.07
+10 GOL 12.91

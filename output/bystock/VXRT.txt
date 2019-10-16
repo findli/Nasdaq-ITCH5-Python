@@ -1,0 +1,4 @@
+hour stock vwap
+4 VXRT 1.99
+6 VXRT 1.98
+7 VXRT 1.97

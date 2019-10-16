@@ -1,0 +1,8 @@
+hour stock vwap
+4 SHI 47.07
+5 SHI 47.04
+6 SHI 47.08
+7 SHI 47.31
+8 SHI 47.19
+9 SHI 47.41
+10 SHI 47.51

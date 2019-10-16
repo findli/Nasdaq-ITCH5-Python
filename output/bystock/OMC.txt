@@ -1,0 +1,8 @@
+hour stock vwap
+4 OMC 76.61
+5 OMC 76.75
+6 OMC 77.28
+7 OMC 77.39
+8 OMC 77.37
+9 OMC 77.6
+10 OMC 77.42

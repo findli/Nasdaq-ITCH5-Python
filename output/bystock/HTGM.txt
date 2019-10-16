@@ -1,0 +1,8 @@
+hour stock vwap
+4 HTGM 2.09
+5 HTGM 2.1
+6 HTGM 2.13
+7 HTGM 2.16
+8 HTGM 2.1
+9 HTGM 2.13
+10 HTGM 2.14

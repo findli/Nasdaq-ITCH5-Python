@@ -1,0 +1,8 @@
+hour stock vwap
+4 CRNT 4.2
+5 CRNT 4.24
+6 CRNT 4.24
+7 CRNT 4.22
+8 CRNT 4.24
+9 CRNT 4.25
+10 CRNT 4.36

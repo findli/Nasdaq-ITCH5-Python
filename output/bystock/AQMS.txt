@@ -1,0 +1,7 @@
+hour stock vwap
+4 AQMS 2.2
+5 AQMS 2.21
+6 AQMS 2.18
+7 AQMS 2.22
+8 AQMS 2.24
+9 AQMS 2.25

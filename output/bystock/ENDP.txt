@@ -1,0 +1,8 @@
+hour stock vwap
+4 ENDP 9.52
+5 ENDP 9.43
+6 ENDP 9.43
+7 ENDP 9.54
+8 ENDP 9.4
+9 ENDP 9.45
+10 ENDP 9.56

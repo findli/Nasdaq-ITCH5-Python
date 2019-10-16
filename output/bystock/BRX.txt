@@ -1,0 +1,8 @@
+hour stock vwap
+4 BRX 16.92
+5 BRX 17.07
+6 BRX 17.03
+7 BRX 17.08
+8 BRX 16.96
+9 BRX 17.02
+10 BRX 17.06

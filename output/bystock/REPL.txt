@@ -1,0 +1,4 @@
+hour stock vwap
+4 REPL 10.77
+9 REPL 11.37
+10 REPL 11.17

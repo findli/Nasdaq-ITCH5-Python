@@ -1,0 +1,7 @@
+hour stock vwap
+4 ADXS 0.35
+5 ADXS 0.34
+7 ADXS 0.34
+8 ADXS 0.34
+9 ADXS 0.34
+10 ADXS 0.34

@@ -1,0 +1,5 @@
+hour stock vwap
+6 ICF 104.9
+8 ICF 104.76
+9 ICF 104.76
+10 ICF 104.84

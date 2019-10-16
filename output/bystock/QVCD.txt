@@ -1,0 +1,4 @@
+hour stock vwap
+8 QVCD 22.57
+9 QVCD 22.56
+10 QVCD 22.68

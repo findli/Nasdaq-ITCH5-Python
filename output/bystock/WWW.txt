@@ -1,0 +1,8 @@
+hour stock vwap
+4 WWW 33.89
+5 WWW 33.96
+6 WWW 33.98
+7 WWW 33.89
+8 WWW 33.85
+9 WWW 34.01
+10 WWW 34.02

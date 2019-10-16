@@ -1,0 +1,8 @@
+hour stock vwap
+4 SWN 4.5
+5 SWN 4.51
+6 SWN 4.56
+7 SWN 4.56
+8 SWN 4.57
+9 SWN 4.61
+10 SWN 4.59

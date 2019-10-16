@@ -1,0 +1,8 @@
+hour stock vwap
+4 MGEN 2.75
+5 MGEN 2.73
+6 MGEN 2.82
+7 MGEN 2.82
+8 MGEN 2.84
+9 MGEN 2.86
+10 MGEN 2.87

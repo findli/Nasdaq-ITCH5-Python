@@ -1,0 +1,4 @@
+hour stock vwap
+4 UTG 30.55
+6 UTG 30.75
+7 UTG 30.89

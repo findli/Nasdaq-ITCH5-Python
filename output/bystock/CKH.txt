@@ -1,0 +1,8 @@
+hour stock vwap
+4 CKH 42.48
+5 CKH 41.44
+6 CKH 41.62
+7 CKH 41.52
+8 CKH 41.52
+9 CKH 41.84
+10 CKH 41.7

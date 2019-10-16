@@ -1,0 +1,2 @@
+hour stock vwap
+10 ALJJ 1.34

@@ -1,0 +1,7 @@
+hour stock vwap
+4 CNO 17.51
+6 CNO 17.53
+7 CNO 17.57
+8 CNO 17.61
+9 CNO 17.72
+10 CNO 17.72

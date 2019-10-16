@@ -1,0 +1,6 @@
+hour stock vwap
+4 BNED 5.73
+7 BNED 5.71
+8 BNED 5.68
+9 BNED 5.7
+10 BNED 5.7

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CERS 5.72
+5 CERS 5.72
+6 CERS 5.74
+7 CERS 5.75
+8 CERS 5.71
+9 CERS 5.74
+10 CERS 5.69

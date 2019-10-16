@@ -1,0 +1,3 @@
+hour stock vwap
+9 LGI 14.55
+10 LGI 14.55

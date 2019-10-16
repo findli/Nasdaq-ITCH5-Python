@@ -1,0 +1,8 @@
+hour stock vwap
+4 HTZ 15.92
+5 HTZ 16.12
+6 HTZ 16.17
+7 HTZ 16.21
+8 HTZ 16.22
+9 HTZ 16.41
+10 HTZ 16.37

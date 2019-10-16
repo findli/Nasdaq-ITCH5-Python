@@ -1,0 +1,8 @@
+hour stock vwap
+4 ALV 76.57
+5 ALV 77.5
+6 ALV 78.03
+7 ALV 78.01
+8 ALV 78.08
+9 ALV 78.81
+10 ALV 79.25

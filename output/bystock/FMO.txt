@@ -1,0 +1,5 @@
+hour stock vwap
+5 FMO 10.52
+6 FMO 10.51
+9 FMO 10.72
+10 FMO 10.7

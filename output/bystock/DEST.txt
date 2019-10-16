@@ -1,0 +1,4 @@
+hour stock vwap
+8 DEST 2.99
+9 DEST 2.98
+10 DEST 2.92

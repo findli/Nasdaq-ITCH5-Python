@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCCL 1.86
+5 CCCL 1.93
+6 CCCL 1.82
+7 CCCL 1.85
+8 CCCL 1.83
+9 CCCL 1.82
+10 CCCL 1.86

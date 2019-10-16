@@ -1,0 +1,8 @@
+hour stock vwap
+4 BYD 26.5
+5 BYD 26.29
+6 BYD 26.39
+7 BYD 26.64
+8 BYD 26.59
+9 BYD 26.7
+10 BYD 26.64

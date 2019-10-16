@@ -1,0 +1,6 @@
+hour stock vwap
+4 MLVF 19.46
+5 MLVF 20.0
+6 MLVF 19.52
+7 MLVF 19.56
+10 MLVF 20.41

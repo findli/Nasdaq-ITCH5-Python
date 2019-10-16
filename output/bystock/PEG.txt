@@ -1,0 +1,8 @@
+hour stock vwap
+4 PEG 52.86
+5 PEG 53.09
+6 PEG 53.03
+7 PEG 53.07
+8 PEG 52.92
+9 PEG 53.27
+10 PEG 53.33

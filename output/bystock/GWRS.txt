@@ -1,0 +1,6 @@
+hour stock vwap
+4 GWRS 9.6
+6 GWRS 9.61
+8 GWRS 9.53
+9 GWRS 9.62
+10 GWRS 9.59

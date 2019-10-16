@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATH 42.18
+5 ATH 42.19
+6 ATH 42.41
+7 ATH 42.52
+8 ATH 42.3
+9 ATH 42.43
+10 ATH 42.73

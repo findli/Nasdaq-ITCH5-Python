@@ -1,0 +1,5 @@
+hour stock vwap
+4 SMRT 1.13
+5 SMRT 1.14
+8 SMRT 1.14
+10 SMRT 1.15

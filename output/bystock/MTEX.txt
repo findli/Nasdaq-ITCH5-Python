@@ -1,0 +1,2 @@
+hour stock vwap
+4 MTEX 19.16

@@ -1,0 +1,7 @@
+hour stock vwap
+4 DRUA 23.9
+5 DRUA 23.91
+6 DRUA 23.93
+7 DRUA 23.98
+8 DRUA 23.98
+9 DRUA 24.0

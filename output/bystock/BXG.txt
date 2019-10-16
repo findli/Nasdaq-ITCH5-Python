@@ -1,0 +1,7 @@
+hour stock vwap
+4 BXG 12.74
+5 BXG 12.77
+6 BXG 12.89
+7 BXG 12.88
+9 BXG 12.8
+10 BXG 12.8

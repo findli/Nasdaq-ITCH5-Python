@@ -1,0 +1,7 @@
+hour stock vwap
+4 NITE 13.43
+5 NITE 12.91
+6 NITE 12.91
+7 NITE 12.9
+9 NITE 13.08
+10 NITE 13.11

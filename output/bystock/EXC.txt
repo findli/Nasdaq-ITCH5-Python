@@ -1,0 +1,9 @@
+hour stock vwap
+4 EXC 46.25
+5 EXC 46.52
+6 EXC 46.55
+7 EXC 46.46
+8 EXC 46.4
+9 EXC 46.58
+10 EXC 46.71
+11 EXC 46.61

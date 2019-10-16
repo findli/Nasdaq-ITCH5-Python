@@ -1,0 +1,6 @@
+hour stock vwap
+4 DGRW 40.13
+6 DGRW 40.1
+7 DGRW 40.24
+9 DGRW 40.33
+10 DGRW 40.41

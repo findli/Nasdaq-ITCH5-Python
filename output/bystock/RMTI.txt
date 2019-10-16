@@ -1,0 +1,8 @@
+hour stock vwap
+4 RMTI 3.02
+5 RMTI 2.94
+6 RMTI 2.93
+7 RMTI 2.96
+8 RMTI 2.9
+9 RMTI 2.91
+10 RMTI 2.9

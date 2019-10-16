@@ -1,0 +1,5 @@
+hour stock vwap
+4 FDP 31.19
+5 FDP 31.5
+7 FDP 31.76
+10 FDP 31.48

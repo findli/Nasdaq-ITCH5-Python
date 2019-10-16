@@ -1,0 +1,5 @@
+hour stock vwap
+5 NETS 2.42
+7 NETS 2.37
+9 NETS 2.5
+10 NETS 2.59

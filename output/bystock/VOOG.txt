@@ -1,0 +1,4 @@
+hour stock vwap
+6 VOOG 142.0
+9 VOOG 142.6
+10 VOOG 143.35

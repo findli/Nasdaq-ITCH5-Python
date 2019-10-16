@@ -1,0 +1,4 @@
+hour stock vwap
+4 TTOO 3.58
+7 TTOO 3.41
+10 TTOO 3.39

@@ -1,0 +1,6 @@
+hour stock vwap
+6 MOR 27.21
+7 MOR 27.13
+8 MOR 26.93
+9 MOR 27.12
+10 MOR 27.5

@@ -1,0 +1,2 @@
+hour stock vwap
+9 ARR-B 24.58

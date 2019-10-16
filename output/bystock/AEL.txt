@@ -1,0 +1,8 @@
+hour stock vwap
+4 AEL 30.28
+5 AEL 30.16
+6 AEL 30.41
+7 AEL 30.46
+8 AEL 30.37
+9 AEL 30.59
+10 AEL 30.59

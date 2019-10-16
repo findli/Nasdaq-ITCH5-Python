@@ -1,0 +1,8 @@
+hour stock vwap
+4 CM 84.28
+5 CM 84.35
+6 CM 84.38
+7 CM 84.2
+8 CM 84.02
+9 CM 84.63
+10 CM 84.6

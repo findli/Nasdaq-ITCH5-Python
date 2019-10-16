@@ -1,0 +1,5 @@
+hour stock vwap
+5 JFR 9.6
+6 JFR 9.62
+7 JFR 9.63
+9 JFR 9.62

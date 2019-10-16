@@ -1,0 +1,8 @@
+hour stock vwap
+4 MMI 38.63
+5 MMI 38.73
+6 MMI 38.78
+7 MMI 38.82
+8 MMI 38.72
+9 MMI 38.94
+10 MMI 39.03

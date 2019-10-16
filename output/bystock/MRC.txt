@@ -1,0 +1,7 @@
+hour stock vwap
+4 MRC 15.52
+5 MRC 15.36
+6 MRC 15.5
+7 MRC 15.5
+9 MRC 15.64
+10 MRC 15.73

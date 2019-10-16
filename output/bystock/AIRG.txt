@@ -1,0 +1,7 @@
+hour stock vwap
+5 AIRG 10.78
+6 AIRG 10.82
+7 AIRG 10.9
+8 AIRG 10.87
+9 AIRG 10.97
+10 AIRG 10.91

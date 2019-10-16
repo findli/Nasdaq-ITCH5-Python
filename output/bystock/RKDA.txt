@@ -1,0 +1,4 @@
+hour stock vwap
+7 RKDA 3.52
+9 RKDA 3.4
+10 RKDA 3.5

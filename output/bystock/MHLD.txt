@@ -1,0 +1,8 @@
+hour stock vwap
+4 MHLD 1.14
+5 MHLD 1.14
+6 MHLD 1.16
+7 MHLD 1.18
+8 MHLD 1.18
+9 MHLD 1.16
+10 MHLD 1.16

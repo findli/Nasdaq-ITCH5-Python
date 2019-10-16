@@ -1,0 +1,8 @@
+hour stock vwap
+4 SON 56.64
+5 SON 56.56
+6 SON 56.61
+7 SON 56.65
+8 SON 56.42
+9 SON 56.6
+10 SON 56.61

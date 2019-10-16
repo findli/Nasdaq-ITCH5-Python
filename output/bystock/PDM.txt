@@ -1,0 +1,5 @@
+hour stock vwap
+4 PDM 19.09
+8 PDM 19.24
+9 PDM 19.32
+10 PDM 19.22

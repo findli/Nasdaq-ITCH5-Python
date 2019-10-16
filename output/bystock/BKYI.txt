@@ -1,0 +1,5 @@
+hour stock vwap
+4 BKYI 1.39
+5 BKYI 1.44
+6 BKYI 1.37
+7 BKYI 1.38

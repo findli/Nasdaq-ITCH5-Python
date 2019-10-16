@@ -1,0 +1,4 @@
+hour stock vwap
+6 SAFE 17.28
+8 SAFE 17.59
+9 SAFE 17.66

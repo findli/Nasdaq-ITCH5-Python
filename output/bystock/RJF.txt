@@ -1,0 +1,8 @@
+hour stock vwap
+4 RJF 80.55
+5 RJF 80.33
+6 RJF 80.53
+7 RJF 80.3
+8 RJF 80.53
+9 RJF 80.63
+10 RJF 80.81

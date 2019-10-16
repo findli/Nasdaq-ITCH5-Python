@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRI 51.49
+5 TRI 51.54
+6 TRI 51.61
+7 TRI 51.63
+8 TRI 51.58
+9 TRI 51.97
+10 TRI 51.9

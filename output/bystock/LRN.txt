@@ -1,0 +1,8 @@
+hour stock vwap
+4 LRN 29.56
+5 LRN 29.65
+6 LRN 29.53
+7 LRN 29.54
+8 LRN 29.82
+9 LRN 29.93
+10 LRN 29.87

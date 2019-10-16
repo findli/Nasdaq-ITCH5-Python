@@ -1,0 +1,3 @@
+hour stock vwap
+10 PHX 15.92
+11 PHX 15.48

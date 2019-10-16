@@ -1,0 +1,4 @@
+hour stock vwap
+4 EPOL 23.73
+6 EPOL 23.7
+9 EPOL 24.16

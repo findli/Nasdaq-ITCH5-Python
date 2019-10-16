@@ -1,0 +1,8 @@
+hour stock vwap
+4 GGG 43.3
+5 GGG 43.07
+6 GGG 42.96
+7 GGG 42.83
+8 GGG 42.55
+9 GGG 43.18
+10 GGG 43.08

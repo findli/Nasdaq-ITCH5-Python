@@ -1,0 +1,5 @@
+hour stock vwap
+5 CSF 40.45
+6 CSF 40.45
+7 CSF 40.47
+9 CSF 40.52

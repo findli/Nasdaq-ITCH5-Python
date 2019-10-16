@@ -1,0 +1,7 @@
+hour stock vwap
+5 ATRS 2.97
+6 ATRS 2.97
+7 ATRS 2.98
+8 ATRS 2.96
+9 ATRS 2.97
+10 ATRS 2.99

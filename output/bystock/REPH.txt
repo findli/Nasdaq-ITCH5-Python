@@ -1,0 +1,7 @@
+hour stock vwap
+4 REPH 7.7
+5 REPH 7.83
+7 REPH 7.75
+8 REPH 7.71
+9 REPH 7.8
+10 REPH 7.89

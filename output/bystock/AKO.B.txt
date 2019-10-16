@@ -1,0 +1,3 @@
+hour stock vwap
+9 AKO.B 22.58
+10 AKO.B 22.5

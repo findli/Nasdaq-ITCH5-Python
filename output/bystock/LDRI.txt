@@ -1,0 +1,2 @@
+hour stock vwap
+9 LDRI 24.67

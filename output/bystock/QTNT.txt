@@ -1,0 +1,8 @@
+hour stock vwap
+4 QTNT 8.25
+5 QTNT 8.22
+6 QTNT 8.13
+7 QTNT 8.07
+8 QTNT 8.05
+9 QTNT 7.98
+10 QTNT 7.91

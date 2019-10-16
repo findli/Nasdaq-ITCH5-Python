@@ -1,0 +1,6 @@
+hour stock vwap
+4 REDU 8.99
+7 REDU 8.95
+8 REDU 8.95
+9 REDU 8.96
+10 REDU 8.96

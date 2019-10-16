@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWU 31.22
+5 EWU 31.2
+6 EWU 31.22
+7 EWU 31.24
+8 EWU 31.19
+9 EWU 31.28
+10 EWU 31.34

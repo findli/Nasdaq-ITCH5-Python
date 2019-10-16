@@ -1,0 +1,8 @@
+hour stock vwap
+4 UFS 46.01
+5 UFS 45.94
+6 UFS 45.99
+7 UFS 46.05
+8 UFS 46.06
+9 UFS 46.45
+10 UFS 46.43

@@ -1,0 +1,5 @@
+hour stock vwap
+5 TCGP 22.45
+6 TCGP 22.51
+8 TCGP 22.58
+9 TCGP 22.58

@@ -1,0 +1,10 @@
+hour stock vwap
+3 CZR 8.87
+4 CZR 8.94
+5 CZR 8.98
+6 CZR 9.04
+7 CZR 9.0
+8 CZR 8.99
+9 CZR 9.06
+10 CZR 8.99
+11 CZR 9.05

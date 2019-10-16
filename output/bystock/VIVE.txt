@@ -1,0 +1,5 @@
+hour stock vwap
+4 VIVE 1.18
+5 VIVE 1.19
+8 VIVE 1.15
+10 VIVE 1.16

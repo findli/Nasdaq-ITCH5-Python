@@ -1,0 +1,7 @@
+hour stock vwap
+5 GHC 666.4
+6 GHC 665.18
+7 GHC 663.93
+8 GHC 661.09
+9 GHC 662.94
+10 GHC 658.19

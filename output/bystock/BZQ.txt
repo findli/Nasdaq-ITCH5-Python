@@ -1,0 +1,5 @@
+hour stock vwap
+4 BZQ 26.41
+5 BZQ 26.75
+9 BZQ 25.84
+10 BZQ 25.7

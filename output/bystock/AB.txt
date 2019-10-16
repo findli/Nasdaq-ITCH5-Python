@@ -1,0 +1,7 @@
+hour stock vwap
+4 AB 30.03
+5 AB 29.94
+6 AB 30.1
+8 AB 30.0
+9 AB 30.16
+10 AB 30.0

@@ -1,0 +1,9 @@
+hour stock vwap
+3 CBS 50.36
+4 CBS 49.48
+5 CBS 49.04
+6 CBS 49.21
+7 CBS 49.25
+8 CBS 49.26
+9 CBS 49.54
+10 CBS 49.43

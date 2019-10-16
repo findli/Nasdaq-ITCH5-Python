@@ -1,0 +1,8 @@
+hour stock vwap
+4 UBA 20.78
+5 UBA 20.94
+6 UBA 21.02
+7 UBA 21.02
+8 UBA 20.96
+9 UBA 21.05
+10 UBA 20.86

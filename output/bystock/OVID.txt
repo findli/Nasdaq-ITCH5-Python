@@ -1,0 +1,6 @@
+hour stock vwap
+4 OVID 3.21
+5 OVID 3.14
+7 OVID 3.12
+8 OVID 3.2
+9 OVID 3.18

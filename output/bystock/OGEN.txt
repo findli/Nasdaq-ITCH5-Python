@@ -1,0 +1,5 @@
+hour stock vwap
+4 OGEN 0.91
+5 OGEN 0.91
+9 OGEN 0.92
+10 OGEN 0.91

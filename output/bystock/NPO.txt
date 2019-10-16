@@ -1,0 +1,8 @@
+hour stock vwap
+4 NPO 64.44
+5 NPO 64.6
+6 NPO 65.09
+7 NPO 65.3
+8 NPO 65.04
+9 NPO 65.32
+10 NPO 65.36

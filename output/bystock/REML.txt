@@ -1,0 +1,4 @@
+hour stock vwap
+5 REML 24.53
+7 REML 24.8
+11 REML 25.0

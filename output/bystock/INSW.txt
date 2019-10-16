@@ -1,0 +1,5 @@
+hour stock vwap
+5 INSW 17.58
+7 INSW 17.71
+9 INSW 17.91
+10 INSW 17.85

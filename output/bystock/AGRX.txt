@@ -1,0 +1,6 @@
+hour stock vwap
+5 AGRX 0.84
+6 AGRX 0.84
+8 AGRX 0.84
+9 AGRX 0.81
+10 AGRX 0.82

@@ -1,0 +1,4 @@
+hour stock vwap
+6 NOVN 1.38
+7 NOVN 1.32
+9 NOVN 1.32

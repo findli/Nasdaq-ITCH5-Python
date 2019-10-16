@@ -1,0 +1,5 @@
+hour stock vwap
+6 ETTX 5.03
+7 ETTX 5.1
+9 ETTX 5.24
+10 ETTX 4.95

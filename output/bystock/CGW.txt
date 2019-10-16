@@ -1,0 +1,3 @@
+hour stock vwap
+8 CGW 33.1
+9 CGW 33.36

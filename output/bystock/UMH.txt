@@ -1,0 +1,8 @@
+hour stock vwap
+4 UMH 13.72
+5 UMH 13.86
+6 UMH 13.86
+7 UMH 13.91
+8 UMH 13.88
+9 UMH 13.96
+10 UMH 13.89

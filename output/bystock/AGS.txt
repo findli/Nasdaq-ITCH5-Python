@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGS 24.58
+5 AGS 24.54
+6 AGS 24.5
+7 AGS 24.53
+8 AGS 24.64
+9 AGS 24.68
+10 AGS 24.59

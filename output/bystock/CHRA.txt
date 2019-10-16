@@ -1,0 +1,7 @@
+hour stock vwap
+5 CHRA 7.27
+6 CHRA 7.47
+7 CHRA 7.29
+8 CHRA 7.26
+9 CHRA 7.18
+10 CHRA 7.29

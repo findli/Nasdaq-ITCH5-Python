@@ -1,0 +1,7 @@
+hour stock vwap
+4 BLRX 0.65
+5 BLRX 0.62
+6 BLRX 0.63
+7 BLRX 0.62
+8 BLRX 0.62
+9 BLRX 0.64

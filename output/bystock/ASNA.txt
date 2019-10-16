@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASNA 2.39
+5 ASNA 2.41
+6 ASNA 2.45
+7 ASNA 2.45
+8 ASNA 2.44
+9 ASNA 2.42
+10 ASNA 2.43

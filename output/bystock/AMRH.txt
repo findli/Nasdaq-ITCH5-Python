@@ -1,0 +1,4 @@
+hour stock vwap
+5 AMRH 0.22
+7 AMRH 0.22
+9 AMRH 0.23

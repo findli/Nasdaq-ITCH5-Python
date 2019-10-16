@@ -1,0 +1,7 @@
+hour stock vwap
+4 CLPS 6.43
+5 CLPS 6.23
+6 CLPS 6.08
+7 CLPS 6.3
+9 CLPS 6.43
+10 CLPS 6.48

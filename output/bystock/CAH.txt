@@ -1,0 +1,8 @@
+hour stock vwap
+4 CAH 49.33
+5 CAH 49.02
+6 CAH 48.89
+7 CAH 48.99
+8 CAH 48.7
+9 CAH 48.52
+10 CAH 48.68

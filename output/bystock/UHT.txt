@@ -1,0 +1,8 @@
+hour stock vwap
+4 UHT 67.74
+5 UHT 68.32
+6 UHT 68.29
+7 UHT 68.18
+8 UHT 68.0
+9 UHT 68.13
+10 UHT 68.28

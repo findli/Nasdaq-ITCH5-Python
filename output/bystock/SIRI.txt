@@ -1,0 +1,8 @@
+hour stock vwap
+4 SIRI 5.84
+5 SIRI 5.91
+6 SIRI 5.91
+7 SIRI 5.88
+8 SIRI 5.94
+9 SIRI 6.0
+10 SIRI 5.97

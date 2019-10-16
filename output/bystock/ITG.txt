@@ -1,0 +1,8 @@
+hour stock vwap
+4 ITG 30.24
+5 ITG 30.24
+6 ITG 30.25
+7 ITG 30.25
+8 ITG 30.25
+9 ITG 30.25
+10 ITG 30.25

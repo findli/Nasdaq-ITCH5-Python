@@ -1,0 +1,7 @@
+hour stock vwap
+4 RLH 9.33
+5 RLH 9.32
+6 RLH 9.38
+7 RLH 9.32
+9 RLH 9.39
+10 RLH 9.35

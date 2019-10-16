@@ -1,0 +1,5 @@
+hour stock vwap
+5 AQXP 2.24
+7 AQXP 2.28
+8 AQXP 2.25
+9 AQXP 2.27

@@ -1,0 +1,2 @@
+hour stock vwap
+10 NMY 12.1

@@ -1,0 +1,8 @@
+hour stock vwap
+4 VLRS 7.52
+5 VLRS 7.48
+6 VLRS 7.47
+7 VLRS 7.42
+8 VLRS 7.39
+9 VLRS 7.42
+10 VLRS 7.41

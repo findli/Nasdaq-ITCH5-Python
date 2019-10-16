@@ -1,0 +1,7 @@
+hour stock vwap
+4 DLA 23.24
+5 DLA 23.32
+6 DLA 23.5
+7 DLA 23.5
+9 DLA 23.53
+10 DLA 23.98

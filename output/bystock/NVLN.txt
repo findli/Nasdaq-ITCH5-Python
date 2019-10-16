@@ -1,0 +1,4 @@
+hour stock vwap
+5 NVLN 0.93
+6 NVLN 0.93
+9 NVLN 0.94

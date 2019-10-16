@@ -1,0 +1,4 @@
+hour stock vwap
+4 WPS 37.78
+5 WPS 37.82
+9 WPS 38.08

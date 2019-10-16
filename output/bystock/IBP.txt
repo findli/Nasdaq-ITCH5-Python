@@ -1,0 +1,8 @@
+hour stock vwap
+4 IBP 40.35
+5 IBP 39.78
+6 IBP 39.42
+7 IBP 39.3
+8 IBP 39.36
+9 IBP 40.3
+10 IBP 40.63

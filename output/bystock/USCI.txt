@@ -1,0 +1,4 @@
+hour stock vwap
+6 USCI 38.78
+9 USCI 38.84
+10 USCI 38.84

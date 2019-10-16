@@ -1,0 +1,4 @@
+hour stock vwap
+6 MVIS 0.82
+9 MVIS 0.82
+10 MVIS 0.82

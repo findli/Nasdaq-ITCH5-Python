@@ -1,0 +1,9 @@
+hour stock vwap
+4 SLM 10.79
+5 SLM 10.74
+6 SLM 10.74
+7 SLM 10.81
+8 SLM 10.8
+9 SLM 10.84
+10 SLM 10.81
+12 SLM 10.52

@@ -1,0 +1,6 @@
+hour stock vwap
+4 NMFC 13.85
+5 NMFC 13.86
+6 NMFC 13.97
+9 NMFC 13.94
+10 NMFC 13.94

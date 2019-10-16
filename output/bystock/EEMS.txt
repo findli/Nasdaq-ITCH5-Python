@@ -1,0 +1,4 @@
+hour stock vwap
+5 EEMS 43.63
+9 EEMS 43.85
+10 EEMS 44.24

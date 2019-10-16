@@ -1,0 +1,4 @@
+hour stock vwap
+4 FNB-E 27.2
+7 FNB-E 27.6
+9 FNB-E 27.75

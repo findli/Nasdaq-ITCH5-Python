@@ -1,0 +1,2 @@
+hour stock vwap
+10 UTSL 27.35

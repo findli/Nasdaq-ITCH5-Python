@@ -1,0 +1,5 @@
+hour stock vwap
+5 TPRE 10.27
+6 TPRE 10.28
+9 TPRE 10.37
+10 TPRE 10.4

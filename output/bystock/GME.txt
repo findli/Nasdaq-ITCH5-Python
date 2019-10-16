@@ -1,0 +1,9 @@
+hour stock vwap
+0 GME 11.35
+4 GME 11.2
+5 GME 11.23
+6 GME 11.24
+7 GME 11.22
+8 GME 11.21
+9 GME 11.21
+10 GME 11.18

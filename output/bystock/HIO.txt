@@ -1,0 +1,6 @@
+hour stock vwap
+5 HIO 4.7
+6 HIO 4.7
+8 HIO 4.7
+9 HIO 4.7
+10 HIO 4.71

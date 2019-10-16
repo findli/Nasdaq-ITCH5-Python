@@ -1,0 +1,7 @@
+hour stock vwap
+4 CPTA 8.16
+6 CPTA 8.31
+7 CPTA 8.23
+8 CPTA 8.19
+9 CPTA 8.23
+10 CPTA 8.26

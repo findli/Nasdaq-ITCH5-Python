@@ -1,0 +1,7 @@
+hour stock vwap
+4 VIVO 16.04
+5 VIVO 16.0
+6 VIVO 16.06
+7 VIVO 16.05
+9 VIVO 16.17
+10 VIVO 16.16

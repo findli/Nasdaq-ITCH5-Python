@@ -1,0 +1,7 @@
+hour stock vwap
+5 ZYME 15.12
+6 ZYME 15.2
+7 ZYME 15.37
+8 ZYME 15.35
+9 ZYME 15.47
+10 ZYME 15.47

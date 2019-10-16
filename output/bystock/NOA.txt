@@ -1,0 +1,4 @@
+hour stock vwap
+5 NOA 10.29
+8 NOA 10.26
+10 NOA 10.34

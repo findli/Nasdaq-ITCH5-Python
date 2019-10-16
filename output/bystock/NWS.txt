@@ -1,0 +1,8 @@
+hour stock vwap
+4 NWS 12.72
+5 NWS 12.68
+6 NWS 12.72
+7 NWS 12.74
+8 NWS 12.75
+9 NWS 12.88
+10 NWS 12.84

@@ -1,0 +1,2 @@
+hour stock vwap
+4 FHK 35.62

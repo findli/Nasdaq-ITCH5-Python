@@ -1,0 +1,8 @@
+hour stock vwap
+4 CHS 5.82
+5 CHS 5.8
+6 CHS 5.78
+7 CHS 5.78
+8 CHS 5.74
+9 CHS 5.76
+10 CHS 5.76

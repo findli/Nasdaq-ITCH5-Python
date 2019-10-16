@@ -1,0 +1,4 @@
+hour stock vwap
+4 MS-G 25.48
+5 MS-G 25.47
+10 MS-G 25.58

@@ -1,0 +1,7 @@
+hour stock vwap
+4 VEON 2.48
+5 VEON 2.49
+6 VEON 2.47
+7 VEON 2.46
+8 VEON 2.46
+10 VEON 2.48

@@ -1,0 +1,4 @@
+hour stock vwap
+4 CTAA 23.76
+6 CTAA 24.05
+10 CTAA 24.6

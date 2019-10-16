@@ -1,0 +1,8 @@
+hour stock vwap
+4 DRQ 37.37
+5 DRQ 37.02
+6 DRQ 37.31
+7 DRQ 37.38
+8 DRQ 37.67
+9 DRQ 37.66
+10 DRQ 37.77

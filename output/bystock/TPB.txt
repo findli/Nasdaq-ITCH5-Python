@@ -1,0 +1,8 @@
+hour stock vwap
+4 TPB 32.9
+5 TPB 32.97
+6 TPB 33.27
+8 TPB 33.64
+9 TPB 33.71
+10 TPB 33.89
+11 TPB 35.13

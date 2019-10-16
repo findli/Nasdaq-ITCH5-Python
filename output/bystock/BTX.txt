@@ -1,0 +1,9 @@
+hour stock vwap
+3 BTX 1.57
+4 BTX 1.54
+5 BTX 1.5
+6 BTX 1.48
+7 BTX 1.35
+8 BTX 1.35
+9 BTX 1.41
+10 BTX 1.42

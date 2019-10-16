@@ -1,0 +1,2 @@
+hour stock vwap
+10 ZEAL 14.38

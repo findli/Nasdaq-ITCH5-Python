@@ -1,0 +1,7 @@
+hour stock vwap
+4 USFR 25.08
+5 USFR 25.08
+6 USFR 25.08
+7 USFR 25.08
+9 USFR 25.08
+10 USFR 25.08

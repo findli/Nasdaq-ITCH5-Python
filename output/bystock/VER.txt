@@ -1,0 +1,8 @@
+hour stock vwap
+4 VER 7.98
+5 VER 8.02
+6 VER 8.04
+7 VER 8.02
+8 VER 7.99
+9 VER 8.01
+10 VER 7.99

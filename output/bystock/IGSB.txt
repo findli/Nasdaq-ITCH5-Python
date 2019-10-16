@@ -1,0 +1,6 @@
+hour stock vwap
+4 IGSB 52.09
+5 IGSB 52.09
+6 IGSB 52.07
+7 IGSB 52.07
+9 IGSB 52.17

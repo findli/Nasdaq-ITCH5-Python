@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZFGN 4.3
+5 ZFGN 4.22
+6 ZFGN 4.2
+7 ZFGN 4.22
+8 ZFGN 4.22
+9 ZFGN 4.25
+10 ZFGN 4.29

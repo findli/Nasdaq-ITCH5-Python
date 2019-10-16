@@ -1,0 +1,7 @@
+hour stock vwap
+4 TRPX 3.72
+5 TRPX 3.55
+6 TRPX 3.64
+7 TRPX 3.64
+8 TRPX 3.64
+10 TRPX 3.58

@@ -1,0 +1,7 @@
+hour stock vwap
+4 WTRH 12.17
+5 WTRH 12.16
+7 WTRH 12.15
+8 WTRH 12.2
+9 WTRH 12.09
+10 WTRH 12.15

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DSX 2.95
+5 DSX 2.92
+6 DSX 2.94
+7 DSX 2.94
+8 DSX 2.92
+9 DSX 2.94
+10 DSX 2.94

@@ -1,0 +1,7 @@
+hour stock vwap
+4 EXTN 17.1
+5 EXTN 17.04
+6 EXTN 17.19
+7 EXTN 17.06
+9 EXTN 17.12
+10 EXTN 17.17

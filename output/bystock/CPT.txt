@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPT 95.97
+5 CPT 96.61
+6 CPT 96.57
+7 CPT 96.69
+8 CPT 96.66
+9 CPT 96.59
+10 CPT 96.47

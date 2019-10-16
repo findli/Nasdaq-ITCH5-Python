@@ -1,0 +1,7 @@
+hour stock vwap
+5 EPRT 15.7
+6 EPRT 15.69
+7 EPRT 15.69
+8 EPRT 15.71
+9 EPRT 15.76
+10 EPRT 15.75

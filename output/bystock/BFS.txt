@@ -1,0 +1,7 @@
+hour stock vwap
+4 BFS 53.14
+5 BFS 53.19
+6 BFS 53.51
+8 BFS 53.43
+9 BFS 53.58
+10 BFS 53.4

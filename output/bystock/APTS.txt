@@ -1,0 +1,5 @@
+hour stock vwap
+5 APTS 16.01
+7 APTS 16.06
+9 APTS 16.02
+10 APTS 16.0

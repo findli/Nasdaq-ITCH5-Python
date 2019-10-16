@@ -1,0 +1,7 @@
+hour stock vwap
+5 ARCE 24.88
+6 ARCE 25.19
+7 ARCE 25.49
+8 ARCE 25.42
+9 ARCE 25.29
+10 ARCE 25.2

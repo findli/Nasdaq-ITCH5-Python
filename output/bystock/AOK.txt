@@ -1,0 +1,4 @@
+hour stock vwap
+5 AOK 33.44
+9 AOK 33.48
+10 AOK 33.58

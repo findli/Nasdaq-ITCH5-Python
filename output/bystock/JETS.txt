@@ -1,0 +1,5 @@
+hour stock vwap
+4 JETS 30.49
+5 JETS 30.5
+9 JETS 30.97
+10 JETS 30.9

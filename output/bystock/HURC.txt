@@ -1,0 +1,5 @@
+hour stock vwap
+6 HURC 37.73
+7 HURC 37.68
+8 HURC 37.67
+10 HURC 38.1

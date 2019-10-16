@@ -1,0 +1,9 @@
+hour stock vwap
+4 NOK 6.5
+5 NOK 6.49
+6 NOK 6.5
+7 NOK 6.49
+8 NOK 6.47
+9 NOK 6.57
+10 NOK 6.58
+12 NOK 6.64

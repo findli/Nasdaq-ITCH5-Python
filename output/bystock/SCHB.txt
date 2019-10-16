@@ -1,0 +1,6 @@
+hour stock vwap
+4 SCHB 63.76
+6 SCHB 64.02
+7 SCHB 64.07
+9 SCHB 64.35
+10 SCHB 64.46

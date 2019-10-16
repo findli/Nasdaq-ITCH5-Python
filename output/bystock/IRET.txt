@@ -1,0 +1,7 @@
+hour stock vwap
+5 IRET 58.29
+6 IRET 58.32
+7 IRET 58.44
+8 IRET 58.38
+9 IRET 58.6
+10 IRET 58.2

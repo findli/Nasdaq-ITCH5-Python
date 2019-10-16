@@ -1,0 +1,7 @@
+hour stock vwap
+5 VLUE 78.43
+6 VLUE 78.61
+7 VLUE 78.69
+8 VLUE 78.54
+9 VLUE 79.08
+10 VLUE 79.09

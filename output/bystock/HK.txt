@@ -1,0 +1,8 @@
+hour stock vwap
+4 HK 1.65
+5 HK 1.69
+6 HK 1.69
+7 HK 1.67
+8 HK 1.68
+9 HK 1.69
+10 HK 1.69

@@ -1,0 +1,3 @@
+hour stock vwap
+9 EUM 18.64
+10 EUM 18.64

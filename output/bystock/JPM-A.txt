@@ -1,0 +1,4 @@
+hour stock vwap
+4 JPM-A 24.81
+7 JPM-A 25.0
+9 JPM-A 24.99

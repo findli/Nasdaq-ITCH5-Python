@@ -1,0 +1,4 @@
+hour stock vwap
+5 MTL 2.41
+9 MTL 2.4
+10 MTL 2.4

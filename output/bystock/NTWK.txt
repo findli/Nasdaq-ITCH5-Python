@@ -1,0 +1,7 @@
+hour stock vwap
+4 NTWK 6.61
+6 NTWK 6.71
+7 NTWK 7.01
+8 NTWK 6.94
+9 NTWK 6.87
+10 NTWK 6.75

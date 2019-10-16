@@ -1,0 +1,8 @@
+hour stock vwap
+4 EIG 41.75
+5 EIG 41.74
+6 EIG 42.02
+7 EIG 42.07
+8 EIG 41.92
+9 EIG 42.01
+10 EIG 42.14

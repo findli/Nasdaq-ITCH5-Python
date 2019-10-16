@@ -1,0 +1,4 @@
+hour stock vwap
+6 GGM 19.83
+7 GGM 19.77
+8 GGM 19.65

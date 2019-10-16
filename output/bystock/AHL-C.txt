@@ -1,0 +1,4 @@
+hour stock vwap
+5 AHL-C 24.88
+6 AHL-C 24.89
+9 AHL-C 24.94

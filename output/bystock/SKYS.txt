@@ -1,0 +1,4 @@
+hour stock vwap
+5 SKYS 0.58
+6 SKYS 0.57
+10 SKYS 0.57

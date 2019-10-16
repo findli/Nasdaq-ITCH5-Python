@@ -1,0 +1,7 @@
+hour stock vwap
+4 BST 29.8
+5 BST 29.95
+6 BST 30.07
+7 BST 30.16
+9 BST 30.14
+10 BST 30.39

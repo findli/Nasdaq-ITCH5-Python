@@ -1,0 +1,8 @@
+hour stock vwap
+4 AME 71.82
+5 AME 71.46
+6 AME 71.92
+7 AME 71.95
+8 AME 71.88
+9 AME 72.36
+10 AME 72.54

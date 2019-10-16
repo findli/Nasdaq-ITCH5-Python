@@ -1,0 +1,6 @@
+hour stock vwap
+6 OOMA 15.05
+7 OOMA 14.99
+8 OOMA 15.01
+9 OOMA 15.16
+10 OOMA 15.13

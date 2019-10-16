@@ -1,0 +1,8 @@
+hour stock vwap
+4 BPR 17.83
+5 BPR 17.84
+6 BPR 17.89
+7 BPR 17.88
+8 BPR 17.87
+9 BPR 17.95
+10 BPR 18.02

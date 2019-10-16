@@ -1,0 +1,4 @@
+hour stock vwap
+4 MCB 35.64
+9 MCB 35.52
+10 MCB 35.55

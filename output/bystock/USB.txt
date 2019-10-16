@@ -1,0 +1,8 @@
+hour stock vwap
+4 USB 51.02
+5 USB 50.89
+6 USB 51.08
+7 USB 51.12
+8 USB 51.02
+9 USB 51.16
+10 USB 51.08

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPB 34.42
+5 CPB 34.73
+6 CPB 34.82
+7 CPB 34.87
+8 CPB 34.9
+9 CPB 34.98
+10 CPB 34.87

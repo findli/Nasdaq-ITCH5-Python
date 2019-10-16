@@ -1,0 +1,7 @@
+hour stock vwap
+4 TLGT 1.71
+5 TLGT 1.72
+6 TLGT 1.74
+7 TLGT 1.71
+8 TLGT 1.7
+10 TLGT 1.73

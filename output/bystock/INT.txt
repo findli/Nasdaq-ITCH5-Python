@@ -1,0 +1,8 @@
+hour stock vwap
+4 INT 24.59
+5 INT 24.38
+6 INT 24.65
+7 INT 24.76
+8 INT 24.71
+9 INT 24.85
+10 INT 25.02

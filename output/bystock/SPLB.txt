@@ -1,0 +1,7 @@
+hour stock vwap
+4 SPLB 25.92
+5 SPLB 25.93
+6 SPLB 25.92
+8 SPLB 25.93
+9 SPLB 25.93
+10 SPLB 25.98

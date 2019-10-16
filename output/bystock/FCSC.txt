@@ -1,0 +1,5 @@
+hour stock vwap
+5 FCSC 1.98
+8 FCSC 1.96
+9 FCSC 1.96
+10 FCSC 1.96

@@ -1,0 +1,4 @@
+hour stock vwap
+5 VIOO 137.01
+9 VIOO 137.65
+10 VIOO 138.28

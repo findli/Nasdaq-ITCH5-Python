@@ -1,0 +1,6 @@
+hour stock vwap
+4 RAIL 7.11
+6 RAIL 7.01
+7 RAIL 7.06
+9 RAIL 7.12
+10 RAIL 7.16

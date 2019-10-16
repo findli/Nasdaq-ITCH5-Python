@@ -1,0 +1,6 @@
+hour stock vwap
+5 EBF 19.91
+6 EBF 19.92
+8 EBF 20.02
+9 EBF 20.03
+10 EBF 20.03

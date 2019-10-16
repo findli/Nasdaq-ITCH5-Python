@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNP 84.1
+5 SNP 83.65
+6 SNP 83.87
+7 SNP 83.92
+8 SNP 83.89
+9 SNP 84.53
+10 SNP 84.54

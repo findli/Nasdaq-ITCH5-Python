@@ -1,0 +1,7 @@
+hour stock vwap
+5 MLPA 8.72
+6 MLPA 8.77
+7 MLPA 8.8
+8 MLPA 8.81
+9 MLPA 8.84
+10 MLPA 8.84

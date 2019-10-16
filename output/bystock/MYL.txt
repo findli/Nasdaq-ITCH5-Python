@@ -1,0 +1,9 @@
+hour stock vwap
+4 MYL 28.65
+5 MYL 28.61
+6 MYL 28.74
+7 MYL 28.98
+8 MYL 28.91
+9 MYL 29.67
+10 MYL 30.59
+11 MYL 30.8

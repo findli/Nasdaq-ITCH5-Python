@@ -1,0 +1,6 @@
+hour stock vwap
+6 ATRI 776.9
+7 ATRI 773.57
+8 ATRI 777.35
+9 ATRI 774.87
+10 ATRI 769.18

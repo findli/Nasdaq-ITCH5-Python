@@ -1,0 +1,3 @@
+hour stock vwap
+7 PSB-V 24.74
+8 PSB-V 24.73

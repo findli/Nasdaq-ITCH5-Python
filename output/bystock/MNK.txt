@@ -1,0 +1,9 @@
+hour stock vwap
+4 MNK 21.61
+5 MNK 21.39
+6 MNK 21.4
+7 MNK 21.57
+8 MNK 21.53
+9 MNK 21.67
+10 MNK 21.78
+11 MNK 21.49

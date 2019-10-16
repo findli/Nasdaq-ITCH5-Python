@@ -1,0 +1,6 @@
+hour stock vwap
+4 FRGI 14.85
+5 FRGI 14.88
+6 FRGI 14.78
+9 FRGI 14.86
+10 FRGI 14.81

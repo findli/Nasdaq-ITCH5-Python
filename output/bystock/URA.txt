@@ -1,0 +1,7 @@
+hour stock vwap
+4 URA 12.74
+5 URA 12.6
+7 URA 12.59
+8 URA 12.54
+9 URA 12.71
+10 URA 12.65

@@ -1,0 +1,3 @@
+hour stock vwap
+6 AXJL 65.12
+7 AXJL 65.21

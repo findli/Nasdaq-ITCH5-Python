@@ -1,0 +1,8 @@
+hour stock vwap
+4 JMEI 2.51
+5 JMEI 2.59
+6 JMEI 2.59
+7 JMEI 2.58
+8 JMEI 2.59
+9 JMEI 2.63
+10 JMEI 2.61

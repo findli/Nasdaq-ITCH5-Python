@@ -1,0 +1,6 @@
+hour stock vwap
+6 TNP-E 21.77
+7 TNP-E 21.5
+8 TNP-E 21.49
+9 TNP-E 21.58
+10 TNP-E 21.59

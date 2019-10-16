@@ -1,0 +1,8 @@
+hour stock vwap
+4 AWR 65.33
+5 AWR 65.44
+6 AWR 65.42
+7 AWR 65.45
+8 AWR 65.46
+9 AWR 65.83
+10 AWR 65.74

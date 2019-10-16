@@ -1,0 +1,8 @@
+hour stock vwap
+4 EIGI 7.9
+5 EIGI 7.89
+6 EIGI 7.99
+7 EIGI 7.97
+8 EIGI 7.95
+9 EIGI 8.06
+10 EIGI 8.1

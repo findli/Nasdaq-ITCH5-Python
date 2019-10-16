@@ -1,0 +1,8 @@
+hour stock vwap
+4 COF 79.78
+5 COF 79.45
+6 COF 80.08
+7 COF 80.47
+8 COF 80.14
+9 COF 80.82
+10 COF 80.9

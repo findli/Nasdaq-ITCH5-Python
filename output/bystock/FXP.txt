@@ -1,0 +1,5 @@
+hour stock vwap
+5 FXP 65.9
+6 FXP 65.83
+9 FXP 64.06
+10 FXP 64.04

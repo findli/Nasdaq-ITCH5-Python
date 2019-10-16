@@ -1,0 +1,4 @@
+hour stock vwap
+5 GS-K 26.5
+9 GS-K 26.67
+10 GS-K 26.64

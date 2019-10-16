@@ -1,0 +1,8 @@
+hour stock vwap
+4 TTC 59.25
+5 TTC 59.48
+6 TTC 59.63
+7 TTC 59.62
+8 TTC 59.52
+9 TTC 59.99
+10 TTC 59.66

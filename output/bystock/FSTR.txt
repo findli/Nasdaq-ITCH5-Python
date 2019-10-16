@@ -1,0 +1,7 @@
+hour stock vwap
+5 FSTR 17.68
+6 FSTR 17.68
+7 FSTR 17.5
+8 FSTR 17.56
+9 FSTR 17.51
+10 FSTR 17.62

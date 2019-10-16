@@ -1,0 +1,3 @@
+hour stock vwap
+8 FXO 29.73
+10 FXO 29.8

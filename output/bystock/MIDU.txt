@@ -1,0 +1,5 @@
+hour stock vwap
+6 MIDU 36.39
+7 MIDU 36.46
+9 MIDU 36.91
+10 MIDU 37.04

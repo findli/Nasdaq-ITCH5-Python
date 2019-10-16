@@ -1,0 +1,8 @@
+hour stock vwap
+4 MBT 8.3
+5 MBT 8.27
+6 MBT 8.41
+7 MBT 8.44
+8 MBT 8.4
+9 MBT 8.46
+10 MBT 8.47

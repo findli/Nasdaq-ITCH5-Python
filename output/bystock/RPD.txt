@@ -1,0 +1,8 @@
+hour stock vwap
+4 RPD 37.32
+5 RPD 37.03
+6 RPD 37.16
+7 RPD 37.6
+8 RPD 37.79
+9 RPD 38.03
+10 RPD 38.53

@@ -1,0 +1,5 @@
+hour stock vwap
+7 SKF 20.41
+8 SKF 20.43
+9 SKF 20.22
+10 SKF 20.28

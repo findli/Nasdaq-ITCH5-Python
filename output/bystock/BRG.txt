@@ -1,0 +1,5 @@
+hour stock vwap
+4 BRG 10.37
+6 BRG 10.4
+8 BRG 10.57
+9 BRG 10.52

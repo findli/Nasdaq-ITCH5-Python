@@ -1,0 +1,4 @@
+hour stock vwap
+6 SCHA 67.12
+8 SCHA 67.04
+10 SCHA 67.39

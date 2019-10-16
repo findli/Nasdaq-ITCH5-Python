@@ -1,0 +1,4 @@
+hour stock vwap
+5 PME 2.26
+9 PME 2.28
+10 PME 2.29

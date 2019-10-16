@@ -1,0 +1,8 @@
+hour stock vwap
+4 EMR 64.37
+5 EMR 64.3
+6 EMR 64.69
+7 EMR 64.87
+8 EMR 64.64
+9 EMR 65.37
+10 EMR 65.61

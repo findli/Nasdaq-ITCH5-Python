@@ -1,0 +1,7 @@
+hour stock vwap
+5 SMLP 13.35
+6 SMLP 13.46
+7 SMLP 13.42
+8 SMLP 13.37
+9 SMLP 13.38
+10 SMLP 13.34

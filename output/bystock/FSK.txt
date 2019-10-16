@@ -1,0 +1,8 @@
+hour stock vwap
+4 FSK 6.27
+5 FSK 6.32
+6 FSK 6.31
+7 FSK 6.35
+8 FSK 6.35
+9 FSK 6.36
+10 FSK 6.34

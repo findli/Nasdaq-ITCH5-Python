@@ -1,0 +1,6 @@
+hour stock vwap
+4 PDBC 16.2
+5 PDBC 16.23
+7 PDBC 16.26
+8 PDBC 16.23
+10 PDBC 16.22

@@ -1,0 +1,8 @@
+hour stock vwap
+4 VIPS 7.53
+5 VIPS 7.46
+6 VIPS 7.47
+7 VIPS 7.47
+8 VIPS 7.47
+9 VIPS 7.49
+10 VIPS 7.51

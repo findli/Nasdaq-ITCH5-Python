@@ -1,0 +1,5 @@
+hour stock vwap
+4 OTEL 16.61
+8 OTEL 16.99
+9 OTEL 16.7
+10 OTEL 16.81

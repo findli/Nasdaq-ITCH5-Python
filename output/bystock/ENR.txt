@@ -1,0 +1,8 @@
+hour stock vwap
+4 ENR 45.72
+5 ENR 45.77
+6 ENR 45.69
+7 ENR 45.69
+8 ENR 45.53
+9 ENR 45.74
+10 ENR 45.67

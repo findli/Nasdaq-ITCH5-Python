@@ -1,0 +1,8 @@
+hour stock vwap
+4 SENS 2.44
+5 SENS 2.4
+6 SENS 2.4
+7 SENS 2.41
+8 SENS 2.38
+9 SENS 2.37
+10 SENS 2.41

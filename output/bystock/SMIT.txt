@@ -1,0 +1,6 @@
+hour stock vwap
+6 SMIT 2.82
+7 SMIT 2.87
+8 SMIT 2.82
+9 SMIT 2.81
+10 SMIT 2.81

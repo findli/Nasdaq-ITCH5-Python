@@ -1,0 +1,8 @@
+hour stock vwap
+4 GOGO 3.98
+5 GOGO 4.01
+6 GOGO 4.07
+7 GOGO 4.04
+8 GOGO 4.05
+9 GOGO 4.12
+10 GOGO 4.09

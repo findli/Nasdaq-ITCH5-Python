@@ -1,0 +1,7 @@
+hour stock vwap
+5 EDI 12.38
+6 EDI 12.43
+7 EDI 12.48
+8 EDI 12.48
+9 EDI 12.57
+10 EDI 12.57

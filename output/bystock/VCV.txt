@@ -1,0 +1,5 @@
+hour stock vwap
+5 VCV 11.93
+6 VCV 11.9
+9 VCV 11.86
+10 VCV 11.85

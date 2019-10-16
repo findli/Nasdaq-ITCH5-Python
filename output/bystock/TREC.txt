@@ -1,0 +1,4 @@
+hour stock vwap
+5 TREC 8.65
+6 TREC 8.68
+9 TREC 8.7

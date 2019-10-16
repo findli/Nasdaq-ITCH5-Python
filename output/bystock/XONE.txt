@@ -1,0 +1,8 @@
+hour stock vwap
+4 XONE 8.35
+5 XONE 8.29
+6 XONE 8.31
+7 XONE 8.41
+8 XONE 8.51
+9 XONE 8.57
+10 XONE 8.5

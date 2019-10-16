@@ -1,0 +1,8 @@
+hour stock vwap
+4 AAN 49.1
+5 AAN 48.79
+6 AAN 49.07
+7 AAN 49.16
+8 AAN 49.39
+9 AAN 49.59
+10 AAN 49.46

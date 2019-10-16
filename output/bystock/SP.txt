@@ -1,0 +1,7 @@
+hour stock vwap
+5 SP 33.09
+6 SP 32.76
+7 SP 32.84
+8 SP 32.7
+9 SP 32.99
+10 SP 33.1

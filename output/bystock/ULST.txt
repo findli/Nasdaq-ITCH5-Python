@@ -1,0 +1,3 @@
+hour stock vwap
+7 ULST 40.3
+8 ULST 40.3

@@ -1,0 +1,7 @@
+hour stock vwap
+5 HF 41.01
+6 HF 40.99
+7 HF 40.74
+8 HF 40.94
+9 HF 41.14
+10 HF 41.22

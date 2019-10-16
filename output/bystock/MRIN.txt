@@ -1,0 +1,7 @@
+hour stock vwap
+4 MRIN 5.98
+5 MRIN 6.04
+8 MRIN 6.02
+9 MRIN 6.26
+10 MRIN 6.15
+11 MRIN 6.01

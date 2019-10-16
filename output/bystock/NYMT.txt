@@ -1,0 +1,8 @@
+hour stock vwap
+4 NYMT 6.19
+5 NYMT 6.24
+6 NYMT 6.25
+7 NYMT 6.26
+8 NYMT 6.25
+9 NYMT 6.25
+10 NYMT 6.23

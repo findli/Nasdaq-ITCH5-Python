@@ -1,0 +1,7 @@
+hour stock vwap
+5 OMEX 4.73
+6 OMEX 4.84
+7 OMEX 4.73
+8 OMEX 4.74
+9 OMEX 4.73
+10 OMEX 5.11

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FRC 96.12
+5 FRC 96.24
+6 FRC 96.84
+7 FRC 96.73
+8 FRC 96.56
+9 FRC 96.88
+10 FRC 97.03

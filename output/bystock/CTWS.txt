@@ -1,0 +1,7 @@
+hour stock vwap
+4 CTWS 66.46
+6 CTWS 66.99
+7 CTWS 66.9
+8 CTWS 66.91
+9 CTWS 67.3
+10 CTWS 67.34

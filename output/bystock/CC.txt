@@ -1,0 +1,8 @@
+hour stock vwap
+4 CC 35.5
+5 CC 35.56
+6 CC 35.53
+7 CC 35.75
+8 CC 35.6
+9 CC 35.93
+10 CC 36.2

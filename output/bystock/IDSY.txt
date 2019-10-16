@@ -1,0 +1,5 @@
+hour stock vwap
+4 IDSY 6.04
+5 IDSY 6.14
+6 IDSY 6.1
+7 IDSY 6.07

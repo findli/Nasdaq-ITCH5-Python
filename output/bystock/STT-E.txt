@@ -1,0 +1,6 @@
+hour stock vwap
+4 STT-E 25.99
+5 STT-E 25.84
+6 STT-E 25.96
+9 STT-E 25.96
+10 STT-E 25.99

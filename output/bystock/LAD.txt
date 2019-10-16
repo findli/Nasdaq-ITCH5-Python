@@ -1,0 +1,8 @@
+hour stock vwap
+4 LAD 88.16
+5 LAD 88.34
+6 LAD 88.44
+7 LAD 88.44
+8 LAD 88.12
+9 LAD 88.48
+10 LAD 88.43

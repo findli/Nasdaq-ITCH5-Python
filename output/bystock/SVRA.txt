@@ -1,0 +1,8 @@
+hour stock vwap
+4 SVRA 7.38
+5 SVRA 7.41
+6 SVRA 7.4
+7 SVRA 7.41
+8 SVRA 7.53
+9 SVRA 7.58
+10 SVRA 7.48

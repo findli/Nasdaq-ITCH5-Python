@@ -1,0 +1,8 @@
+hour stock vwap
+4 BTE 1.62
+5 BTE 1.62
+6 BTE 1.66
+7 BTE 1.68
+8 BTE 1.69
+9 BTE 1.7
+10 BTE 1.69

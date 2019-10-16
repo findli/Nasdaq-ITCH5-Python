@@ -1,0 +1,7 @@
+hour stock vwap
+5 CNHI 10.02
+6 CNHI 10.07
+7 CNHI 10.1
+8 CNHI 10.08
+9 CNHI 10.19
+10 CNHI 10.21

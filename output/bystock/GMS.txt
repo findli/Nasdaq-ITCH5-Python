@@ -1,0 +1,8 @@
+hour stock vwap
+4 GMS 18.74
+5 GMS 18.83
+6 GMS 18.72
+7 GMS 18.67
+8 GMS 18.68
+9 GMS 18.93
+10 GMS 18.95

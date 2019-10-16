@@ -1,0 +1,5 @@
+hour stock vwap
+6 BGY 5.37
+7 BGY 5.36
+9 BGY 5.37
+10 BGY 5.38

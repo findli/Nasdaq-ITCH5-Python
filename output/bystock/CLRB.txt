@@ -1,0 +1,4 @@
+hour stock vwap
+5 CLRB 1.97
+6 CLRB 1.97
+10 CLRB 2.01

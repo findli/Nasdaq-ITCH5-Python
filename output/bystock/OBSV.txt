@@ -1,0 +1,6 @@
+hour stock vwap
+6 OBSV 12.67
+7 OBSV 12.62
+8 OBSV 12.6
+9 OBSV 12.71
+10 OBSV 12.56

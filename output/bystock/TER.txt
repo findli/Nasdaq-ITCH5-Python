@@ -1,0 +1,9 @@
+hour stock vwap
+2 TER 36.91
+4 TER 36.77
+5 TER 36.54
+6 TER 36.57
+7 TER 36.47
+8 TER 36.76
+9 TER 37.05
+10 TER 37.02

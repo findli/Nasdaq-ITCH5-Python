@@ -1,0 +1,7 @@
+hour stock vwap
+5 TALO 19.01
+6 TALO 19.09
+7 TALO 19.13
+8 TALO 19.09
+9 TALO 19.25
+10 TALO 19.45

@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWJ 53.76
+5 EWJ 53.74
+6 EWJ 53.85
+7 EWJ 53.9
+8 EWJ 53.85
+9 EWJ 54.11
+10 EWJ 54.22

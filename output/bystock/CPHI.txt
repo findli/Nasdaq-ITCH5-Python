@@ -1,0 +1,3 @@
+hour stock vwap
+7 CPHI 0.29
+9 CPHI 0.29

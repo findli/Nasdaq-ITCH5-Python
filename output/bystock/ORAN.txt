@@ -1,0 +1,6 @@
+hour stock vwap
+5 ORAN 15.27
+6 ORAN 15.36
+8 ORAN 15.34
+9 ORAN 15.42
+10 ORAN 15.43

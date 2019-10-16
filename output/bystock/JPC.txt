@@ -1,0 +1,6 @@
+hour stock vwap
+5 JPC 9.17
+6 JPC 9.18
+7 JPC 9.18
+8 JPC 9.16
+10 JPC 9.19

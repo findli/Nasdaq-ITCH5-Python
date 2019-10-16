@@ -1,0 +1,7 @@
+hour stock vwap
+4 RUSS 14.81
+5 RUSS 14.92
+6 RUSS 14.69
+7 RUSS 14.69
+8 RUSS 14.75
+10 RUSS 14.16

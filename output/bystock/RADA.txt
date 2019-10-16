@@ -1,0 +1,5 @@
+hour stock vwap
+5 RADA 2.72
+7 RADA 2.68
+9 RADA 2.66
+10 RADA 2.68

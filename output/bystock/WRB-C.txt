@@ -1,0 +1,4 @@
+hour stock vwap
+4 WRB-C 25.07
+8 WRB-C 25.31
+10 WRB-C 25.41

@@ -1,0 +1,8 @@
+hour stock vwap
+4 NE 3.31
+5 NE 3.28
+6 NE 3.3
+7 NE 3.27
+8 NE 3.29
+9 NE 3.32
+10 NE 3.32

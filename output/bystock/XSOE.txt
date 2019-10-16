@@ -1,0 +1,4 @@
+hour stock vwap
+4 XSOE 27.66
+9 XSOE 27.97
+10 XSOE 28.04

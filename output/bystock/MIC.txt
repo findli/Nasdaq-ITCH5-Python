@@ -1,0 +1,8 @@
+hour stock vwap
+4 MIC 42.48
+5 MIC 42.87
+6 MIC 43.15
+7 MIC 43.38
+8 MIC 43.04
+9 MIC 43.15
+10 MIC 43.01

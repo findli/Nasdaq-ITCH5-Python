@@ -1,0 +1,6 @@
+hour stock vwap
+5 FXH 73.29
+6 FXH 73.32
+7 FXH 73.59
+9 FXH 73.5
+10 FXH 73.93

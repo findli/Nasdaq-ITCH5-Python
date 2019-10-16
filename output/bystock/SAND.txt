@@ -1,0 +1,8 @@
+hour stock vwap
+4 SAND 5.0
+5 SAND 4.96
+6 SAND 4.94
+7 SAND 4.97
+8 SAND 4.97
+9 SAND 5.08
+10 SAND 5.05

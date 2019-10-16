@@ -1,0 +1,7 @@
+hour stock vwap
+5 JPS 9.01
+6 JPS 9.03
+7 JPS 9.05
+8 JPS 9.04
+9 JPS 9.07
+10 JPS 9.05

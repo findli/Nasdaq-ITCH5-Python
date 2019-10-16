@@ -1,0 +1,2 @@
+hour stock vwap
+6 TKKSW 0.16

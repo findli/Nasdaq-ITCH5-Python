@@ -1,0 +1,7 @@
+hour stock vwap
+3 CETV 3.05
+4 CETV 3.03
+6 CETV 3.01
+8 CETV 3.01
+9 CETV 3.04
+10 CETV 3.07

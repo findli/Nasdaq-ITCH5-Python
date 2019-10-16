@@ -1,0 +1,8 @@
+hour stock vwap
+4 ALE 74.82
+5 ALE 75.33
+6 ALE 75.32
+7 ALE 75.26
+8 ALE 75.11
+9 ALE 75.38
+10 ALE 75.34

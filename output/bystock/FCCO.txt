@@ -1,0 +1,5 @@
+hour stock vwap
+4 FCCO 19.83
+5 FCCO 20.73
+8 FCCO 19.95
+10 FCCO 20.12

@@ -1,0 +1,7 @@
+hour stock vwap
+4 BMO 73.47
+5 BMO 73.69
+6 BMO 73.8
+8 BMO 73.76
+9 BMO 74.09
+10 BMO 74.26

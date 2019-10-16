@@ -1,0 +1,8 @@
+hour stock vwap
+4 FAS 56.52
+5 FAS 56.5
+6 FAS 57.08
+7 FAS 57.35
+8 FAS 57.03
+9 FAS 57.65
+10 FAS 57.9

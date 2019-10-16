@@ -1,0 +1,4 @@
+hour stock vwap
+7 IBDO 24.49
+9 IBDO 24.55
+10 IBDO 24.55

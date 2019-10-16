@@ -1,0 +1,3 @@
+hour stock vwap
+4 BSCN 20.38
+5 BSCN 20.38

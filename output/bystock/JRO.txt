@@ -1,0 +1,5 @@
+hour stock vwap
+4 JRO 9.62
+8 JRO 9.56
+9 JRO 9.6
+10 JRO 9.61

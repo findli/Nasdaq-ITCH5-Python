@@ -1,0 +1,2 @@
+hour stock vwap
+10 NEV 13.36

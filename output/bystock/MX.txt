@@ -1,0 +1,7 @@
+hour stock vwap
+5 MX 6.0
+6 MX 5.98
+7 MX 5.92
+8 MX 5.82
+9 MX 5.87
+10 MX 5.85

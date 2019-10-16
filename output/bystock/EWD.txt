@@ -1,0 +1,4 @@
+hour stock vwap
+6 EWD 29.5
+9 EWD 29.7
+10 EWD 29.79

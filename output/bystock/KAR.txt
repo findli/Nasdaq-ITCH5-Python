@@ -1,0 +1,8 @@
+hour stock vwap
+4 KAR 51.56
+5 KAR 51.54
+6 KAR 51.67
+7 KAR 51.73
+8 KAR 51.58
+9 KAR 51.84
+10 KAR 52.02

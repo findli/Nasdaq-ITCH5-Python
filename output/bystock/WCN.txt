@@ -1,0 +1,8 @@
+hour stock vwap
+4 WCN 81.13
+5 WCN 80.95
+6 WCN 81.3
+7 WCN 81.39
+8 WCN 81.34
+9 WCN 81.85
+10 WCN 82.57

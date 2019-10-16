@@ -1,0 +1,4 @@
+hour stock vwap
+5 HMNF 19.94
+7 HMNF 19.98
+10 HMNF 20.18

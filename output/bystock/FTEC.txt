@@ -1,0 +1,5 @@
+hour stock vwap
+4 FTEC 52.32
+6 FTEC 52.44
+9 FTEC 53.2
+10 FTEC 53.11

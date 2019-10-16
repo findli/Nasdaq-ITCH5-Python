@@ -1,0 +1,7 @@
+hour stock vwap
+4 VRTV 32.87
+5 VRTV 32.98
+6 VRTV 33.18
+7 VRTV 33.14
+8 VRTV 33.31
+10 VRTV 33.58

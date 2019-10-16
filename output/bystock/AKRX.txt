@@ -1,0 +1,8 @@
+hour stock vwap
+4 AKRX 4.15
+5 AKRX 4.12
+6 AKRX 4.09
+7 AKRX 4.08
+8 AKRX 4.07
+9 AKRX 4.06
+10 AKRX 4.06

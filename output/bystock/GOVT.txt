@@ -1,0 +1,7 @@
+hour stock vwap
+5 GOVT 24.78
+6 GOVT 24.76
+7 GOVT 24.78
+8 GOVT 24.78
+9 GOVT 24.81
+10 GOVT 24.83

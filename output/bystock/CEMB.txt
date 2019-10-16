@@ -1,0 +1,5 @@
+hour stock vwap
+4 CEMB 48.86
+6 CEMB 48.87
+7 CEMB 48.87
+9 CEMB 49.02

@@ -1,0 +1,6 @@
+hour stock vwap
+4 CLBS 4.95
+7 CLBS 4.94
+8 CLBS 4.98
+9 CLBS 4.98
+10 CLBS 4.91

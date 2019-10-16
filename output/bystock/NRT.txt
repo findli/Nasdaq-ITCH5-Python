@@ -1,0 +1,2 @@
+hour stock vwap
+10 NRT 6.4

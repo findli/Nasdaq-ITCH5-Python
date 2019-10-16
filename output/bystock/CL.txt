@@ -1,0 +1,8 @@
+hour stock vwap
+4 CL 63.9
+5 CL 63.85
+6 CL 64.1
+7 CL 64.05
+8 CL 63.88
+9 CL 63.8
+10 CL 63.82

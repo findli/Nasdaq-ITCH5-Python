@@ -1,0 +1,6 @@
+hour stock vwap
+4 ABIO 0.4
+5 ABIO 0.44
+6 ABIO 0.44
+8 ABIO 0.43
+10 ABIO 0.43

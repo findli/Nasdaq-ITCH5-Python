@@ -1,0 +1,9 @@
+hour stock vwap
+3 TAHO 3.69
+4 TAHO 3.68
+5 TAHO 3.7
+6 TAHO 3.68
+7 TAHO 3.71
+8 TAHO 3.7
+9 TAHO 3.77
+10 TAHO 3.76

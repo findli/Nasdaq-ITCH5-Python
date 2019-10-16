@@ -1,0 +1,8 @@
+hour stock vwap
+4 NGL 11.42
+5 NGL 11.58
+6 NGL 11.6
+7 NGL 11.61
+8 NGL 11.67
+9 NGL 11.75
+10 NGL 11.69

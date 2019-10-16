@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARD 11.82
+5 ARD 11.75
+6 ARD 11.75
+7 ARD 11.89
+8 ARD 11.76
+9 ARD 11.83
+10 ARD 11.79

@@ -1,0 +1,7 @@
+hour stock vwap
+4 CTBB 20.16
+5 CTBB 20.15
+6 CTBB 20.27
+7 CTBB 20.24
+8 CTBB 20.31
+9 CTBB 20.31

@@ -1,0 +1,5 @@
+hour stock vwap
+5 AMPE 0.48
+8 AMPE 0.49
+9 AMPE 0.5
+10 AMPE 0.49

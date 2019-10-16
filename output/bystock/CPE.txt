@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPE 8.04
+5 CPE 8.06
+6 CPE 8.18
+7 CPE 8.18
+8 CPE 8.17
+9 CPE 8.21
+10 CPE 8.23

@@ -1,0 +1,7 @@
+hour stock vwap
+4 HMY 1.95
+5 HMY 1.97
+6 HMY 1.94
+8 HMY 1.92
+9 HMY 1.96
+10 HMY 1.96

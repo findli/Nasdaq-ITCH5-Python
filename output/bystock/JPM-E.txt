@@ -1,0 +1,4 @@
+hour stock vwap
+5 JPM-E 25.63
+6 JPM-E 25.64
+10 JPM-E 25.7

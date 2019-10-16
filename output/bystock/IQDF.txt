@@ -1,0 +1,3 @@
+hour stock vwap
+6 IQDF 22.7
+10 IQDF 23.01

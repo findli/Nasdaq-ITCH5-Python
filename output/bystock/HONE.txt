@@ -1,0 +1,7 @@
+hour stock vwap
+4 HONE 15.21
+6 HONE 15.21
+7 HONE 15.16
+8 HONE 15.16
+9 HONE 15.18
+10 HONE 15.17

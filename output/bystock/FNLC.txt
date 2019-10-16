@@ -1,0 +1,6 @@
+hour stock vwap
+4 FNLC 25.78
+5 FNLC 25.98
+6 FNLC 26.16
+8 FNLC 26.19
+10 FNLC 26.02

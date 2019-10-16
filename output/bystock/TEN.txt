@@ -1,0 +1,8 @@
+hour stock vwap
+4 TEN 33.89
+5 TEN 33.93
+6 TEN 34.16
+7 TEN 34.17
+8 TEN 34.14
+9 TEN 34.46
+10 TEN 34.43

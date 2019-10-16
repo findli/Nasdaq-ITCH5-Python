@@ -1,0 +1,8 @@
+hour stock vwap
+4 SEM 15.25
+5 SEM 15.26
+6 SEM 15.38
+7 SEM 15.4
+8 SEM 15.36
+9 SEM 15.43
+10 SEM 15.42

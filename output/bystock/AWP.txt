@@ -1,0 +1,8 @@
+hour stock vwap
+4 AWP 5.66
+5 AWP 5.67
+6 AWP 5.69
+7 AWP 5.7
+8 AWP 5.7
+9 AWP 5.71
+10 AWP 5.71

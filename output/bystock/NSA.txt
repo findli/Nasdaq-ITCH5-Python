@@ -1,0 +1,8 @@
+hour stock vwap
+4 NSA 28.32
+5 NSA 28.59
+6 NSA 28.67
+7 NSA 28.67
+8 NSA 28.49
+9 NSA 28.57
+10 NSA 28.49

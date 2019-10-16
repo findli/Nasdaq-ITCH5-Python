@@ -1,0 +1,8 @@
+hour stock vwap
+4 EFV 47.91
+5 EFV 47.89
+6 EFV 47.93
+7 EFV 47.99
+8 EFV 47.95
+9 EFV 48.24
+10 EFV 48.29

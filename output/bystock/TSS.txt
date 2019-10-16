@@ -1,0 +1,9 @@
+hour stock vwap
+3 TSS 86.52
+4 TSS 86.71
+5 TSS 88.82
+6 TSS 88.23
+7 TSS 88.39
+8 TSS 88.73
+9 TSS 89.95
+10 TSS 90.46

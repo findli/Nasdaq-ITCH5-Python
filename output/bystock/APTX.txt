@@ -1,0 +1,6 @@
+hour stock vwap
+4 APTX 5.35
+6 APTX 5.34
+7 APTX 5.33
+9 APTX 5.26
+10 APTX 5.26

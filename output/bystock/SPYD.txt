@@ -1,0 +1,6 @@
+hour stock vwap
+6 SPYD 36.39
+7 SPYD 36.38
+8 SPYD 36.33
+9 SPYD 36.46
+10 SPYD 36.54

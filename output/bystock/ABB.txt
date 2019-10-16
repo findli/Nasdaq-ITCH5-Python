@@ -1,0 +1,9 @@
+hour stock vwap
+3 ABB 19.14
+4 ABB 19.08
+5 ABB 19.08
+6 ABB 19.08
+7 ABB 19.16
+8 ABB 19.15
+9 ABB 19.31
+10 ABB 19.34

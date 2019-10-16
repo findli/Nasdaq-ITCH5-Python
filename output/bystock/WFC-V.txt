@@ -1,0 +1,6 @@
+hour stock vwap
+5 WFC-V 25.81
+6 WFC-V 25.82
+8 WFC-V 25.82
+9 WFC-V 25.82
+10 WFC-V 25.82

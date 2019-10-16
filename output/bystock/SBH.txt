@@ -1,0 +1,8 @@
+hour stock vwap
+4 SBH 17.29
+5 SBH 17.21
+6 SBH 17.25
+7 SBH 17.19
+8 SBH 17.18
+9 SBH 17.16
+10 SBH 17.24

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CSTM 8.19
+5 CSTM 8.21
+6 CSTM 8.13
+7 CSTM 8.15
+8 CSTM 8.13
+9 CSTM 8.23
+10 CSTM 8.15

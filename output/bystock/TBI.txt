@@ -1,0 +1,4 @@
+hour stock vwap
+4 TBI 24.14
+9 TBI 24.23
+10 TBI 24.12

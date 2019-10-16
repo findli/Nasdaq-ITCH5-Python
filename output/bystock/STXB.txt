@@ -1,0 +1,7 @@
+hour stock vwap
+4 STXB 21.69
+5 STXB 21.75
+6 STXB 21.73
+7 STXB 21.74
+9 STXB 21.73
+10 STXB 21.78

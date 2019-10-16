@@ -1,0 +1,6 @@
+hour stock vwap
+4 AXTI 3.99
+6 AXTI 3.95
+7 AXTI 3.97
+9 AXTI 4.07
+10 AXTI 4.1

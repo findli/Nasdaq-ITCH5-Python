@@ -1,0 +1,3 @@
+hour stock vwap
+6 NUAG 23.37
+9 NUAG 23.35

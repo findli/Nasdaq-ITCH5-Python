@@ -1,0 +1,3 @@
+hour stock vwap
+9 VTSI 4.0
+10 VTSI 3.92

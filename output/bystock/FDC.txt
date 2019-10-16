@@ -1,0 +1,8 @@
+hour stock vwap
+4 FDC 24.96
+5 FDC 25.09
+6 FDC 25.04
+7 FDC 24.94
+8 FDC 24.93
+9 FDC 25.02
+10 FDC 25.05

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CFX 24.77
+5 CFX 24.68
+6 CFX 24.77
+7 CFX 24.78
+8 CFX 24.7
+9 CFX 25.07
+10 CFX 24.97

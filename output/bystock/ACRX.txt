@@ -1,0 +1,7 @@
+hour stock vwap
+4 ACRX 2.41
+5 ACRX 2.41
+6 ACRX 2.41
+8 ACRX 2.42
+9 ACRX 2.45
+10 ACRX 2.45

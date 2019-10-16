@@ -1,0 +1,5 @@
+hour stock vwap
+4 AST 1.04
+8 AST 0.99
+9 AST 1.0
+10 AST 1.0

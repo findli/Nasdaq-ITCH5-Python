@@ -1,0 +1,6 @@
+hour stock vwap
+4 UFPT 32.34
+5 UFPT 32.2
+6 UFPT 32.41
+7 UFPT 32.22
+10 UFPT 32.43

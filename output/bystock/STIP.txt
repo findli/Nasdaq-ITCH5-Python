@@ -1,0 +1,4 @@
+hour stock vwap
+5 STIP 98.39
+7 STIP 98.42
+9 STIP 98.47

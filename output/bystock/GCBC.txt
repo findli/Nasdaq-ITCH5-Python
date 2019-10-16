@@ -1,0 +1,5 @@
+hour stock vwap
+4 GCBC 30.53
+5 GCBC 30.6
+7 GCBC 30.51
+10 GCBC 30.8

@@ -1,0 +1,5 @@
+hour stock vwap
+6 FTCS 50.6
+7 FTCS 50.76
+8 FTCS 50.66
+9 FTCS 50.94

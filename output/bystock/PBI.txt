@@ -1,0 +1,9 @@
+hour stock vwap
+4 PBI 7.24
+5 PBI 7.14
+6 PBI 7.18
+7 PBI 7.16
+8 PBI 7.17
+9 PBI 7.25
+10 PBI 7.23
+11 PBI 7.22

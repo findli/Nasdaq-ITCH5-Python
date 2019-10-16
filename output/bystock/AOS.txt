@@ -1,0 +1,8 @@
+hour stock vwap
+4 AOS 46.98
+5 AOS 47.0
+6 AOS 47.26
+7 AOS 47.12
+8 AOS 47.07
+9 AOS 47.54
+10 AOS 47.76

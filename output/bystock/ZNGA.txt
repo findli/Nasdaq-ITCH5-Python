@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZNGA 4.5
+5 ZNGA 4.46
+6 ZNGA 4.44
+7 ZNGA 4.44
+8 ZNGA 4.44
+9 ZNGA 4.47
+10 ZNGA 4.49

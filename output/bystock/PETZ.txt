@@ -1,0 +1,7 @@
+hour stock vwap
+4 PETZ 0.58
+5 PETZ 0.6
+6 PETZ 0.64
+7 PETZ 0.7
+9 PETZ 0.7
+10 PETZ 0.61

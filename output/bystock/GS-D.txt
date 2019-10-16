@@ -1,0 +1,6 @@
+hour stock vwap
+6 GS-D 19.19
+7 GS-D 19.06
+8 GS-D 19.06
+9 GS-D 19.06
+10 GS-D 19.15

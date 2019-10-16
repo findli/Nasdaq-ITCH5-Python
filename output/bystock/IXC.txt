@@ -1,0 +1,7 @@
+hour stock vwap
+5 IXC 31.87
+6 IXC 31.99
+7 IXC 31.96
+8 IXC 31.94
+9 IXC 32.12
+10 IXC 32.16

@@ -1,0 +1,8 @@
+hour stock vwap
+4 VOX 78.19
+5 VOX 77.92
+6 VOX 78.23
+7 VOX 78.41
+8 VOX 78.41
+9 VOX 78.83
+10 VOX 79.09

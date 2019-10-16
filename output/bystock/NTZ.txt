@@ -1,0 +1,3 @@
+hour stock vwap
+6 NTZ 1.17
+7 NTZ 1.16

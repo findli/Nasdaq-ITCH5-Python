@@ -1,0 +1,4 @@
+hour stock vwap
+4 REMX 14.31
+5 REMX 14.27
+9 REMX 14.41

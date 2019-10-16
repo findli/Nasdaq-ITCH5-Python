@@ -1,0 +1,5 @@
+hour stock vwap
+5 DJCO 218.21
+6 DJCO 217.62
+7 DJCO 217.62
+10 DJCO 220.7

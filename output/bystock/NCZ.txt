@@ -1,0 +1,7 @@
+hour stock vwap
+5 NCZ 5.32
+6 NCZ 5.32
+7 NCZ 5.34
+8 NCZ 5.34
+9 NCZ 5.37
+10 NCZ 5.36

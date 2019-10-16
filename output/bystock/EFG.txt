@@ -1,0 +1,4 @@
+hour stock vwap
+6 EFG 72.67
+9 EFG 73.12
+10 EFG 73.3

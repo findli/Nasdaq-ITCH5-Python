@@ -1,0 +1,8 @@
+hour stock vwap
+4 SGYP 0.39
+5 SGYP 0.39
+6 SGYP 0.39
+7 SGYP 0.34
+8 SGYP 0.31
+9 SGYP 0.31
+10 SGYP 0.31

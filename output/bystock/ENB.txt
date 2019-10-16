@@ -1,0 +1,8 @@
+hour stock vwap
+4 ENB 36.55
+5 ENB 36.39
+6 ENB 36.49
+7 ENB 36.5
+8 ENB 36.41
+9 ENB 36.71
+10 ENB 36.65

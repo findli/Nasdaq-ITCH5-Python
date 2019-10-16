@@ -1,0 +1,2 @@
+hour stock vwap
+10 ALP-Q 25.02

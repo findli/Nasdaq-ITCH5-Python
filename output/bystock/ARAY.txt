@@ -1,0 +1,8 @@
+hour stock vwap
+4 ARAY 4.43
+5 ARAY 4.39
+6 ARAY 4.37
+7 ARAY 4.37
+8 ARAY 4.35
+9 ARAY 4.38
+10 ARAY 4.38

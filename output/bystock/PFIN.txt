@@ -1,0 +1,3 @@
+hour stock vwap
+6 PFIN 7.82
+8 PFIN 7.9

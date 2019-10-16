@@ -1,0 +1,8 @@
+hour stock vwap
+4 THD 89.33
+5 THD 89.11
+6 THD 89.46
+7 THD 89.52
+8 THD 89.56
+9 THD 90.56
+10 THD 90.53

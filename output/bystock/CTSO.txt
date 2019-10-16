@@ -1,0 +1,7 @@
+hour stock vwap
+5 CTSO 7.2
+6 CTSO 7.26
+7 CTSO 7.33
+8 CTSO 7.34
+9 CTSO 7.37
+10 CTSO 7.38

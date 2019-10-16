@@ -1,0 +1,5 @@
+hour stock vwap
+4 SORL 2.65
+6 SORL 2.64
+8 SORL 2.71
+10 SORL 2.68

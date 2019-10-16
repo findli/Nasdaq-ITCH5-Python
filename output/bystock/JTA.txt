@@ -1,0 +1,4 @@
+hour stock vwap
+4 JTA 11.28
+8 JTA 11.21
+9 JTA 11.25

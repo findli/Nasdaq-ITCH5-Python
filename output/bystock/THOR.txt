@@ -1,0 +1,5 @@
+hour stock vwap
+7 THOR 13.94
+8 THOR 13.97
+9 THOR 13.57
+10 THOR 13.75

@@ -1,0 +1,8 @@
+hour stock vwap
+4 LOW 94.11
+5 LOW 94.06
+6 LOW 94.55
+7 LOW 94.7
+8 LOW 94.61
+9 LOW 95.91
+10 LOW 95.79

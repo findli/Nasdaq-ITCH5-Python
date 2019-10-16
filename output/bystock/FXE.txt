@@ -1,0 +1,4 @@
+hour stock vwap
+6 FXE 109.09
+9 FXE 109.67
+10 FXE 109.7

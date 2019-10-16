@@ -1,0 +1,5 @@
+hour stock vwap
+6 PRF 108.41
+7 PRF 108.59
+9 PRF 108.68
+10 PRF 108.95

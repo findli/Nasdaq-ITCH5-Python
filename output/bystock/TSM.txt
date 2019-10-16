@@ -1,0 +1,8 @@
+hour stock vwap
+4 TSM 36.63
+5 TSM 36.44
+6 TSM 36.55
+7 TSM 36.67
+8 TSM 36.76
+9 TSM 37.21
+10 TSM 37.37

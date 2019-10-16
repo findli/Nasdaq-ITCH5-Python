@@ -1,0 +1,6 @@
+hour stock vwap
+4 BIP 38.54
+7 BIP 38.35
+8 BIP 38.5
+9 BIP 38.75
+10 BIP 38.71

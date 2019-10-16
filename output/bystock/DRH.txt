@@ -1,0 +1,8 @@
+hour stock vwap
+4 DRH 10.01
+5 DRH 10.09
+6 DRH 10.06
+7 DRH 10.04
+8 DRH 10.04
+9 DRH 10.07
+10 DRH 10.05

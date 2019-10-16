@@ -1,0 +1,6 @@
+hour stock vwap
+6 ABUS 3.51
+7 ABUS 3.57
+8 ABUS 3.58
+9 ABUS 3.7
+10 ABUS 3.7

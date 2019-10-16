@@ -1,0 +1,8 @@
+hour stock vwap
+4 EBR 9.75
+5 EBR 9.78
+6 EBR 9.81
+7 EBR 9.83
+8 EBR 9.87
+9 EBR 10.05
+10 EBR 9.97

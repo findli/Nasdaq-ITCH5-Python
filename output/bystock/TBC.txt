@@ -1,0 +1,5 @@
+hour stock vwap
+6 TBC 24.68
+8 TBC 24.52
+9 TBC 24.54
+10 TBC 24.56

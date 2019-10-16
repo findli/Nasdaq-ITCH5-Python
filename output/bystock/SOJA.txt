@@ -1,0 +1,6 @@
+hour stock vwap
+4 SOJA 26.0
+5 SOJA 25.97
+6 SOJA 25.95
+8 SOJA 25.94
+9 SOJA 25.96

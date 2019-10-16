@@ -1,0 +1,5 @@
+hour stock vwap
+5 IQDE 21.82
+7 IQDE 21.85
+9 IQDE 21.92
+10 IQDE 21.95

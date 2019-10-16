@@ -1,0 +1,4 @@
+hour stock vwap
+5 JJC 42.71
+6 JJC 42.64
+9 JJC 42.84

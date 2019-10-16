@@ -1,0 +1,3 @@
+hour stock vwap
+6 HNP 24.93
+10 HNP 25.05

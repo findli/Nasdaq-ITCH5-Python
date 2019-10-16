@@ -1,0 +1,6 @@
+hour stock vwap
+5 FLRN 30.62
+6 FLRN 30.61
+7 FLRN 30.6
+8 FLRN 30.6
+9 FLRN 30.6

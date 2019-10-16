@@ -1,0 +1,8 @@
+hour stock vwap
+4 EME 63.89
+5 EME 63.9
+6 EME 64.08
+7 EME 64.35
+8 EME 64.22
+9 EME 64.84
+10 EME 65.1

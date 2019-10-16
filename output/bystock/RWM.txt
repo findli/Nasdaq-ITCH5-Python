@@ -1,0 +1,5 @@
+hour stock vwap
+6 RWM 42.59
+8 RWM 42.56
+9 RWM 42.26
+10 RWM 42.38

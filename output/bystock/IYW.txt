@@ -1,0 +1,6 @@
+hour stock vwap
+5 IYW 169.04
+6 IYW 169.48
+7 IYW 170.04
+9 IYW 171.07
+10 IYW 171.82

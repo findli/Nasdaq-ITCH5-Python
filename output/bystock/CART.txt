@@ -1,0 +1,4 @@
+hour stock vwap
+4 CART 7.91
+8 CART 8.0
+10 CART 8.03

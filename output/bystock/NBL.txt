@@ -1,0 +1,8 @@
+hour stock vwap
+4 NBL 22.72
+5 NBL 22.69
+6 NBL 22.71
+7 NBL 22.68
+8 NBL 22.64
+9 NBL 22.73
+10 NBL 22.93

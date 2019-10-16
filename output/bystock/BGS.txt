@@ -1,0 +1,8 @@
+hour stock vwap
+4 BGS 27.08
+5 BGS 26.65
+6 BGS 26.51
+7 BGS 26.37
+8 BGS 26.1
+9 BGS 26.11
+10 BGS 25.74

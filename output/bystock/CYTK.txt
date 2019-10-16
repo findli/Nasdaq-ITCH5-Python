@@ -1,0 +1,8 @@
+hour stock vwap
+4 CYTK 6.76
+5 CYTK 6.83
+6 CYTK 6.81
+7 CYTK 6.91
+8 CYTK 6.96
+9 CYTK 6.94
+10 CYTK 6.95

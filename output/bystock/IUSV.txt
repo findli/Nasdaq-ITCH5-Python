@@ -1,0 +1,5 @@
+hour stock vwap
+4 IUSV 52.66
+5 IUSV 52.68
+9 IUSV 53.16
+10 IUSV 53.13

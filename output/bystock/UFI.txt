@@ -1,0 +1,6 @@
+hour stock vwap
+4 UFI 21.43
+5 UFI 21.01
+7 UFI 20.79
+9 UFI 20.65
+10 UFI 20.32

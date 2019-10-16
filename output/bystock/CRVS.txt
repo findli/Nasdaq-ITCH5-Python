@@ -1,0 +1,7 @@
+hour stock vwap
+4 CRVS 3.92
+5 CRVS 3.84
+6 CRVS 3.78
+7 CRVS 3.81
+9 CRVS 3.85
+10 CRVS 3.9

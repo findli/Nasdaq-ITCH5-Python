@@ -1,0 +1,8 @@
+hour stock vwap
+4 GRPN 3.68
+5 GRPN 3.63
+6 GRPN 3.63
+7 GRPN 3.64
+8 GRPN 3.65
+9 GRPN 3.69
+10 GRPN 3.73

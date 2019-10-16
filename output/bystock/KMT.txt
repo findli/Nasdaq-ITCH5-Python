@@ -1,0 +1,8 @@
+hour stock vwap
+4 KMT 37.38
+5 KMT 37.45
+6 KMT 37.64
+7 KMT 37.74
+8 KMT 37.54
+9 KMT 38.12
+10 KMT 38.05

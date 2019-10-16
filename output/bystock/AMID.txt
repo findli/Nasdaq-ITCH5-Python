@@ -1,0 +1,5 @@
+hour stock vwap
+6 AMID 4.07
+8 AMID 4.09
+9 AMID 4.12
+10 AMID 4.09

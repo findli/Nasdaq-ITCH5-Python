@@ -1,0 +1,4 @@
+hour stock vwap
+4 CTV 22.31
+9 CTV 22.49
+10 CTV 22.5

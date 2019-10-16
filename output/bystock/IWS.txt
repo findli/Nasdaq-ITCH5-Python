@@ -1,0 +1,6 @@
+hour stock vwap
+5 IWS 83.0
+7 IWS 83.46
+8 IWS 83.24
+9 IWS 83.73
+10 IWS 83.91

@@ -1,0 +1,9 @@
+hour stock vwap
+4 NEM 33.27
+5 NEM 33.34
+6 NEM 33.3
+7 NEM 33.28
+8 NEM 33.28
+9 NEM 33.78
+10 NEM 33.78
+14 NEM 33.98

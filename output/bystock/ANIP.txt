@@ -1,0 +1,7 @@
+hour stock vwap
+5 ANIP 53.31
+6 ANIP 53.51
+7 ANIP 53.82
+8 ANIP 53.62
+9 ANIP 53.8
+10 ANIP 54.24

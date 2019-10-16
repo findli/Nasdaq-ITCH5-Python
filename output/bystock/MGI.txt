@@ -1,0 +1,8 @@
+hour stock vwap
+4 MGI 1.98
+5 MGI 2.02
+6 MGI 2.1
+7 MGI 2.07
+8 MGI 2.06
+9 MGI 2.1
+10 MGI 2.09

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HCLP 4.44
+5 HCLP 4.37
+6 HCLP 4.36
+7 HCLP 4.37
+8 HCLP 4.33
+9 HCLP 4.34
+10 HCLP 4.33

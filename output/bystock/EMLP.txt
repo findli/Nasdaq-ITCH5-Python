@@ -1,0 +1,5 @@
+hour stock vwap
+5 EMLP 23.29
+6 EMLP 23.34
+8 EMLP 23.28
+10 EMLP 23.34

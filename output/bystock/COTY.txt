@@ -1,0 +1,8 @@
+hour stock vwap
+4 COTY 7.24
+5 COTY 7.25
+6 COTY 7.23
+7 COTY 7.2
+8 COTY 7.16
+9 COTY 7.21
+10 COTY 7.22

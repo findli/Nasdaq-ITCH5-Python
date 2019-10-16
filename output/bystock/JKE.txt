@@ -1,0 +1,4 @@
+hour stock vwap
+4 JKE 168.8
+5 JKE 168.4
+9 JKE 169.94

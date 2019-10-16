@@ -1,0 +1,5 @@
+hour stock vwap
+6 TGP-A 24.87
+7 TGP-A 24.92
+9 TGP-A 24.96
+10 TGP-A 24.98

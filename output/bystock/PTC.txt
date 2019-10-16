@@ -1,0 +1,8 @@
+hour stock vwap
+4 PTC 82.73
+5 PTC 82.88
+6 PTC 83.78
+7 PTC 83.97
+8 PTC 83.79
+9 PTC 84.63
+10 PTC 85.19

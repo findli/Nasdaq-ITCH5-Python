@@ -1,0 +1,7 @@
+hour stock vwap
+5 MAIN 36.51
+6 MAIN 36.58
+7 MAIN 36.62
+8 MAIN 36.6
+9 MAIN 36.68
+10 MAIN 36.69

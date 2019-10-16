@@ -1,0 +1,7 @@
+hour stock vwap
+4 CYD 16.4
+5 CYD 16.5
+7 CYD 16.43
+8 CYD 16.52
+9 CYD 16.79
+10 CYD 16.64

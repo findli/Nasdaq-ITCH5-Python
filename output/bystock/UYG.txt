@@ -1,0 +1,4 @@
+hour stock vwap
+4 UYG 38.18
+9 UYG 38.52
+10 UYG 38.59

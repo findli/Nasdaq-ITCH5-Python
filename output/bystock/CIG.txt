@@ -1,0 +1,8 @@
+hour stock vwap
+4 CIG 3.71
+5 CIG 3.69
+6 CIG 3.69
+7 CIG 3.7
+8 CIG 3.7
+9 CIG 3.75
+10 CIG 3.74

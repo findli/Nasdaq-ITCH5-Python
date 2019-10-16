@@ -1,0 +1,4 @@
+hour stock vwap
+4 XHE 74.18
+5 XHE 74.28
+10 XHE 75.26

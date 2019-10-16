@@ -1,0 +1,6 @@
+hour stock vwap
+4 RFL 17.8
+7 RFL 17.63
+8 RFL 17.57
+9 RFL 17.48
+10 RFL 17.38

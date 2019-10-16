@@ -1,0 +1,8 @@
+hour stock vwap
+4 DEI 37.32
+5 DEI 37.48
+6 DEI 37.66
+7 DEI 37.76
+8 DEI 37.57
+9 DEI 37.63
+10 DEI 37.61

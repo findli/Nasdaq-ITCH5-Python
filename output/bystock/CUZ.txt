@@ -1,0 +1,8 @@
+hour stock vwap
+4 CUZ 8.77
+5 CUZ 8.84
+6 CUZ 8.84
+7 CUZ 8.87
+8 CUZ 8.85
+9 CUZ 8.86
+10 CUZ 8.83

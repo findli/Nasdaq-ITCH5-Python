@@ -1,0 +1,8 @@
+hour stock vwap
+4 BEL 24.9
+5 BEL 24.88
+6 BEL 24.89
+7 BEL 24.9
+8 BEL 24.9
+9 BEL 24.91
+10 BEL 24.9

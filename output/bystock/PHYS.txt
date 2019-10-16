@@ -1,0 +1,4 @@
+hour stock vwap
+5 PHYS 10.6
+6 PHYS 10.58
+10 PHYS 10.66

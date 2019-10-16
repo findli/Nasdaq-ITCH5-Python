@@ -1,0 +1,8 @@
+hour stock vwap
+4 BRC 43.78
+5 BRC 43.6
+6 BRC 43.73
+7 BRC 43.83
+8 BRC 43.83
+9 BRC 43.94
+10 BRC 44.13

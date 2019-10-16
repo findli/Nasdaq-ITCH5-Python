@@ -1,0 +1,8 @@
+hour stock vwap
+4 HLF 58.67
+5 HLF 58.75
+6 HLF 58.83
+7 HLF 58.83
+8 HLF 58.71
+9 HLF 58.9
+10 HLF 58.79

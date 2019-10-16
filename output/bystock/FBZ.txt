@@ -1,0 +1,3 @@
+hour stock vwap
+7 FBZ 15.35
+9 FBZ 15.74

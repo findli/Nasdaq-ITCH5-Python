@@ -1,0 +1,7 @@
+hour stock vwap
+4 RDI 15.71
+5 RDI 15.75
+6 RDI 15.75
+7 RDI 15.72
+9 RDI 15.76
+10 RDI 15.73

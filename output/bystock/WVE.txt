@@ -1,0 +1,8 @@
+hour stock vwap
+4 WVE 34.95
+5 WVE 35.18
+6 WVE 35.58
+7 WVE 35.97
+8 WVE 36.05
+9 WVE 36.07
+10 WVE 36.07

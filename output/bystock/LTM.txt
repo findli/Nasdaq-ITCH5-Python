@@ -1,0 +1,8 @@
+hour stock vwap
+4 LTM 11.64
+5 LTM 11.66
+6 LTM 11.65
+7 LTM 11.6
+8 LTM 11.59
+9 LTM 11.61
+10 LTM 11.58

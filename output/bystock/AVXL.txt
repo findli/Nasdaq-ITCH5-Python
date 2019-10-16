@@ -1,0 +1,3 @@
+hour stock vwap
+6 AVXL 1.82
+10 AVXL 1.86

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HRC 98.64
+5 HRC 97.91
+6 HRC 98.26
+7 HRC 98.61
+8 HRC 97.8
+9 HRC 98.72
+10 HRC 99.44

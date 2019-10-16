@@ -1,0 +1,8 @@
+hour stock vwap
+4 LIT 28.14
+5 LIT 28.09
+6 LIT 28.19
+7 LIT 28.23
+8 LIT 28.17
+9 LIT 28.33
+10 LIT 28.44

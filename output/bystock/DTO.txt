@@ -1,0 +1,3 @@
+hour stock vwap
+6 DTO 63.0
+7 DTO 62.0

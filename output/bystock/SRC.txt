@@ -1,0 +1,8 @@
+hour stock vwap
+4 SRC 38.7
+5 SRC 38.77
+6 SRC 38.99
+7 SRC 39.13
+8 SRC 39.01
+9 SRC 39.1
+10 SRC 39.04

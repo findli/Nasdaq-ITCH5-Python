@@ -1,0 +1,7 @@
+hour stock vwap
+4 IPI 3.15
+6 IPI 3.17
+7 IPI 3.25
+8 IPI 3.23
+9 IPI 3.28
+10 IPI 3.27

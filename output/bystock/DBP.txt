@@ -1,0 +1,3 @@
+hour stock vwap
+7 DBP 37.16
+10 DBP 37.41

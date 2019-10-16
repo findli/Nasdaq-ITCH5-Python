@@ -1,0 +1,4 @@
+hour stock vwap
+5 AVK 13.91
+6 AVK 13.9
+8 AVK 13.94

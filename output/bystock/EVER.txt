@@ -1,0 +1,8 @@
+hour stock vwap
+4 EVER 5.44
+5 EVER 5.3
+6 EVER 5.42
+7 EVER 5.44
+8 EVER 5.47
+9 EVER 5.65
+10 EVER 5.55

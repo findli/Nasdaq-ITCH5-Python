@@ -1,0 +1,3 @@
+hour stock vwap
+6 WRB-B 24.99
+7 WRB-B 25.07

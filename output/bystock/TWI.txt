@@ -1,0 +1,6 @@
+hour stock vwap
+4 TWI 5.45
+6 TWI 5.54
+7 TWI 5.58
+9 TWI 5.59
+10 TWI 5.55

@@ -1,0 +1,4 @@
+hour stock vwap
+5 SUSB 24.69
+7 SUSB 24.69
+10 SUSB 24.73

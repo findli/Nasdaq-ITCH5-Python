@@ -1,0 +1,6 @@
+hour stock vwap
+4 DAKT 7.45
+5 DAKT 7.38
+7 DAKT 7.47
+8 DAKT 7.53
+10 DAKT 7.57

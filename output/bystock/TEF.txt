@@ -1,0 +1,7 @@
+hour stock vwap
+4 TEF 8.63
+5 TEF 8.64
+7 TEF 8.67
+8 TEF 8.65
+9 TEF 8.71
+10 TEF 8.74

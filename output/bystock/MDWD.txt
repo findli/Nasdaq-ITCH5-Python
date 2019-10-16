@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDWD 4.77
+5 MDWD 4.81
+6 MDWD 4.82
+7 MDWD 4.86
+9 MDWD 4.87
+10 MDWD 4.8
+11 MDWD 4.98

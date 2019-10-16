@@ -1,0 +1,4 @@
+hour stock vwap
+7 INTF 25.79
+9 INTF 25.96
+10 INTF 26.0

@@ -1,0 +1,6 @@
+hour stock vwap
+4 TC 6.53
+5 TC 6.51
+6 TC 6.62
+7 TC 6.46
+10 TC 6.47

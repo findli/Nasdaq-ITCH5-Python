@@ -1,0 +1,2 @@
+hour stock vwap
+5 WCHN 25.34

@@ -1,0 +1,6 @@
+hour stock vwap
+4 RCI 53.12
+6 RCI 53.58
+7 RCI 53.41
+9 RCI 53.35
+10 RCI 53.16

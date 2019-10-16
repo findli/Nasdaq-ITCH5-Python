@@ -1,0 +1,8 @@
+hour stock vwap
+4 APC 46.97
+5 APC 46.77
+6 APC 47.07
+7 APC 47.11
+8 APC 47.32
+9 APC 47.6
+10 APC 47.8

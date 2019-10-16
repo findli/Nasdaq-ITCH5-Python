@@ -1,0 +1,8 @@
+hour stock vwap
+4 SURF 5.57
+5 SURF 5.59
+6 SURF 5.6
+7 SURF 5.56
+8 SURF 5.57
+9 SURF 5.58
+10 SURF 5.68

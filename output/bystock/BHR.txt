@@ -1,0 +1,8 @@
+hour stock vwap
+4 BHR 10.63
+5 BHR 10.77
+6 BHR 10.92
+7 BHR 10.94
+8 BHR 10.94
+9 BHR 10.87
+10 BHR 10.86

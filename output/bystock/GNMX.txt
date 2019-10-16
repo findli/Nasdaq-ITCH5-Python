@@ -1,0 +1,8 @@
+hour stock vwap
+4 GNMX 0.19
+5 GNMX 0.19
+6 GNMX 0.19
+7 GNMX 0.19
+8 GNMX 0.19
+9 GNMX 0.19
+10 GNMX 0.19

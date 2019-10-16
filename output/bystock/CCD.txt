@@ -1,0 +1,7 @@
+hour stock vwap
+4 CCD 19.16
+5 CCD 19.17
+7 CCD 19.33
+8 CCD 19.45
+9 CCD 19.4
+10 CCD 19.31

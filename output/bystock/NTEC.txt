@@ -1,0 +1,8 @@
+hour stock vwap
+4 NTEC 7.81
+5 NTEC 7.86
+6 NTEC 7.78
+7 NTEC 7.76
+8 NTEC 7.78
+9 NTEC 7.78
+10 NTEC 7.76

@@ -1,0 +1,7 @@
+hour stock vwap
+4 SUP 5.05
+6 SUP 5.09
+7 SUP 5.1
+8 SUP 5.07
+9 SUP 5.15
+10 SUP 5.17

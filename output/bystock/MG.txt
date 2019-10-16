@@ -1,0 +1,6 @@
+hour stock vwap
+5 MG 14.46
+7 MG 14.43
+8 MG 14.41
+9 MG 14.58
+10 MG 14.52

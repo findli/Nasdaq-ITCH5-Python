@@ -1,0 +1,4 @@
+hour stock vwap
+5 AFSI-E 8.28
+6 AFSI-E 8.37
+10 AFSI-E 8.75

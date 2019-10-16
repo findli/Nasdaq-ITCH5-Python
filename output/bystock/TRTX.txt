@@ -1,0 +1,4 @@
+hour stock vwap
+5 TRTX 19.47
+7 TRTX 19.51
+9 TRTX 19.57

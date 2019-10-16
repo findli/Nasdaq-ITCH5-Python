@@ -1,0 +1,7 @@
+hour stock vwap
+4 PCSB 20.42
+6 PCSB 20.39
+7 PCSB 20.34
+8 PCSB 20.28
+9 PCSB 20.3
+10 PCSB 20.24

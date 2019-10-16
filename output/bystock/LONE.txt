@@ -1,0 +1,8 @@
+hour stock vwap
+4 LONE 4.88
+5 LONE 4.91
+6 LONE 4.85
+7 LONE 4.81
+8 LONE 4.82
+9 LONE 4.85
+10 LONE 4.87

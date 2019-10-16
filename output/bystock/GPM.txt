@@ -1,0 +1,3 @@
+hour stock vwap
+8 GPM 7.62
+9 GPM 7.64

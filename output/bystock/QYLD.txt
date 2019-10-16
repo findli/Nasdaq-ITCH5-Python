@@ -1,0 +1,4 @@
+hour stock vwap
+4 QYLD 21.75
+6 QYLD 21.75
+8 QYLD 21.79

@@ -1,0 +1,5 @@
+hour stock vwap
+4 PCB 15.87
+6 PCB 15.86
+9 PCB 15.82
+10 PCB 15.82

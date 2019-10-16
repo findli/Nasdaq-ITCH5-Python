@@ -1,0 +1,7 @@
+hour stock vwap
+4 OTTR 47.15
+5 OTTR 47.54
+6 OTTR 47.66
+7 OTTR 47.62
+9 OTTR 47.47
+10 OTTR 47.4

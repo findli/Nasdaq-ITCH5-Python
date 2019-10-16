@@ -1,0 +1,4 @@
+hour stock vwap
+5 TWNKW 1.01
+7 TWNKW 1.1
+10 TWNKW 1.05

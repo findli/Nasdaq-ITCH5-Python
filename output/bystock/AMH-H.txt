@@ -1,0 +1,5 @@
+hour stock vwap
+5 AMH-H 23.71
+7 AMH-H 23.63
+8 AMH-H 23.69
+9 AMH-H 23.73

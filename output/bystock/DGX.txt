@@ -1,0 +1,8 @@
+hour stock vwap
+4 DGX 86.24
+5 DGX 86.1
+6 DGX 86.54
+7 DGX 86.7
+8 DGX 86.6
+9 DGX 87.0
+10 DGX 86.91

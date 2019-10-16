@@ -1,0 +1,8 @@
+hour stock vwap
+4 OAK 40.67
+5 OAK 40.75
+6 OAK 40.94
+7 OAK 40.93
+8 OAK 41.07
+9 OAK 41.22
+10 OAK 40.74

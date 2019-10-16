@@ -1,0 +1,9 @@
+hour stock vwap
+4 QID 41.82
+5 QID 41.98
+6 QID 41.84
+7 QID 41.47
+8 QID 41.48
+9 QID 41.09
+10 QID 40.7
+13 QID 40.08

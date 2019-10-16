@@ -1,0 +1,4 @@
+hour stock vwap
+4 CBNK 11.61
+8 CBNK 11.46
+10 CBNK 11.49

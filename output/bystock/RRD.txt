@@ -1,0 +1,6 @@
+hour stock vwap
+4 RRD 5.06
+5 RRD 5.12
+6 RRD 5.15
+7 RRD 5.17
+10 RRD 5.15

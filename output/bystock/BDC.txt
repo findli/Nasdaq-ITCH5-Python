@@ -1,0 +1,8 @@
+hour stock vwap
+4 BDC 52.31
+5 BDC 52.25
+6 BDC 52.65
+7 BDC 52.74
+8 BDC 52.3
+9 BDC 52.71
+10 BDC 52.57

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ERIC 8.79
+5 ERIC 8.8
+6 ERIC 8.84
+7 ERIC 8.87
+8 ERIC 8.89
+9 ERIC 8.98
+10 ERIC 8.97

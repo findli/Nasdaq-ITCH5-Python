@@ -1,0 +1,4 @@
+hour stock vwap
+7 WWR 0.14
+8 WWR 0.14
+10 WWR 0.15

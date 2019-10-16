@@ -1,0 +1,5 @@
+hour stock vwap
+5 IFV 19.24
+7 IFV 19.33
+8 IFV 19.34
+10 IFV 19.53

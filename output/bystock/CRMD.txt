@@ -1,0 +1,9 @@
+hour stock vwap
+3 CRMD 1.83
+4 CRMD 1.82
+5 CRMD 1.87
+6 CRMD 1.88
+7 CRMD 1.88
+8 CRMD 1.89
+9 CRMD 1.88
+10 CRMD 1.87

@@ -1,0 +1,7 @@
+hour stock vwap
+4 NGVC 14.0
+5 NGVC 13.63
+6 NGVC 13.44
+8 NGVC 13.41
+9 NGVC 13.42
+10 NGVC 13.62

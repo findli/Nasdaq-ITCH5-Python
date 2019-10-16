@@ -1,0 +1,2 @@
+hour stock vwap
+10 ROAM 23.95

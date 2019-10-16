@@ -1,0 +1,5 @@
+hour stock vwap
+6 HOFT 27.99
+8 HOFT 28.04
+9 HOFT 28.24
+10 HOFT 28.28

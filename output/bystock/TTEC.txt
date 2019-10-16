@@ -1,0 +1,7 @@
+hour stock vwap
+5 TTEC 32.48
+6 TTEC 32.62
+7 TTEC 32.59
+8 TTEC 32.6
+9 TTEC 32.81
+10 TTEC 32.88

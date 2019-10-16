@@ -1,0 +1,8 @@
+hour stock vwap
+4 FOMX 3.56
+5 FOMX 3.58
+6 FOMX 3.65
+7 FOMX 3.69
+8 FOMX 3.63
+9 FOMX 3.63
+10 FOMX 3.62

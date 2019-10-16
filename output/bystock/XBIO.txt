@@ -1,0 +1,5 @@
+hour stock vwap
+4 XBIO 2.14
+5 XBIO 2.1
+8 XBIO 2.1
+10 XBIO 2.06

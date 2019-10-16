@@ -1,0 +1,5 @@
+hour stock vwap
+4 SAUC 0.96
+8 SAUC 0.93
+9 SAUC 0.95
+10 SAUC 1.0

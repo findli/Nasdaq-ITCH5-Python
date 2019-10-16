@@ -1,0 +1,9 @@
+hour stock vwap
+3 DFS 67.22
+4 DFS 67.08
+5 DFS 66.76
+6 DFS 67.33
+7 DFS 67.46
+8 DFS 67.28
+9 DFS 67.64
+10 DFS 67.68

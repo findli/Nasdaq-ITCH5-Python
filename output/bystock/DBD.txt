@@ -1,0 +1,8 @@
+hour stock vwap
+4 DBD 4.06
+5 DBD 4.13
+6 DBD 4.14
+7 DBD 4.18
+8 DBD 4.12
+9 DBD 4.19
+10 DBD 4.19

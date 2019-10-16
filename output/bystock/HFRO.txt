@@ -1,0 +1,5 @@
+hour stock vwap
+5 HFRO 13.86
+6 HFRO 13.89
+9 HFRO 14.04
+10 HFRO 14.04

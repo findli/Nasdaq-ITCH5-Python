@@ -1,0 +1,6 @@
+hour stock vwap
+4 BLBD 19.58
+5 BLBD 19.33
+6 BLBD 19.55
+8 BLBD 19.36
+10 BLBD 19.54

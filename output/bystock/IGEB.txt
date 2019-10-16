@@ -1,0 +1,3 @@
+hour stock vwap
+8 IGEB 48.16
+9 IGEB 48.2

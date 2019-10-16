@@ -1,0 +1,6 @@
+hour stock vwap
+5 VVR 4.08
+7 VVR 4.08
+8 VVR 4.08
+9 VVR 4.08
+10 VVR 4.1

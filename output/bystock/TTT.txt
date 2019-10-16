@@ -1,0 +1,4 @@
+hour stock vwap
+5 TTT 26.01
+7 TTT 26.08
+9 TTT 26.06

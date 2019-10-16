@@ -1,0 +1,8 @@
+hour stock vwap
+4 DIN 76.44
+5 DIN 76.47
+6 DIN 77.05
+7 DIN 76.69
+8 DIN 76.31
+9 DIN 76.83
+10 DIN 76.62

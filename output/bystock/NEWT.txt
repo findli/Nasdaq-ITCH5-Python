@@ -1,0 +1,6 @@
+hour stock vwap
+5 NEWT 19.1
+6 NEWT 19.04
+7 NEWT 19.03
+9 NEWT 19.07
+10 NEWT 19.08

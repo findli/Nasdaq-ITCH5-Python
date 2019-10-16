@@ -1,0 +1,4 @@
+hour stock vwap
+4 QHC 3.01
+5 QHC 2.92
+10 QHC 3.03

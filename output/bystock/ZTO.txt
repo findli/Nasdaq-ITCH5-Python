@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZTO 16.98
+5 ZTO 16.99
+6 ZTO 16.98
+7 ZTO 17.0
+8 ZTO 17.06
+9 ZTO 17.21
+10 ZTO 17.26

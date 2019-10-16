@@ -1,0 +1,6 @@
+hour stock vwap
+5 VPU 119.53
+7 VPU 119.29
+8 VPU 119.16
+9 VPU 120.19
+10 VPU 120.06

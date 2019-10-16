@@ -1,0 +1,5 @@
+hour stock vwap
+5 MICT 0.91
+6 MICT 0.91
+7 MICT 0.93
+10 MICT 0.92

@@ -1,0 +1,6 @@
+hour stock vwap
+4 MTNB 0.92
+5 MTNB 0.92
+6 MTNB 0.94
+8 MTNB 0.95
+10 MTNB 0.97

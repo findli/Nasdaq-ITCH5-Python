@@ -1,0 +1,7 @@
+hour stock vwap
+5 XOMA 11.93
+6 XOMA 11.98
+7 XOMA 11.93
+8 XOMA 12.03
+9 XOMA 12.15
+10 XOMA 12.09

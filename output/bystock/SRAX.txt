@@ -1,0 +1,4 @@
+hour stock vwap
+5 SRAX 2.83
+7 SRAX 2.76
+10 SRAX 2.93

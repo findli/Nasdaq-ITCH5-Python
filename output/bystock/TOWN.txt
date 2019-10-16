@@ -1,0 +1,6 @@
+hour stock vwap
+5 TOWN 25.71
+6 TOWN 25.76
+7 TOWN 25.85
+9 TOWN 26.15
+10 TOWN 26.08

@@ -1,0 +1,5 @@
+hour stock vwap
+4 XELA 3.56
+5 XELA 3.64
+9 XELA 3.59
+10 XELA 3.59

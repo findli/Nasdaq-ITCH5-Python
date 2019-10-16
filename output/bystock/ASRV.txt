@@ -1,0 +1,4 @@
+hour stock vwap
+4 ASRV 4.15
+8 ASRV 4.15
+10 ASRV 4.14

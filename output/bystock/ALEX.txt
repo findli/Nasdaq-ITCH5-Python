@@ -1,0 +1,4 @@
+hour stock vwap
+7 ALEX 22.64
+8 ALEX 22.63
+10 ALEX 22.62

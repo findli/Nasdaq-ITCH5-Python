@@ -1,0 +1,7 @@
+hour stock vwap
+4 BAND 44.35
+6 BAND 44.0
+7 BAND 44.18
+8 BAND 43.93
+9 BAND 43.9
+10 BAND 44.24

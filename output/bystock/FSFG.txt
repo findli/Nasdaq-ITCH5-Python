@@ -1,0 +1,4 @@
+hour stock vwap
+5 FSFG 51.67
+6 FSFG 51.57
+10 FSFG 50.5

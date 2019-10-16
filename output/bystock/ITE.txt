@@ -1,0 +1,7 @@
+hour stock vwap
+4 ITE 59.38
+5 ITE 59.39
+6 ITE 59.38
+7 ITE 59.36
+8 ITE 59.37
+9 ITE 59.47

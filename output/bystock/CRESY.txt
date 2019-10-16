@@ -1,0 +1,5 @@
+hour stock vwap
+4 CRESY 13.53
+5 CRESY 13.5
+9 CRESY 13.47
+10 CRESY 13.52

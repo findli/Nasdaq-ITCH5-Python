@@ -1,0 +1,4 @@
+hour stock vwap
+4 FTXD 21.53
+5 FTXD 21.54
+6 FTXD 21.54

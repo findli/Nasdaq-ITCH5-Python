@@ -1,0 +1,12 @@
+hour stock vwap
+2 OCX 5.55
+3 OCX 5.44
+4 OCX 5.28
+5 OCX 5.23
+6 OCX 5.3
+7 OCX 5.1
+8 OCX 5.17
+9 OCX 5.21
+10 OCX 5.09
+12 OCX 5.15
+14 OCX 5.19

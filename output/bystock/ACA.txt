@@ -1,0 +1,8 @@
+hour stock vwap
+4 ACA 29.46
+5 ACA 29.0
+6 ACA 28.73
+7 ACA 28.44
+8 ACA 28.47
+9 ACA 28.77
+10 ACA 28.87

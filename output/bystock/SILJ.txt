@@ -1,0 +1,5 @@
+hour stock vwap
+4 SILJ 8.73
+5 SILJ 8.74
+8 SILJ 8.7
+9 SILJ 8.93

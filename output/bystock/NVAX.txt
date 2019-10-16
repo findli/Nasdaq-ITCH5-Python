@@ -1,0 +1,8 @@
+hour stock vwap
+4 NVAX 2.2
+5 NVAX 2.21
+6 NVAX 2.22
+7 NVAX 2.22
+8 NVAX 2.23
+9 NVAX 2.26
+10 NVAX 2.26

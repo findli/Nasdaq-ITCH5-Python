@@ -1,0 +1,8 @@
+hour stock vwap
+4 PEI 7.56
+5 PEI 7.66
+6 PEI 7.63
+7 PEI 7.61
+8 PEI 7.53
+9 PEI 7.54
+10 PEI 7.49

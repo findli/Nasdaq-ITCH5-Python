@@ -1,0 +1,5 @@
+hour stock vwap
+5 LQDT 8.11
+6 LQDT 8.32
+9 LQDT 8.41
+10 LQDT 8.39

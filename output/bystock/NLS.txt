@@ -1,0 +1,8 @@
+hour stock vwap
+4 NLS 7.56
+5 NLS 7.55
+6 NLS 7.62
+7 NLS 7.63
+8 NLS 7.64
+9 NLS 7.7
+10 NLS 7.65

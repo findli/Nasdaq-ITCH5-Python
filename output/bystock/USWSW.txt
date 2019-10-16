@@ -1,0 +1,3 @@
+hour stock vwap
+7 USWSW 0.67
+8 USWSW 0.67

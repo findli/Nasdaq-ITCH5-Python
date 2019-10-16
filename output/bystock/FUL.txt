@@ -1,0 +1,8 @@
+hour stock vwap
+4 FUL 48.08
+5 FUL 48.16
+6 FUL 48.47
+7 FUL 48.35
+8 FUL 48.12
+9 FUL 48.68
+10 FUL 49.05

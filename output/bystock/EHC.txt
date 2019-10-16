@@ -1,0 +1,8 @@
+hour stock vwap
+4 EHC 67.62
+5 EHC 67.49
+6 EHC 67.68
+7 EHC 67.68
+8 EHC 67.24
+9 EHC 66.94
+10 EHC 66.71

@@ -1,0 +1,7 @@
+hour stock vwap
+4 CIGI 61.85
+5 CIGI 61.53
+6 CIGI 61.57
+7 CIGI 61.25
+9 CIGI 61.38
+10 CIGI 61.95

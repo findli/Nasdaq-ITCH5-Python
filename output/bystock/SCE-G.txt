@@ -1,0 +1,2 @@
+hour stock vwap
+10 SCE-G 19.52

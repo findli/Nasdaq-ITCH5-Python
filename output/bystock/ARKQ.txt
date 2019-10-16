@@ -1,0 +1,4 @@
+hour stock vwap
+5 ARKQ 31.97
+6 ARKQ 32.0
+10 ARKQ 32.63

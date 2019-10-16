@@ -1,0 +1,3 @@
+hour stock vwap
+7 SHM 48.22
+10 SHM 48.24

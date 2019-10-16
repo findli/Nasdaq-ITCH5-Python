@@ -1,0 +1,7 @@
+hour stock vwap
+4 CHCT 32.02
+5 CHCT 32.27
+6 CHCT 32.35
+8 CHCT 32.4
+9 CHCT 32.38
+10 CHCT 32.27

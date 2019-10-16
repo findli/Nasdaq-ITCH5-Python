@@ -1,0 +1,8 @@
+hour stock vwap
+4 CMA 81.98
+5 CMA 81.89
+6 CMA 82.11
+7 CMA 82.12
+8 CMA 81.99
+9 CMA 82.17
+10 CMA 81.2

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OPTN 6.28
+5 OPTN 6.18
+6 OPTN 6.13
+7 OPTN 6.12
+8 OPTN 6.12
+9 OPTN 6.12
+10 OPTN 6.05

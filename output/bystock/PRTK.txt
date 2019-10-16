@@ -1,0 +1,8 @@
+hour stock vwap
+4 PRTK 6.5
+5 PRTK 6.52
+6 PRTK 6.59
+7 PRTK 6.67
+8 PRTK 6.66
+9 PRTK 6.63
+10 PRTK 6.62

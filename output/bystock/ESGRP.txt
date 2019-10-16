@@ -1,0 +1,5 @@
+hour stock vwap
+4 ESGRP 25.17
+5 ESGRP 25.14
+9 ESGRP 25.22
+10 ESGRP 25.09

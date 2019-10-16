@@ -1,0 +1,9 @@
+hour stock vwap
+3 RIG 8.57
+4 RIG 8.53
+5 RIG 8.51
+6 RIG 8.63
+7 RIG 8.6
+8 RIG 8.58
+9 RIG 8.7
+10 RIG 8.67

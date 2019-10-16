@@ -1,0 +1,8 @@
+hour stock vwap
+4 DVA 57.08
+5 DVA 55.9
+6 DVA 56.12
+7 DVA 56.1
+8 DVA 55.85
+9 DVA 56.01
+10 DVA 55.91

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TBK 30.73
+5 TBK 30.6
+6 TBK 30.55
+7 TBK 30.42
+8 TBK 30.29
+9 TBK 30.45
+10 TBK 30.7

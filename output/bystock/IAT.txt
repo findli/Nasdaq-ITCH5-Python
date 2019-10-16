@@ -1,0 +1,5 @@
+hour stock vwap
+5 IAT 45.38
+8 IAT 45.48
+9 IAT 45.73
+10 IAT 45.36

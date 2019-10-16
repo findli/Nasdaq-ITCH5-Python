@@ -1,0 +1,5 @@
+hour stock vwap
+5 SCHC 31.22
+6 SCHC 31.3
+7 SCHC 31.29
+10 SCHC 31.51

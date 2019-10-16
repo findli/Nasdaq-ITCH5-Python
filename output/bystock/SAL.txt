@@ -1,0 +1,3 @@
+hour stock vwap
+7 SAL 38.3
+9 SAL 39.61

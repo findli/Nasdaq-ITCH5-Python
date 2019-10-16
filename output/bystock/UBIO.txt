@@ -1,0 +1,4 @@
+hour stock vwap
+4 UBIO 26.27
+9 UBIO 27.5
+10 UBIO 27.18

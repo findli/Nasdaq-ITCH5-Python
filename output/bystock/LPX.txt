@@ -1,0 +1,8 @@
+hour stock vwap
+4 LPX 24.07
+5 LPX 24.21
+6 LPX 24.31
+7 LPX 24.4
+8 LPX 24.23
+9 LPX 24.47
+10 LPX 24.37

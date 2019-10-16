@@ -1,0 +1,4 @@
+hour stock vwap
+4 GLOP-B 22.17
+6 GLOP-B 22.56
+9 GLOP-B 22.25

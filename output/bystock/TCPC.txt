@@ -1,0 +1,6 @@
+hour stock vwap
+4 TCPC 14.1
+5 TCPC 14.2
+6 TCPC 14.26
+9 TCPC 14.26
+10 TCPC 14.2

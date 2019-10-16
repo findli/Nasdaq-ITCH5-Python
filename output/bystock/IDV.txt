@@ -1,0 +1,8 @@
+hour stock vwap
+4 IDV 30.64
+5 IDV 30.59
+6 IDV 30.64
+7 IDV 30.66
+8 IDV 30.64
+9 IDV 30.9
+10 IDV 30.86

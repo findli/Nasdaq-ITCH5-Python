@@ -1,0 +1,8 @@
+hour stock vwap
+4 PQG 14.77
+5 PQG 14.83
+6 PQG 14.88
+7 PQG 14.93
+8 PQG 14.87
+9 PQG 14.98
+10 PQG 14.93

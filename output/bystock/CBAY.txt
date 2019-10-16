@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBAY 8.46
+5 CBAY 8.48
+6 CBAY 8.62
+7 CBAY 8.83
+8 CBAY 8.73
+9 CBAY 8.67
+10 CBAY 8.66

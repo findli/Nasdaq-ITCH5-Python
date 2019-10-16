@@ -1,0 +1,4 @@
+hour stock vwap
+4 XNTK 64.45
+7 XNTK 64.39
+10 XNTK 65.11

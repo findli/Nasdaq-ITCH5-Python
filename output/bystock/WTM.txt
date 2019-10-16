@@ -1,0 +1,7 @@
+hour stock vwap
+5 WTM 892.02
+6 WTM 894.3
+7 WTM 897.07
+8 WTM 894.14
+9 WTM 891.87
+10 WTM 891.34

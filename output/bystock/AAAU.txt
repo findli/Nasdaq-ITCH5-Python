@@ -1,0 +1,2 @@
+hour stock vwap
+8 AAAU 13.1

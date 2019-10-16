@@ -1,0 +1,9 @@
+hour stock vwap
+2 ABT 69.18
+4 ABT 69.96
+5 ABT 70.06
+6 ABT 70.31
+7 ABT 70.62
+8 ABT 70.43
+9 ABT 71.24
+10 ABT 71.59

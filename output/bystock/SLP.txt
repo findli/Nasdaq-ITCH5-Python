@@ -1,0 +1,6 @@
+hour stock vwap
+4 SLP 19.01
+6 SLP 19.0
+8 SLP 19.01
+9 SLP 19.09
+10 SLP 18.95

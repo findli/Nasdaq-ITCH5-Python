@@ -1,0 +1,4 @@
+hour stock vwap
+6 DNJR 8.79
+9 DNJR 8.13
+10 DNJR 8.5

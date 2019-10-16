@@ -1,0 +1,6 @@
+hour stock vwap
+4 DSGX 30.45
+5 DSGX 30.4
+6 DSGX 30.68
+7 DSGX 30.85
+9 DSGX 30.94

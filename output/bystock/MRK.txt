@@ -1,0 +1,8 @@
+hour stock vwap
+4 MRK 73.45
+5 MRK 73.26
+6 MRK 73.4
+7 MRK 73.44
+8 MRK 73.25
+9 MRK 73.44
+10 MRK 73.43

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGI 4.35
+5 AGI 4.38
+6 AGI 4.36
+7 AGI 4.37
+8 AGI 4.34
+9 AGI 4.46
+10 AGI 4.43

@@ -1,0 +1,9 @@
+hour stock vwap
+4 SXI 80.46
+5 SXI 78.93
+6 SXI 78.85
+7 SXI 78.41
+8 SXI 77.44
+9 SXI 78.7
+10 SXI 78.96
+11 SXI 79.34

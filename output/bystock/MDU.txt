@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDU 25.1
+5 MDU 25.17
+6 MDU 25.35
+7 MDU 25.27
+8 MDU 25.25
+9 MDU 25.4
+10 MDU 25.37

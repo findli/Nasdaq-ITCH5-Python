@@ -1,0 +1,4 @@
+hour stock vwap
+5 GII 48.39
+7 GII 48.44
+10 GII 48.8

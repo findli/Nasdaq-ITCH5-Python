@@ -1,0 +1,5 @@
+hour stock vwap
+6 JYNT 8.15
+8 JYNT 8.16
+9 JYNT 8.16
+10 JYNT 8.07

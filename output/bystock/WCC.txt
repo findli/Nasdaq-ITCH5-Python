@@ -1,0 +1,8 @@
+hour stock vwap
+4 WCC 53.39
+5 WCC 53.4
+6 WCC 53.53
+7 WCC 53.5
+8 WCC 53.56
+9 WCC 53.96
+10 WCC 54.24

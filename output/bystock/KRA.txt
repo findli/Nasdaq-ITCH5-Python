@@ -1,0 +1,8 @@
+hour stock vwap
+4 KRA 28.05
+5 KRA 27.68
+6 KRA 27.82
+7 KRA 27.77
+8 KRA 27.81
+9 KRA 28.42
+10 KRA 28.5

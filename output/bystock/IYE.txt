@@ -1,0 +1,5 @@
+hour stock vwap
+4 IYE 34.32
+5 IYE 34.18
+9 IYE 34.54
+10 IYE 34.54

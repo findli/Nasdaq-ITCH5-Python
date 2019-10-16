@@ -1,0 +1,4 @@
+hour stock vwap
+8 GSIE 27.13
+9 GSIE 27.15
+10 GSIE 27.33

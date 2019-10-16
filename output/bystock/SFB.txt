@@ -1,0 +1,3 @@
+hour stock vwap
+6 SFB 22.1
+8 SFB 22.14

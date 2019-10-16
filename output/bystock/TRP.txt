@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRP 42.45
+5 TRP 42.25
+6 TRP 42.27
+7 TRP 42.13
+8 TRP 42.07
+9 TRP 42.26
+10 TRP 42.36

@@ -1,0 +1,8 @@
+hour stock vwap
+4 INSY 3.5
+5 INSY 3.45
+6 INSY 3.43
+7 INSY 3.43
+8 INSY 3.45
+9 INSY 3.45
+10 INSY 3.51

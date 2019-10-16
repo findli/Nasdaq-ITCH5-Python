@@ -1,0 +1,5 @@
+hour stock vwap
+4 BBDC 9.79
+6 BBDC 9.84
+7 BBDC 9.87
+10 BBDC 9.88

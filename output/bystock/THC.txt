@@ -1,0 +1,8 @@
+hour stock vwap
+4 THC 21.85
+5 THC 21.67
+6 THC 21.75
+7 THC 22.01
+8 THC 21.65
+9 THC 21.89
+10 THC 21.96

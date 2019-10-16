@@ -1,0 +1,8 @@
+hour stock vwap
+4 WETF 6.42
+5 WETF 6.37
+6 WETF 6.44
+7 WETF 6.46
+8 WETF 6.49
+9 WETF 6.58
+10 WETF 6.52

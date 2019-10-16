@@ -1,0 +1,4 @@
+hour stock vwap
+5 RYF 39.73
+6 RYF 39.78
+8 RYF 39.93

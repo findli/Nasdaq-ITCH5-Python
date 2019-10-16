@@ -1,0 +1,6 @@
+hour stock vwap
+4 MODN 14.21
+5 MODN 14.29
+6 MODN 14.26
+8 MODN 14.28
+10 MODN 14.32

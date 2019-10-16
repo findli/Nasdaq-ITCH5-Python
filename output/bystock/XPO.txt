@@ -1,0 +1,8 @@
+hour stock vwap
+4 XPO 60.97
+5 XPO 60.82
+6 XPO 62.03
+7 XPO 61.84
+8 XPO 61.57
+9 XPO 61.61
+10 XPO 61.8

@@ -1,0 +1,5 @@
+hour stock vwap
+4 PNQI 122.0
+8 PNQI 122.44
+9 PNQI 123.36
+10 PNQI 123.69

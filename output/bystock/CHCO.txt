@@ -1,0 +1,7 @@
+hour stock vwap
+5 CHCO 71.96
+6 CHCO 72.37
+7 CHCO 72.48
+8 CHCO 72.1
+9 CHCO 72.44
+10 CHCO 72.36

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OCN 1.71
+5 OCN 1.7
+6 OCN 1.7
+7 OCN 1.7
+8 OCN 1.7
+9 OCN 1.72
+10 OCN 1.76

@@ -1,0 +1,4 @@
+hour stock vwap
+7 TRK 16.11
+9 TRK 15.98
+10 TRK 15.89

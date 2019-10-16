@@ -1,0 +1,8 @@
+hour stock vwap
+4 BPL 30.41
+5 BPL 30.01
+6 BPL 30.2
+7 BPL 30.32
+8 BPL 30.39
+9 BPL 30.52
+10 BPL 30.52

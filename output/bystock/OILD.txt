@@ -1,0 +1,7 @@
+hour stock vwap
+4 OILD 28.6
+5 OILD 27.92
+6 OILD 27.2
+7 OILD 27.19
+8 OILD 27.32
+9 OILD 27.81

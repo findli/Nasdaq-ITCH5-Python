@@ -1,0 +1,6 @@
+hour stock vwap
+6 ATTO 3.84
+7 ATTO 3.92
+8 ATTO 3.87
+9 ATTO 3.83
+10 ATTO 3.87

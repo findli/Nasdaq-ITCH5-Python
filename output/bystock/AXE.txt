@@ -1,0 +1,8 @@
+hour stock vwap
+4 AXE 60.79
+5 AXE 59.92
+6 AXE 59.82
+7 AXE 59.47
+8 AXE 59.52
+9 AXE 59.78
+10 AXE 59.51

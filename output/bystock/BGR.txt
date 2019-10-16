@@ -1,0 +1,6 @@
+hour stock vwap
+3 BGR 11.58
+7 BGR 11.64
+8 BGR 11.64
+9 BGR 11.73
+10 BGR 11.67

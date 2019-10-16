@@ -1,0 +1,7 @@
+hour stock vwap
+4 PFIS 40.26
+5 PFIS 40.76
+6 PFIS 40.85
+8 PFIS 40.75
+9 PFIS 40.98
+10 PFIS 41.48

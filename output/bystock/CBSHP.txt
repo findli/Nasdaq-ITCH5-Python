@@ -1,0 +1,3 @@
+hour stock vwap
+9 CBSHP 25.73
+10 CBSHP 25.73

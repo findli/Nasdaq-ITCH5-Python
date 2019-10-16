@@ -1,0 +1,8 @@
+hour stock vwap
+4 BTG 3.01
+5 BTG 3.03
+6 BTG 3.02
+7 BTG 3.03
+8 BTG 3.03
+9 BTG 3.11
+10 BTG 3.08

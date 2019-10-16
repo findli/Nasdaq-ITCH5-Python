@@ -1,0 +1,7 @@
+hour stock vwap
+4 SNN 37.73
+5 SNN 37.58
+6 SNN 37.69
+7 SNN 37.73
+9 SNN 37.92
+10 SNN 37.96

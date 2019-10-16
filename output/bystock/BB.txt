@@ -1,0 +1,8 @@
+hour stock vwap
+4 BB 7.98
+5 BB 7.99
+6 BB 8.04
+7 BB 8.06
+8 BB 8.03
+9 BB 8.08
+10 BB 8.12

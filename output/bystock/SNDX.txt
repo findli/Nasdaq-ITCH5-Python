@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNDX 5.16
+5 SNDX 5.27
+6 SNDX 5.34
+7 SNDX 5.34
+8 SNDX 5.35
+9 SNDX 5.49
+10 SNDX 5.46

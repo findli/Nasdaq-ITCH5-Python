@@ -1,0 +1,8 @@
+hour stock vwap
+4 TAL 30.76
+5 TAL 30.54
+6 TAL 30.05
+7 TAL 30.01
+8 TAL 30.02
+9 TAL 30.14
+10 TAL 30.18

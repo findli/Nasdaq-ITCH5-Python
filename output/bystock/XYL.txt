@@ -1,0 +1,8 @@
+hour stock vwap
+4 XYL 70.3
+5 XYL 70.29
+6 XYL 70.68
+7 XYL 70.71
+8 XYL 70.52
+9 XYL 71.53
+10 XYL 71.85

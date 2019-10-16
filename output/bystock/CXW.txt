@@ -1,0 +1,8 @@
+hour stock vwap
+4 CXW 19.62
+5 CXW 19.61
+6 CXW 19.68
+7 CXW 19.68
+8 CXW 19.56
+9 CXW 19.71
+10 CXW 19.49

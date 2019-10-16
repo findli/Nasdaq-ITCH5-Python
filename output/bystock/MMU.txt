@@ -1,0 +1,3 @@
+hour stock vwap
+9 MMU 12.88
+10 MMU 12.85

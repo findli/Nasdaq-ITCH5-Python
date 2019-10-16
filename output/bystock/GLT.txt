@@ -1,0 +1,8 @@
+hour stock vwap
+4 GLT 12.78
+5 GLT 12.81
+6 GLT 12.7
+7 GLT 12.67
+8 GLT 12.67
+9 GLT 12.76
+10 GLT 12.77

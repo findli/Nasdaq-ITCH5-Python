@@ -1,0 +1,5 @@
+hour stock vwap
+4 SPTM 33.02
+7 SPTM 33.16
+8 SPTM 33.08
+9 SPTM 33.22

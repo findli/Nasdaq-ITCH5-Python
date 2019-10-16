@@ -1,0 +1,3 @@
+hour stock vwap
+7 ARES-A 26.5
+10 ARES-A 26.58

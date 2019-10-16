@@ -1,0 +1,6 @@
+hour stock vwap
+4 AREX 0.99
+5 AREX 0.95
+7 AREX 0.96
+8 AREX 0.95
+10 AREX 0.97

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DBVT 6.42
+5 DBVT 6.42
+6 DBVT 6.5
+7 DBVT 6.45
+8 DBVT 6.57
+9 DBVT 6.67
+10 DBVT 6.7

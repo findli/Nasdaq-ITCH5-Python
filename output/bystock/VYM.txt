@@ -1,0 +1,6 @@
+hour stock vwap
+5 VYM 81.42
+6 VYM 81.62
+7 VYM 81.67
+9 VYM 82.08
+10 VYM 81.96

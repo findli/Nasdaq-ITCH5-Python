@@ -1,0 +1,2 @@
+hour stock vwap
+5 CBS.A 49.14

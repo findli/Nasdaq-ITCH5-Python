@@ -1,0 +1,6 @@
+hour stock vwap
+4 JNCE 3.83
+5 JNCE 3.9
+6 JNCE 3.91
+9 JNCE 3.94
+10 JNCE 3.96

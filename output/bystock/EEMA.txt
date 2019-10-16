@@ -1,0 +1,6 @@
+hour stock vwap
+4 EEMA 64.53
+5 EEMA 64.48
+6 EEMA 64.49
+9 EEMA 65.62
+10 EEMA 65.45

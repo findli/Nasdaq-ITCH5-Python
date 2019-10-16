@@ -1,0 +1,8 @@
+hour stock vwap
+4 SPN 3.74
+5 SPN 3.73
+6 SPN 3.78
+7 SPN 3.79
+8 SPN 3.8
+9 SPN 3.81
+10 SPN 3.82

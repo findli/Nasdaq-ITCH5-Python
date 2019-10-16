@@ -1,0 +1,8 @@
+hour stock vwap
+4 HIG 46.09
+5 HIG 46.2
+6 HIG 46.4
+7 HIG 46.5
+8 HIG 46.43
+9 HIG 46.54
+10 HIG 46.56

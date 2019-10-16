@@ -1,0 +1,3 @@
+hour stock vwap
+7 DGL 40.33
+8 DGL 40.31

@@ -1,0 +1,7 @@
+hour stock vwap
+4 ANH 4.46
+5 ANH 4.47
+6 ANH 4.47
+7 ANH 4.5
+9 ANH 4.5
+10 ANH 4.48

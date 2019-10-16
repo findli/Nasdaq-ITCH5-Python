@@ -1,0 +1,6 @@
+hour stock vwap
+4 OXLC 10.44
+5 OXLC 10.45
+8 OXLC 10.45
+9 OXLC 10.46
+10 OXLC 10.44

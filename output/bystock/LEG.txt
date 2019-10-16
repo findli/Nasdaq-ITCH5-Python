@@ -1,0 +1,8 @@
+hour stock vwap
+4 LEG 40.06
+5 LEG 40.05
+6 LEG 40.28
+7 LEG 40.25
+8 LEG 40.13
+9 LEG 40.46
+10 LEG 40.55

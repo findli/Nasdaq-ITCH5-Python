@@ -1,0 +1,6 @@
+hour stock vwap
+5 TPL 666.0
+7 TPL 682.98
+8 TPL 686.33
+9 TPL 684.25
+10 TPL 686.41

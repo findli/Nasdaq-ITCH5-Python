@@ -1,0 +1,7 @@
+hour stock vwap
+4 TGH 12.65
+5 TGH 12.72
+7 TGH 12.86
+8 TGH 12.8
+9 TGH 13.01
+10 TGH 12.89

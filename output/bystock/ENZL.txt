@@ -1,0 +1,5 @@
+hour stock vwap
+5 ENZL 47.76
+6 ENZL 47.71
+9 ENZL 48.45
+10 ENZL 48.39

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CLW 33.62
+5 CLW 33.45
+6 CLW 33.4
+7 CLW 33.48
+8 CLW 33.29
+9 CLW 33.7
+10 CLW 33.73

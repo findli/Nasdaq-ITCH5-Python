@@ -1,0 +1,11 @@
+hour stock vwap
+1 DWT 9.35
+3 DWT 9.35
+4 DWT 9.35
+5 DWT 9.3
+6 DWT 8.92
+7 DWT 8.9
+8 DWT 9.09
+9 DWT 9.09
+10 DWT 9.19
+12 DWT 9.21

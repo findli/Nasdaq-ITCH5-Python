@@ -1,0 +1,7 @@
+hour stock vwap
+4 FBMS 31.82
+5 FBMS 32.3
+6 FBMS 32.28
+7 FBMS 32.27
+9 FBMS 32.48
+10 FBMS 32.75

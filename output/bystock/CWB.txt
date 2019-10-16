@@ -1,0 +1,8 @@
+hour stock vwap
+4 CWB 49.61
+5 CWB 49.64
+6 CWB 49.7
+7 CWB 49.72
+8 CWB 49.75
+9 CWB 49.89
+10 CWB 50.01

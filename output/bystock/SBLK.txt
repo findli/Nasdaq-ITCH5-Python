@@ -1,0 +1,8 @@
+hour stock vwap
+4 SBLK 7.13
+5 SBLK 7.23
+6 SBLK 7.29
+7 SBLK 7.31
+8 SBLK 7.38
+9 SBLK 7.46
+10 SBLK 7.59

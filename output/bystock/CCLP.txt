@@ -1,0 +1,4 @@
+hour stock vwap
+8 CCLP 2.54
+9 CCLP 2.59
+10 CCLP 2.64

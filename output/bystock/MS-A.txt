@@ -1,0 +1,5 @@
+hour stock vwap
+5 MS-A 19.95
+6 MS-A 20.0
+9 MS-A 20.0
+10 MS-A 19.96

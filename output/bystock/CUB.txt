@@ -1,0 +1,8 @@
+hour stock vwap
+4 CUB 63.67
+5 CUB 63.82
+6 CUB 63.64
+7 CUB 63.46
+8 CUB 63.39
+9 CUB 63.64
+10 CUB 63.97

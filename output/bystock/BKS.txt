@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKS 5.8
+5 BKS 5.83
+6 BKS 5.84
+7 BKS 5.86
+8 BKS 5.82
+9 BKS 5.81
+10 BKS 5.81

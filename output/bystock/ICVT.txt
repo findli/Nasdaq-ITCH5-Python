@@ -1,0 +1,4 @@
+hour stock vwap
+4 ICVT 55.12
+5 ICVT 55.24
+8 ICVT 55.27

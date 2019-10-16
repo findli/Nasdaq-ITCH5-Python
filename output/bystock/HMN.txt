@@ -1,0 +1,6 @@
+hour stock vwap
+5 HMN 41.04
+6 HMN 41.14
+7 HMN 41.31
+9 HMN 41.36
+10 HMN 41.43

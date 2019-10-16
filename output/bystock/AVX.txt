@@ -1,0 +1,7 @@
+hour stock vwap
+4 AVX 17.49
+6 AVX 17.49
+7 AVX 17.5
+8 AVX 17.56
+9 AVX 17.66
+10 AVX 17.71

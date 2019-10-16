@@ -1,0 +1,6 @@
+hour stock vwap
+5 VCTR 10.54
+6 VCTR 10.54
+8 VCTR 10.57
+9 VCTR 10.57
+10 VCTR 10.61

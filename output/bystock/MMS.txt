@@ -1,0 +1,8 @@
+hour stock vwap
+4 MMS 68.83
+5 MMS 68.31
+6 MMS 68.4
+7 MMS 68.44
+8 MMS 68.51
+9 MMS 68.76
+10 MMS 68.94

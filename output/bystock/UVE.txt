@@ -1,0 +1,8 @@
+hour stock vwap
+4 UVE 37.66
+5 UVE 37.76
+6 UVE 37.79
+7 UVE 37.86
+8 UVE 37.67
+9 UVE 37.81
+10 UVE 37.84

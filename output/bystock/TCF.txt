@@ -1,0 +1,8 @@
+hour stock vwap
+4 TCF 22.73
+5 TCF 22.86
+6 TCF 22.73
+7 TCF 22.54
+8 TCF 22.37
+9 TCF 22.45
+10 TCF 22.49

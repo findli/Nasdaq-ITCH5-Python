@@ -1,0 +1,8 @@
+hour stock vwap
+4 KBH 20.19
+5 KBH 20.26
+6 KBH 20.22
+7 KBH 20.15
+8 KBH 20.23
+9 KBH 20.46
+10 KBH 20.53

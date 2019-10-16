@@ -1,0 +1,8 @@
+hour stock vwap
+4 IGD 6.45
+5 IGD 6.45
+6 IGD 6.46
+7 IGD 6.46
+8 IGD 6.46
+9 IGD 6.44
+10 IGD 6.49

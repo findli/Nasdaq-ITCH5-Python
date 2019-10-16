@@ -1,0 +1,4 @@
+hour stock vwap
+5 GNPX 1.6
+6 GNPX 1.51
+9 GNPX 1.61

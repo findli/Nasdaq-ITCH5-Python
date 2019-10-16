@@ -1,0 +1,8 @@
+hour stock vwap
+4 MARK 1.89
+5 MARK 1.87
+6 MARK 1.82
+7 MARK 1.84
+8 MARK 1.87
+9 MARK 1.9
+10 MARK 1.91

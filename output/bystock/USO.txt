@@ -1,0 +1,9 @@
+hour stock vwap
+4 USO 11.34
+5 USO 11.35
+6 USO 11.47
+7 USO 11.5
+8 USO 11.48
+9 USO 11.42
+10 USO 11.4
+13 USO 11.44

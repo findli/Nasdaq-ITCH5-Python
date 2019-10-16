@@ -1,0 +1,4 @@
+hour stock vwap
+5 IDXG 0.9
+6 IDXG 0.9
+8 IDXG 0.9

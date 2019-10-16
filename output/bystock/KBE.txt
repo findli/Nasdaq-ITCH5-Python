@@ -1,0 +1,8 @@
+hour stock vwap
+4 KBE 43.05
+5 KBE 42.96
+6 KBE 43.09
+7 KBE 43.11
+8 KBE 43.02
+9 KBE 43.13
+10 KBE 43.03

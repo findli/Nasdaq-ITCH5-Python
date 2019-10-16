@@ -1,0 +1,2 @@
+hour stock vwap
+10 BGT 12.14

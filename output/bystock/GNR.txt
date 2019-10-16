@@ -1,0 +1,6 @@
+hour stock vwap
+5 GNR 44.51
+6 GNR 44.63
+8 GNR 44.5
+9 GNR 45.08
+10 GNR 45.01

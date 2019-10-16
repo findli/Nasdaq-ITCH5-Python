@@ -1,0 +1,8 @@
+hour stock vwap
+4 ONCS 0.84
+5 ONCS 0.82
+6 ONCS 0.81
+7 ONCS 0.83
+8 ONCS 0.85
+9 ONCS 0.87
+10 ONCS 0.9

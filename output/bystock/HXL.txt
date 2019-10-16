@@ -1,0 +1,9 @@
+hour stock vwap
+3 HXL 67.94
+4 HXL 67.01
+5 HXL 66.49
+6 HXL 66.67
+7 HXL 67.08
+8 HXL 67.2
+9 HXL 67.7
+10 HXL 67.82

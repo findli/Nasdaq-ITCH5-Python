@@ -1,0 +1,3 @@
+hour stock vwap
+8 NXN 13.1
+9 NXN 13.09

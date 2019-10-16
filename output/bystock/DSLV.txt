@@ -1,0 +1,4 @@
+hour stock vwap
+8 DSLV 26.05
+9 DSLV 25.34
+10 DSLV 25.17

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MMC 82.58
+5 MMC 82.71
+6 MMC 83.16
+7 MMC 83.15
+8 MMC 83.16
+9 MMC 83.74
+10 MMC 83.76

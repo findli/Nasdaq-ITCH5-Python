@@ -1,0 +1,5 @@
+hour stock vwap
+4 NVMI 24.22
+5 NVMI 24.22
+8 NVMI 24.34
+10 NVMI 24.61

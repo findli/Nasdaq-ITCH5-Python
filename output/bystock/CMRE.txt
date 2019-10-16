@@ -1,0 +1,6 @@
+hour stock vwap
+4 CMRE 5.0
+5 CMRE 4.99
+6 CMRE 5.03
+7 CMRE 5.0
+10 CMRE 4.99

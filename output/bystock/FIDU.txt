@@ -1,0 +1,3 @@
+hour stock vwap
+6 FIDU 36.01
+9 FIDU 36.14

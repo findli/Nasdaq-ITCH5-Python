@@ -1,0 +1,7 @@
+hour stock vwap
+5 CHI 10.15
+6 CHI 10.18
+7 CHI 10.18
+8 CHI 10.18
+9 CHI 10.22
+10 CHI 10.25

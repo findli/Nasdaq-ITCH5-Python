@@ -1,0 +1,8 @@
+hour stock vwap
+4 MRNS 3.1
+5 MRNS 3.05
+6 MRNS 3.04
+7 MRNS 3.1
+8 MRNS 3.11
+9 MRNS 3.17
+10 MRNS 3.18

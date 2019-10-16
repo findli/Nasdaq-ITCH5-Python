@@ -1,0 +1,5 @@
+hour stock vwap
+5 TEDU 6.57
+6 TEDU 6.63
+9 TEDU 6.66
+10 TEDU 6.61

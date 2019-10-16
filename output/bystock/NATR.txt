@@ -1,0 +1,4 @@
+hour stock vwap
+5 NATR 8.1
+9 NATR 8.14
+10 NATR 8.13

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BAX 70.68
+5 BAX 70.57
+6 BAX 71.0
+7 BAX 71.25
+8 BAX 71.15
+9 BAX 71.63
+10 BAX 71.63

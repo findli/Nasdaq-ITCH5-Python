@@ -1,0 +1,7 @@
+hour stock vwap
+5 GIFI 9.39
+6 GIFI 9.4
+7 GIFI 9.42
+8 GIFI 9.4
+9 GIFI 9.54
+10 GIFI 9.51

@@ -1,0 +1,2 @@
+hour stock vwap
+9 DDIV 22.95

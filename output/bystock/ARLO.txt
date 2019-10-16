@@ -1,0 +1,9 @@
+hour stock vwap
+3 ARLO 7.12
+4 ARLO 7.01
+5 ARLO 6.91
+6 ARLO 6.94
+7 ARLO 6.92
+8 ARLO 6.94
+9 ARLO 6.94
+10 ARLO 6.89

@@ -1,0 +1,7 @@
+hour stock vwap
+4 PHIIK 2.73
+6 PHIIK 2.8
+7 PHIIK 2.94
+8 PHIIK 3.05
+9 PHIIK 3.07
+10 PHIIK 3.29

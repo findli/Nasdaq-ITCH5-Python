@@ -1,0 +1,3 @@
+hour stock vwap
+8 CEV 11.46
+10 CEV 11.46

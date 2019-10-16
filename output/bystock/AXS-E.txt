@@ -1,0 +1,4 @@
+hour stock vwap
+7 AXS-E 23.29
+9 AXS-E 23.33
+10 AXS-E 23.42

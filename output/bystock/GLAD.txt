@@ -1,0 +1,5 @@
+hour stock vwap
+5 GLAD 8.41
+7 GLAD 8.51
+9 GLAD 8.51
+10 GLAD 8.5

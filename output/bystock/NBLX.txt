@@ -1,0 +1,7 @@
+hour stock vwap
+5 NBLX 33.36
+6 NBLX 33.36
+7 NBLX 33.27
+8 NBLX 33.27
+9 NBLX 33.02
+10 NBLX 33.02

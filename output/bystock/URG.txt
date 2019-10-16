@@ -1,0 +1,7 @@
+hour stock vwap
+4 URG 0.7
+6 URG 0.7
+7 URG 0.71
+8 URG 0.71
+9 URG 0.72
+10 URG 0.72

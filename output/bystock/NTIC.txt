@@ -1,0 +1,4 @@
+hour stock vwap
+6 NTIC 30.83
+7 NTIC 30.98
+10 NTIC 30.93

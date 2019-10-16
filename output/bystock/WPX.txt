@@ -1,0 +1,8 @@
+hour stock vwap
+4 WPX 12.19
+5 WPX 12.19
+6 WPX 12.31
+7 WPX 12.34
+8 WPX 12.27
+9 WPX 12.33
+10 WPX 12.34

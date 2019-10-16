@@ -1,0 +1,5 @@
+hour stock vwap
+4 EGAN 7.1
+8 EGAN 7.17
+9 EGAN 7.26
+10 EGAN 7.26

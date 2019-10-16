@@ -1,0 +1,6 @@
+hour stock vwap
+4 EDGE 0.43
+6 EDGE 0.42
+7 EDGE 0.43
+8 EDGE 0.43
+10 EDGE 0.42

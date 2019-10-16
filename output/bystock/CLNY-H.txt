@@ -1,0 +1,3 @@
+hour stock vwap
+6 CLNY-H 20.31
+8 CLNY-H 20.31

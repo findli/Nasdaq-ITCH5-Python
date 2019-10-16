@@ -1,0 +1,8 @@
+hour stock vwap
+4 JEF 20.61
+5 JEF 20.61
+6 JEF 20.75
+7 JEF 20.82
+8 JEF 20.86
+9 JEF 21.0
+10 JEF 20.97

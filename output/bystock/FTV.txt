@@ -1,0 +1,8 @@
+hour stock vwap
+4 FTV 73.7
+5 FTV 73.56
+6 FTV 74.04
+7 FTV 74.13
+8 FTV 73.84
+9 FTV 74.57
+10 FTV 74.68

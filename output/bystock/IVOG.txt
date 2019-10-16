@@ -1,0 +1,4 @@
+hour stock vwap
+5 IVOG 126.94
+6 IVOG 127.41
+9 IVOG 128.07

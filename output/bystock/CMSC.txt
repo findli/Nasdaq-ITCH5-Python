@@ -1,0 +1,3 @@
+hour stock vwap
+6 CMSC 25.55
+9 CMSC 25.46

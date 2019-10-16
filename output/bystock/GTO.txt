@@ -1,0 +1,6 @@
+hour stock vwap
+6 GTO 50.68
+7 GTO 50.69
+8 GTO 50.68
+9 GTO 50.72
+10 GTO 50.73

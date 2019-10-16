@@ -1,0 +1,5 @@
+hour stock vwap
+5 LXFR 20.04
+6 LXFR 19.87
+7 LXFR 19.87
+9 LXFR 20.12

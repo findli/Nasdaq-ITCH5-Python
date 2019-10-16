@@ -1,0 +1,8 @@
+hour stock vwap
+4 AAT 42.04
+5 AAT 42.33
+6 AAT 42.53
+7 AAT 42.65
+8 AAT 42.4
+9 AAT 42.59
+10 AAT 42.48

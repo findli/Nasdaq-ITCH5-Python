@@ -1,0 +1,7 @@
+hour stock vwap
+4 BDN 15.21
+5 BDN 15.25
+6 BDN 15.24
+8 BDN 15.27
+9 BDN 15.26
+10 BDN 15.19

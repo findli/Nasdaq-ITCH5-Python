@@ -1,0 +1,6 @@
+hour stock vwap
+4 PSQ 32.34
+5 PSQ 32.45
+7 PSQ 32.26
+9 PSQ 31.98
+10 PSQ 31.97

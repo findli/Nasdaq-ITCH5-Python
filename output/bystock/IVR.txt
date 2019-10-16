@@ -1,0 +1,8 @@
+hour stock vwap
+4 IVR 15.98
+5 IVR 16.01
+6 IVR 16.02
+7 IVR 16.02
+8 IVR 16.0
+9 IVR 16.02
+10 IVR 16.0

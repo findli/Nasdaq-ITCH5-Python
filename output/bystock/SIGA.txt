@@ -1,0 +1,7 @@
+hour stock vwap
+4 SIGA 6.37
+5 SIGA 6.5
+6 SIGA 6.61
+7 SIGA 6.64
+9 SIGA 6.66
+10 SIGA 6.62

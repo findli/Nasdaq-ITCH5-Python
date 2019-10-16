@@ -1,0 +1,5 @@
+hour stock vwap
+6 VRP 23.95
+8 VRP 23.98
+9 VRP 24.03
+10 VRP 24.06

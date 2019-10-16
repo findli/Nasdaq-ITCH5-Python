@@ -1,0 +1,7 @@
+hour stock vwap
+5 INS 20.94
+6 INS 21.0
+7 INS 21.11
+8 INS 21.14
+9 INS 21.31
+10 INS 20.88

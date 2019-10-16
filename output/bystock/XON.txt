@@ -1,0 +1,8 @@
+hour stock vwap
+4 XON 7.46
+5 XON 7.46
+6 XON 7.43
+7 XON 7.45
+8 XON 7.57
+9 XON 7.62
+10 XON 7.67

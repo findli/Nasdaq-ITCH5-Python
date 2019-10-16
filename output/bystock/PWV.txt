@@ -1,0 +1,5 @@
+hour stock vwap
+4 PWV 34.68
+6 PWV 34.7
+9 PWV 34.86
+10 PWV 34.94

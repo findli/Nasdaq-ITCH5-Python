@@ -1,0 +1,8 @@
+hour stock vwap
+4 JT 6.0
+5 JT 5.96
+6 JT 5.96
+7 JT 6.03
+8 JT 6.03
+9 JT 6.04
+10 JT 6.14

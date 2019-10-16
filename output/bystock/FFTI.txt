@@ -1,0 +1,3 @@
+hour stock vwap
+9 FFTI 23.41
+10 FFTI 23.52

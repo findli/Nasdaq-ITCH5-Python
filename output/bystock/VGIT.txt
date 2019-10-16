@@ -1,0 +1,4 @@
+hour stock vwap
+4 VGIT 63.39
+9 VGIT 63.45
+10 VGIT 63.56

@@ -1,0 +1,5 @@
+hour stock vwap
+4 JCAP 21.49
+5 JCAP 21.49
+9 JCAP 21.43
+10 JCAP 21.47

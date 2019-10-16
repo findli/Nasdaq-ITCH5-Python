@@ -1,0 +1,8 @@
+hour stock vwap
+4 TZA 11.54
+5 TZA 11.53
+6 TZA 11.42
+7 TZA 11.34
+8 TZA 11.39
+9 TZA 11.17
+10 TZA 11.19

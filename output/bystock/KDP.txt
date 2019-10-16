@@ -1,0 +1,8 @@
+hour stock vwap
+4 KDP 26.49
+5 KDP 26.6
+6 KDP 26.51
+7 KDP 26.55
+8 KDP 26.61
+9 KDP 26.63
+10 KDP 26.54

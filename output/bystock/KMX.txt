@@ -1,0 +1,8 @@
+hour stock vwap
+4 KMX 58.53
+5 KMX 58.41
+6 KMX 58.5
+7 KMX 58.76
+8 KMX 58.63
+9 KMX 59.09
+10 KMX 59.09

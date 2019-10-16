@@ -1,0 +1,8 @@
+hour stock vwap
+4 RSG 76.06
+5 RSG 75.87
+6 RSG 76.15
+7 RSG 76.17
+8 RSG 76.1
+9 RSG 76.34
+10 RSG 76.54

@@ -1,0 +1,3 @@
+hour stock vwap
+6 TDE 24.99
+10 TDE 25.12

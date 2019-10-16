@@ -1,0 +1,9 @@
+hour stock vwap
+4 IAG 3.55
+5 IAG 3.58
+6 IAG 3.55
+7 IAG 3.56
+8 IAG 3.56
+9 IAG 3.61
+10 IAG 3.61
+14 IAG 3.63

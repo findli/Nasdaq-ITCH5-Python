@@ -1,0 +1,8 @@
+hour stock vwap
+4 SFS 6.28
+5 SFS 6.35
+6 SFS 6.29
+7 SFS 6.24
+8 SFS 6.19
+9 SFS 6.21
+10 SFS 6.23

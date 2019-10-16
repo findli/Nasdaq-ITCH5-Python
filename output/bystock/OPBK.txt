@@ -1,0 +1,6 @@
+hour stock vwap
+4 OPBK 9.15
+6 OPBK 9.1
+8 OPBK 9.11
+9 OPBK 9.08
+10 OPBK 9.15

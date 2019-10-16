@@ -1,0 +1,8 @@
+hour stock vwap
+4 GTT 28.62
+5 GTT 28.37
+6 GTT 27.88
+7 GTT 27.5
+8 GTT 26.98
+9 GTT 27.78
+10 GTT 27.81

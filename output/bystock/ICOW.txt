@@ -1,0 +1,4 @@
+hour stock vwap
+5 ICOW 26.66
+6 ICOW 26.71
+10 ICOW 26.85

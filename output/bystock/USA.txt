@@ -1,0 +1,7 @@
+hour stock vwap
+5 USA 5.71
+6 USA 5.76
+7 USA 5.75
+8 USA 5.76
+9 USA 5.79
+10 USA 5.79

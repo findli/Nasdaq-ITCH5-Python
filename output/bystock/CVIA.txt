@@ -1,0 +1,8 @@
+hour stock vwap
+4 CVIA 4.95
+5 CVIA 4.81
+6 CVIA 4.75
+7 CVIA 4.71
+8 CVIA 4.75
+9 CVIA 4.82
+10 CVIA 4.75

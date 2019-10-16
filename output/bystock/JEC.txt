@@ -1,0 +1,8 @@
+hour stock vwap
+4 JEC 63.06
+5 JEC 63.13
+6 JEC 63.31
+7 JEC 63.29
+8 JEC 62.98
+9 JEC 63.53
+10 JEC 63.86

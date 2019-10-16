@@ -1,0 +1,9 @@
+hour stock vwap
+3 TUP 33.23
+4 TUP 29.1
+5 TUP 27.84
+6 TUP 27.26
+7 TUP 27.03
+8 TUP 27.07
+9 TUP 27.53
+10 TUP 27.62

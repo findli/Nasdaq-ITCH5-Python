@@ -1,0 +1,2 @@
+hour stock vwap
+9 TAXF 50.1

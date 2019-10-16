@@ -1,0 +1,8 @@
+hour stock vwap
+4 MNKD 1.19
+5 MNKD 1.17
+6 MNKD 1.23
+7 MNKD 1.21
+8 MNKD 1.22
+9 MNKD 1.23
+10 MNKD 1.23

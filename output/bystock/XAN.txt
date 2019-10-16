@@ -1,0 +1,5 @@
+hour stock vwap
+5 XAN 10.44
+6 XAN 10.47
+7 XAN 10.51
+9 XAN 10.52

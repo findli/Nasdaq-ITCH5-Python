@@ -1,0 +1,8 @@
+hour stock vwap
+4 EPR 72.08
+5 EPR 72.42
+6 EPR 72.61
+7 EPR 72.64
+8 EPR 72.45
+9 EPR 72.61
+10 EPR 72.25

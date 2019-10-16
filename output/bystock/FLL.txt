@@ -1,0 +1,5 @@
+hour stock vwap
+4 FLL 2.24
+5 FLL 2.25
+8 FLL 2.3
+10 FLL 2.35

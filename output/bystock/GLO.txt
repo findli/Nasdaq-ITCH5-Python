@@ -1,0 +1,5 @@
+hour stock vwap
+6 GLO 9.05
+7 GLO 9.08
+9 GLO 9.13
+10 GLO 9.14

@@ -1,0 +1,4 @@
+hour stock vwap
+6 FYC 43.41
+8 FYC 43.45
+10 FYC 43.62

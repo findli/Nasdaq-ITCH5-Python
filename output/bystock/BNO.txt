@@ -1,0 +1,4 @@
+hour stock vwap
+4 BNO 17.49
+8 BNO 17.5
+10 BNO 17.42

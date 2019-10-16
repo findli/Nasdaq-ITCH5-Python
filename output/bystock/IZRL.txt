@@ -1,0 +1,3 @@
+hour stock vwap
+8 IZRL 20.78
+10 IZRL 20.95

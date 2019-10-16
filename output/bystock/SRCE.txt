@@ -1,0 +1,7 @@
+hour stock vwap
+4 SRCE 45.65
+5 SRCE 45.23
+6 SRCE 45.53
+7 SRCE 45.57
+9 SRCE 45.71
+10 SRCE 45.54

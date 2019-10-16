@@ -1,0 +1,3 @@
+hour stock vwap
+4 UNAM 6.01
+10 UNAM 6.75

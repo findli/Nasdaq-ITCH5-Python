@@ -1,0 +1,5 @@
+hour stock vwap
+4 PFNX 3.52
+5 PFNX 3.43
+9 PFNX 3.54
+10 PFNX 3.6

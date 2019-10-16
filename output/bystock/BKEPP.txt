@@ -1,0 +1,7 @@
+hour stock vwap
+4 BKEPP 5.74
+5 BKEPP 5.77
+6 BKEPP 5.72
+8 BKEPP 5.79
+9 BKEPP 5.84
+10 BKEPP 5.87

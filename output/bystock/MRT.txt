@@ -1,0 +1,7 @@
+hour stock vwap
+4 MRT 11.31
+5 MRT 11.38
+7 MRT 11.42
+8 MRT 11.43
+9 MRT 11.44
+10 MRT 11.46

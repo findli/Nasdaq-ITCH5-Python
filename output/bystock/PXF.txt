@@ -1,0 +1,7 @@
+hour stock vwap
+4 PXF 39.91
+6 PXF 40.05
+7 PXF 40.03
+8 PXF 40.02
+9 PXF 40.41
+10 PXF 40.38

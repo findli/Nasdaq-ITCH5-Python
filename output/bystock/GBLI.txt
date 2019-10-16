@@ -1,0 +1,6 @@
+hour stock vwap
+4 GBLI 32.56
+5 GBLI 32.15
+7 GBLI 32.17
+8 GBLI 32.32
+10 GBLI 32.29

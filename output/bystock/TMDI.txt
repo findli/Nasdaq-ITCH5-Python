@@ -1,0 +1,7 @@
+hour stock vwap
+5 TMDI 3.48
+7 TMDI 3.52
+8 TMDI 3.48
+9 TMDI 3.62
+10 TMDI 3.79
+11 TMDI 3.82

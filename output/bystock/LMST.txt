@@ -1,0 +1,4 @@
+hour stock vwap
+6 LMST 14.55
+8 LMST 14.55
+10 LMST 14.49

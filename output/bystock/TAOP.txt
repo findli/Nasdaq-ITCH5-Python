@@ -1,0 +1,4 @@
+hour stock vwap
+7 TAOP 1.1
+9 TAOP 1.1
+10 TAOP 1.1

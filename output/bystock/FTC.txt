@@ -1,0 +1,4 @@
+hour stock vwap
+4 FTC 61.5
+6 FTC 61.55
+9 FTC 62.0

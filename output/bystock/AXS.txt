@@ -1,0 +1,8 @@
+hour stock vwap
+4 AXS 54.79
+5 AXS 54.9
+6 AXS 55.22
+7 AXS 55.44
+8 AXS 55.43
+9 AXS 55.35
+10 AXS 55.45

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BHC 24.46
+5 BHC 24.07
+6 BHC 23.88
+7 BHC 23.89
+8 BHC 23.83
+9 BHC 24.09
+10 BHC 24.1

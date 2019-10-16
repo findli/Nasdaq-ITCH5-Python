@@ -1,0 +1,5 @@
+hour stock vwap
+7 CERC 5.1
+8 CERC 5.1
+9 CERC 5.11
+10 CERC 5.15

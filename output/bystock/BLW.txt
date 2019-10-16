@@ -1,0 +1,3 @@
+hour stock vwap
+8 BLW 14.16
+9 BLW 14.19

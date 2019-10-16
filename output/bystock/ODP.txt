@@ -1,0 +1,8 @@
+hour stock vwap
+4 ODP 2.94
+5 ODP 2.92
+6 ODP 2.94
+7 ODP 2.94
+8 ODP 2.92
+9 ODP 2.96
+10 ODP 2.95

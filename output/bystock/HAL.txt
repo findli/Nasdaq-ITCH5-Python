@@ -1,0 +1,8 @@
+hour stock vwap
+4 HAL 31.02
+5 HAL 30.98
+6 HAL 31.29
+7 HAL 31.39
+8 HAL 31.34
+9 HAL 31.61
+10 HAL 31.54

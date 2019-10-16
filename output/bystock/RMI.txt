@@ -1,0 +1,3 @@
+hour stock vwap
+6 RMI 19.98
+8 RMI 20.07

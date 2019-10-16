@@ -1,0 +1,6 @@
+hour stock vwap
+5 CYTR 0.53
+6 CYTR 0.55
+8 CYTR 0.56
+9 CYTR 0.57
+10 CYTR 0.57

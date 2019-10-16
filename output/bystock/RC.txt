@@ -1,0 +1,4 @@
+hour stock vwap
+5 RC 15.32
+8 RC 15.28
+9 RC 15.33

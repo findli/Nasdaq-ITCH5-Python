@@ -1,0 +1,7 @@
+hour stock vwap
+4 IGE 30.28
+5 IGE 30.19
+6 IGE 30.37
+7 IGE 30.4
+8 IGE 30.29
+9 IGE 30.31

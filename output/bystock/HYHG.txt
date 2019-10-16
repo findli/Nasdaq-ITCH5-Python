@@ -1,0 +1,4 @@
+hour stock vwap
+5 HYHG 65.26
+9 HYHG 65.3
+10 HYHG 65.28

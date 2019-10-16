@@ -1,0 +1,6 @@
+hour stock vwap
+5 ENOB 6.36
+6 ENOB 6.17
+7 ENOB 6.01
+9 ENOB 6.25
+10 ENOB 6.34

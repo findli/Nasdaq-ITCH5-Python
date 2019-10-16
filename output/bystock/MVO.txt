@@ -1,0 +1,3 @@
+hour stock vwap
+8 MVO 7.28
+10 MVO 7.31

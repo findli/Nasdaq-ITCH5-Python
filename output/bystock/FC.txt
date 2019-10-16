@@ -1,0 +1,6 @@
+hour stock vwap
+4 FC 23.99
+5 FC 23.89
+6 FC 23.65
+7 FC 24.05
+10 FC 24.38

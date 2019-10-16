@@ -1,0 +1,5 @@
+hour stock vwap
+6 IGLB 57.55
+8 IGLB 57.52
+9 IGLB 57.71
+10 IGLB 57.8

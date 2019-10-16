@@ -1,0 +1,8 @@
+hour stock vwap
+4 DLX 47.08
+5 DLX 47.36
+6 DLX 47.45
+7 DLX 47.25
+8 DLX 47.59
+9 DLX 47.82
+10 DLX 47.66

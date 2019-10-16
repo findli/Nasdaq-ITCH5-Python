@@ -1,0 +1,6 @@
+hour stock vwap
+4 OSBC 14.27
+6 OSBC 14.21
+8 OSBC 14.2
+9 OSBC 14.22
+10 OSBC 14.15

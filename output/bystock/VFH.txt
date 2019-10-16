@@ -1,0 +1,8 @@
+hour stock vwap
+4 VFH 64.7
+5 VFH 64.62
+6 VFH 64.82
+7 VFH 64.94
+8 VFH 64.87
+9 VFH 65.22
+10 VFH 65.06

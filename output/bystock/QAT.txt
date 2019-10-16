@@ -1,0 +1,7 @@
+hour stock vwap
+4 QAT 19.22
+5 QAT 19.2
+7 QAT 19.32
+8 QAT 19.26
+9 QAT 19.52
+10 QAT 19.52

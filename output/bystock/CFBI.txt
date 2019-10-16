@@ -1,0 +1,4 @@
+hour stock vwap
+5 CFBI 10.68
+8 CFBI 10.66
+10 CFBI 10.7

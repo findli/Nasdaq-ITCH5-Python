@@ -1,0 +1,8 @@
+hour stock vwap
+4 LIQT 1.7
+5 LIQT 1.79
+6 LIQT 1.86
+7 LIQT 1.91
+8 LIQT 1.92
+9 LIQT 1.91
+10 LIQT 1.9

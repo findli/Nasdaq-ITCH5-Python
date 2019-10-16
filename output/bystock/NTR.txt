@@ -1,0 +1,8 @@
+hour stock vwap
+4 NTR 51.79
+5 NTR 51.77
+6 NTR 52.07
+7 NTR 51.99
+8 NTR 52.01
+9 NTR 52.34
+10 NTR 52.28

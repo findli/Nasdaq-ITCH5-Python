@@ -1,0 +1,8 @@
+hour stock vwap
+4 SKY 16.52
+5 SKY 16.51
+6 SKY 16.49
+7 SKY 16.43
+8 SKY 16.43
+9 SKY 16.9
+10 SKY 17.1

@@ -1,0 +1,3 @@
+hour stock vwap
+6 RLM 2.4
+9 RLM 2.4

@@ -1,0 +1,7 @@
+hour stock vwap
+5 SPRO 9.35
+6 SPRO 9.12
+7 SPRO 9.29
+8 SPRO 9.52
+9 SPRO 9.5
+10 SPRO 9.59

@@ -1,0 +1,8 @@
+hour stock vwap
+4 RHI 64.19
+5 RHI 63.58
+6 RHI 63.67
+7 RHI 64.94
+8 RHI 65.51
+9 RHI 65.49
+10 RHI 65.16

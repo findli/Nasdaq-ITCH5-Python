@@ -1,0 +1,7 @@
+hour stock vwap
+5 CIA 7.32
+6 CIA 7.33
+7 CIA 7.3
+8 CIA 7.3
+9 CIA 7.3
+10 CIA 7.3

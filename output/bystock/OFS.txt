@@ -1,0 +1,7 @@
+hour stock vwap
+4 OFS 11.24
+5 OFS 11.24
+6 OFS 11.25
+8 OFS 11.3
+9 OFS 11.27
+10 OFS 11.27

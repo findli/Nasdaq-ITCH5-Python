@@ -1,0 +1,8 @@
+hour stock vwap
+4 NAT 2.05
+5 NAT 2.04
+6 NAT 2.06
+7 NAT 2.06
+8 NAT 2.06
+9 NAT 2.05
+10 NAT 2.05

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ALTM 8.4
+5 ALTM 8.2
+6 ALTM 8.08
+7 ALTM 8.13
+8 ALTM 8.26
+9 ALTM 8.3
+10 ALTM 8.2

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AER 47.47
+5 AER 47.6
+6 AER 47.91
+7 AER 47.74
+8 AER 47.68
+9 AER 48.23
+10 AER 48.43

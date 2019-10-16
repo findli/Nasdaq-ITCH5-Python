@@ -1,0 +1,5 @@
+hour stock vwap
+4 PPIH 8.88
+5 PPIH 8.8
+6 PPIH 8.87
+9 PPIH 8.78

@@ -1,0 +1,4 @@
+hour stock vwap
+4 FNX 64.16
+7 FNX 64.4
+9 FNX 64.75

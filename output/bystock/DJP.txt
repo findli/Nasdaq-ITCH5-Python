@@ -1,0 +1,6 @@
+hour stock vwap
+4 DJP 22.5
+5 DJP 22.5
+6 DJP 22.58
+8 DJP 22.5
+10 DJP 22.56

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TS 24.77
+5 TS 24.8
+6 TS 24.8
+7 TS 24.8
+8 TS 24.75
+9 TS 24.98
+10 TS 24.94

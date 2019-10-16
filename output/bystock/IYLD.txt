@@ -1,0 +1,3 @@
+hour stock vwap
+7 IYLD 24.39
+9 IYLD 24.45

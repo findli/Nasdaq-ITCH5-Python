@@ -1,0 +1,5 @@
+hour stock vwap
+4 PRGX 9.15
+6 PRGX 9.13
+7 PRGX 9.16
+9 PRGX 9.21

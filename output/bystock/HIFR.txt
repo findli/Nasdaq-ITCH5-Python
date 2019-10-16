@@ -1,0 +1,4 @@
+hour stock vwap
+4 HIFR 21.05
+5 HIFR 21.1
+10 HIFR 21.08

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HRL 41.79
+5 HRL 41.73
+6 HRL 41.75
+7 HRL 41.83
+8 HRL 41.63
+9 HRL 41.73
+10 HRL 41.51

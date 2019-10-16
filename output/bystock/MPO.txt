@@ -1,0 +1,5 @@
+hour stock vwap
+5 MPO 9.7
+6 MPO 9.77
+9 MPO 9.74
+10 MPO 9.73

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HL 2.59
+5 HL 2.61
+6 HL 2.58
+7 HL 2.58
+8 HL 2.56
+9 HL 2.62
+10 HL 2.58

@@ -1,0 +1,4 @@
+hour stock vwap
+5 DRW 30.67
+6 DRW 30.71
+7 DRW 30.72

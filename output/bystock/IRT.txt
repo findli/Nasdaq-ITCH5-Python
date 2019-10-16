@@ -1,0 +1,8 @@
+hour stock vwap
+4 IRT 10.4
+5 IRT 10.41
+6 IRT 10.4
+7 IRT 10.4
+8 IRT 10.39
+9 IRT 10.4
+10 IRT 10.37

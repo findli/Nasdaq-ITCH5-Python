@@ -1,0 +1,9 @@
+hour stock vwap
+4 KMI 18.0
+5 KMI 17.99
+6 KMI 18.1
+7 KMI 18.14
+8 KMI 18.04
+9 KMI 18.14
+10 KMI 18.08
+11 KMI 18.09

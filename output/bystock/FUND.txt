@@ -1,0 +1,4 @@
+hour stock vwap
+6 FUND 6.5
+9 FUND 6.58
+10 FUND 6.56

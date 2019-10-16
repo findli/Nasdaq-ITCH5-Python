@@ -1,0 +1,8 @@
+hour stock vwap
+4 EPI 23.49
+5 EPI 23.46
+6 EPI 23.49
+7 EPI 23.52
+8 EPI 23.54
+9 EPI 23.81
+10 EPI 23.84

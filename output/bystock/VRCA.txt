@@ -1,0 +1,7 @@
+hour stock vwap
+4 VRCA 11.81
+5 VRCA 11.86
+6 VRCA 11.98
+7 VRCA 12.01
+9 VRCA 12.04
+10 VRCA 12.0

@@ -1,0 +1,7 @@
+hour stock vwap
+4 EAST 6.07
+5 EAST 6.07
+6 EAST 6.21
+7 EAST 6.14
+9 EAST 5.98
+10 EAST 5.99

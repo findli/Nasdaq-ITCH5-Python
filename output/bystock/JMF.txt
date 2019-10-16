@@ -1,0 +1,4 @@
+hour stock vwap
+5 JMF 9.23
+9 JMF 9.39
+10 JMF 9.38

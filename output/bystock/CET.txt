@@ -1,0 +1,6 @@
+hour stock vwap
+4 CET 26.09
+7 CET 26.02
+8 CET 26.05
+9 CET 26.21
+10 CET 26.29

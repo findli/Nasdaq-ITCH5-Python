@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBM 43.51
+5 CBM 43.89
+6 CBM 44.27
+7 CBM 44.54
+8 CBM 44.39
+9 CBM 44.55
+10 CBM 44.52

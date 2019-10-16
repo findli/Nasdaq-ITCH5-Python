@@ -1,0 +1,5 @@
+hour stock vwap
+4 MVBF 16.79
+5 MVBF 16.73
+6 MVBF 16.64
+9 MVBF 16.69

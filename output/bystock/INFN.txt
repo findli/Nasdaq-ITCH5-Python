@@ -1,0 +1,8 @@
+hour stock vwap
+4 INFN 4.36
+5 INFN 4.34
+6 INFN 4.39
+7 INFN 4.38
+8 INFN 4.37
+9 INFN 4.37
+10 INFN 4.36

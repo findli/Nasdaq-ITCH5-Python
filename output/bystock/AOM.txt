@@ -1,0 +1,5 @@
+hour stock vwap
+5 AOM 36.66
+6 AOM 36.69
+9 AOM 36.82
+10 AOM 36.83

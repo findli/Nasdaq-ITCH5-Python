@@ -1,0 +1,4 @@
+hour stock vwap
+6 TGLS 8.42
+8 TGLS 8.44
+10 TGLS 8.41

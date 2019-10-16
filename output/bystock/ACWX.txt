@@ -1,0 +1,7 @@
+hour stock vwap
+5 ACWX 44.61
+6 ACWX 44.65
+7 ACWX 44.68
+8 ACWX 44.66
+9 ACWX 44.89
+10 ACWX 45.07

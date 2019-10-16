@@ -1,0 +1,5 @@
+hour stock vwap
+5 SOLO 1.38
+6 SOLO 1.42
+7 SOLO 1.41
+10 SOLO 1.38

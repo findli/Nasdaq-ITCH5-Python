@@ -1,0 +1,5 @@
+hour stock vwap
+5 JPM-D 25.03
+6 JPM-D 25.03
+9 JPM-D 25.04
+10 JPM-D 25.02

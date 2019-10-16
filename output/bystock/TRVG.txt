@@ -1,0 +1,7 @@
+hour stock vwap
+4 TRVG 5.68
+5 TRVG 5.69
+7 TRVG 5.71
+8 TRVG 5.71
+9 TRVG 5.7
+10 TRVG 5.85

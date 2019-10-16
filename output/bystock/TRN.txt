@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRN 23.06
+5 TRN 22.93
+6 TRN 23.12
+7 TRN 23.14
+8 TRN 23.09
+9 TRN 23.34
+10 TRN 23.25

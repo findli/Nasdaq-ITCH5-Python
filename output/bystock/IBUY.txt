@@ -1,0 +1,5 @@
+hour stock vwap
+4 IBUY 45.7
+5 IBUY 45.5
+9 IBUY 45.65
+10 IBUY 45.97

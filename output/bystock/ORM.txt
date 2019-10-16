@@ -1,0 +1,5 @@
+hour stock vwap
+7 ORM 21.16
+8 ORM 21.16
+9 ORM 21.13
+10 ORM 21.18

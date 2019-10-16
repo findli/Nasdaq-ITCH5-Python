@@ -1,0 +1,8 @@
+hour stock vwap
+4 AG 5.73
+5 AG 5.83
+6 AG 5.83
+7 AG 5.83
+8 AG 5.82
+9 AG 5.99
+10 AG 5.99

@@ -1,0 +1,4 @@
+hour stock vwap
+5 FXN 13.09
+9 FXN 13.22
+10 FXN 13.35

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CLH 58.64
+5 CLH 58.24
+6 CLH 58.59
+7 CLH 58.6
+8 CLH 58.75
+9 CLH 59.32
+10 CLH 59.6

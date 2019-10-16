@@ -1,0 +1,7 @@
+hour stock vwap
+4 SND 2.56
+5 SND 2.54
+7 SND 2.45
+8 SND 2.47
+9 SND 2.52
+10 SND 2.49

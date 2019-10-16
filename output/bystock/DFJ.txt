@@ -1,0 +1,4 @@
+hour stock vwap
+4 DFJ 67.5
+9 DFJ 68.13
+10 DFJ 67.89

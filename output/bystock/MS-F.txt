@@ -1,0 +1,4 @@
+hour stock vwap
+6 MS-F 27.01
+9 MS-F 27.07
+10 MS-F 27.11

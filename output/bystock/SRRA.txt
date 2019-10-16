@@ -1,0 +1,7 @@
+hour stock vwap
+5 SRRA 1.35
+6 SRRA 1.36
+7 SRRA 1.35
+8 SRRA 1.33
+9 SRRA 1.34
+10 SRRA 1.36

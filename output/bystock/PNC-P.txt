@@ -1,0 +1,6 @@
+hour stock vwap
+5 PNC-P 26.7
+6 PNC-P 26.71
+7 PNC-P 26.66
+9 PNC-P 26.7
+10 PNC-P 26.7

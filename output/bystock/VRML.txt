@@ -1,0 +1,2 @@
+hour stock vwap
+8 VRML 0.69

@@ -1,0 +1,3 @@
+hour stock vwap
+8 NMRD 1.02
+10 NMRD 1.03

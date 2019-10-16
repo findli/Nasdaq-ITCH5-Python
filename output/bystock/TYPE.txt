@@ -1,0 +1,7 @@
+hour stock vwap
+4 TYPE 16.31
+5 TYPE 16.4
+7 TYPE 16.39
+8 TYPE 16.38
+9 TYPE 16.46
+10 TYPE 16.48

@@ -1,0 +1,7 @@
+hour stock vwap
+4 RMNI 5.29
+5 RMNI 5.22
+6 RMNI 5.35
+8 RMNI 5.36
+9 RMNI 5.42
+10 RMNI 5.5

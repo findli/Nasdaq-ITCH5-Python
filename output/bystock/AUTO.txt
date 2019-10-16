@@ -1,0 +1,6 @@
+hour stock vwap
+4 AUTO 3.1
+5 AUTO 3.1
+7 AUTO 3.08
+9 AUTO 3.15
+10 AUTO 3.15

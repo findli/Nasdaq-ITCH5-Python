@@ -1,0 +1,8 @@
+hour stock vwap
+4 BCX 7.88
+5 BCX 7.9
+6 BCX 7.91
+7 BCX 7.94
+8 BCX 7.95
+9 BCX 7.95
+10 BCX 7.94

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PVG 7.64
+5 PVG 7.69
+6 PVG 7.64
+7 PVG 7.64
+8 PVG 7.58
+9 PVG 7.73
+10 PVG 7.72

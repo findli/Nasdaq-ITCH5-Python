@@ -1,0 +1,8 @@
+hour stock vwap
+4 FBK 34.32
+5 FBK 34.34
+6 FBK 33.74
+7 FBK 33.78
+8 FBK 33.82
+9 FBK 33.96
+10 FBK 33.62

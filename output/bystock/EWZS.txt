@@ -1,0 +1,7 @@
+hour stock vwap
+4 EWZS 16.53
+5 EWZS 16.47
+7 EWZS 16.43
+8 EWZS 16.44
+9 EWZS 16.64
+10 EWZS 16.79

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HWC 42.09
+5 HWC 41.78
+6 HWC 41.88
+7 HWC 41.91
+8 HWC 42.08
+9 HWC 42.12
+10 HWC 42.02

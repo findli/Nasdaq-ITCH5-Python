@@ -1,0 +1,4 @@
+hour stock vwap
+5 DTW 23.86
+8 DTW 23.96
+10 DTW 23.99

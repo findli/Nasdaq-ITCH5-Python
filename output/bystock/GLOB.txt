@@ -1,0 +1,7 @@
+hour stock vwap
+4 GLOB 69.0
+5 GLOB 68.61
+6 GLOB 68.26
+7 GLOB 68.24
+8 GLOB 67.71
+10 GLOB 68.09

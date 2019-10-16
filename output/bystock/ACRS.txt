@@ -1,0 +1,6 @@
+hour stock vwap
+4 ACRS 6.86
+5 ACRS 6.93
+6 ACRS 6.91
+9 ACRS 7.02
+10 ACRS 7.0

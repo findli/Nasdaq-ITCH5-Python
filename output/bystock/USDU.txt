@@ -1,0 +1,3 @@
+hour stock vwap
+9 USDU 26.71
+10 USDU 26.7

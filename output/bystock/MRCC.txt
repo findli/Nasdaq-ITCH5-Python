@@ -1,0 +1,7 @@
+hour stock vwap
+4 MRCC 11.91
+5 MRCC 11.76
+6 MRCC 11.82
+7 MRCC 11.82
+8 MRCC 11.78
+10 MRCC 11.82

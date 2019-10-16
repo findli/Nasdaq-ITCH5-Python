@@ -1,0 +1,3 @@
+hour stock vwap
+6 PSA-B 24.54
+9 PSA-B 24.49

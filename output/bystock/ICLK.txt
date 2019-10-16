@@ -1,0 +1,7 @@
+hour stock vwap
+4 ICLK 5.49
+5 ICLK 5.22
+6 ICLK 5.4
+7 ICLK 5.31
+9 ICLK 5.33
+10 ICLK 5.55

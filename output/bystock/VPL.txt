@@ -1,0 +1,8 @@
+hour stock vwap
+4 VPL 64.42
+5 VPL 64.39
+6 VPL 64.49
+7 VPL 64.58
+8 VPL 64.51
+9 VPL 65.19
+10 VPL 65.07

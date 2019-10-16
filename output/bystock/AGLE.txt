@@ -1,0 +1,8 @@
+hour stock vwap
+4 AGLE 8.65
+5 AGLE 8.83
+6 AGLE 9.11
+7 AGLE 9.12
+8 AGLE 9.01
+9 AGLE 9.09
+10 AGLE 9.0

@@ -1,0 +1,5 @@
+hour stock vwap
+6 DGICA 13.4
+7 DGICA 13.36
+9 DGICA 13.26
+10 DGICA 13.33

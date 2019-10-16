@@ -1,0 +1,4 @@
+hour stock vwap
+4 VGZ 0.66
+9 VGZ 0.67
+10 VGZ 0.68

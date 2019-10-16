@@ -1,0 +1,3 @@
+hour stock vwap
+8 SPSM 29.11
+9 SPSM 29.28

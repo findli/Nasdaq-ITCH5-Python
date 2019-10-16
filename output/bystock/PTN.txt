@@ -1,0 +1,5 @@
+hour stock vwap
+4 PTN 0.68
+5 PTN 0.67
+8 PTN 0.68
+9 PTN 0.68

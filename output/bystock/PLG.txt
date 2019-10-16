@@ -1,0 +1,4 @@
+hour stock vwap
+5 PLG 1.48
+6 PLG 1.44
+7 PLG 1.43

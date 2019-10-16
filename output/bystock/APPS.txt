@@ -1,0 +1,7 @@
+hour stock vwap
+5 APPS 2.2
+6 APPS 2.23
+7 APPS 2.22
+8 APPS 2.21
+9 APPS 2.29
+10 APPS 2.28

@@ -1,0 +1,5 @@
+hour stock vwap
+4 XSPA 0.18
+5 XSPA 0.18
+8 XSPA 0.18
+10 XSPA 0.19

@@ -1,0 +1,4 @@
+hour stock vwap
+5 SCE-J 20.24
+9 SCE-J 20.36
+10 SCE-J 20.45

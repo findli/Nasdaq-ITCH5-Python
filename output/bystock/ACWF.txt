@@ -1,0 +1,4 @@
+hour stock vwap
+5 ACWF 28.03
+8 ACWF 28.09
+9 ACWF 28.26

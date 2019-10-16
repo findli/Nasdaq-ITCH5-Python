@@ -1,0 +1,7 @@
+hour stock vwap
+4 CRK 5.91
+5 CRK 5.89
+6 CRK 5.94
+7 CRK 5.92
+9 CRK 5.96
+10 CRK 6.05

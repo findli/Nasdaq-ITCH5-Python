@@ -1,0 +1,4 @@
+hour stock vwap
+6 LAZY 6.04
+7 LAZY 6.05
+10 LAZY 6.26

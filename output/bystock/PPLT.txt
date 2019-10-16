@@ -1,0 +1,4 @@
+hour stock vwap
+8 PPLT 77.0
+9 PPLT 77.68
+10 PPLT 77.4

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FTS 35.25
+5 FTS 35.36
+6 FTS 35.31
+7 FTS 35.31
+9 FTS 35.4
+10 FTS 35.49
+11 FTS 35.62

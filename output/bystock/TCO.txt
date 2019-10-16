@@ -1,0 +1,8 @@
+hour stock vwap
+4 TCO 49.79
+5 TCO 50.52
+6 TCO 50.56
+7 TCO 50.7
+8 TCO 50.45
+9 TCO 50.32
+10 TCO 50.02

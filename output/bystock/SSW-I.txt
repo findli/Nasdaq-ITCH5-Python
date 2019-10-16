@@ -1,0 +1,3 @@
+hour stock vwap
+7 SSW-I 23.26
+10 SSW-I 23.96

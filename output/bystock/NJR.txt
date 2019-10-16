@@ -1,0 +1,8 @@
+hour stock vwap
+4 NJR 46.94
+5 NJR 47.23
+6 NJR 47.53
+7 NJR 47.43
+8 NJR 47.23
+9 NJR 47.53
+10 NJR 47.5

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBB 8.17
+5 CBB 8.24
+6 CBB 8.34
+7 CBB 8.25
+8 CBB 8.17
+9 CBB 8.22
+10 CBB 8.19

@@ -1,0 +1,5 @@
+hour stock vwap
+4 BLIN 0.25
+5 BLIN 0.27
+6 BLIN 0.26
+7 BLIN 0.26

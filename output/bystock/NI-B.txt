@@ -1,0 +1,4 @@
+hour stock vwap
+6 NI-B 26.11
+8 NI-B 26.13
+9 NI-B 26.29

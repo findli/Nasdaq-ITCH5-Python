@@ -1,0 +1,4 @@
+hour stock vwap
+6 BIT 16.32
+8 BIT 16.31
+9 BIT 16.4

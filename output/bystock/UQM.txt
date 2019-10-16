@@ -1,0 +1,4 @@
+hour stock vwap
+6 UQM 1.65
+7 UQM 1.65
+10 UQM 1.66

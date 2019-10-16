@@ -1,0 +1,7 @@
+hour stock vwap
+4 TAST 9.0
+5 TAST 9.0
+7 TAST 8.86
+8 TAST 8.88
+9 TAST 8.89
+10 TAST 8.88

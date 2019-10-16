@@ -1,0 +1,8 @@
+hour stock vwap
+4 GES 19.18
+5 GES 19.27
+6 GES 19.39
+7 GES 19.28
+8 GES 19.24
+9 GES 19.34
+10 GES 19.42

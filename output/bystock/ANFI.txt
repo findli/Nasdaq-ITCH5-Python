@@ -1,0 +1,4 @@
+hour stock vwap
+4 ANFI 0.88
+7 ANFI 0.9
+10 ANFI 0.9

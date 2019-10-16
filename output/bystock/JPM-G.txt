@@ -1,0 +1,4 @@
+hour stock vwap
+5 JPM-G 25.7
+9 JPM-G 25.76
+10 JPM-G 25.74

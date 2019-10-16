@@ -1,0 +1,8 @@
+hour stock vwap
+4 VIA 32.66
+5 VIA 32.45
+6 VIA 32.68
+7 VIA 33.09
+8 VIA 33.0
+9 VIA 33.3
+10 VIA 33.28

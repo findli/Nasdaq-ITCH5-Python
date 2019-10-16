@@ -1,0 +1,8 @@
+hour stock vwap
+4 CDK 50.52
+5 CDK 49.64
+6 CDK 49.16
+7 CDK 48.81
+8 CDK 48.45
+9 CDK 48.53
+10 CDK 48.58

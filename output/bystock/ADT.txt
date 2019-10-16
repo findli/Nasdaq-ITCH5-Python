@@ -1,0 +1,8 @@
+hour stock vwap
+4 ADT 7.16
+5 ADT 7.16
+6 ADT 7.17
+7 ADT 7.16
+8 ADT 7.07
+9 ADT 7.18
+10 ADT 7.12

@@ -1,0 +1,5 @@
+hour stock vwap
+4 MGTX 9.48
+5 MGTX 9.19
+7 MGTX 9.3
+10 MGTX 9.54

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PHG 37.78
+5 PHG 37.6
+6 PHG 37.82
+7 PHG 37.8
+8 PHG 37.81
+9 PHG 38.17
+10 PHG 38.3

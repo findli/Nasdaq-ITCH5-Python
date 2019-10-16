@@ -1,0 +1,8 @@
+hour stock vwap
+4 THS 56.85
+5 THS 57.13
+6 THS 57.61
+7 THS 57.64
+8 THS 57.42
+9 THS 57.43
+10 THS 57.26

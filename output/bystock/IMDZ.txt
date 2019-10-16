@@ -1,0 +1,5 @@
+hour stock vwap
+4 IMDZ 1.45
+5 IMDZ 1.45
+9 IMDZ 1.49
+10 IMDZ 1.49

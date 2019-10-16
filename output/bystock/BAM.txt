@@ -1,0 +1,8 @@
+hour stock vwap
+4 BAM 42.14
+5 BAM 41.91
+6 BAM 41.96
+7 BAM 41.92
+8 BAM 41.94
+9 BAM 42.32
+10 BAM 42.39

@@ -1,0 +1,7 @@
+hour stock vwap
+4 GMTA 24.88
+5 GMTA 24.87
+7 GMTA 24.89
+8 GMTA 24.83
+9 GMTA 24.89
+10 GMTA 24.95

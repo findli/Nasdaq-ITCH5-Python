@@ -1,0 +1,2 @@
+hour stock vwap
+8 STL-A 26.5

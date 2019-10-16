@@ -1,0 +1,8 @@
+hour stock vwap
+4 PSX 94.5
+5 PSX 94.21
+6 PSX 94.68
+7 PSX 94.32
+8 PSX 94.28
+9 PSX 94.82
+10 PSX 94.52

@@ -1,0 +1,5 @@
+hour stock vwap
+4 BIF 10.55
+8 BIF 10.64
+9 BIF 10.71
+10 BIF 10.71

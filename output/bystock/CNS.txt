@@ -1,0 +1,5 @@
+hour stock vwap
+4 CNS 37.1
+5 CNS 36.99
+6 CNS 37.16
+9 CNS 37.09

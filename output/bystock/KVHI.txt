@@ -1,0 +1,6 @@
+hour stock vwap
+6 KVHI 10.99
+7 KVHI 11.06
+8 KVHI 11.27
+9 KVHI 11.22
+10 KVHI 11.21

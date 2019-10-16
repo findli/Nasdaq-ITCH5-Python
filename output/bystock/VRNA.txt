@@ -1,0 +1,3 @@
+hour stock vwap
+7 VRNA 5.76
+9 VRNA 5.81

@@ -1,0 +1,4 @@
+hour stock vwap
+4 QFIN 12.52
+5 QFIN 12.27
+6 QFIN 12.43

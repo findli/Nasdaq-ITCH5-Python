@@ -1,0 +1,8 @@
+hour stock vwap
+4 ICON 0.13
+5 ICON 0.14
+6 ICON 0.14
+7 ICON 0.14
+8 ICON 0.14
+9 ICON 0.15
+10 ICON 0.14

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ITT 51.31
+5 ITT 51.32
+6 ITT 51.92
+7 ITT 51.94
+8 ITT 51.71
+9 ITT 52.21
+10 ITT 52.21

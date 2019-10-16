@@ -1,0 +1,7 @@
+hour stock vwap
+4 GSLC 53.22
+5 GSLC 53.2
+7 GSLC 53.58
+8 GSLC 53.43
+9 GSLC 53.61
+10 GSLC 53.87

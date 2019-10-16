@@ -1,0 +1,7 @@
+hour stock vwap
+5 HESM 20.89
+6 HESM 21.18
+7 HESM 21.32
+8 HESM 21.3
+9 HESM 21.24
+10 HESM 21.12

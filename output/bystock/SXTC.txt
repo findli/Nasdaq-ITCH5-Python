@@ -1,0 +1,9 @@
+hour stock vwap
+4 SXTC 4.33
+5 SXTC 6.35
+6 SXTC 7.41
+7 SXTC 7.74
+8 SXTC 6.81
+9 SXTC 6.4
+10 SXTC 5.94
+11 SXTC 6.25

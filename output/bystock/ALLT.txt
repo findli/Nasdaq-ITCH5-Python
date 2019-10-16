@@ -1,0 +1,6 @@
+hour stock vwap
+4 ALLT 6.77
+7 ALLT 6.75
+8 ALLT 6.75
+9 ALLT 6.75
+10 ALLT 6.76

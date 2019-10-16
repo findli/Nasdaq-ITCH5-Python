@@ -1,0 +1,8 @@
+hour stock vwap
+4 TCX 71.0
+5 TCX 71.04
+6 TCX 71.22
+7 TCX 71.05
+8 TCX 71.25
+9 TCX 71.76
+10 TCX 71.81

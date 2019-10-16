@@ -1,0 +1,9 @@
+hour stock vwap
+3 EWY 64.03
+4 EWY 64.2
+5 EWY 64.12
+6 EWY 64.22
+7 EWY 64.39
+8 EWY 64.34
+9 EWY 65.02
+10 EWY 65.16

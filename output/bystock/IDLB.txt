@@ -1,0 +1,3 @@
+hour stock vwap
+6 IDLB 27.41
+8 IDLB 27.38

@@ -1,0 +1,7 @@
+hour stock vwap
+5 ITRN 32.4
+6 ITRN 32.59
+7 ITRN 32.65
+8 ITRN 32.61
+9 ITRN 32.72
+10 ITRN 32.64

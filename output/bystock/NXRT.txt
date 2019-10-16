@@ -1,0 +1,7 @@
+hour stock vwap
+5 NXRT 37.28
+6 NXRT 37.15
+7 NXRT 37.03
+8 NXRT 36.9
+9 NXRT 37.21
+10 NXRT 36.98

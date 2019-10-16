@@ -1,0 +1,6 @@
+hour stock vwap
+5 AT 2.46
+6 AT 2.47
+7 AT 2.48
+9 AT 2.48
+10 AT 2.49

@@ -1,0 +1,7 @@
+hour stock vwap
+4 WTTR 8.49
+5 WTTR 8.46
+6 WTTR 8.59
+8 WTTR 8.6
+9 WTTR 8.65
+10 WTTR 8.65

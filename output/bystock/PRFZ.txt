@@ -1,0 +1,6 @@
+hour stock vwap
+4 PRFZ 123.99
+6 PRFZ 124.18
+8 PRFZ 124.1
+9 PRFZ 124.56
+10 PRFZ 124.92

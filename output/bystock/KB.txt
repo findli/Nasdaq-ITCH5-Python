@@ -1,0 +1,7 @@
+hour stock vwap
+5 KB 41.53
+6 KB 41.49
+7 KB 41.54
+8 KB 41.55
+9 KB 41.85
+10 KB 41.84

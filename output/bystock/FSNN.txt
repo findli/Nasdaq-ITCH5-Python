@@ -1,0 +1,7 @@
+hour stock vwap
+4 FSNN 2.03
+5 FSNN 2.02
+7 FSNN 2.03
+8 FSNN 2.06
+9 FSNN 2.13
+10 FSNN 2.11

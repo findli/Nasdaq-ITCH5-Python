@@ -1,0 +1,8 @@
+hour stock vwap
+4 KSS 69.29
+5 KSS 68.45
+6 KSS 68.75
+7 KSS 68.85
+8 KSS 68.54
+9 KSS 68.77
+10 KSS 69.03

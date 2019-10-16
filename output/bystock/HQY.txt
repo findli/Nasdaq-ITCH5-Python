@@ -1,0 +1,8 @@
+hour stock vwap
+4 HQY 62.84
+5 HQY 62.67
+6 HQY 62.88
+7 HQY 63.06
+8 HQY 62.88
+9 HQY 63.25
+10 HQY 63.31

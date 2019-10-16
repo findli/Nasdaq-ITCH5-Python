@@ -1,0 +1,8 @@
+hour stock vwap
+4 GBT 45.5
+5 GBT 45.47
+6 GBT 45.95
+7 GBT 46.32
+8 GBT 46.5
+9 GBT 46.79
+10 GBT 47.27

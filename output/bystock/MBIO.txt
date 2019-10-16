@@ -1,0 +1,5 @@
+hour stock vwap
+4 MBIO 3.26
+5 MBIO 3.35
+6 MBIO 3.35
+10 MBIO 3.4

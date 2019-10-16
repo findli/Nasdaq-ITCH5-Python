@@ -1,0 +1,2 @@
+hour stock vwap
+4 APEN 3.54

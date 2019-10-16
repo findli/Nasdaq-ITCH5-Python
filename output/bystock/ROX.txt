@@ -1,0 +1,6 @@
+hour stock vwap
+4 ROX 0.84
+5 ROX 0.83
+7 ROX 0.83
+8 ROX 0.84
+10 ROX 0.83

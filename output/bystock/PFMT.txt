@@ -1,0 +1,3 @@
+hour stock vwap
+6 PFMT 2.05
+9 PFMT 2.05

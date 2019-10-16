@@ -1,0 +1,5 @@
+hour stock vwap
+5 PCTI 5.31
+8 PCTI 5.3
+9 PCTI 5.3
+10 PCTI 5.3

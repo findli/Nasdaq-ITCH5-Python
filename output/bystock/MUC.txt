@@ -1,0 +1,4 @@
+hour stock vwap
+4 MUC 12.86
+8 MUC 12.84
+10 MUC 12.85

@@ -1,0 +1,3 @@
+hour stock vwap
+9 SITC-A 22.51
+10 SITC-A 22.6

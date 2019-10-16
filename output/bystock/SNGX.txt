@@ -1,0 +1,5 @@
+hour stock vwap
+4 SNGX 0.91
+5 SNGX 0.91
+6 SNGX 0.91
+7 SNGX 0.91

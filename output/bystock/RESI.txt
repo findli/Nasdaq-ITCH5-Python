@@ -1,0 +1,7 @@
+hour stock vwap
+5 RESI 10.29
+6 RESI 10.38
+7 RESI 10.51
+8 RESI 10.54
+9 RESI 10.6
+10 RESI 10.61

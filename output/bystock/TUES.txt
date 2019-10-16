@@ -1,0 +1,8 @@
+hour stock vwap
+4 TUES 1.89
+5 TUES 1.88
+6 TUES 1.88
+7 TUES 1.81
+8 TUES 1.8
+9 TUES 1.8
+10 TUES 1.8

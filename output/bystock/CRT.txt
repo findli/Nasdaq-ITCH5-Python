@@ -1,0 +1,4 @@
+hour stock vwap
+7 CRT 12.17
+8 CRT 12.21
+10 CRT 12.27

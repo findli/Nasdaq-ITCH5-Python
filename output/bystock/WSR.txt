@@ -1,0 +1,6 @@
+hour stock vwap
+4 WSR 14.22
+5 WSR 14.37
+8 WSR 14.28
+9 WSR 14.23
+10 WSR 14.15

@@ -1,0 +1,9 @@
+hour stock vwap
+2 NBEV 6.94
+4 NBEV 6.88
+5 NBEV 7.14
+6 NBEV 7.37
+7 NBEV 7.23
+8 NBEV 7.09
+9 NBEV 7.12
+10 NBEV 7.01

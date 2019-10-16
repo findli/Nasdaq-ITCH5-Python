@@ -1,0 +1,6 @@
+hour stock vwap
+5 BBT-H 25.87
+6 BBT-H 25.94
+8 BBT-H 25.94
+9 BBT-H 26.02
+10 BBT-H 26.07

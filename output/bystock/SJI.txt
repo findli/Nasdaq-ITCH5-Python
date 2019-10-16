@@ -1,0 +1,8 @@
+hour stock vwap
+4 SJI 29.54
+5 SJI 29.72
+6 SJI 29.83
+7 SJI 29.74
+8 SJI 29.57
+9 SJI 29.72
+10 SJI 29.68

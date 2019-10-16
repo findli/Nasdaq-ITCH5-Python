@@ -1,0 +1,8 @@
+hour stock vwap
+4 COR 96.94
+5 COR 97.74
+6 COR 97.77
+7 COR 97.57
+8 COR 97.18
+9 COR 97.29
+10 COR 97.5

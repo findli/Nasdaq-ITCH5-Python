@@ -1,0 +1,6 @@
+hour stock vwap
+5 PHAS 3.51
+6 PHAS 3.51
+7 PHAS 3.51
+8 PHAS 3.51
+10 PHAS 3.62

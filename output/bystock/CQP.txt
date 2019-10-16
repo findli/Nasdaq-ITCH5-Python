@@ -1,0 +1,8 @@
+hour stock vwap
+4 CQP 40.35
+5 CQP 40.4
+6 CQP 40.38
+7 CQP 40.84
+8 CQP 40.59
+9 CQP 40.53
+10 CQP 40.44

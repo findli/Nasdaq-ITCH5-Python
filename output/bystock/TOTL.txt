@@ -1,0 +1,6 @@
+hour stock vwap
+6 TOTL 47.48
+7 TOTL 47.48
+8 TOTL 47.48
+9 TOTL 47.69
+10 TOTL 47.76

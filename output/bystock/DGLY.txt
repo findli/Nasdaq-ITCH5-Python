@@ -1,0 +1,7 @@
+hour stock vwap
+4 DGLY 3.65
+5 DGLY 3.69
+6 DGLY 3.56
+7 DGLY 3.61
+9 DGLY 3.64
+10 DGLY 3.56

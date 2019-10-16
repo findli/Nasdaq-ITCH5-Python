@@ -1,0 +1,8 @@
+hour stock vwap
+4 FMS 36.25
+5 FMS 36.26
+6 FMS 36.29
+7 FMS 36.28
+8 FMS 36.25
+9 FMS 36.46
+10 FMS 36.56

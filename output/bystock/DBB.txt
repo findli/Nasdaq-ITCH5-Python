@@ -1,0 +1,5 @@
+hour stock vwap
+5 DBB 16.26
+6 DBB 16.24
+7 DBB 16.26
+10 DBB 16.31

@@ -1,0 +1,6 @@
+hour stock vwap
+5 SHSP 13.45
+7 SHSP 13.55
+8 SHSP 13.74
+9 SHSP 13.86
+10 SHSP 13.86

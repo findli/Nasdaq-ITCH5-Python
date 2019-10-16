@@ -1,0 +1,8 @@
+hour stock vwap
+4 FII 26.51
+5 FII 26.12
+6 FII 26.43
+7 FII 26.5
+8 FII 26.49
+9 FII 26.36
+10 FII 25.97

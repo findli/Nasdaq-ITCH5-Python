@@ -1,0 +1,6 @@
+hour stock vwap
+4 NBB 19.82
+5 NBB 19.82
+6 NBB 19.82
+8 NBB 19.79
+10 NBB 19.83

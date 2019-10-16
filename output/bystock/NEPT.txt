@@ -1,0 +1,6 @@
+hour stock vwap
+4 NEPT 3.23
+6 NEPT 3.24
+7 NEPT 3.27
+8 NEPT 3.32
+10 NEPT 3.29

@@ -1,0 +1,6 @@
+hour stock vwap
+6 UGL 38.82
+7 UGL 38.75
+8 UGL 38.7
+9 UGL 39.19
+10 UGL 39.24

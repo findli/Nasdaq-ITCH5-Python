@@ -1,0 +1,4 @@
+hour stock vwap
+5 BIBL 25.26
+7 BIBL 25.34
+8 BIBL 25.32

@@ -1,0 +1,5 @@
+hour stock vwap
+5 TA 5.26
+6 TA 5.27
+9 TA 5.26
+10 TA 5.19

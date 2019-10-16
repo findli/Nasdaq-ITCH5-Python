@@ -1,0 +1,6 @@
+hour stock vwap
+4 NYNY 12.24
+5 NYNY 12.32
+6 NYNY 12.63
+7 NYNY 12.16
+10 NYNY 12.3

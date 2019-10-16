@@ -1,0 +1,8 @@
+hour stock vwap
+4 MESA 8.98
+5 MESA 9.05
+6 MESA 9.12
+7 MESA 9.27
+8 MESA 9.2
+9 MESA 9.16
+10 MESA 9.24

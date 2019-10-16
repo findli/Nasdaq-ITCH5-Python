@@ -1,0 +1,8 @@
+hour stock vwap
+4 TSG 17.53
+5 TSG 17.3
+6 TSG 17.17
+7 TSG 17.12
+8 TSG 17.27
+9 TSG 17.56
+10 TSG 17.6

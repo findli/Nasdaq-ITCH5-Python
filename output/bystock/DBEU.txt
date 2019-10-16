@@ -1,0 +1,5 @@
+hour stock vwap
+5 DBEU 26.6
+8 DBEU 26.66
+9 DBEU 26.7
+10 DBEU 26.74

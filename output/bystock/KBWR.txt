@@ -1,0 +1,2 @@
+hour stock vwap
+10 KBWR 50.97

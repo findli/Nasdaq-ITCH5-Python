@@ -1,0 +1,8 @@
+hour stock vwap
+4 GSIT 7.72
+5 GSIT 8.15
+6 GSIT 8.0
+7 GSIT 7.75
+8 GSIT 7.76
+9 GSIT 7.79
+10 GSIT 7.66

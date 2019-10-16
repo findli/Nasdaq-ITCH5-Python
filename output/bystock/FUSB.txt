@@ -1,0 +1,5 @@
+hour stock vwap
+5 FUSB 9.23
+6 FUSB 9.29
+9 FUSB 9.29
+10 FUSB 9.44

@@ -1,0 +1,4 @@
+hour stock vwap
+5 FXU 26.98
+6 FXU 27.15
+10 FXU 27.21

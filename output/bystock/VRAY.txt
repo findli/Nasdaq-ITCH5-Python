@@ -1,0 +1,8 @@
+hour stock vwap
+4 VRAY 6.96
+5 VRAY 6.94
+6 VRAY 6.87
+7 VRAY 6.88
+8 VRAY 6.9
+9 VRAY 6.94
+10 VRAY 6.92

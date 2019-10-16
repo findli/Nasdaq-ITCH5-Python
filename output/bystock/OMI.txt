@@ -1,0 +1,7 @@
+hour stock vwap
+5 OMI 7.59
+6 OMI 7.67
+7 OMI 7.69
+8 OMI 7.59
+9 OMI 7.64
+10 OMI 7.66

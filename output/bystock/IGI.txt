@@ -1,0 +1,4 @@
+hour stock vwap
+4 IGI 19.11
+7 IGI 19.4
+10 IGI 19.45

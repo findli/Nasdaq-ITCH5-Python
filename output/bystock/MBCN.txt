@@ -1,0 +1,7 @@
+hour stock vwap
+4 MBCN 42.95
+5 MBCN 42.95
+6 MBCN 43.04
+8 MBCN 43.16
+9 MBCN 43.24
+10 MBCN 43.23

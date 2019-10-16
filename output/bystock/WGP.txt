@@ -1,0 +1,8 @@
+hour stock vwap
+4 WGP 32.1
+5 WGP 31.97
+6 WGP 32.69
+7 WGP 32.9
+8 WGP 32.85
+9 WGP 32.88
+10 WGP 32.87

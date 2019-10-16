@@ -1,0 +1,7 @@
+hour stock vwap
+5 ISTB 49.34
+6 ISTB 49.34
+7 ISTB 49.34
+8 ISTB 49.34
+9 ISTB 49.37
+10 ISTB 49.4

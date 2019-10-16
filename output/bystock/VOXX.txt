@@ -1,0 +1,6 @@
+hour stock vwap
+4 VOXX 5.19
+7 VOXX 5.3
+8 VOXX 5.3
+9 VOXX 5.32
+10 VOXX 5.29

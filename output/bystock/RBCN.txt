@@ -1,0 +1,5 @@
+hour stock vwap
+4 RBCN 8.1
+6 RBCN 8.1
+8 RBCN 8.09
+10 RBCN 8.24

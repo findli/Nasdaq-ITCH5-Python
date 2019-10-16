@@ -1,0 +1,7 @@
+hour stock vwap
+4 CLBK 14.79
+5 CLBK 14.65
+6 CLBK 14.72
+7 CLBK 14.72
+9 CLBK 14.72
+10 CLBK 14.69

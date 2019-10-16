@@ -1,0 +1,4 @@
+hour stock vwap
+4 SPTS 29.6
+5 SPTS 29.6
+10 SPTS 29.64

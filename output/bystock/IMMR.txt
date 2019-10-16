@@ -1,0 +1,6 @@
+hour stock vwap
+4 IMMR 9.35
+5 IMMR 9.36
+6 IMMR 9.41
+8 IMMR 9.42
+9 IMMR 9.52

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CNTY 7.76
+5 CNTY 7.71
+6 CNTY 7.73
+7 CNTY 7.71
+8 CNTY 7.78
+9 CNTY 7.73
+10 CNTY 7.83

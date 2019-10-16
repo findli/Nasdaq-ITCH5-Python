@@ -1,0 +1,7 @@
+hour stock vwap
+4 DPW 0.09
+5 DPW 0.09
+7 DPW 0.09
+8 DPW 0.09
+9 DPW 0.09
+10 DPW 0.09

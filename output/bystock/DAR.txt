@@ -1,0 +1,8 @@
+hour stock vwap
+4 DAR 21.14
+5 DAR 21.2
+6 DAR 21.33
+7 DAR 21.3
+8 DAR 21.22
+9 DAR 21.31
+10 DAR 21.24

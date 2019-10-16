@@ -1,0 +1,3 @@
+hour stock vwap
+6 REZ 68.5
+8 REZ 68.42

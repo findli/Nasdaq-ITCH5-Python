@@ -1,0 +1,6 @@
+hour stock vwap
+5 GAIN 10.6
+7 GAIN 10.78
+8 GAIN 10.8
+9 GAIN 10.81
+10 GAIN 10.79

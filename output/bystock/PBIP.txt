@@ -1,0 +1,4 @@
+hour stock vwap
+4 PBIP 18.08
+9 PBIP 18.16
+10 PBIP 18.16

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ETM 7.17
+5 ETM 7.11
+6 ETM 7.19
+7 ETM 7.22
+8 ETM 7.2
+9 ETM 7.25
+10 ETM 7.21

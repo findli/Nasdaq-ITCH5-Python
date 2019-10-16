@@ -1,0 +1,7 @@
+hour stock vwap
+4 ICAD 5.25
+5 ICAD 5.3
+6 ICAD 5.54
+7 ICAD 5.5
+9 ICAD 5.55
+10 ICAD 5.63

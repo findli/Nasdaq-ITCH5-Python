@@ -1,0 +1,6 @@
+hour stock vwap
+4 SRET 15.01
+6 SRET 15.09
+7 SRET 15.1
+8 SRET 15.07
+10 SRET 15.07

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FBP 10.44
+5 FBP 10.65
+6 FBP 10.59
+7 FBP 10.54
+8 FBP 10.52
+9 FBP 10.6
+10 FBP 10.64

@@ -1,0 +1,7 @@
+hour stock vwap
+5 NKSH 34.77
+6 NKSH 34.81
+7 NKSH 34.88
+8 NKSH 34.52
+9 NKSH 34.64
+10 NKSH 34.78

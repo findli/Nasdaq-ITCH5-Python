@@ -1,0 +1,5 @@
+hour stock vwap
+4 VTL 0.2
+5 VTL 0.19
+6 VTL 0.19
+10 VTL 0.2

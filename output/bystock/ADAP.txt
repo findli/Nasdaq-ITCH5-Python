@@ -1,0 +1,8 @@
+hour stock vwap
+4 ADAP 4.68
+5 ADAP 4.58
+6 ADAP 4.51
+7 ADAP 4.55
+8 ADAP 4.61
+9 ADAP 4.69
+10 ADAP 4.65

@@ -1,0 +1,8 @@
+hour stock vwap
+4 HYGS 7.4
+5 HYGS 7.36
+6 HYGS 7.36
+7 HYGS 7.38
+8 HYGS 7.38
+9 HYGS 7.38
+10 HYGS 7.42

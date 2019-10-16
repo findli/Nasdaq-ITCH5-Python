@@ -1,0 +1,3 @@
+hour stock vwap
+7 CIM-A 25.23
+9 CIM-A 25.35

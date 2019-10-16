@@ -1,0 +1,7 @@
+hour stock vwap
+5 OMP 18.73
+6 OMP 18.78
+7 OMP 18.74
+8 OMP 18.74
+9 OMP 18.74
+10 OMP 18.8

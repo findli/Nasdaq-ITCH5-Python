@@ -1,0 +1,2 @@
+hour stock vwap
+8 MHD 15.23

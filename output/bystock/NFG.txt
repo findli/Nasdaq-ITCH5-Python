@@ -1,0 +1,8 @@
+hour stock vwap
+4 NFG 56.67
+5 NFG 56.78
+6 NFG 56.96
+7 NFG 56.93
+8 NFG 56.72
+9 NFG 57.0
+10 NFG 57.24

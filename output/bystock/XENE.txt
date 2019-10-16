@@ -1,0 +1,7 @@
+hour stock vwap
+5 XENE 8.1
+6 XENE 7.98
+7 XENE 7.96
+8 XENE 8.03
+9 XENE 8.06
+10 XENE 8.12

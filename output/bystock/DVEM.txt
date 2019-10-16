@@ -1,0 +1,2 @@
+hour stock vwap
+9 DVEM 30.94

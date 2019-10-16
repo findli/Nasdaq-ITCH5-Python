@@ -1,0 +1,3 @@
+hour stock vwap
+6 USHY 47.64
+9 USHY 47.76

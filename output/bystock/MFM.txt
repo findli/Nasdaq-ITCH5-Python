@@ -1,0 +1,2 @@
+hour stock vwap
+7 MFM 6.6

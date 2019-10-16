@@ -1,0 +1,8 @@
+hour stock vwap
+4 RST 14.56
+5 RST 14.64
+6 RST 14.66
+7 RST 14.74
+8 RST 14.85
+9 RST 14.92
+10 RST 14.85

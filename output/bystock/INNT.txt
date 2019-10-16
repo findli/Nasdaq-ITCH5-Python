@@ -1,0 +1,5 @@
+hour stock vwap
+5 INNT 2.24
+6 INNT 2.21
+8 INNT 2.28
+10 INNT 2.33

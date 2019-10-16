@@ -1,0 +1,4 @@
+hour stock vwap
+6 ORN 4.21
+9 ORN 4.29
+10 ORN 4.27

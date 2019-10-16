@@ -1,0 +1,6 @@
+hour stock vwap
+4 PFIE 1.73
+7 PFIE 1.74
+8 PFIE 1.72
+9 PFIE 1.72
+10 PFIE 1.71

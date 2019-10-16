@@ -1,0 +1,6 @@
+hour stock vwap
+4 ARVN 17.08
+5 ARVN 17.08
+6 ARVN 17.32
+8 ARVN 17.56
+10 ARVN 17.33

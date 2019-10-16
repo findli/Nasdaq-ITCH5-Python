@@ -1,0 +1,7 @@
+hour stock vwap
+4 BBGI 4.64
+5 BBGI 4.78
+6 BBGI 4.71
+7 BBGI 4.68
+8 BBGI 4.7
+10 BBGI 4.65

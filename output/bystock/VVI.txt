@@ -1,0 +1,7 @@
+hour stock vwap
+4 VVI 51.42
+5 VVI 51.29
+6 VVI 51.27
+7 VVI 51.62
+9 VVI 52.04
+10 VVI 52.45

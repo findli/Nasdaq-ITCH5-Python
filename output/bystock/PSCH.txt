@@ -1,0 +1,6 @@
+hour stock vwap
+4 PSCH 115.65
+5 PSCH 115.1
+7 PSCH 115.96
+9 PSCH 116.05
+10 PSCH 115.97

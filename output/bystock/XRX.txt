@@ -1,0 +1,8 @@
+hour stock vwap
+4 XRX 27.37
+5 XRX 27.74
+6 XRX 27.9
+7 XRX 28.03
+8 XRX 27.86
+9 XRX 28.09
+10 XRX 28.16

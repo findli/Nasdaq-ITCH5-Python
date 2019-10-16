@@ -1,0 +1,5 @@
+hour stock vwap
+4 YI 9.04
+5 YI 9.1
+9 YI 9.14
+10 YI 9.12

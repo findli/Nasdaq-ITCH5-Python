@@ -1,0 +1,6 @@
+hour stock vwap
+5 DRAD 0.72
+6 DRAD 0.72
+7 DRAD 0.7
+8 DRAD 0.7
+9 DRAD 0.7

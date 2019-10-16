@@ -1,0 +1,5 @@
+hour stock vwap
+7 ETY 10.94
+8 ETY 10.94
+9 ETY 10.96
+10 ETY 10.97

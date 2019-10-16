@@ -1,0 +1,8 @@
+hour stock vwap
+4 AUY 2.71
+5 AUY 2.73
+6 AUY 2.69
+7 AUY 2.68
+8 AUY 2.7
+9 AUY 2.79
+10 AUY 2.76

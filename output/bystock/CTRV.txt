@@ -1,0 +1,6 @@
+hour stock vwap
+4 CTRV 0.33
+5 CTRV 0.33
+6 CTRV 0.3
+7 CTRV 0.31
+8 CTRV 0.3

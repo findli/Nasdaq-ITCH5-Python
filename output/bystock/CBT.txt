@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBT 47.16
+5 CBT 47.33
+6 CBT 47.43
+7 CBT 47.52
+8 CBT 47.08
+9 CBT 47.5
+10 CBT 47.59

@@ -1,0 +1,9 @@
+hour stock vwap
+4 PHM 26.78
+5 PHM 26.68
+6 PHM 26.49
+7 PHM 26.37
+8 PHM 26.24
+9 PHM 26.9
+10 PHM 27.19
+11 PHM 27.26

@@ -1,0 +1,2 @@
+hour stock vwap
+10 MTEC 10.12

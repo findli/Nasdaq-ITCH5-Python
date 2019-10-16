@@ -1,0 +1,8 @@
+hour stock vwap
+4 FEZ 35.01
+5 FEZ 34.98
+6 FEZ 35.05
+7 FEZ 35.1
+8 FEZ 35.07
+9 FEZ 35.34
+10 FEZ 35.38

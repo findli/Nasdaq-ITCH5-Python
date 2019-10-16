@@ -1,0 +1,7 @@
+hour stock vwap
+4 CLD 0.37
+5 CLD 0.35
+6 CLD 0.38
+8 CLD 0.39
+9 CLD 0.4
+10 CLD 0.41

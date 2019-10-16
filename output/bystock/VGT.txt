@@ -1,0 +1,7 @@
+hour stock vwap
+4 VGT 177.07
+5 VGT 176.89
+6 VGT 177.41
+7 VGT 178.05
+9 VGT 178.8
+10 VGT 179.7

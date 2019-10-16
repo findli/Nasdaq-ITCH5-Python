@@ -1,0 +1,8 @@
+hour stock vwap
+4 BAH 48.09
+5 BAH 48.0
+6 BAH 48.18
+7 BAH 48.36
+8 BAH 48.26
+9 BAH 48.38
+10 BAH 48.29

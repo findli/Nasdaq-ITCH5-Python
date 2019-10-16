@@ -1,0 +1,6 @@
+hour stock vwap
+5 UWM 62.01
+6 UWM 62.38
+7 UWM 62.57
+9 UWM 63.16
+10 UWM 62.96

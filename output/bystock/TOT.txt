@@ -1,0 +1,8 @@
+hour stock vwap
+4 TOT 53.72
+5 TOT 53.69
+6 TOT 53.8
+7 TOT 53.79
+8 TOT 53.73
+9 TOT 54.06
+10 TOT 54.15

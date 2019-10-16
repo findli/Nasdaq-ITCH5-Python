@@ -1,0 +1,6 @@
+hour stock vwap
+4 GRBK 8.61
+5 GRBK 8.37
+6 GRBK 8.38
+8 GRBK 8.44
+10 GRBK 8.48

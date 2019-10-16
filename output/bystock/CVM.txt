@@ -1,0 +1,7 @@
+hour stock vwap
+5 CVM 2.75
+6 CVM 2.79
+7 CVM 2.87
+8 CVM 2.88
+9 CVM 2.87
+10 CVM 2.88

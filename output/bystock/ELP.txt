@@ -1,0 +1,7 @@
+hour stock vwap
+4 ELP 9.85
+5 ELP 9.89
+6 ELP 9.84
+7 ELP 9.68
+8 ELP 9.66
+10 ELP 9.77

@@ -1,0 +1,6 @@
+hour stock vwap
+4 DXLG 2.65
+5 DXLG 2.55
+6 DXLG 2.52
+8 DXLG 2.51
+9 DXLG 2.53

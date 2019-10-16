@@ -1,0 +1,4 @@
+hour stock vwap
+5 ESQ 21.92
+7 ESQ 21.98
+10 ESQ 22.2

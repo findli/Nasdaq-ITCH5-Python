@@ -1,0 +1,5 @@
+hour stock vwap
+4 SYNL 14.32
+8 SYNL 15.0
+9 SYNL 15.13
+10 SYNL 15.29

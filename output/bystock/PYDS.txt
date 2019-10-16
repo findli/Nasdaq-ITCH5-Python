@@ -1,0 +1,7 @@
+hour stock vwap
+5 PYDS 2.41
+6 PYDS 2.45
+7 PYDS 2.53
+8 PYDS 2.48
+9 PYDS 2.5
+10 PYDS 2.56

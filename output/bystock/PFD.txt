@@ -1,0 +1,3 @@
+hour stock vwap
+7 PFD 12.89
+10 PFD 12.9

@@ -1,0 +1,2 @@
+hour stock vwap
+12 SVA 6.55

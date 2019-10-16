@@ -1,0 +1,7 @@
+hour stock vwap
+5 VT 69.53
+6 VT 69.74
+7 VT 69.86
+8 VT 69.76
+9 VT 70.27
+10 VT 70.37

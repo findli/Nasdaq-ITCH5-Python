@@ -1,0 +1,5 @@
+hour stock vwap
+4 HIL 3.37
+5 HIL 3.36
+9 HIL 3.36
+10 HIL 3.35

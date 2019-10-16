@@ -1,0 +1,8 @@
+hour stock vwap
+4 EXPR 5.37
+5 EXPR 5.3
+6 EXPR 5.34
+7 EXPR 5.35
+8 EXPR 5.38
+9 EXPR 5.39
+10 EXPR 5.37

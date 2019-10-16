@@ -1,0 +1,7 @@
+hour stock vwap
+4 VCSH 78.64
+5 VCSH 78.65
+7 VCSH 78.64
+8 VCSH 78.66
+9 VCSH 78.72
+10 VCSH 78.8

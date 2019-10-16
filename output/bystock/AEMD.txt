@@ -1,0 +1,4 @@
+hour stock vwap
+4 AEMD 1.33
+6 AEMD 1.35
+9 AEMD 1.34

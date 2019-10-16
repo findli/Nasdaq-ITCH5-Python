@@ -1,0 +1,5 @@
+hour stock vwap
+2 SRTY 28.97
+6 SRTY 29.59
+7 SRTY 29.59
+9 SRTY 29.43

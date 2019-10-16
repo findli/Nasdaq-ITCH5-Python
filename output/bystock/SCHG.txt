@@ -1,0 +1,5 @@
+hour stock vwap
+5 SCHG 73.4
+8 SCHG 73.76
+9 SCHG 73.89
+10 SCHG 74.35

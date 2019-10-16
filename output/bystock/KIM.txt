@@ -1,0 +1,8 @@
+hour stock vwap
+4 KIM 17.28
+5 KIM 17.43
+6 KIM 17.39
+7 KIM 17.44
+8 KIM 17.28
+9 KIM 17.29
+10 KIM 17.31

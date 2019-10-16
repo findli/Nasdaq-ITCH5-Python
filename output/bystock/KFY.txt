@@ -1,0 +1,8 @@
+hour stock vwap
+4 KFY 44.43
+5 KFY 44.22
+6 KFY 44.68
+7 KFY 44.89
+8 KFY 44.92
+9 KFY 45.23
+10 KFY 45.2

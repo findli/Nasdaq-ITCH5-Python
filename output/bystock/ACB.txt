@@ -1,0 +1,9 @@
+hour stock vwap
+4 ACB 6.91
+5 ACB 6.96
+6 ACB 7.01
+7 ACB 6.98
+8 ACB 6.95
+9 ACB 6.95
+10 ACB 6.93
+11 ACB 6.97

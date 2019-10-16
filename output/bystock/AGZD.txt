@@ -1,0 +1,4 @@
+hour stock vwap
+4 AGZD 47.49
+6 AGZD 47.39
+9 AGZD 47.45

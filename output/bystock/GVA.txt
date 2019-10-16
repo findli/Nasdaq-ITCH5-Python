@@ -1,0 +1,8 @@
+hour stock vwap
+4 GVA 43.21
+5 GVA 42.16
+6 GVA 42.33
+7 GVA 42.35
+8 GVA 42.44
+9 GVA 42.89
+10 GVA 42.99

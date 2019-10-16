@@ -1,0 +1,8 @@
+hour stock vwap
+4 CMRX 2.24
+5 CMRX 2.28
+6 CMRX 2.26
+7 CMRX 2.32
+8 CMRX 2.31
+9 CMRX 2.34
+10 CMRX 2.39

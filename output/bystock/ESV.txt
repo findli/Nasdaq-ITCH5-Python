@@ -1,0 +1,8 @@
+hour stock vwap
+4 ESV 4.57
+5 ESV 4.54
+6 ESV 4.58
+7 ESV 4.53
+8 ESV 4.49
+9 ESV 4.5
+10 ESV 4.48

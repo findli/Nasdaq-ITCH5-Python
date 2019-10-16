@@ -1,0 +1,4 @@
+hour stock vwap
+5 RCS 9.81
+8 RCS 9.81
+10 RCS 9.83

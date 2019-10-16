@@ -1,0 +1,7 @@
+hour stock vwap
+5 IMXI 11.09
+6 IMXI 11.23
+7 IMXI 11.3
+8 IMXI 11.3
+9 IMXI 11.48
+10 IMXI 11.44

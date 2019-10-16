@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWL 33.1
+5 EWL 33.08
+6 EWL 33.19
+7 EWL 33.17
+8 EWL 33.15
+9 EWL 33.35
+10 EWL 33.31

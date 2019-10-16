@@ -1,0 +1,8 @@
+hour stock vwap
+4 RESN 3.44
+5 RESN 3.44
+6 RESN 3.36
+7 RESN 3.27
+8 RESN 3.09
+9 RESN 3.12
+10 RESN 3.15

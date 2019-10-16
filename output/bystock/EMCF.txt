@@ -1,0 +1,4 @@
+hour stock vwap
+4 EMCF 29.65
+5 EMCF 31.2
+10 EMCF 30.32

@@ -1,0 +1,3 @@
+hour stock vwap
+6 DDWM 27.52
+10 DDWM 27.64

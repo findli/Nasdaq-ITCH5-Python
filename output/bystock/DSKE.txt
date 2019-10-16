@@ -1,0 +1,7 @@
+hour stock vwap
+4 DSKE 4.11
+5 DSKE 4.05
+6 DSKE 4.06
+7 DSKE 4.03
+9 DSKE 4.05
+10 DSKE 4.02

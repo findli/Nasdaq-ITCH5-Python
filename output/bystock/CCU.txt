@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCU 27.61
+5 CCU 27.33
+6 CCU 27.09
+7 CCU 27.0
+8 CCU 27.0
+9 CCU 27.1
+10 CCU 27.17

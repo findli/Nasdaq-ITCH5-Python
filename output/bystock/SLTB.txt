@@ -1,0 +1,5 @@
+hour stock vwap
+6 SLTB 25.34
+7 SLTB 25.34
+8 SLTB 25.34
+9 SLTB 25.37

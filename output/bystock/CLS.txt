@@ -1,0 +1,7 @@
+hour stock vwap
+5 CLS 9.61
+6 CLS 9.72
+7 CLS 9.81
+8 CLS 9.74
+9 CLS 9.84
+10 CLS 9.83

@@ -1,0 +1,6 @@
+hour stock vwap
+5 JSM 19.4
+7 JSM 19.51
+8 JSM 19.47
+9 JSM 19.84
+10 JSM 20.47

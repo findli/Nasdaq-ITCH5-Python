@@ -1,0 +1,5 @@
+hour stock vwap
+5 HIX 6.32
+6 HIX 6.3
+8 HIX 6.32
+10 HIX 6.33

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASX 3.9
+5 ASX 3.88
+6 ASX 3.88
+7 ASX 3.87
+8 ASX 3.88
+9 ASX 3.94
+10 ASX 3.94

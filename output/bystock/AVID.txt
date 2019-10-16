@@ -1,0 +1,6 @@
+hour stock vwap
+4 AVID 4.57
+5 AVID 4.51
+7 AVID 4.62
+9 AVID 4.6
+10 AVID 4.62

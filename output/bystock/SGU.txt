@@ -1,0 +1,6 @@
+hour stock vwap
+4 SGU 9.08
+5 SGU 9.06
+6 SGU 9.1
+9 SGU 9.09
+10 SGU 9.06

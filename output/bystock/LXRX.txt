@@ -1,0 +1,7 @@
+hour stock vwap
+4 LXRX 4.37
+5 LXRX 4.31
+6 LXRX 4.32
+8 LXRX 4.34
+9 LXRX 4.38
+10 LXRX 4.37

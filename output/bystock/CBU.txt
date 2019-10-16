@@ -1,0 +1,8 @@
+hour stock vwap
+4 CBU 60.23
+5 CBU 60.1
+6 CBU 60.47
+7 CBU 60.47
+8 CBU 60.39
+9 CBU 60.52
+10 CBU 60.38

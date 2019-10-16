@@ -1,0 +1,7 @@
+hour stock vwap
+5 ASNS 2.88
+6 ASNS 2.71
+7 ASNS 2.74
+8 ASNS 2.69
+9 ASNS 2.76
+10 ASNS 2.8

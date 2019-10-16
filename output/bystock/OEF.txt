@@ -1,0 +1,7 @@
+hour stock vwap
+4 OEF 117.1
+5 OEF 116.94
+6 OEF 117.45
+8 OEF 117.31
+9 OEF 118.01
+10 OEF 118.49

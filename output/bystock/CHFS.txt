@@ -1,0 +1,7 @@
+hour stock vwap
+4 CHFS 8.62
+5 CHFS 8.22
+6 CHFS 8.31
+8 CHFS 8.15
+9 CHFS 8.31
+10 CHFS 8.31

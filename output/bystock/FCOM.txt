@@ -1,0 +1,3 @@
+hour stock vwap
+7 FCOM 30.04
+10 FCOM 30.28

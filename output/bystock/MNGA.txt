@@ -1,0 +1,8 @@
+hour stock vwap
+4 MNGA 0.24
+5 MNGA 0.24
+6 MNGA 0.24
+7 MNGA 0.24
+8 MNGA 0.25
+9 MNGA 0.25
+10 MNGA 0.25

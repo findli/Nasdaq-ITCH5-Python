@@ -1,0 +1,3 @@
+hour stock vwap
+9 BBT-F 24.18
+10 BBT-F 24.33

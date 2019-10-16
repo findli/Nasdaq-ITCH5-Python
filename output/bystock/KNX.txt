@@ -1,0 +1,8 @@
+hour stock vwap
+4 KNX 31.69
+5 KNX 32.39
+6 KNX 32.71
+7 KNX 33.08
+8 KNX 33.1
+9 KNX 32.99
+10 KNX 33.17

@@ -1,0 +1,5 @@
+hour stock vwap
+5 FRBK 6.01
+8 FRBK 5.99
+9 FRBK 6.01
+10 FRBK 5.92

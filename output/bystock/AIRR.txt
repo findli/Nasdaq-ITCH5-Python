@@ -1,0 +1,4 @@
+hour stock vwap
+5 AIRR 23.41
+8 AIRR 23.59
+9 AIRR 23.78

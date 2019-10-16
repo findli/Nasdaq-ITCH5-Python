@@ -1,0 +1,7 @@
+hour stock vwap
+4 ARAV 3.66
+5 ARAV 3.75
+6 ARAV 3.77
+7 ARAV 3.77
+8 ARAV 3.76
+10 ARAV 3.75

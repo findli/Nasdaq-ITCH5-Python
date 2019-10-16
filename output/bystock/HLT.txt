@@ -1,0 +1,8 @@
+hour stock vwap
+4 HLT 73.97
+5 HLT 73.95
+6 HLT 73.87
+7 HLT 73.92
+8 HLT 73.73
+9 HLT 74.15
+10 HLT 74.3

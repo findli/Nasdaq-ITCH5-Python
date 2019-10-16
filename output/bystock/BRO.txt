@@ -1,0 +1,8 @@
+hour stock vwap
+4 BRO 26.74
+5 BRO 26.56
+6 BRO 26.66
+7 BRO 26.71
+8 BRO 26.67
+9 BRO 26.76
+10 BRO 26.72

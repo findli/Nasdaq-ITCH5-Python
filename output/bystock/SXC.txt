@@ -1,0 +1,8 @@
+hour stock vwap
+4 SXC 10.81
+5 SXC 10.9
+6 SXC 10.91
+7 SXC 11.03
+8 SXC 11.12
+9 SXC 11.24
+10 SXC 11.16

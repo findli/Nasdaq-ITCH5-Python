@@ -1,0 +1,8 @@
+hour stock vwap
+4 NHC 79.18
+5 NHC 79.16
+6 NHC 79.12
+7 NHC 79.63
+8 NHC 78.81
+9 NHC 79.64
+10 NHC 79.42

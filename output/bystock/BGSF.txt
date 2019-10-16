@@ -1,0 +1,7 @@
+hour stock vwap
+4 BGSF 23.76
+5 BGSF 24.01
+6 BGSF 24.01
+7 BGSF 24.35
+8 BGSF 24.38
+10 BGSF 24.4

@@ -1,0 +1,8 @@
+hour stock vwap
+4 IGT 15.7
+5 IGT 15.63
+6 IGT 15.67
+7 IGT 15.66
+8 IGT 15.65
+9 IGT 15.86
+10 IGT 15.88

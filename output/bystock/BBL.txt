@@ -1,0 +1,9 @@
+hour stock vwap
+2 BBL 43.75
+4 BBL 43.97
+5 BBL 43.95
+6 BBL 43.81
+7 BBL 43.86
+8 BBL 43.96
+9 BBL 44.49
+10 BBL 44.52

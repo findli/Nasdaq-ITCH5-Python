@@ -1,0 +1,2 @@
+hour stock vwap
+5 ENFR 21.03

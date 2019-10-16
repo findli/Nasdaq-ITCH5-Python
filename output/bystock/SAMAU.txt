@@ -1,0 +1,3 @@
+hour stock vwap
+8 SAMAU 10.0
+9 SAMAU 10.0

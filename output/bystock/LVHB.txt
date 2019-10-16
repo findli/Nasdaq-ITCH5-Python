@@ -1,0 +1,3 @@
+hour stock vwap
+6 LVHB 31.19
+7 LVHB 31.16

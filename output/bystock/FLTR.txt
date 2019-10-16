@@ -1,0 +1,4 @@
+hour stock vwap
+7 FLTR 25.02
+9 FLTR 25.01
+10 FLTR 25.01

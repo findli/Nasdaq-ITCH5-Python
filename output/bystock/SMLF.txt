@@ -1,0 +1,3 @@
+hour stock vwap
+7 SMLF 39.05
+10 SMLF 39.22

@@ -1,0 +1,7 @@
+hour stock vwap
+4 IBDN 24.52
+5 IBDN 24.52
+6 IBDN 24.52
+7 IBDN 24.52
+8 IBDN 24.53
+9 IBDN 24.56

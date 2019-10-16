@@ -1,0 +1,7 @@
+hour stock vwap
+5 VTEB 51.17
+6 VTEB 51.18
+7 VTEB 51.16
+8 VTEB 51.16
+9 VTEB 51.16
+10 VTEB 51.2

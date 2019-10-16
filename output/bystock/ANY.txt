@@ -1,0 +1,4 @@
+hour stock vwap
+4 ANY 2.7
+5 ANY 2.67
+10 ANY 2.67

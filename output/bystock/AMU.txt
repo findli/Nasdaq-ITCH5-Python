@@ -1,0 +1,3 @@
+hour stock vwap
+8 AMU 15.9
+9 AMU 15.98

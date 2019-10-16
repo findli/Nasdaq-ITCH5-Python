@@ -1,0 +1,7 @@
+hour stock vwap
+4 XNET 3.4
+5 XNET 3.41
+6 XNET 3.41
+8 XNET 3.4
+9 XNET 3.42
+10 XNET 3.42

@@ -1,0 +1,5 @@
+hour stock vwap
+6 GWX 29.6
+7 GWX 29.64
+9 GWX 29.6
+10 GWX 29.88

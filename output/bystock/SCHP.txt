@@ -1,0 +1,5 @@
+hour stock vwap
+6 SCHP 53.5
+8 SCHP 53.48
+9 SCHP 53.56
+10 SCHP 53.71

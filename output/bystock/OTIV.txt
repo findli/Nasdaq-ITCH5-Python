@@ -1,0 +1,4 @@
+hour stock vwap
+7 OTIV 0.77
+8 OTIV 0.76
+10 OTIV 0.77

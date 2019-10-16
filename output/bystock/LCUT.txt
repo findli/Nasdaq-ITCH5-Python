@@ -1,0 +1,7 @@
+hour stock vwap
+4 LCUT 10.35
+5 LCUT 9.97
+6 LCUT 9.98
+7 LCUT 9.87
+9 LCUT 9.69
+10 LCUT 9.81

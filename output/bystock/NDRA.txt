@@ -1,0 +1,6 @@
+hour stock vwap
+5 NDRA 2.09
+6 NDRA 2.17
+7 NDRA 2.19
+8 NDRA 2.2
+10 NDRA 2.21

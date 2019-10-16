@@ -1,0 +1,8 @@
+hour stock vwap
+4 GTS 20.14
+5 GTS 19.99
+6 GTS 20.06
+7 GTS 20.01
+8 GTS 19.94
+9 GTS 20.15
+10 GTS 20.06

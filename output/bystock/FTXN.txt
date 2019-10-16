@@ -1,0 +1,3 @@
+hour stock vwap
+6 FTXN 18.54
+10 FTXN 18.72

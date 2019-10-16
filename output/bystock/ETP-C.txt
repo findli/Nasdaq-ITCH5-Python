@@ -1,0 +1,6 @@
+hour stock vwap
+4 ETP-C 24.05
+7 ETP-C 24.21
+8 ETP-C 24.26
+9 ETP-C 24.45
+10 ETP-C 24.37

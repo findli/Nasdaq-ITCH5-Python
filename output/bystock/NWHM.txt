@@ -1,0 +1,3 @@
+hour stock vwap
+7 NWHM 6.65
+10 NWHM 6.93

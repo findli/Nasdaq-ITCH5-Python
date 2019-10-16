@@ -1,0 +1,7 @@
+hour stock vwap
+5 IWO 182.83
+6 IWO 183.72
+7 IWO 183.97
+8 IWO 183.72
+9 IWO 185.35
+10 IWO 185.23

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OIS 17.26
+5 OIS 17.04
+6 OIS 17.13
+7 OIS 17.14
+8 OIS 17.2
+9 OIS 17.32
+10 OIS 17.26

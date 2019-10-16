@@ -1,0 +1,5 @@
+hour stock vwap
+4 CIDM 1.0
+5 CIDM 1.0
+6 CIDM 1.0
+7 CIDM 1.0

@@ -1,0 +1,8 @@
+hour stock vwap
+4 NCR 26.74
+5 NCR 26.63
+6 NCR 26.75
+7 NCR 26.72
+8 NCR 26.68
+9 NCR 26.85
+10 NCR 26.91

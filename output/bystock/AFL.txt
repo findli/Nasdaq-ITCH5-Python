@@ -1,0 +1,8 @@
+hour stock vwap
+4 AFL 47.14
+5 AFL 47.12
+6 AFL 47.23
+7 AFL 47.34
+8 AFL 47.19
+9 AFL 47.48
+10 AFL 47.33

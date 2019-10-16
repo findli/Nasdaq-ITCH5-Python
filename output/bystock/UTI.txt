@@ -1,0 +1,6 @@
+hour stock vwap
+5 UTI 3.38
+6 UTI 3.52
+8 UTI 3.38
+9 UTI 3.43
+10 UTI 3.34

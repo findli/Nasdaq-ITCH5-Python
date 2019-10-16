@@ -1,0 +1,8 @@
+hour stock vwap
+4 FSM 3.83
+5 FSM 3.86
+6 FSM 3.79
+7 FSM 3.8
+8 FSM 3.82
+9 FSM 3.89
+10 FSM 3.9

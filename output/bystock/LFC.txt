@@ -1,0 +1,8 @@
+hour stock vwap
+4 LFC 11.96
+5 LFC 11.93
+6 LFC 11.94
+7 LFC 11.92
+8 LFC 11.93
+9 LFC 12.05
+10 LFC 12.05

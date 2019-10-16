@@ -1,0 +1,7 @@
+hour stock vwap
+4 GLP 19.07
+6 GLP 19.13
+7 GLP 19.24
+8 GLP 19.26
+9 GLP 19.44
+10 GLP 19.24

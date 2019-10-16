@@ -1,0 +1,8 @@
+hour stock vwap
+4 GASL 7.97
+5 GASL 7.95
+6 GASL 8.19
+7 GASL 8.22
+8 GASL 8.24
+9 GASL 8.36
+10 GASL 8.37

@@ -1,0 +1,4 @@
+hour stock vwap
+8 SBT 8.63
+9 SBT 8.69
+10 SBT 8.77

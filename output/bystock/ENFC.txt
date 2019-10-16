@@ -1,0 +1,4 @@
+hour stock vwap
+6 ENFC 23.37
+7 ENFC 23.3
+10 ENFC 23.3

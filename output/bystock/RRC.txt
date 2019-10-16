@@ -1,0 +1,8 @@
+hour stock vwap
+4 RRC 11.49
+5 RRC 11.52
+6 RRC 11.68
+7 RRC 11.64
+8 RRC 11.65
+9 RRC 11.71
+10 RRC 11.76

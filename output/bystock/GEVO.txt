@@ -1,0 +1,8 @@
+hour stock vwap
+4 GEVO 2.65
+5 GEVO 2.62
+6 GEVO 2.62
+8 GEVO 2.67
+9 GEVO 2.65
+10 GEVO 2.67
+12 GEVO 2.62

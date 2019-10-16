@@ -1,0 +1,8 @@
+hour stock vwap
+4 AMLP 9.86
+5 AMLP 9.83
+6 AMLP 9.89
+7 AMLP 9.94
+8 AMLP 9.95
+9 AMLP 9.99
+10 AMLP 9.97

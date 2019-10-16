@@ -1,0 +1,6 @@
+hour stock vwap
+5 KALV 17.52
+6 KALV 17.5
+7 KALV 17.34
+8 KALV 17.4
+10 KALV 17.7

@@ -1,0 +1,8 @@
+hour stock vwap
+4 VFC 84.23
+5 VFC 83.77
+6 VFC 83.89
+7 VFC 84.05
+8 VFC 84.09
+9 VFC 84.63
+10 VFC 84.56

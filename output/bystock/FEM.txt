@@ -1,0 +1,6 @@
+hour stock vwap
+5 FEM 24.7
+7 FEM 24.78
+8 FEM 24.77
+9 FEM 24.85
+10 FEM 25.08

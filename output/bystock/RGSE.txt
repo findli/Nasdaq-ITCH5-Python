@@ -1,0 +1,8 @@
+hour stock vwap
+4 RGSE 0.51
+5 RGSE 0.51
+6 RGSE 0.51
+7 RGSE 0.51
+8 RGSE 0.51
+9 RGSE 0.52
+10 RGSE 0.52

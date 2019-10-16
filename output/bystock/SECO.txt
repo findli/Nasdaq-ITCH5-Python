@@ -1,0 +1,8 @@
+hour stock vwap
+4 SECO 8.9
+5 SECO 8.82
+6 SECO 8.83
+7 SECO 8.81
+8 SECO 8.86
+9 SECO 8.88
+10 SECO 8.89

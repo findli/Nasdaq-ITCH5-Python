@@ -1,0 +1,2 @@
+hour stock vwap
+9 FRD 7.78

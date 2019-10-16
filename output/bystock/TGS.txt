@@ -1,0 +1,7 @@
+hour stock vwap
+4 TGS 16.78
+5 TGS 16.64
+6 TGS 16.69
+7 TGS 16.85
+9 TGS 16.8
+10 TGS 16.71

@@ -1,0 +1,7 @@
+hour stock vwap
+5 EIV 11.72
+6 EIV 11.71
+7 EIV 11.7
+8 EIV 11.68
+9 EIV 11.72
+10 EIV 11.72

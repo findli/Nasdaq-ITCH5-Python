@@ -1,0 +1,8 @@
+hour stock vwap
+4 ERII 7.52
+5 ERII 7.53
+6 ERII 7.55
+7 ERII 7.55
+8 ERII 7.55
+9 ERII 7.57
+10 ERII 7.53

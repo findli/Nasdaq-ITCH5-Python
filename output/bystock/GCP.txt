@@ -1,0 +1,8 @@
+hour stock vwap
+4 GCP 25.45
+5 GCP 25.33
+6 GCP 25.08
+7 GCP 25.19
+8 GCP 25.22
+9 GCP 25.28
+10 GCP 25.2

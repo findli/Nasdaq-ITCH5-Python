@@ -1,0 +1,5 @@
+hour stock vwap
+4 CLFD 12.16
+5 CLFD 12.03
+9 CLFD 12.21
+10 CLFD 12.07

@@ -1,0 +1,7 @@
+hour stock vwap
+4 EDUC 7.92
+5 EDUC 7.83
+7 EDUC 7.85
+8 EDUC 7.86
+9 EDUC 7.96
+10 EDUC 7.94

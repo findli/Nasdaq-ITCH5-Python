@@ -1,0 +1,8 @@
+hour stock vwap
+4 FHN 14.82
+5 FHN 14.9
+6 FHN 14.98
+7 FHN 14.97
+8 FHN 14.92
+9 FHN 14.98
+10 FHN 14.93

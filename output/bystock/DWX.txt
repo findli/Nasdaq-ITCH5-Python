@@ -1,0 +1,7 @@
+hour stock vwap
+4 DWX 36.8
+5 DWX 36.78
+6 DWX 36.85
+8 DWX 36.84
+9 DWX 37.15
+10 DWX 37.22

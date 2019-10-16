@@ -1,0 +1,7 @@
+hour stock vwap
+4 SGRY 12.76
+5 SGRY 12.73
+6 SGRY 12.78
+7 SGRY 12.8
+9 SGRY 12.82
+10 SGRY 12.82

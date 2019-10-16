@@ -1,0 +1,3 @@
+hour stock vwap
+6 ASFI 4.25
+10 ASFI 4.27

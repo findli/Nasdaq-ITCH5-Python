@@ -1,0 +1,4 @@
+hour stock vwap
+6 LEU 2.82
+7 LEU 2.86
+9 LEU 3.11

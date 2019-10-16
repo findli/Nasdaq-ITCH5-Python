@@ -1,0 +1,4 @@
+hour stock vwap
+4 GS-N 26.12
+6 GS-N 26.21
+8 GS-N 26.18

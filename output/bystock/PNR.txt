@@ -1,0 +1,8 @@
+hour stock vwap
+4 PNR 41.08
+5 PNR 41.0
+6 PNR 41.04
+7 PNR 41.1
+8 PNR 41.01
+9 PNR 41.23
+10 PNR 41.22

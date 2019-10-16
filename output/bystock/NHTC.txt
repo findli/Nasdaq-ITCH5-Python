@@ -1,0 +1,7 @@
+hour stock vwap
+4 NHTC 16.86
+5 NHTC 17.03
+6 NHTC 16.98
+7 NHTC 16.93
+9 NHTC 17.01
+10 NHTC 17.01

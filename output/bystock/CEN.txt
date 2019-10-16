@@ -1,0 +1,5 @@
+hour stock vwap
+7 CEN 8.17
+8 CEN 8.18
+9 CEN 8.25
+10 CEN 8.22

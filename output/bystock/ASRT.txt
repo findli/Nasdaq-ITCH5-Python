@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASRT 4.21
+5 ASRT 4.18
+6 ASRT 4.2
+7 ASRT 4.28
+8 ASRT 4.3
+9 ASRT 4.33
+10 ASRT 4.37

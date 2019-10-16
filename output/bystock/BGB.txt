@@ -1,0 +1,4 @@
+hour stock vwap
+4 BGB 14.11
+9 BGB 14.18
+10 BGB 14.21

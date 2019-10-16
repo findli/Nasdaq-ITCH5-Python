@@ -1,0 +1,5 @@
+hour stock vwap
+4 BOIL 24.97
+5 BOIL 24.79
+9 BOIL 24.59
+10 BOIL 24.76

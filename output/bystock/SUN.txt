@@ -1,0 +1,8 @@
+hour stock vwap
+4 SUN 30.05
+5 SUN 30.21
+6 SUN 30.4
+7 SUN 30.57
+8 SUN 30.67
+9 SUN 30.77
+10 SUN 30.64

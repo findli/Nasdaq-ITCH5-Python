@@ -1,0 +1,8 @@
+hour stock vwap
+4 CLR 45.74
+5 CLR 45.79
+6 CLR 46.24
+7 CLR 46.48
+8 CLR 46.44
+9 CLR 46.83
+10 CLR 47.12

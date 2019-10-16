@@ -1,0 +1,8 @@
+hour stock vwap
+4 FNJN 2.66
+5 FNJN 2.68
+6 FNJN 2.74
+7 FNJN 2.72
+8 FNJN 2.75
+9 FNJN 2.77
+10 FNJN 2.8

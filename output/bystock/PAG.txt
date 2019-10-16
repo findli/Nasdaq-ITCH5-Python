@@ -1,0 +1,8 @@
+hour stock vwap
+4 PAG 46.2
+5 PAG 46.26
+6 PAG 46.43
+7 PAG 46.38
+8 PAG 46.3
+9 PAG 46.48
+10 PAG 46.55

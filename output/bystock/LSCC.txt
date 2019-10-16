@@ -1,0 +1,8 @@
+hour stock vwap
+4 LSCC 7.62
+5 LSCC 7.58
+6 LSCC 7.6
+7 LSCC 7.62
+8 LSCC 7.68
+9 LSCC 7.78
+10 LSCC 7.79

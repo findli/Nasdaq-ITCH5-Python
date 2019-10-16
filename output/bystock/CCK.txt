@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCK 49.49
+5 CCK 49.36
+6 CCK 49.47
+7 CCK 49.59
+8 CCK 49.42
+9 CCK 49.7
+10 CCK 49.6

@@ -1,0 +1,5 @@
+hour stock vwap
+5 VOE 102.92
+7 VOE 103.52
+9 VOE 103.89
+10 VOE 104.05

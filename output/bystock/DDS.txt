@@ -1,0 +1,9 @@
+hour stock vwap
+4 DDS 66.5
+5 DDS 66.11
+6 DDS 66.65
+7 DDS 66.66
+8 DDS 66.85
+9 DDS 66.96
+10 DDS 66.96
+11 DDS 67.48

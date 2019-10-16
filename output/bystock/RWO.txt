@@ -1,0 +1,4 @@
+hour stock vwap
+5 RWO 48.67
+9 RWO 48.69
+10 RWO 48.83

@@ -1,0 +1,7 @@
+hour stock vwap
+4 AI 8.57
+5 AI 8.59
+6 AI 8.62
+8 AI 8.62
+9 AI 8.64
+10 AI 8.65

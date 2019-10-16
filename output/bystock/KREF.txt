@@ -1,0 +1,5 @@
+hour stock vwap
+5 KREF 20.4
+6 KREF 20.43
+7 KREF 20.43
+8 KREF 20.35

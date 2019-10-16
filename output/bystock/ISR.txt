@@ -1,0 +1,5 @@
+hour stock vwap
+4 ISR 0.42
+5 ISR 0.41
+6 ISR 0.41
+10 ISR 0.41

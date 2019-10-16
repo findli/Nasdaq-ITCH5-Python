@@ -1,0 +1,3 @@
+hour stock vwap
+7 PML 13.43
+10 PML 13.48

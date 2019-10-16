@@ -1,0 +1,5 @@
+hour stock vwap
+5 ESGD 60.73
+6 ESGD 60.82
+9 ESGD 60.92
+10 ESGD 61.22

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DOX 55.5
+5 DOX 55.33
+6 DOX 55.56
+7 DOX 55.46
+8 DOX 55.25
+9 DOX 55.58
+10 DOX 55.46

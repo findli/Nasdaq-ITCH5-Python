@@ -1,0 +1,4 @@
+hour stock vwap
+4 LOAN 6.07
+6 LOAN 6.08
+10 LOAN 6.21

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ING 12.05
+5 ING 12.04
+6 ING 12.07
+7 ING 12.1
+8 ING 12.07
+9 ING 12.16
+10 ING 12.14

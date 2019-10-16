@@ -1,0 +1,8 @@
+hour stock vwap
+4 HOG 34.77
+5 HOG 35.47
+6 HOG 35.86
+7 HOG 36.07
+8 HOG 36.07
+9 HOG 36.38
+10 HOG 36.39

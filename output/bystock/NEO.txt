@@ -1,0 +1,8 @@
+hour stock vwap
+4 NEO 16.76
+5 NEO 16.55
+6 NEO 16.67
+7 NEO 16.71
+8 NEO 16.56
+9 NEO 16.48
+10 NEO 16.52

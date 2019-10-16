@@ -1,0 +1,4 @@
+hour stock vwap
+5 TMFC 19.78
+10 TMFC 20.07
+11 TMFC 20.45

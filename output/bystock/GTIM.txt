@@ -1,0 +1,3 @@
+hour stock vwap
+7 GTIM 2.46
+8 GTIM 2.4

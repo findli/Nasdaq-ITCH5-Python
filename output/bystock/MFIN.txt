@@ -1,0 +1,5 @@
+hour stock vwap
+6 MFIN 5.25
+8 MFIN 5.3
+9 MFIN 5.29
+10 MFIN 5.28

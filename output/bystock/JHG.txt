@@ -1,0 +1,6 @@
+hour stock vwap
+4 JHG 21.84
+5 JHG 21.52
+6 JHG 21.46
+9 JHG 22.12
+10 JHG 21.99

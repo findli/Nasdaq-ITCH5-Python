@@ -1,0 +1,7 @@
+hour stock vwap
+4 NH 0.59
+5 NH 0.58
+7 NH 0.56
+8 NH 0.57
+9 NH 0.56
+10 NH 0.53

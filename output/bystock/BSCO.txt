@@ -1,0 +1,6 @@
+hour stock vwap
+5 BSCO 20.25
+6 BSCO 20.25
+7 BSCO 20.24
+8 BSCO 20.25
+9 BSCO 20.31

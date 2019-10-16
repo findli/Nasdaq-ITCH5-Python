@@ -1,0 +1,6 @@
+hour stock vwap
+5 AMEH 19.17
+6 AMEH 19.16
+8 AMEH 18.81
+9 AMEH 18.77
+10 AMEH 18.86

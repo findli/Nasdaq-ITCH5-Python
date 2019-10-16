@@ -1,0 +1,5 @@
+hour stock vwap
+4 TAIT 1.93
+5 TAIT 1.96
+9 TAIT 1.97
+10 TAIT 1.97

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FNV 76.43
+5 FNV 76.11
+6 FNV 75.71
+7 FNV 75.62
+8 FNV 75.32
+9 FNV 76.6
+10 FNV 76.29

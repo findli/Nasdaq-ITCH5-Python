@@ -1,0 +1,8 @@
+hour stock vwap
+4 BEN 29.85
+5 BEN 29.01
+6 BEN 29.34
+7 BEN 29.14
+8 BEN 29.26
+9 BEN 29.48
+10 BEN 29.21

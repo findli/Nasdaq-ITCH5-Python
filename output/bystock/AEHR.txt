@@ -1,0 +1,6 @@
+hour stock vwap
+4 AEHR 1.2
+5 AEHR 1.19
+6 AEHR 1.18
+8 AEHR 1.18
+10 AEHR 1.22

@@ -1,0 +1,7 @@
+hour stock vwap
+5 MFSF 27.99
+6 MFSF 28.02
+7 MFSF 28.13
+8 MFSF 28.14
+9 MFSF 28.38
+10 MFSF 28.38

@@ -1,0 +1,8 @@
+hour stock vwap
+4 VSTM 3.08
+5 VSTM 3.09
+6 VSTM 3.12
+7 VSTM 3.15
+8 VSTM 3.14
+9 VSTM 3.15
+10 VSTM 3.2

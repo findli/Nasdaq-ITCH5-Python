@@ -1,0 +1,3 @@
+hour stock vwap
+7 PSF 26.37
+10 PSF 26.47

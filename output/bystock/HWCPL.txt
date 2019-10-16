@@ -1,0 +1,4 @@
+hour stock vwap
+4 HWCPL 25.36
+8 HWCPL 25.17
+10 HWCPL 24.92

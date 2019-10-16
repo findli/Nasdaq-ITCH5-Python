@@ -1,0 +1,5 @@
+hour stock vwap
+6 FV 27.68
+7 FV 27.7
+9 FV 28.02
+10 FV 28.0

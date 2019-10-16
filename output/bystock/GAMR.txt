@@ -1,0 +1,3 @@
+hour stock vwap
+6 GAMR 41.93
+8 GAMR 41.94

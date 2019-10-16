@@ -1,0 +1,7 @@
+hour stock vwap
+4 OPY 26.35
+6 OPY 26.54
+7 OPY 26.65
+8 OPY 26.56
+9 OPY 26.79
+10 OPY 26.75

@@ -1,0 +1,5 @@
+hour stock vwap
+5 AJX 12.88
+8 AJX 12.84
+9 AJX 12.87
+10 AJX 12.81

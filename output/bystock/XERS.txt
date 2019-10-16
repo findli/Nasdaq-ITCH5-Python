@@ -1,0 +1,6 @@
+hour stock vwap
+4 XERS 15.06
+5 XERS 14.83
+6 XERS 14.86
+9 XERS 14.86
+10 XERS 14.89

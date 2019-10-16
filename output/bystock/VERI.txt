@@ -1,0 +1,8 @@
+hour stock vwap
+4 VERI 5.36
+5 VERI 5.41
+6 VERI 5.47
+7 VERI 5.5
+8 VERI 5.38
+9 VERI 5.5
+10 VERI 5.5

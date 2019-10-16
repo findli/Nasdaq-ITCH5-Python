@@ -1,0 +1,4 @@
+hour stock vwap
+4 IBDP 24.29
+7 IBDP 24.28
+9 IBDP 24.35

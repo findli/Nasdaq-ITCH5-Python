@@ -1,0 +1,8 @@
+hour stock vwap
+4 LNC 57.69
+5 LNC 57.33
+6 LNC 57.75
+7 LNC 57.93
+8 LNC 57.76
+9 LNC 58.0
+10 LNC 57.96

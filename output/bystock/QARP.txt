@@ -1,0 +1,3 @@
+hour stock vwap
+7 QARP 24.97
+8 QARP 24.94

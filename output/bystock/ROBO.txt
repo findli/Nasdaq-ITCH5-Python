@@ -1,0 +1,6 @@
+hour stock vwap
+4 ROBO 35.67
+5 ROBO 35.64
+6 ROBO 35.74
+9 ROBO 36.08
+10 ROBO 36.12

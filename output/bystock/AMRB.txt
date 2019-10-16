@@ -1,0 +1,3 @@
+hour stock vwap
+7 AMRB 13.77
+10 AMRB 13.5

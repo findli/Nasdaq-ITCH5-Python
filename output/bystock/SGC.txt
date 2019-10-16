@@ -1,0 +1,8 @@
+hour stock vwap
+4 SGC 17.71
+5 SGC 17.66
+6 SGC 17.55
+7 SGC 17.55
+8 SGC 17.64
+9 SGC 17.7
+10 SGC 17.59

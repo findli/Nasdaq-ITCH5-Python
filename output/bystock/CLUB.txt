@@ -1,0 +1,4 @@
+hour stock vwap
+4 CLUB 6.01
+9 CLUB 5.99
+10 CLUB 5.92

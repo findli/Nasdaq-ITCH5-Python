@@ -1,0 +1,8 @@
+hour stock vwap
+4 BXS 29.11
+5 BXS 29.01
+6 BXS 29.09
+7 BXS 29.12
+8 BXS 29.18
+9 BXS 29.35
+10 BXS 29.32

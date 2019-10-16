@@ -1,0 +1,8 @@
+hour stock vwap
+4 CFG 34.71
+5 CFG 34.66
+6 CFG 34.85
+7 CFG 34.89
+8 CFG 34.81
+9 CFG 34.96
+10 CFG 34.67

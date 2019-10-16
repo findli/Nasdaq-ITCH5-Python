@@ -1,0 +1,8 @@
+hour stock vwap
+4 WNC 14.01
+5 WNC 13.73
+6 WNC 13.97
+7 WNC 14.08
+8 WNC 14.04
+9 WNC 14.16
+10 WNC 14.02

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SPWH 5.3
+5 SPWH 5.15
+6 SPWH 5.09
+7 SPWH 5.07
+8 SPWH 5.09
+9 SPWH 5.12
+10 SPWH 5.13

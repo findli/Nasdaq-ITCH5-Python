@@ -1,0 +1,8 @@
+hour stock vwap
+4 NKE 80.5
+5 NKE 80.23
+6 NKE 80.31
+7 NKE 80.38
+8 NKE 80.27
+9 NKE 80.66
+10 NKE 81.16

@@ -1,0 +1,5 @@
+hour stock vwap
+4 SDLP 1.04
+7 SDLP 1.05
+9 SDLP 1.04
+10 SDLP 1.04

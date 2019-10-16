@@ -1,0 +1,7 @@
+hour stock vwap
+5 ALBO 22.69
+6 ALBO 23.39
+7 ALBO 23.48
+8 ALBO 23.67
+9 ALBO 25.11
+10 ALBO 24.55

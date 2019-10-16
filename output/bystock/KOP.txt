@@ -1,0 +1,8 @@
+hour stock vwap
+4 KOP 22.82
+5 KOP 22.81
+6 KOP 22.88
+7 KOP 23.21
+8 KOP 22.88
+9 KOP 23.0
+10 KOP 22.99

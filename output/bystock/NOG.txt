@@ -1,0 +1,8 @@
+hour stock vwap
+4 NOG 2.54
+5 NOG 2.54
+6 NOG 2.57
+7 NOG 2.54
+8 NOG 2.55
+9 NOG 2.56
+10 NOG 2.59

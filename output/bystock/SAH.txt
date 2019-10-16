@@ -1,0 +1,7 @@
+hour stock vwap
+5 SAH 15.26
+6 SAH 15.27
+7 SAH 15.32
+8 SAH 15.2
+9 SAH 15.31
+10 SAH 15.39

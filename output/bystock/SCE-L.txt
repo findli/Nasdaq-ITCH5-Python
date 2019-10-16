@@ -1,0 +1,5 @@
+hour stock vwap
+4 SCE-L 18.45
+5 SCE-L 18.73
+9 SCE-L 18.7
+10 SCE-L 18.71

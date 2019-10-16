@@ -1,0 +1,6 @@
+hour stock vwap
+4 RTIX 4.36
+7 RTIX 4.29
+8 RTIX 4.31
+9 RTIX 4.3
+10 RTIX 4.31

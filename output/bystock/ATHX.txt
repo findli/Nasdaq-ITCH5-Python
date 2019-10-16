@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATHX 1.58
+5 ATHX 1.53
+6 ATHX 1.59
+7 ATHX 1.58
+8 ATHX 1.59
+9 ATHX 1.58
+10 ATHX 1.57

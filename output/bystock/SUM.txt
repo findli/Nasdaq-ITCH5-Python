@@ -1,0 +1,8 @@
+hour stock vwap
+4 SUM 15.15
+5 SUM 15.06
+6 SUM 15.04
+7 SUM 14.97
+8 SUM 14.91
+9 SUM 15.01
+10 SUM 15.03

@@ -1,0 +1,5 @@
+hour stock vwap
+4 CUI 1.48
+5 CUI 1.55
+8 CUI 1.58
+10 CUI 1.6

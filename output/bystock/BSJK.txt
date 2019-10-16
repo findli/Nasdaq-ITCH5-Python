@@ -1,0 +1,4 @@
+hour stock vwap
+7 BSJK 23.84
+9 BSJK 23.86
+10 BSJK 23.92

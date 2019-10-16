@@ -1,0 +1,8 @@
+hour stock vwap
+4 DCI 46.72
+5 DCI 46.58
+6 DCI 46.89
+7 DCI 46.92
+8 DCI 46.74
+9 DCI 47.35
+10 DCI 47.43

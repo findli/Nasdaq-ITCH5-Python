@@ -1,0 +1,4 @@
+hour stock vwap
+5 PICK 29.32
+6 PICK 29.34
+10 PICK 29.77

@@ -1,0 +1,4 @@
+hour stock vwap
+4 EVI 36.13
+7 EVI 34.37
+10 EVI 33.94

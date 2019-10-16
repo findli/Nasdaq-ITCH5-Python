@@ -1,0 +1,4 @@
+hour stock vwap
+6 WFC-Q 25.39
+7 WFC-Q 25.36
+10 WFC-Q 25.36

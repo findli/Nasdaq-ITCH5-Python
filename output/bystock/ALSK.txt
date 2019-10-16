@@ -1,0 +1,5 @@
+hour stock vwap
+5 ALSK 1.94
+6 ALSK 1.94
+9 ALSK 1.91
+10 ALSK 1.93

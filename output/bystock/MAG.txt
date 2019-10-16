@@ -1,0 +1,6 @@
+hour stock vwap
+6 MAG 8.49
+7 MAG 8.52
+8 MAG 8.5
+9 MAG 8.67
+10 MAG 8.72

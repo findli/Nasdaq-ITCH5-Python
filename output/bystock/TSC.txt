@@ -1,0 +1,7 @@
+hour stock vwap
+4 TSC 21.2
+5 TSC 21.02
+6 TSC 21.04
+7 TSC 21.06
+9 TSC 21.08
+10 TSC 21.21

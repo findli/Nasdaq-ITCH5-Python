@@ -1,0 +1,8 @@
+hour stock vwap
+4 CTS 27.57
+5 CTS 27.73
+6 CTS 27.63
+7 CTS 27.55
+8 CTS 27.62
+9 CTS 28.04
+10 CTS 28.0

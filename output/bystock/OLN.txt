@@ -1,0 +1,8 @@
+hour stock vwap
+4 OLN 23.49
+5 OLN 23.69
+6 OLN 23.91
+7 OLN 23.9
+8 OLN 23.74
+9 OLN 24.1
+10 OLN 24.21

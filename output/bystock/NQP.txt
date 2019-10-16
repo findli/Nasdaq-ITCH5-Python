@@ -1,0 +1,5 @@
+hour stock vwap
+4 NQP 12.6
+8 NQP 12.62
+9 NQP 12.6
+10 NQP 12.59

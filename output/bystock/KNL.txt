@@ -1,0 +1,8 @@
+hour stock vwap
+3 KNL 19.14
+4 KNL 19.55
+5 KNL 19.61
+7 KNL 19.64
+8 KNL 19.6
+9 KNL 19.68
+10 KNL 19.65

@@ -1,0 +1,6 @@
+hour stock vwap
+4 INDL 58.27
+5 INDL 57.8
+6 INDL 57.96
+9 INDL 60.71
+10 INDL 60.62

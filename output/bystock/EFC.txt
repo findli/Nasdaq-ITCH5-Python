@@ -1,0 +1,6 @@
+hour stock vwap
+5 EFC 16.32
+6 EFC 16.34
+7 EFC 16.34
+8 EFC 16.34
+9 EFC 16.33

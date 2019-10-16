@@ -1,0 +1,8 @@
+hour stock vwap
+4 PSLV 5.73
+5 PSLV 5.75
+6 PSLV 5.76
+7 PSLV 5.76
+8 PSLV 5.76
+9 PSLV 5.8
+10 PSLV 5.8

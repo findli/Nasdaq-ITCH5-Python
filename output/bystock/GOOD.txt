@@ -1,0 +1,7 @@
+hour stock vwap
+4 GOOD 19.76
+5 GOOD 19.79
+6 GOOD 19.8
+8 GOOD 19.8
+9 GOOD 19.81
+10 GOOD 19.79

@@ -1,0 +1,7 @@
+hour stock vwap
+5 IVW 158.3
+6 IVW 158.46
+7 IVW 158.89
+8 IVW 158.58
+9 IVW 159.63
+10 IVW 159.86

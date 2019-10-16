@@ -1,0 +1,5 @@
+hour stock vwap
+5 BCOV 7.54
+7 BCOV 7.6
+8 BCOV 7.56
+10 BCOV 7.63

@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWW 44.47
+5 EWW 44.2
+6 EWW 44.25
+7 EWW 44.06
+8 EWW 43.95
+9 EWW 44.47
+10 EWW 44.51

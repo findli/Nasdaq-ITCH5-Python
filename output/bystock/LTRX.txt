@@ -1,0 +1,3 @@
+hour stock vwap
+6 LTRX 2.85
+10 LTRX 2.78

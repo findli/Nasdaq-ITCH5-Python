@@ -1,0 +1,6 @@
+hour stock vwap
+4 CTIC 1.04
+6 CTIC 1.14
+7 CTIC 1.2
+8 CTIC 1.18
+10 CTIC 1.16

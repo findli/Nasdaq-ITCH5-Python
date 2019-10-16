@@ -1,0 +1,6 @@
+hour stock vwap
+6 IWP 124.4
+7 IWP 124.65
+8 IWP 124.36
+9 IWP 124.87
+10 IWP 125.42

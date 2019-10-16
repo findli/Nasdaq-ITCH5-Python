@@ -1,0 +1,4 @@
+hour stock vwap
+6 MGU 21.03
+8 MGU 21.16
+9 MGU 21.16

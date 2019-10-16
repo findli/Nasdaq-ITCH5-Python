@@ -1,0 +1,8 @@
+hour stock vwap
+4 NEP 41.64
+5 NEP 41.89
+6 NEP 41.46
+7 NEP 41.19
+8 NEP 40.8
+9 NEP 40.96
+10 NEP 40.36

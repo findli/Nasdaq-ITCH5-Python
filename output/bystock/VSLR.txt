@@ -1,0 +1,8 @@
+hour stock vwap
+4 VSLR 4.02
+5 VSLR 4.0
+6 VSLR 4.01
+7 VSLR 4.02
+8 VSLR 3.98
+9 VSLR 4.01
+10 VSLR 4.03

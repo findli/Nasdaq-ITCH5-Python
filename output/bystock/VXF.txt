@@ -1,0 +1,5 @@
+hour stock vwap
+5 VXF 109.12
+7 VXF 109.64
+9 VXF 109.77
+10 VXF 110.23

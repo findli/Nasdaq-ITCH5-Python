@@ -1,0 +1,8 @@
+hour stock vwap
+4 LNN 85.98
+5 LNN 86.52
+6 LNN 85.95
+7 LNN 85.49
+8 LNN 85.94
+9 LNN 86.74
+10 LNN 86.45

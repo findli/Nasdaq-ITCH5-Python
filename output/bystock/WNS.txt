@@ -1,0 +1,8 @@
+hour stock vwap
+4 WNS 48.56
+5 WNS 48.98
+6 WNS 49.0
+7 WNS 48.99
+8 WNS 48.96
+9 WNS 48.95
+10 WNS 48.9

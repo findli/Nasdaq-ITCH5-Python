@@ -1,0 +1,3 @@
+hour stock vwap
+9 FAT 5.36
+10 FAT 5.2

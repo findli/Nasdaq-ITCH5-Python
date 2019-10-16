@@ -1,0 +1,8 @@
+hour stock vwap
+4 AAP 158.02
+5 AAP 158.9
+6 AAP 159.75
+7 AAP 159.8
+8 AAP 158.68
+9 AAP 159.1
+10 AAP 158.9

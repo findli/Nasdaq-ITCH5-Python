@@ -1,0 +1,8 @@
+hour stock vwap
+4 ACC 45.8
+5 ACC 46.04
+6 ACC 46.19
+7 ACC 46.26
+8 ACC 46.17
+9 ACC 46.22
+10 ACC 46.18

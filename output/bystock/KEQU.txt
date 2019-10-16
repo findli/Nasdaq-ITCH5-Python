@@ -1,0 +1,6 @@
+hour stock vwap
+7 KEQU 31.65
+8 KEQU 31.64
+9 KEQU 31.69
+10 KEQU 31.63
+11 KEQU 32.0

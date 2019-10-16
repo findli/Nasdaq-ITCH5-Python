@@ -1,0 +1,3 @@
+hour stock vwap
+8 CWAI 24.57
+10 CWAI 24.64

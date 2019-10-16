@@ -1,0 +1,6 @@
+hour stock vwap
+4 RBCAA 41.36
+5 RBCAA 41.11
+6 RBCAA 41.35
+9 RBCAA 41.3
+10 RBCAA 41.15

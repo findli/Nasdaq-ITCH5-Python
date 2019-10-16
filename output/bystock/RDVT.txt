@@ -1,0 +1,6 @@
+hour stock vwap
+4 RDVT 7.42
+6 RDVT 7.5
+7 RDVT 7.64
+9 RDVT 7.72
+10 RDVT 7.73

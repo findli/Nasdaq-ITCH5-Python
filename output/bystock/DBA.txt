@@ -1,0 +1,6 @@
+hour stock vwap
+6 DBA 16.97
+7 DBA 16.96
+8 DBA 16.95
+9 DBA 16.98
+10 DBA 17.0

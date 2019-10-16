@@ -1,0 +1,4 @@
+hour stock vwap
+5 EML 27.4
+9 EML 27.39
+10 EML 27.41

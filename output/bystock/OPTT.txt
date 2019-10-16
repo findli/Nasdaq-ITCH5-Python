@@ -1,0 +1,6 @@
+hour stock vwap
+5 OPTT 0.3
+7 OPTT 0.3
+8 OPTT 0.3
+9 OPTT 0.29
+10 OPTT 0.29

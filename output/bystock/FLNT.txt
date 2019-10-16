@@ -1,0 +1,5 @@
+hour stock vwap
+4 FLNT 4.55
+7 FLNT 4.5
+9 FLNT 4.63
+10 FLNT 4.64

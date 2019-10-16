@@ -1,0 +1,7 @@
+hour stock vwap
+4 CJJD 2.07
+5 CJJD 2.09
+6 CJJD 2.1
+7 CJJD 2.09
+8 CJJD 2.08
+9 CJJD 2.1

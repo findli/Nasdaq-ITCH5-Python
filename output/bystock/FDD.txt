@@ -1,0 +1,4 @@
+hour stock vwap
+7 FDD 12.66
+9 FDD 12.73
+10 FDD 12.74

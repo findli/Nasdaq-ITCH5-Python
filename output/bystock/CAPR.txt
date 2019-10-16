@@ -1,0 +1,5 @@
+hour stock vwap
+7 CAPR 0.47
+8 CAPR 0.49
+9 CAPR 0.52
+10 CAPR 0.51

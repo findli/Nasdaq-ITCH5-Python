@@ -1,0 +1,8 @@
+hour stock vwap
+4 PS 29.02
+5 PS 28.3
+6 PS 28.2
+7 PS 28.27
+8 PS 28.27
+9 PS 28.32
+10 PS 28.58

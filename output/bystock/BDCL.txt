@@ -1,0 +1,4 @@
+hour stock vwap
+6 BDCL 13.49
+7 BDCL 13.5
+9 BDCL 13.52

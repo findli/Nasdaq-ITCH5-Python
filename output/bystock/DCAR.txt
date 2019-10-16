@@ -1,0 +1,6 @@
+hour stock vwap
+5 DCAR 0.39
+7 DCAR 0.4
+8 DCAR 0.38
+9 DCAR 0.38
+10 DCAR 0.38

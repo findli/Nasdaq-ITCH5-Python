@@ -1,0 +1,8 @@
+hour stock vwap
+4 DERM 6.63
+5 DERM 6.53
+6 DERM 6.55
+7 DERM 6.55
+8 DERM 6.58
+9 DERM 6.66
+10 DERM 6.58

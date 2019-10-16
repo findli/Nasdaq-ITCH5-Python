@@ -1,0 +1,7 @@
+hour stock vwap
+4 SHBI 15.13
+6 SHBI 15.3
+7 SHBI 15.08
+8 SHBI 15.36
+9 SHBI 15.27
+10 SHBI 15.38

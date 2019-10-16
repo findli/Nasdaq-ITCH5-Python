@@ -1,0 +1,5 @@
+hour stock vwap
+5 GVI 108.61
+8 GVI 108.58
+9 GVI 108.58
+10 GVI 108.79

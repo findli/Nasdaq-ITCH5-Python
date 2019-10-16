@@ -1,0 +1,7 @@
+hour stock vwap
+5 KRYS 22.55
+6 KRYS 21.43
+7 KRYS 21.59
+8 KRYS 22.04
+9 KRYS 22.64
+10 KRYS 22.63

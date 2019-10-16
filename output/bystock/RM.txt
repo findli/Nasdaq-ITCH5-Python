@@ -1,0 +1,4 @@
+hour stock vwap
+8 RM 27.13
+9 RM 27.12
+10 RM 27.24

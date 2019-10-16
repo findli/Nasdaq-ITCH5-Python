@@ -1,0 +1,3 @@
+hour stock vwap
+6 RVLT 0.63
+10 RVLT 0.66

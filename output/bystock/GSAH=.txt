@@ -1,0 +1,2 @@
+hour stock vwap
+8 GSAH= 10.25

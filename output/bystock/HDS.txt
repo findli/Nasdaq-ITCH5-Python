@@ -1,0 +1,8 @@
+hour stock vwap
+4 HDS 41.16
+5 HDS 41.15
+6 HDS 41.24
+7 HDS 41.32
+8 HDS 41.34
+9 HDS 41.61
+10 HDS 41.61

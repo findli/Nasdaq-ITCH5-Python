@@ -1,0 +1,5 @@
+hour stock vwap
+5 PAK 9.01
+6 PAK 9.01
+7 PAK 8.99
+10 PAK 8.89

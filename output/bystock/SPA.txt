@@ -1,0 +1,7 @@
+hour stock vwap
+5 SPA 18.41
+6 SPA 18.4
+7 SPA 18.4
+8 SPA 18.4
+9 SPA 18.4
+10 SPA 18.4

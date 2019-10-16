@@ -1,0 +1,5 @@
+hour stock vwap
+5 MEN 10.42
+6 MEN 10.42
+9 MEN 10.38
+10 MEN 10.41

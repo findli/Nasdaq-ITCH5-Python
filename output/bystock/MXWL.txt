@@ -1,0 +1,7 @@
+hour stock vwap
+4 MXWL 2.93
+5 MXWL 3.0
+6 MXWL 3.02
+7 MXWL 3.01
+9 MXWL 3.0
+10 MXWL 2.99

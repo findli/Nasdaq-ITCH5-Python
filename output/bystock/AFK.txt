@@ -1,0 +1,4 @@
+hour stock vwap
+5 AFK 21.34
+6 AFK 21.29
+9 AFK 21.41

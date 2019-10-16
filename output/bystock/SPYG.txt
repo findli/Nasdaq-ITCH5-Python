@@ -1,0 +1,5 @@
+hour stock vwap
+4 SPYG 34.17
+8 SPYG 34.25
+9 SPYG 34.5
+10 SPYG 34.46

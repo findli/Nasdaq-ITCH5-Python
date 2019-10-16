@@ -1,0 +1,6 @@
+hour stock vwap
+4 PUK 39.22
+6 PUK 39.12
+7 PUK 39.17
+9 PUK 39.33
+10 PUK 39.41

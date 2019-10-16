@@ -1,0 +1,9 @@
+hour stock vwap
+3 AKS 2.78
+4 AKS 2.71
+5 AKS 2.81
+6 AKS 2.89
+7 AKS 2.88
+8 AKS 2.88
+9 AKS 2.91
+10 AKS 2.91

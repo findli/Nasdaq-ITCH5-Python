@@ -1,0 +1,4 @@
+hour stock vwap
+7 DMPI 0.36
+9 DMPI 0.37
+10 DMPI 0.37

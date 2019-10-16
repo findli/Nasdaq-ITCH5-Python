@@ -1,0 +1,6 @@
+hour stock vwap
+4 PBPB 8.77
+5 PBPB 8.74
+7 PBPB 8.63
+8 PBPB 8.64
+10 PBPB 8.65

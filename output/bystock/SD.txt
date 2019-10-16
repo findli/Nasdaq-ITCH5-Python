@@ -1,0 +1,7 @@
+hour stock vwap
+5 SD 8.16
+6 SD 8.19
+7 SD 8.18
+8 SD 8.17
+9 SD 8.28
+10 SD 8.31

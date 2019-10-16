@@ -1,0 +1,5 @@
+hour stock vwap
+5 IPIC 4.89
+6 IPIC 4.89
+8 IPIC 4.88
+10 IPIC 5.02

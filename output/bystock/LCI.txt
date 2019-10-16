@@ -1,0 +1,8 @@
+hour stock vwap
+4 LCI 7.51
+5 LCI 7.44
+6 LCI 7.41
+7 LCI 7.37
+8 LCI 7.4
+9 LCI 7.39
+10 LCI 7.47

@@ -1,0 +1,6 @@
+hour stock vwap
+4 IUSG 55.32
+5 IUSG 55.39
+8 IUSG 55.52
+9 IUSG 55.69
+10 IUSG 56.13

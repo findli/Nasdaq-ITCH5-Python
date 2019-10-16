@@ -1,0 +1,5 @@
+hour stock vwap
+5 AGO-E 25.52
+8 AGO-E 25.45
+9 AGO-E 25.46
+10 AGO-E 25.53

@@ -1,0 +1,7 @@
+hour stock vwap
+5 NEAR 50.08
+6 NEAR 50.08
+7 NEAR 50.08
+8 NEAR 50.08
+9 NEAR 50.08
+10 NEAR 50.08

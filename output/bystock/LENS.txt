@@ -1,0 +1,5 @@
+hour stock vwap
+4 LENS 0.44
+5 LENS 0.45
+7 LENS 0.44
+8 LENS 0.43

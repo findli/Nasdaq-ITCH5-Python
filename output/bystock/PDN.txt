@@ -1,0 +1,4 @@
+hour stock vwap
+5 PDN 29.29
+7 PDN 29.47
+8 PDN 29.38

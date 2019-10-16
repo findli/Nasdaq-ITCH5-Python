@@ -1,0 +1,6 @@
+hour stock vwap
+6 PCOM 10.2
+7 PCOM 10.3
+8 PCOM 10.45
+9 PCOM 10.56
+10 PCOM 10.42

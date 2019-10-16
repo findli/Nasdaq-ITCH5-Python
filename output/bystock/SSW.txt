@@ -1,0 +1,7 @@
+hour stock vwap
+5 SSW 9.36
+6 SSW 9.39
+7 SSW 9.4
+8 SSW 9.39
+9 SSW 9.45
+10 SSW 9.44

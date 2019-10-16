@@ -1,0 +1,7 @@
+hour stock vwap
+4 ARGO 64.06
+5 ARGO 64.81
+6 ARGO 65.01
+7 ARGO 65.46
+9 ARGO 65.67
+10 ARGO 65.67

@@ -1,0 +1,7 @@
+hour stock vwap
+4 TTS 7.42
+5 TTS 7.41
+7 TTS 7.44
+8 TTS 7.48
+9 TTS 7.57
+10 TTS 7.62

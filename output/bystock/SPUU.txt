@@ -1,0 +1,4 @@
+hour stock vwap
+5 SPUU 45.83
+7 SPUU 46.29
+9 SPUU 46.66

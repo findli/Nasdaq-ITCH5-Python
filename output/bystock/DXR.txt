@@ -1,0 +1,6 @@
+hour stock vwap
+4 DXR 14.8
+5 DXR 14.72
+6 DXR 15.29
+7 DXR 15.02
+8 DXR 15.06

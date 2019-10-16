@@ -1,0 +1,8 @@
+hour stock vwap
+4 PGX 14.1
+5 PGX 14.1
+6 PGX 14.15
+7 PGX 14.14
+8 PGX 14.15
+9 PGX 14.16
+10 PGX 14.18

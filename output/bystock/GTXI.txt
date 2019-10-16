@@ -1,0 +1,4 @@
+hour stock vwap
+6 GTXI 0.88
+9 GTXI 0.91
+10 GTXI 0.89

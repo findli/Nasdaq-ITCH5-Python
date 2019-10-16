@@ -1,0 +1,5 @@
+hour stock vwap
+5 QDF 42.01
+6 QDF 42.19
+8 QDF 42.16
+10 QDF 42.41

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FRAC 9.56
+5 FRAC 9.74
+6 FRAC 9.73
+7 FRAC 9.86
+8 FRAC 9.94
+9 FRAC 9.94
+10 FRAC 9.98

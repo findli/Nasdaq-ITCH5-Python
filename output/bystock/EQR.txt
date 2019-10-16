@@ -1,0 +1,8 @@
+hour stock vwap
+4 EQR 72.0
+5 EQR 72.38
+6 EQR 72.19
+7 EQR 72.36
+8 EQR 72.18
+9 EQR 72.01
+10 EQR 71.93

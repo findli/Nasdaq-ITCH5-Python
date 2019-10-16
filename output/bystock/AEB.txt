@@ -1,0 +1,6 @@
+hour stock vwap
+5 AEB 21.73
+6 AEB 22.4
+7 AEB 22.41
+9 AEB 22.8
+10 AEB 22.73

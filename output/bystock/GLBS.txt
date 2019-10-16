@@ -1,0 +1,5 @@
+hour stock vwap
+4 GLBS 3.37
+5 GLBS 3.46
+6 GLBS 3.37
+10 GLBS 3.43

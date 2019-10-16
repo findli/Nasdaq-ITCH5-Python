@@ -1,0 +1,4 @@
+hour stock vwap
+4 SLYG 57.63
+5 SLYG 57.76
+10 SLYG 58.34

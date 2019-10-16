@@ -1,0 +1,7 @@
+hour stock vwap
+5 FNHC 18.39
+6 FNHC 18.52
+7 FNHC 18.55
+8 FNHC 18.5
+9 FNHC 18.52
+10 FNHC 18.32

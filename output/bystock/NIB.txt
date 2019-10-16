@@ -1,0 +1,6 @@
+hour stock vwap
+4 NIB 24.9
+5 NIB 24.86
+6 NIB 24.94
+7 NIB 24.9
+8 NIB 24.93

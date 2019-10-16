@@ -1,0 +1,8 @@
+hour stock vwap
+4 EMN 81.65
+5 EMN 81.13
+6 EMN 81.62
+7 EMN 81.96
+8 EMN 81.86
+9 EMN 82.38
+10 EMN 82.42

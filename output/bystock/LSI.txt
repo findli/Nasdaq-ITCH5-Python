@@ -1,0 +1,8 @@
+hour stock vwap
+4 LSI 97.11
+5 LSI 97.63
+6 LSI 97.87
+7 LSI 97.95
+8 LSI 97.62
+9 LSI 97.82
+10 LSI 97.97

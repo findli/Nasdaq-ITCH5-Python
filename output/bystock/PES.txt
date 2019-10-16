@@ -1,0 +1,8 @@
+hour stock vwap
+4 PES 1.43
+5 PES 1.4
+6 PES 1.44
+7 PES 1.46
+8 PES 1.47
+9 PES 1.47
+10 PES 1.47

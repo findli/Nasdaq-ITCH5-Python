@@ -1,0 +1,8 @@
+hour stock vwap
+4 LPTX 2.41
+5 LPTX 2.42
+6 LPTX 2.43
+7 LPTX 2.43
+8 LPTX 2.34
+9 LPTX 2.24
+10 LPTX 2.19

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MTW 15.0
+5 MTW 15.04
+6 MTW 15.15
+7 MTW 15.26
+8 MTW 15.14
+9 MTW 15.3
+10 MTW 15.25

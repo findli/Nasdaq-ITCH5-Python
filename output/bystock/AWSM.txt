@@ -1,0 +1,9 @@
+hour stock vwap
+3 AWSM 2.74
+4 AWSM 2.82
+5 AWSM 2.77
+6 AWSM 2.69
+7 AWSM 2.7
+8 AWSM 2.68
+9 AWSM 2.61
+10 AWSM 2.62

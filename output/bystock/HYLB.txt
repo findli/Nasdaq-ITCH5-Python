@@ -1,0 +1,7 @@
+hour stock vwap
+5 HYLB 48.62
+6 HYLB 48.64
+7 HYLB 48.66
+8 HYLB 48.68
+9 HYLB 48.81
+10 HYLB 48.88

@@ -1,0 +1,4 @@
+hour stock vwap
+8 PIE 16.25
+9 PIE 16.48
+10 PIE 16.49

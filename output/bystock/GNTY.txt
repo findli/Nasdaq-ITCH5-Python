@@ -1,0 +1,5 @@
+hour stock vwap
+4 GNTY 29.73
+8 GNTY 29.8
+9 GNTY 29.87
+10 GNTY 29.99

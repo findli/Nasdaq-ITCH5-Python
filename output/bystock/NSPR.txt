@@ -1,0 +1,4 @@
+hour stock vwap
+6 NSPR 0.18
+7 NSPR 0.18
+10 NSPR 0.18

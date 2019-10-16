@@ -1,0 +1,6 @@
+hour stock vwap
+4 KEY-I 26.58
+5 KEY-I 26.6
+6 KEY-I 26.73
+7 KEY-I 26.59
+9 KEY-I 26.73

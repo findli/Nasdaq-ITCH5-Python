@@ -1,0 +1,4 @@
+hour stock vwap
+4 MRAM 6.73
+5 MRAM 6.75
+10 MRAM 6.83

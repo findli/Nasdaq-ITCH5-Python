@@ -1,0 +1,8 @@
+hour stock vwap
+4 EZA 55.29
+5 EZA 55.2
+6 EZA 55.38
+7 EZA 55.6
+8 EZA 55.63
+9 EZA 56.77
+10 EZA 57.3

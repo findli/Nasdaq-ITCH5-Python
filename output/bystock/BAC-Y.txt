@@ -1,0 +1,3 @@
+hour stock vwap
+6 BAC-Y 25.77
+10 BAC-Y 25.8

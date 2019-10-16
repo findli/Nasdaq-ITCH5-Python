@@ -1,0 +1,7 @@
+hour stock vwap
+4 DNBF 34.87
+6 DNBF 35.0
+7 DNBF 35.09
+8 DNBF 35.62
+9 DNBF 35.73
+10 DNBF 35.8

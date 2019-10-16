@@ -1,0 +1,4 @@
+hour stock vwap
+5 IHDG 29.73
+6 IHDG 29.76
+10 IHDG 29.83

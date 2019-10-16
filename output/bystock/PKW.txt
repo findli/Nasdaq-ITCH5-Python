@@ -1,0 +1,4 @@
+hour stock vwap
+5 PKW 56.5
+6 PKW 56.67
+9 PKW 56.78

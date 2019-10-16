@@ -1,0 +1,5 @@
+hour stock vwap
+4 PFSW 5.97
+5 PFSW 6.23
+9 PFSW 6.2
+10 PFSW 6.07

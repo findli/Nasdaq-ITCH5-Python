@@ -1,0 +1,7 @@
+hour stock vwap
+3 STAF 2.57
+4 STAF 2.44
+5 STAF 2.37
+7 STAF 2.32
+8 STAF 2.23
+10 STAF 2.22

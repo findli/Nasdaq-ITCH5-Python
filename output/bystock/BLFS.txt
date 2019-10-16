@@ -1,0 +1,7 @@
+hour stock vwap
+5 BLFS 13.12
+6 BLFS 13.1
+7 BLFS 13.05
+8 BLFS 12.99
+9 BLFS 13.03
+10 BLFS 13.06

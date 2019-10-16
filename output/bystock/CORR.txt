@@ -1,0 +1,6 @@
+hour stock vwap
+6 CORR 35.48
+7 CORR 35.71
+8 CORR 35.66
+9 CORR 35.68
+10 CORR 35.56

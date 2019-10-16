@@ -1,0 +1,4 @@
+hour stock vwap
+6 TCBIP 25.2
+8 TCBIP 25.22
+10 TCBIP 25.3

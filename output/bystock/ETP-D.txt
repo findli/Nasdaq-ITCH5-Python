@@ -1,0 +1,6 @@
+hour stock vwap
+5 ETP-D 24.62
+6 ETP-D 24.64
+7 ETP-D 24.6
+9 ETP-D 24.72
+10 ETP-D 24.8

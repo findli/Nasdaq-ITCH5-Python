@@ -1,0 +1,8 @@
+hour stock vwap
+4 BMA 57.05
+5 BMA 57.57
+6 BMA 56.86
+7 BMA 56.16
+8 BMA 56.16
+9 BMA 56.87
+10 BMA 57.01

@@ -1,0 +1,4 @@
+hour stock vwap
+4 EWN 28.27
+9 EWN 28.44
+10 EWN 28.47

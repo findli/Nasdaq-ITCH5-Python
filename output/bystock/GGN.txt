@@ -1,0 +1,6 @@
+hour stock vwap
+5 GGN 4.2
+6 GGN 4.2
+8 GGN 4.22
+9 GGN 4.23
+10 GGN 4.25

@@ -1,0 +1,4 @@
+hour stock vwap
+4 HCHC 3.31
+7 HCHC 3.36
+10 HCHC 3.38

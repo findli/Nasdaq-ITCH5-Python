@@ -1,0 +1,8 @@
+hour stock vwap
+4 QSR 63.01
+5 QSR 62.21
+6 QSR 62.01
+7 QSR 62.23
+8 QSR 62.12
+9 QSR 62.57
+10 QSR 62.43

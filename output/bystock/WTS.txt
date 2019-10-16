@@ -1,0 +1,7 @@
+hour stock vwap
+4 WTS 73.05
+6 WTS 73.11
+7 WTS 73.43
+8 WTS 73.21
+9 WTS 73.61
+10 WTS 73.91

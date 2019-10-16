@@ -1,0 +1,6 @@
+hour stock vwap
+4 PVBC 22.54
+5 PVBC 22.21
+8 PVBC 22.81
+9 PVBC 22.84
+10 PVBC 22.74

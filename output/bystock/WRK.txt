@@ -1,0 +1,8 @@
+hour stock vwap
+4 WRK 41.23
+5 WRK 41.31
+6 WRK 41.27
+7 WRK 41.32
+8 WRK 41.11
+9 WRK 41.5
+10 WRK 41.49

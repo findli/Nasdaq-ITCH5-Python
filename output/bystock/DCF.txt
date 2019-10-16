@@ -1,0 +1,4 @@
+hour stock vwap
+8 DCF 8.37
+9 DCF 8.39
+10 DCF 8.42

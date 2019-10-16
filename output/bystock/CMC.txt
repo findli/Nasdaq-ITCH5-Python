@@ -1,0 +1,8 @@
+hour stock vwap
+4 CMC 17.21
+5 CMC 17.21
+6 CMC 17.31
+7 CMC 17.35
+8 CMC 17.33
+9 CMC 17.55
+10 CMC 17.49

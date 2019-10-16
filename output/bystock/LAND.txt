@@ -1,0 +1,7 @@
+hour stock vwap
+4 LAND 11.89
+5 LAND 12.05
+6 LAND 12.03
+7 LAND 12.17
+9 LAND 12.11
+10 LAND 12.06

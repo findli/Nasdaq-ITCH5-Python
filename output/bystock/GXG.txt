@@ -1,0 +1,4 @@
+hour stock vwap
+7 GXG 8.86
+9 GXG 8.89
+10 GXG 8.88

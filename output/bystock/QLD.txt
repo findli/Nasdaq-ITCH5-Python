@@ -1,0 +1,7 @@
+hour stock vwap
+5 QLD 74.53
+6 QLD 75.02
+7 QLD 75.53
+8 QLD 75.62
+9 QLD 76.55
+10 QLD 76.86

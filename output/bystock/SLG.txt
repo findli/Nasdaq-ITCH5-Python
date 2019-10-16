@@ -1,0 +1,8 @@
+hour stock vwap
+4 SLG 90.5
+5 SLG 90.86
+6 SLG 90.83
+7 SLG 91.0
+8 SLG 90.78
+9 SLG 90.97
+10 SLG 90.78

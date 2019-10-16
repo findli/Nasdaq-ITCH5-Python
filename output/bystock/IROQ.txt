@@ -1,0 +1,4 @@
+hour stock vwap
+5 IROQ 20.0
+9 IROQ 20.01
+10 IROQ 20.0

@@ -1,0 +1,7 @@
+hour stock vwap
+4 ORRF 18.84
+6 ORRF 18.99
+7 ORRF 19.05
+8 ORRF 18.88
+9 ORRF 18.67
+10 ORRF 18.9

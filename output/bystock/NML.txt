@@ -1,0 +1,7 @@
+hour stock vwap
+4 NML 7.6
+5 NML 7.6
+6 NML 7.64
+7 NML 7.64
+9 NML 7.69
+10 NML 7.66

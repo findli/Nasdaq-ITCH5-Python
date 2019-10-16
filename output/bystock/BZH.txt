@@ -1,0 +1,8 @@
+hour stock vwap
+4 BZH 11.61
+5 BZH 11.6
+6 BZH 11.54
+7 BZH 11.53
+8 BZH 11.66
+9 BZH 12.0
+10 BZH 12.01

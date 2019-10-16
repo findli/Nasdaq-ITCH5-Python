@@ -1,0 +1,8 @@
+hour stock vwap
+4 HDB 95.41
+5 HDB 95.8
+6 HDB 95.53
+7 HDB 95.24
+8 HDB 95.26
+9 HDB 95.53
+10 HDB 95.69

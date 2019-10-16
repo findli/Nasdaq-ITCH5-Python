@@ -1,0 +1,7 @@
+hour stock vwap
+4 ASA 9.93
+5 ASA 10.0
+6 ASA 10.0
+7 ASA 10.02
+9 ASA 10.17
+10 ASA 10.12

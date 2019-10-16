@@ -1,0 +1,6 @@
+hour stock vwap
+4 IRS 14.46
+5 IRS 14.72
+6 IRS 14.28
+7 IRS 14.29
+10 IRS 14.6

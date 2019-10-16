@@ -1,0 +1,8 @@
+hour stock vwap
+4 SRCI 5.11
+5 SRCI 5.1
+6 SRCI 5.08
+7 SRCI 5.06
+8 SRCI 5.02
+9 SRCI 5.01
+10 SRCI 5.08

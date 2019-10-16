@@ -1,0 +1,7 @@
+hour stock vwap
+4 NAD 13.1
+5 NAD 13.08
+6 NAD 13.08
+7 NAD 13.04
+8 NAD 13.06
+10 NAD 13.08

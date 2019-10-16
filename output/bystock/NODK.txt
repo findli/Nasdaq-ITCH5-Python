@@ -1,0 +1,5 @@
+hour stock vwap
+4 NODK 15.02
+6 NODK 15.11
+8 NODK 15.02
+10 NODK 15.1

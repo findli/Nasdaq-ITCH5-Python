@@ -1,0 +1,8 @@
+hour stock vwap
+4 UVV 56.34
+5 UVV 56.84
+6 UVV 57.47
+7 UVV 57.71
+8 UVV 57.71
+9 UVV 58.2
+10 UVV 58.22

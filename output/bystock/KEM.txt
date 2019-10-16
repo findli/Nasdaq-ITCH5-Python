@@ -1,0 +1,8 @@
+hour stock vwap
+4 KEM 20.59
+5 KEM 20.59
+6 KEM 20.73
+7 KEM 20.8
+8 KEM 20.83
+9 KEM 21.19
+10 KEM 21.15

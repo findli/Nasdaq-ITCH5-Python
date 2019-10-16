@@ -1,0 +1,8 @@
+hour stock vwap
+4 MTZ 43.66
+5 MTZ 43.4
+6 MTZ 44.12
+7 MTZ 44.14
+8 MTZ 44.08
+9 MTZ 44.4
+10 MTZ 44.44

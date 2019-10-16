@@ -1,0 +1,8 @@
+hour stock vwap
+4 OPK 3.59
+5 OPK 3.64
+6 OPK 3.64
+7 OPK 3.64
+8 OPK 3.67
+9 OPK 3.69
+10 OPK 3.7

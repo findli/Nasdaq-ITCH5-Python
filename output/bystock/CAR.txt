@@ -1,0 +1,8 @@
+hour stock vwap
+4 CAR 26.17
+5 CAR 26.07
+6 CAR 26.28
+7 CAR 26.41
+8 CAR 26.42
+9 CAR 26.67
+10 CAR 26.71

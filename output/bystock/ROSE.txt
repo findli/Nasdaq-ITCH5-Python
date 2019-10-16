@@ -1,0 +1,6 @@
+hour stock vwap
+4 ROSE 3.44
+5 ROSE 3.52
+8 ROSE 3.62
+9 ROSE 3.68
+10 ROSE 3.69

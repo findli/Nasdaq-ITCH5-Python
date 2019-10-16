@@ -1,0 +1,3 @@
+hour stock vwap
+7 HPI 20.91
+10 HPI 20.9

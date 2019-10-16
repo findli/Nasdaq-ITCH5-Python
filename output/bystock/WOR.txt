@@ -1,0 +1,8 @@
+hour stock vwap
+4 WOR 36.58
+5 WOR 36.42
+6 WOR 36.62
+7 WOR 36.67
+8 WOR 36.79
+9 WOR 36.94
+10 WOR 37.55

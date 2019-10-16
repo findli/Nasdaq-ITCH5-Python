@@ -1,0 +1,3 @@
+hour stock vwap
+6 FJP 49.82
+10 FJP 50.44

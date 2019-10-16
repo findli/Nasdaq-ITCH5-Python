@@ -1,0 +1,9 @@
+hour stock vwap
+3 TGTX 4.43
+4 TGTX 4.2
+5 TGTX 4.2
+6 TGTX 4.17
+7 TGTX 4.2
+8 TGTX 4.23
+9 TGTX 4.29
+10 TGTX 4.33

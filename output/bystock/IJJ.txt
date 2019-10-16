@@ -1,0 +1,7 @@
+hour stock vwap
+4 IJJ 153.05
+6 IJJ 153.46
+7 IJJ 153.41
+8 IJJ 153.16
+9 IJJ 154.23
+10 IJJ 154.41

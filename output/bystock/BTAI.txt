@@ -1,0 +1,7 @@
+hour stock vwap
+5 BTAI 5.69
+6 BTAI 5.56
+7 BTAI 5.62
+8 BTAI 5.56
+9 BTAI 5.39
+10 BTAI 5.48

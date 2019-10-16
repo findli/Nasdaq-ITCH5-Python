@@ -1,0 +1,7 @@
+hour stock vwap
+4 NXEO 9.2
+5 NXEO 9.12
+7 NXEO 9.17
+8 NXEO 9.14
+9 NXEO 9.18
+10 NXEO 9.21

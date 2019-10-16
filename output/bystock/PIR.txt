@@ -1,0 +1,7 @@
+hour stock vwap
+5 PIR 0.9
+6 PIR 0.89
+7 PIR 0.89
+8 PIR 0.88
+9 PIR 0.86
+10 PIR 0.85

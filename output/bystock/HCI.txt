@@ -1,0 +1,6 @@
+hour stock vwap
+5 HCI 47.8
+6 HCI 47.84
+7 HCI 47.62
+9 HCI 47.54
+10 HCI 47.64

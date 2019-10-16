@@ -1,0 +1,8 @@
+hour stock vwap
+4 WLH 12.25
+5 WLH 12.4
+6 WLH 12.24
+7 WLH 12.21
+8 WLH 12.27
+9 WLH 12.63
+10 WLH 12.65

@@ -1,0 +1,6 @@
+hour stock vwap
+4 MLI 25.13
+5 MLI 24.99
+8 MLI 25.05
+9 MLI 25.26
+10 MLI 25.47

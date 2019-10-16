@@ -1,0 +1,7 @@
+hour stock vwap
+4 FLMN 8.2
+5 FLMN 8.2
+6 FLMN 8.21
+8 FLMN 8.2
+9 FLMN 8.2
+10 FLMN 8.2

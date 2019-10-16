@@ -1,0 +1,5 @@
+hour stock vwap
+4 NMCI 2.85
+6 NMCI 2.81
+7 NMCI 2.74
+10 NMCI 2.77

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OXY 66.88
+5 OXY 66.71
+6 OXY 66.81
+7 OXY 66.8
+8 OXY 66.65
+9 OXY 67.01
+10 OXY 67.0

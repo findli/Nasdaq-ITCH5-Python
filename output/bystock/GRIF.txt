@@ -1,0 +1,6 @@
+hour stock vwap
+4 GRIF 33.6
+6 GRIF 33.29
+7 GRIF 32.8
+9 GRIF 33.25
+10 GRIF 33.06

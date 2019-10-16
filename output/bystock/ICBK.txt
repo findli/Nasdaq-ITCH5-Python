@@ -1,0 +1,6 @@
+hour stock vwap
+4 ICBK 17.36
+7 ICBK 17.35
+8 ICBK 17.35
+9 ICBK 17.26
+10 ICBK 17.15

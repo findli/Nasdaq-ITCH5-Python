@@ -1,0 +1,4 @@
+hour stock vwap
+5 STT-C 24.26
+6 STT-C 24.52
+9 STT-C 24.55

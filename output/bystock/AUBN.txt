@@ -1,0 +1,4 @@
+hour stock vwap
+4 AUBN 33.04
+5 AUBN 33.45
+10 AUBN 33.64

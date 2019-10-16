@@ -1,0 +1,5 @@
+hour stock vwap
+5 TG 16.36
+7 TG 16.43
+9 TG 16.45
+10 TG 16.43

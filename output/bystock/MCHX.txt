@@ -1,0 +1,6 @@
+hour stock vwap
+4 MCHX 4.02
+5 MCHX 4.0
+6 MCHX 4.01
+9 MCHX 3.99
+10 MCHX 3.98

@@ -1,0 +1,7 @@
+hour stock vwap
+4 FRBA 11.02
+6 FRBA 11.03
+7 FRBA 11.17
+8 FRBA 11.19
+9 FRBA 11.22
+10 FRBA 11.1

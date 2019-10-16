@@ -1,0 +1,5 @@
+hour stock vwap
+6 NGHCP 21.32
+8 NGHCP 21.21
+9 NGHCP 21.14
+10 NGHCP 21.16

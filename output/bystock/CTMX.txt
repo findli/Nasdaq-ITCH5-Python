@@ -1,0 +1,7 @@
+hour stock vwap
+4 CTMX 16.43
+5 CTMX 16.2
+7 CTMX 16.03
+8 CTMX 16.17
+9 CTMX 16.33
+10 CTMX 16.64

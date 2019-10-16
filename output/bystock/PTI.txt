@@ -1,0 +1,7 @@
+hour stock vwap
+5 PTI 3.03
+6 PTI 3.02
+7 PTI 3.01
+8 PTI 2.96
+10 PTI 3.01
+11 PTI 3.04

@@ -1,0 +1,8 @@
+hour stock vwap
+4 LPT 46.28
+5 LPT 46.5
+6 LPT 46.58
+7 LPT 46.68
+8 LPT 46.5
+9 LPT 46.66
+10 LPT 46.62

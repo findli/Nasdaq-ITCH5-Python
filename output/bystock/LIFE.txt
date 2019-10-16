@@ -1,0 +1,7 @@
+hour stock vwap
+6 LIFE 0.51
+8 LIFE 0.51
+9 LIFE 0.51
+10 LIFE 0.51
+11 LIFE 0.67
+12 LIFE 0.51

@@ -1,0 +1,7 @@
+hour stock vwap
+4 WK 38.99
+5 WK 38.92
+6 WK 39.27
+7 WK 39.63
+9 WK 39.59
+10 WK 39.46

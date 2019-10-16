@@ -1,0 +1,8 @@
+hour stock vwap
+4 AVT 40.38
+5 AVT 40.34
+6 AVT 40.66
+7 AVT 40.69
+8 AVT 40.6
+9 AVT 40.92
+10 AVT 41.08

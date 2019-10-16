@@ -1,0 +1,5 @@
+hour stock vwap
+6 FNDE 28.03
+7 FNDE 28.04
+8 FNDE 28.03
+9 FNDE 28.26

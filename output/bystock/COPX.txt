@@ -1,0 +1,4 @@
+hour stock vwap
+4 COPX 19.79
+9 COPX 20.07
+10 COPX 20.08

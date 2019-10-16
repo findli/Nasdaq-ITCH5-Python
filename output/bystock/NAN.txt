@@ -1,0 +1,4 @@
+hour stock vwap
+7 NAN 12.75
+8 NAN 12.74
+10 NAN 12.74

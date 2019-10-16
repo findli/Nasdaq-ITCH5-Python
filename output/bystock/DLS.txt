@@ -1,0 +1,5 @@
+hour stock vwap
+5 DLS 64.23
+6 DLS 64.32
+9 DLS 64.68
+10 DLS 64.82

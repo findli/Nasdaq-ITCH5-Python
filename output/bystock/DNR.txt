@@ -1,0 +1,8 @@
+hour stock vwap
+4 DNR 2.04
+5 DNR 2.03
+6 DNR 2.07
+7 DNR 2.07
+8 DNR 2.08
+9 DNR 2.08
+10 DNR 2.09

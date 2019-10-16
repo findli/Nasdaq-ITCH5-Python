@@ -1,0 +1,6 @@
+hour stock vwap
+4 EARS 0.43
+5 EARS 0.43
+6 EARS 0.43
+8 EARS 0.43
+9 EARS 0.43

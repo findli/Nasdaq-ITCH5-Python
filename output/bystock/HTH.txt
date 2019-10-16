@@ -1,0 +1,8 @@
+hour stock vwap
+4 HTH 18.55
+5 HTH 18.42
+6 HTH 18.56
+7 HTH 18.63
+8 HTH 18.59
+9 HTH 18.63
+10 HTH 18.55

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZIXI 7.44
+5 ZIXI 7.58
+6 ZIXI 7.51
+7 ZIXI 7.51
+8 ZIXI 7.49
+9 ZIXI 7.37
+10 ZIXI 7.33

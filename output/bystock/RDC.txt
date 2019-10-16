@@ -1,0 +1,8 @@
+hour stock vwap
+4 RDC 12.45
+5 RDC 12.46
+6 RDC 12.54
+7 RDC 12.42
+8 RDC 12.34
+9 RDC 12.36
+10 RDC 12.31

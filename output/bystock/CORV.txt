@@ -1,0 +1,5 @@
+hour stock vwap
+5 CORV 3.69
+6 CORV 3.57
+9 CORV 3.64
+10 CORV 3.77

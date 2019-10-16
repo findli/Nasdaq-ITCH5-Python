@@ -1,0 +1,4 @@
+hour stock vwap
+5 UGLD 100.87
+9 UGLD 101.94
+10 UGLD 102.96

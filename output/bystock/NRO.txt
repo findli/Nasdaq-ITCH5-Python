@@ -1,0 +1,6 @@
+hour stock vwap
+5 NRO 4.57
+6 NRO 4.6
+7 NRO 4.61
+9 NRO 4.6
+10 NRO 4.59

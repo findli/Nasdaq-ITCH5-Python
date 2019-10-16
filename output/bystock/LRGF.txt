@@ -1,0 +1,5 @@
+hour stock vwap
+5 LRGF 29.68
+7 LRGF 29.9
+8 LRGF 29.82
+9 LRGF 30.06

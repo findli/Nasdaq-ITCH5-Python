@@ -1,0 +1,8 @@
+hour stock vwap
+4 SWCH 8.03
+5 SWCH 7.93
+6 SWCH 8.01
+7 SWCH 8.01
+8 SWCH 8.12
+9 SWCH 8.19
+10 SWCH 8.17

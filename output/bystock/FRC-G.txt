@@ -1,0 +1,7 @@
+hour stock vwap
+4 FRC-G 24.47
+5 FRC-G 24.47
+6 FRC-G 24.58
+7 FRC-G 24.59
+8 FRC-G 24.66
+9 FRC-G 24.71

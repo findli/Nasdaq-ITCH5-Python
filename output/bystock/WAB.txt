@@ -1,0 +1,8 @@
+hour stock vwap
+4 WAB 68.66
+5 WAB 68.39
+6 WAB 68.9
+7 WAB 68.61
+8 WAB 68.21
+9 WAB 68.58
+10 WAB 68.16

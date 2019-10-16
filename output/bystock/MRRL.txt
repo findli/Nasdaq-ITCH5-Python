@@ -1,0 +1,4 @@
+hour stock vwap
+8 MRRL 13.95
+9 MRRL 14.0
+10 MRRL 13.96

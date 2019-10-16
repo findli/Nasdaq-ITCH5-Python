@@ -1,0 +1,8 @@
+hour stock vwap
+4 DOG 57.55
+5 DOG 57.53
+6 DOG 57.4
+7 DOG 57.33
+8 DOG 57.56
+9 DOG 57.37
+10 DOG 57.2

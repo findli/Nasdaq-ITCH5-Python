@@ -1,0 +1,3 @@
+hour stock vwap
+6 SGLB 2.05
+7 SGLB 2.06

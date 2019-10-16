@@ -1,0 +1,8 @@
+hour stock vwap
+4 BOE 10.2
+5 BOE 10.18
+6 BOE 10.21
+7 BOE 10.22
+8 BOE 10.21
+9 BOE 10.26
+10 BOE 10.26

@@ -1,0 +1,4 @@
+hour stock vwap
+4 TPHS 4.16
+8 TPHS 4.23
+10 TPHS 4.24

@@ -1,0 +1,6 @@
+hour stock vwap
+4 EPM 7.51
+5 EPM 7.47
+6 EPM 7.46
+9 EPM 7.42
+10 EPM 7.48

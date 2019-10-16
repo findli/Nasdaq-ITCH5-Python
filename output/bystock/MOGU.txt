@@ -1,0 +1,5 @@
+hour stock vwap
+6 MOGU 15.89
+8 MOGU 16.04
+9 MOGU 16.12
+10 MOGU 16.08

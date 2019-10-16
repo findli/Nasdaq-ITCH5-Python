@@ -1,0 +1,8 @@
+hour stock vwap
+4 TPC 17.2
+5 TPC 17.01
+6 TPC 17.12
+7 TPC 17.07
+8 TPC 17.01
+9 TPC 17.21
+10 TPC 17.14

@@ -1,0 +1,8 @@
+hour stock vwap
+4 EVR 89.03
+5 EVR 89.45
+6 EVR 89.28
+7 EVR 89.43
+8 EVR 89.83
+9 EVR 90.8
+10 EVR 90.61

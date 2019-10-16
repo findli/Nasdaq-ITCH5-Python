@@ -1,0 +1,8 @@
+hour stock vwap
+4 SFL 11.86
+5 SFL 11.91
+6 SFL 11.95
+7 SFL 11.95
+8 SFL 11.94
+9 SFL 12.04
+10 SFL 11.99

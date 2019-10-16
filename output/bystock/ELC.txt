@@ -1,0 +1,7 @@
+hour stock vwap
+5 ELC 23.98
+6 ELC 23.98
+7 ELC 23.98
+8 ELC 24.01
+9 ELC 23.99
+10 ELC 24.01

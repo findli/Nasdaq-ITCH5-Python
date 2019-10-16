@@ -1,0 +1,8 @@
+hour stock vwap
+4 WLL 28.36
+5 WLL 28.39
+6 WLL 28.77
+7 WLL 28.8
+8 WLL 28.97
+9 WLL 29.21
+10 WLL 29.31

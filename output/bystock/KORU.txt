@@ -1,0 +1,5 @@
+hour stock vwap
+4 KORU 31.4
+8 KORU 31.64
+9 KORU 32.89
+10 KORU 32.65

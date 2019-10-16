@@ -1,0 +1,5 @@
+hour stock vwap
+5 OMED 0.76
+6 OMED 0.75
+7 OMED 0.74
+9 OMED 0.74

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATU 22.44
+5 ATU 22.49
+6 ATU 22.53
+7 ATU 22.55
+8 ATU 22.54
+9 ATU 22.66
+10 ATU 22.58

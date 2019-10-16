@@ -1,0 +1,6 @@
+hour stock vwap
+5 IGIB 53.49
+6 IGIB 53.48
+7 IGIB 53.51
+9 IGIB 53.55
+10 IGIB 53.66

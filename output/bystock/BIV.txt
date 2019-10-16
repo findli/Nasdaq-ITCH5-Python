@@ -1,0 +1,8 @@
+hour stock vwap
+4 BIV 81.91
+5 BIV 81.94
+6 BIV 81.93
+7 BIV 81.93
+8 BIV 81.93
+9 BIV 82.08
+10 BIV 82.21

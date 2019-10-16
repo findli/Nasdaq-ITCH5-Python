@@ -1,0 +1,8 @@
+hour stock vwap
+4 BF.A 46.56
+5 BF.A 46.56
+6 BF.A 46.63
+7 BF.A 46.68
+8 BF.A 46.46
+9 BF.A 46.96
+10 BF.A 46.86

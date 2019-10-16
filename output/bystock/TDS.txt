@@ -1,0 +1,8 @@
+hour stock vwap
+4 TDS 35.38
+5 TDS 35.36
+6 TDS 35.55
+7 TDS 35.58
+8 TDS 35.47
+9 TDS 35.6
+10 TDS 35.59

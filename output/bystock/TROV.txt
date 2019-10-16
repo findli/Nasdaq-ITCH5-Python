@@ -1,0 +1,9 @@
+hour stock vwap
+4 TROV 0.67
+5 TROV 0.68
+6 TROV 0.68
+7 TROV 0.68
+8 TROV 0.68
+9 TROV 0.7
+10 TROV 0.7
+14 TROV 0.68

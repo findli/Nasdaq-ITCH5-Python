@@ -1,0 +1,6 @@
+hour stock vwap
+4 CTT 8.9
+5 CTT 8.9
+8 CTT 8.9
+9 CTT 8.91
+10 CTT 8.94

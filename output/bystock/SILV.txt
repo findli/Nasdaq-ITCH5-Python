@@ -1,0 +1,4 @@
+hour stock vwap
+4 SILV 3.37
+7 SILV 3.39
+10 SILV 3.41

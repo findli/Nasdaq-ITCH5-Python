@@ -1,0 +1,7 @@
+hour stock vwap
+4 EWG 26.77
+5 EWG 26.69
+6 EWG 26.77
+7 EWG 26.78
+9 EWG 27.0
+10 EWG 27.0

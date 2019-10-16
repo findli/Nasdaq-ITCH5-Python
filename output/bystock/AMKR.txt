@@ -1,0 +1,8 @@
+hour stock vwap
+4 AMKR 7.89
+5 AMKR 7.86
+6 AMKR 7.8
+7 AMKR 7.85
+8 AMKR 7.87
+9 AMKR 7.96
+10 AMKR 7.93

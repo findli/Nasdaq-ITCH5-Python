@@ -1,0 +1,8 @@
+hour stock vwap
+4 CCRN 9.33
+5 CCRN 9.36
+6 CCRN 9.36
+7 CCRN 9.34
+8 CCRN 9.42
+9 CCRN 9.41
+10 CCRN 9.44

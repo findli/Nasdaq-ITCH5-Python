@@ -1,0 +1,8 @@
+hour stock vwap
+4 GIS 43.77
+5 GIS 43.76
+6 GIS 43.85
+7 GIS 43.94
+8 GIS 43.81
+9 GIS 43.91
+10 GIS 43.74

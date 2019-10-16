@@ -1,0 +1,3 @@
+hour stock vwap
+9 BSCJ 20.44
+10 BSCJ 21.07

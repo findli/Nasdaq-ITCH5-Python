@@ -1,0 +1,4 @@
+hour stock vwap
+4 ACP 11.54
+6 ACP 11.49
+9 ACP 11.56

@@ -1,0 +1,8 @@
+hour stock vwap
+4 DRRX 0.6
+5 DRRX 0.6
+6 DRRX 0.6
+7 DRRX 0.59
+8 DRRX 0.59
+9 DRRX 0.6
+10 DRRX 0.6

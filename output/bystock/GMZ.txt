@@ -1,0 +1,5 @@
+hour stock vwap
+4 GMZ 8.55
+5 GMZ 8.64
+6 GMZ 8.7
+7 GMZ 8.74

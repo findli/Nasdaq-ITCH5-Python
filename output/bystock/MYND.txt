@@ -1,0 +1,6 @@
+hour stock vwap
+4 MYND 1.89
+5 MYND 2.07
+7 MYND 1.94
+8 MYND 1.92
+10 MYND 1.95

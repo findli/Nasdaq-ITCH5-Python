@@ -1,0 +1,8 @@
+hour stock vwap
+4 BUD 74.37
+5 BUD 74.6
+6 BUD 74.5
+7 BUD 74.61
+8 BUD 74.64
+9 BUD 75.03
+10 BUD 74.92

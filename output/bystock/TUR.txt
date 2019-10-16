@@ -1,0 +1,8 @@
+hour stock vwap
+4 TUR 28.31
+5 TUR 28.29
+6 TUR 28.39
+7 TUR 28.42
+8 TUR 28.42
+9 TUR 28.8
+10 TUR 28.99

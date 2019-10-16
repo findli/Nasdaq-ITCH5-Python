@@ -1,0 +1,5 @@
+hour stock vwap
+4 CIFS 1.08
+5 CIFS 1.01
+6 CIFS 1.01
+8 CIFS 0.98

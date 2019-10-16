@@ -1,0 +1,6 @@
+hour stock vwap
+4 NIU 7.61
+5 NIU 7.61
+8 NIU 7.61
+9 NIU 7.6
+10 NIU 7.57

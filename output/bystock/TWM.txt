@@ -1,0 +1,6 @@
+hour stock vwap
+5 TWM 17.12
+6 TWM 17.05
+8 TWM 17.04
+9 TWM 16.81
+10 TWM 16.82

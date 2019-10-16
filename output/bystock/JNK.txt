@@ -1,0 +1,8 @@
+hour stock vwap
+4 JNK 35.07
+5 JNK 35.09
+6 JNK 35.07
+7 JNK 35.1
+8 JNK 35.07
+9 JNK 35.21
+10 JNK 35.26

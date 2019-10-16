@@ -1,0 +1,8 @@
+hour stock vwap
+4 DUK 85.61
+5 DUK 86.06
+6 DUK 85.99
+7 DUK 85.96
+8 DUK 85.69
+9 DUK 86.2
+10 DUK 86.17

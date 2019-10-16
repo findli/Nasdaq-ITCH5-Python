@@ -1,0 +1,9 @@
+hour stock vwap
+3 RBZ 1.31
+4 RBZ 1.44
+5 RBZ 1.36
+6 RBZ 1.35
+7 RBZ 1.4
+8 RBZ 1.36
+9 RBZ 1.36
+10 RBZ 1.32

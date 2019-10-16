@@ -1,0 +1,6 @@
+hour stock vwap
+4 STBA 40.29
+5 STBA 40.33
+6 STBA 40.37
+9 STBA 40.52
+10 STBA 40.16

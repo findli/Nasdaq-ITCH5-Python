@@ -1,0 +1,4 @@
+hour stock vwap
+5 ACV 20.88
+7 ACV 20.95
+8 ACV 20.96

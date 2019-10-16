@@ -1,0 +1,4 @@
+hour stock vwap
+4 SGDM 18.57
+6 SGDM 18.51
+9 SGDM 18.94

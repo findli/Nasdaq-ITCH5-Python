@@ -1,0 +1,6 @@
+hour stock vwap
+4 BANC 14.97
+5 BANC 14.89
+7 BANC 14.97
+9 BANC 14.99
+10 BANC 14.86

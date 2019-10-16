@@ -1,0 +1,7 @@
+hour stock vwap
+5 ULBI 8.1
+6 ULBI 8.05
+7 ULBI 7.98
+8 ULBI 7.96
+9 ULBI 7.94
+10 ULBI 7.97

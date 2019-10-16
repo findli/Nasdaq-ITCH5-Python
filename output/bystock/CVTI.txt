@@ -1,0 +1,7 @@
+hour stock vwap
+4 CVTI 23.9
+5 CVTI 23.77
+6 CVTI 24.17
+8 CVTI 24.08
+9 CVTI 24.21
+10 CVTI 24.15

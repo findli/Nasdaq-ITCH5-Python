@@ -1,0 +1,8 @@
+hour stock vwap
+4 FSP 7.25
+5 FSP 7.26
+6 FSP 7.34
+7 FSP 7.32
+8 FSP 7.32
+9 FSP 7.32
+10 FSP 7.31

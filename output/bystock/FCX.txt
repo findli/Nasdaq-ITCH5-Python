@@ -1,0 +1,9 @@
+hour stock vwap
+4 FCX 10.76
+5 FCX 11.06
+6 FCX 11.21
+7 FCX 11.16
+8 FCX 11.14
+9 FCX 11.26
+10 FCX 11.3
+11 FCX 11.22

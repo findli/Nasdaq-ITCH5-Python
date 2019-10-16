@@ -1,0 +1,8 @@
+hour stock vwap
+4 AKR 27.95
+5 AKR 28.15
+6 AKR 28.31
+7 AKR 28.47
+8 AKR 28.28
+9 AKR 28.41
+10 AKR 28.36

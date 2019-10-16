@@ -1,0 +1,8 @@
+hour stock vwap
+4 GRA 70.77
+5 GRA 70.63
+6 GRA 71.17
+7 GRA 71.36
+8 GRA 71.14
+9 GRA 71.48
+10 GRA 71.41

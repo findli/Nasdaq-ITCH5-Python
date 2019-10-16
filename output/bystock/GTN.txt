@@ -1,0 +1,7 @@
+hour stock vwap
+5 GTN 16.05
+6 GTN 16.17
+7 GTN 16.3
+8 GTN 16.28
+9 GTN 16.37
+10 GTN 16.32

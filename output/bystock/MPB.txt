@@ -1,0 +1,4 @@
+hour stock vwap
+5 MPB 23.99
+9 MPB 23.43
+10 MPB 23.45

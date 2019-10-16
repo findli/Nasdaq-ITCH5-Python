@@ -1,0 +1,7 @@
+hour stock vwap
+4 ORA 55.96
+5 ORA 56.06
+7 ORA 55.93
+8 ORA 55.81
+9 ORA 56.01
+10 ORA 56.2

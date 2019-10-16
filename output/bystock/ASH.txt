@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASH 76.37
+5 ASH 76.48
+6 ASH 76.67
+7 ASH 76.6
+8 ASH 76.08
+9 ASH 76.87
+10 ASH 76.82

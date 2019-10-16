@@ -1,0 +1,8 @@
+hour stock vwap
+4 INO 4.71
+5 INO 4.77
+6 INO 4.8
+7 INO 4.84
+8 INO 4.97
+9 INO 5.0
+10 INO 5.02

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SYY 62.22
+5 SYY 62.7
+6 SYY 62.95
+7 SYY 62.84
+8 SYY 62.63
+9 SYY 62.89
+10 SYY 62.88

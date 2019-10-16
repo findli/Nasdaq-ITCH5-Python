@@ -1,0 +1,8 @@
+hour stock vwap
+4 FIX 47.45
+5 FIX 47.1
+6 FIX 47.12
+7 FIX 47.26
+8 FIX 47.53
+9 FIX 47.63
+10 FIX 47.81

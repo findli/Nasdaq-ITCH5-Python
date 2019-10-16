@@ -1,0 +1,8 @@
+hour stock vwap
+4 EWC 26.81
+5 EWC 26.78
+6 EWC 26.84
+7 EWC 26.85
+8 EWC 26.78
+9 EWC 27.02
+10 EWC 26.98

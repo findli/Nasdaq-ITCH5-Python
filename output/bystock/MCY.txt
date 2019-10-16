@@ -1,0 +1,8 @@
+hour stock vwap
+4 MCY 50.74
+5 MCY 50.19
+6 MCY 50.44
+7 MCY 50.68
+8 MCY 50.53
+9 MCY 50.62
+10 MCY 50.32

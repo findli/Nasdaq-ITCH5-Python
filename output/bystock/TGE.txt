@@ -1,0 +1,9 @@
+hour stock vwap
+2 TGE 24.63
+4 TGE 24.26
+5 TGE 24.17
+6 TGE 24.33
+7 TGE 24.37
+8 TGE 24.27
+9 TGE 24.28
+10 TGE 24.16

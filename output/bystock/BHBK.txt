@@ -1,0 +1,7 @@
+hour stock vwap
+4 BHBK 23.5
+5 BHBK 23.37
+7 BHBK 23.5
+8 BHBK 23.46
+9 BHBK 23.5
+10 BHBK 23.52

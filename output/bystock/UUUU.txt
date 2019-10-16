@@ -1,0 +1,7 @@
+hour stock vwap
+5 UUUU 2.88
+6 UUUU 2.89
+7 UUUU 2.9
+8 UUUU 2.87
+9 UUUU 2.89
+10 UUUU 2.88

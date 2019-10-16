@@ -1,0 +1,7 @@
+hour stock vwap
+4 NTG 14.18
+5 NTG 14.11
+6 NTG 14.17
+7 NTG 14.26
+9 NTG 14.34
+10 NTG 14.34

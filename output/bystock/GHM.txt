@@ -1,0 +1,5 @@
+hour stock vwap
+7 GHM 22.52
+8 GHM 22.29
+9 GHM 22.51
+10 GHM 22.27

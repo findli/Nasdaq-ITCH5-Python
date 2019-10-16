@@ -1,0 +1,6 @@
+hour stock vwap
+4 CIM-D 24.85
+5 CIM-D 24.88
+6 CIM-D 24.88
+8 CIM-D 24.88
+9 CIM-D 24.89

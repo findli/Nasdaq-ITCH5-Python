@@ -1,0 +1,8 @@
+hour stock vwap
+4 COP 65.9
+5 COP 65.35
+6 COP 65.47
+7 COP 65.57
+8 COP 65.43
+9 COP 65.74
+10 COP 65.81

@@ -1,0 +1,7 @@
+hour stock vwap
+4 YPF 15.72
+5 YPF 15.7
+7 YPF 15.68
+8 YPF 15.75
+9 YPF 15.92
+10 YPF 15.88

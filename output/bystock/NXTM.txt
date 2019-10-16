@@ -1,0 +1,7 @@
+hour stock vwap
+4 NXTM 28.94
+5 NXTM 28.93
+6 NXTM 28.88
+8 NXTM 28.98
+9 NXTM 29.04
+10 NXTM 28.99

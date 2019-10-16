@@ -1,0 +1,8 @@
+hour stock vwap
+4 NGD 1.13
+5 NGD 1.13
+6 NGD 1.11
+7 NGD 1.1
+8 NGD 1.12
+9 NGD 1.13
+10 NGD 1.15

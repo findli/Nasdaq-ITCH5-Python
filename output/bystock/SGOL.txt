@@ -1,0 +1,4 @@
+hour stock vwap
+4 SGOL 126.44
+6 SGOL 126.5
+10 SGOL 127.35

@@ -1,0 +1,3 @@
+hour stock vwap
+8 HYGV 47.45
+9 HYGV 47.73

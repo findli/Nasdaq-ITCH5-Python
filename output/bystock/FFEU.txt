@@ -1,0 +1,2 @@
+hour stock vwap
+4 FFEU 79.92

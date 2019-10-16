@@ -1,0 +1,6 @@
+hour stock vwap
+5 AKTX 2.0
+6 AKTX 2.0
+7 AKTX 1.98
+8 AKTX 1.99
+10 AKTX 2.03

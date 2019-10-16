@@ -1,0 +1,5 @@
+hour stock vwap
+6 KIRK 10.11
+8 KIRK 10.01
+9 KIRK 10.08
+10 KIRK 10.12

@@ -1,0 +1,2 @@
+hour stock vwap
+9 OEUR 22.92

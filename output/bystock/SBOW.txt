@@ -1,0 +1,7 @@
+hour stock vwap
+5 SBOW 24.48
+6 SBOW 24.48
+7 SBOW 24.4
+8 SBOW 24.49
+9 SBOW 24.49
+10 SBOW 24.43

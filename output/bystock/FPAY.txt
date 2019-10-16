@@ -1,0 +1,4 @@
+hour stock vwap
+4 FPAY 0.78
+5 FPAY 0.83
+10 FPAY 0.8

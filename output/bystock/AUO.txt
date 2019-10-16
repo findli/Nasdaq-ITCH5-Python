@@ -1,0 +1,9 @@
+hour stock vwap
+3 AUO 3.99
+4 AUO 4.0
+5 AUO 3.96
+6 AUO 3.95
+7 AUO 3.94
+8 AUO 3.92
+9 AUO 3.92
+10 AUO 3.95

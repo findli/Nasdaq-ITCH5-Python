@@ -1,0 +1,5 @@
+hour stock vwap
+4 AGFS 3.96
+5 AGFS 4.01
+6 AGFS 4.07
+7 AGFS 4.0

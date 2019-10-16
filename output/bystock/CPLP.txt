@@ -1,0 +1,7 @@
+hour stock vwap
+4 CPLP 2.22
+5 CPLP 2.21
+6 CPLP 2.22
+8 CPLP 2.17
+9 CPLP 2.18
+10 CPLP 2.18

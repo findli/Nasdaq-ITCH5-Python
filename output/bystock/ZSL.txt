@@ -1,0 +1,5 @@
+hour stock vwap
+4 ZSL 35.27
+6 ZSL 35.18
+7 ZSL 35.2
+10 ZSL 34.67

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CWT 46.53
+5 CWT 46.62
+6 CWT 46.59
+7 CWT 46.55
+8 CWT 46.51
+9 CWT 46.69
+10 CWT 46.76

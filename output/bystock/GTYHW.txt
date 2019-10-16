@@ -1,0 +1,2 @@
+hour stock vwap
+6 GTYHW 0.55

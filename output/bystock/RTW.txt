@@ -1,0 +1,6 @@
+hour stock vwap
+4 RTW 3.02
+5 RTW 2.93
+6 RTW 2.96
+9 RTW 3.11
+10 RTW 3.12

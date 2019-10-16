@@ -1,0 +1,6 @@
+hour stock vwap
+4 HASI 22.49
+5 HASI 22.46
+8 HASI 22.34
+9 HASI 22.42
+10 HASI 22.28

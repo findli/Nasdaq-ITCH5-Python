@@ -1,0 +1,4 @@
+hour stock vwap
+5 TST 2.15
+8 TST 2.13
+10 TST 2.13

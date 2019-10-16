@@ -1,0 +1,9 @@
+hour stock vwap
+2 NVS 84.92
+4 NVS 85.31
+5 NVS 85.54
+6 NVS 85.66
+7 NVS 85.88
+8 NVS 85.46
+9 NVS 85.82
+10 NVS 85.68

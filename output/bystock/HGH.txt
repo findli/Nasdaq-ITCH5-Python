@@ -1,0 +1,5 @@
+hour stock vwap
+4 HGH 28.32
+6 HGH 28.45
+7 HGH 28.54
+10 HGH 28.52

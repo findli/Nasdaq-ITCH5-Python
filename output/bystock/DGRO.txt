@@ -1,0 +1,6 @@
+hour stock vwap
+6 DGRO 34.81
+7 DGRO 34.86
+8 DGRO 34.8
+9 DGRO 35.03
+10 DGRO 34.97

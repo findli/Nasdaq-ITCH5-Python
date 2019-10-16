@@ -1,0 +1,4 @@
+hour stock vwap
+6 MXI 61.68
+9 MXI 62.12
+10 MXI 62.26

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNNA 2.61
+5 SNNA 2.51
+6 SNNA 2.53
+7 SNNA 2.48
+8 SNNA 2.42
+9 SNNA 2.43
+10 SNNA 2.48

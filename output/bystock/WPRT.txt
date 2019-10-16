@@ -1,0 +1,6 @@
+hour stock vwap
+5 WPRT 1.49
+6 WPRT 1.49
+7 WPRT 1.47
+9 WPRT 1.46
+10 WPRT 1.49

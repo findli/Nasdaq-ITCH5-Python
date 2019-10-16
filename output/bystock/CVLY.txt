@@ -1,0 +1,7 @@
+hour stock vwap
+4 CVLY 22.15
+6 CVLY 22.26
+7 CVLY 22.1
+8 CVLY 22.11
+9 CVLY 22.48
+10 CVLY 22.28

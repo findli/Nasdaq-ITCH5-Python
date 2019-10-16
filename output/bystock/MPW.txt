@@ -1,0 +1,9 @@
+hour stock vwap
+4 MPW 17.82
+5 MPW 17.9
+6 MPW 17.94
+7 MPW 18.0
+8 MPW 17.94
+9 MPW 17.99
+10 MPW 18.02
+11 MPW 18.08

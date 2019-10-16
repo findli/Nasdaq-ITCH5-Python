@@ -1,0 +1,8 @@
+hour stock vwap
+4 HCC 27.57
+5 HCC 27.71
+6 HCC 28.04
+7 HCC 28.16
+8 HCC 28.15
+9 HCC 28.6
+10 HCC 28.36

@@ -1,0 +1,8 @@
+hour stock vwap
+4 XME 29.73
+5 XME 29.86
+6 XME 30.01
+7 XME 30.03
+8 XME 30.01
+9 XME 30.37
+10 XME 30.4

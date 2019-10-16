@@ -1,0 +1,7 @@
+hour stock vwap
+4 GTY 31.45
+5 GTY 31.54
+6 GTY 31.64
+8 GTY 31.73
+9 GTY 31.6
+10 GTY 31.71

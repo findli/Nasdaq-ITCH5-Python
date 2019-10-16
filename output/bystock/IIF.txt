@@ -1,0 +1,4 @@
+hour stock vwap
+5 IIF 18.88
+6 IIF 18.93
+8 IIF 18.97

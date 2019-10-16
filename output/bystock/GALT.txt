@@ -1,0 +1,7 @@
+hour stock vwap
+4 GALT 4.97
+5 GALT 4.94
+6 GALT 4.9
+7 GALT 4.86
+9 GALT 4.94
+10 GALT 4.93

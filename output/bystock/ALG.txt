@@ -1,0 +1,6 @@
+hour stock vwap
+4 ALG 87.24
+5 ALG 86.08
+6 ALG 86.34
+7 ALG 86.3
+10 ALG 86.41

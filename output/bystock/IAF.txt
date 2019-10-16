@@ -1,0 +1,4 @@
+hour stock vwap
+6 IAF 5.18
+7 IAF 5.18
+10 IAF 5.24

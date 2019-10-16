@@ -1,0 +1,8 @@
+hour stock vwap
+4 VRS 24.52
+5 VRS 24.67
+6 VRS 24.68
+7 VRS 24.77
+8 VRS 24.62
+9 VRS 24.75
+10 VRS 24.7

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SLF 36.17
+5 SLF 36.09
+6 SLF 36.05
+7 SLF 36.02
+8 SLF 36.0
+9 SLF 36.11
+10 SLF 36.19

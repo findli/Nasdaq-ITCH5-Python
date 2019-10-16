@@ -1,0 +1,7 @@
+hour stock vwap
+4 NEOS 2.07
+5 NEOS 2.11
+7 NEOS 2.1
+8 NEOS 2.1
+9 NEOS 2.1
+10 NEOS 2.1

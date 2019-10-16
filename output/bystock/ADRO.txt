@@ -1,0 +1,7 @@
+hour stock vwap
+4 ADRO 2.45
+5 ADRO 2.43
+7 ADRO 2.45
+8 ADRO 2.52
+9 ADRO 2.58
+10 ADRO 2.72

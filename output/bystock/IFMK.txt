@@ -1,0 +1,4 @@
+hour stock vwap
+5 IFMK 1.13
+6 IFMK 1.2
+7 IFMK 1.18

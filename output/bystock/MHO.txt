@@ -1,0 +1,8 @@
+hour stock vwap
+4 MHO 25.02
+5 MHO 25.17
+6 MHO 25.19
+7 MHO 25.04
+8 MHO 25.11
+9 MHO 25.39
+10 MHO 25.58

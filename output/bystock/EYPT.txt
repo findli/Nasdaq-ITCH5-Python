@@ -1,0 +1,8 @@
+hour stock vwap
+4 EYPT 2.26
+5 EYPT 2.21
+6 EYPT 2.18
+7 EYPT 2.15
+8 EYPT 2.14
+9 EYPT 2.09
+10 EYPT 2.09

@@ -1,0 +1,7 @@
+hour stock vwap
+4 INN 10.97
+5 INN 11.07
+6 INN 11.07
+8 INN 10.97
+9 INN 11.03
+10 INN 11.01

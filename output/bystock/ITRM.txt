@@ -1,0 +1,4 @@
+hour stock vwap
+4 ITRM 6.54
+5 ITRM 6.69
+6 ITRM 6.73

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BSMX 7.36
+5 BSMX 7.38
+6 BSMX 7.4
+7 BSMX 7.39
+8 BSMX 7.37
+9 BSMX 7.42
+10 BSMX 7.45

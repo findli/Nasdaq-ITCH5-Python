@@ -1,0 +1,8 @@
+hour stock vwap
+4 CDW 82.46
+5 CDW 81.99
+6 CDW 82.42
+7 CDW 82.51
+8 CDW 82.25
+9 CDW 82.72
+10 CDW 82.86

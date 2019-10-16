@@ -1,0 +1,6 @@
+hour stock vwap
+5 DLNG 2.79
+6 DLNG 2.82
+7 DLNG 2.83
+8 DLNG 2.82
+10 DLNG 2.77

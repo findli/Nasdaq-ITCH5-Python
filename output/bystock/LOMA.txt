@@ -1,0 +1,7 @@
+hour stock vwap
+4 LOMA 12.3
+5 LOMA 12.46
+6 LOMA 12.5
+7 LOMA 12.68
+9 LOMA 12.79
+10 LOMA 12.69

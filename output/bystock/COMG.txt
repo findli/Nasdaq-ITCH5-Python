@@ -1,0 +1,2 @@
+hour stock vwap
+5 COMG 21.2

@@ -1,0 +1,7 @@
+hour stock vwap
+4 UNT 16.21
+5 UNT 16.12
+6 UNT 16.4
+7 UNT 16.37
+9 UNT 16.7
+10 UNT 16.76

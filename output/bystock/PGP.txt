@@ -1,0 +1,4 @@
+hour stock vwap
+8 PGP 13.62
+9 PGP 13.66
+10 PGP 13.65

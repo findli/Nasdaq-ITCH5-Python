@@ -1,0 +1,5 @@
+hour stock vwap
+4 CLIR 1.24
+7 CLIR 1.25
+8 CLIR 1.28
+10 CLIR 1.22

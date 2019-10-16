@@ -1,0 +1,8 @@
+hour stock vwap
+4 PKG 91.03
+5 PKG 93.11
+6 PKG 92.84
+7 PKG 92.69
+8 PKG 91.72
+9 PKG 93.29
+10 PKG 93.39

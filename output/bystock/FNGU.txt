@@ -1,0 +1,6 @@
+hour stock vwap
+5 FNGU 33.11
+7 FNGU 33.86
+8 FNGU 33.95
+9 FNGU 34.83
+10 FNGU 35.13

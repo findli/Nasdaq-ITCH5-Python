@@ -1,0 +1,7 @@
+hour stock vwap
+4 BMCH 16.62
+5 BMCH 16.61
+6 BMCH 16.69
+8 BMCH 16.66
+9 BMCH 16.81
+10 BMCH 16.89

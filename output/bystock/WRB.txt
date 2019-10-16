@@ -1,0 +1,8 @@
+hour stock vwap
+4 WRB 75.5
+5 WRB 76.42
+6 WRB 76.74
+7 WRB 77.36
+8 WRB 76.94
+9 WRB 76.95
+10 WRB 77.09

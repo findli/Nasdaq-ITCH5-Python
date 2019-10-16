@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDT 86.68
+5 MDT 86.41
+6 MDT 86.57
+7 MDT 86.77
+8 MDT 86.56
+9 MDT 87.05
+10 MDT 87.66

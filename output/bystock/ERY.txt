@@ -1,0 +1,4 @@
+hour stock vwap
+6 ERY 47.94
+9 ERY 47.56
+10 ERY 47.28

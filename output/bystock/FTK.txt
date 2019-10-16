@@ -1,0 +1,8 @@
+hour stock vwap
+4 FTK 2.56
+5 FTK 2.53
+6 FTK 2.54
+7 FTK 2.52
+8 FTK 2.5
+9 FTK 2.5
+10 FTK 2.49

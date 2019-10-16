@@ -1,0 +1,4 @@
+hour stock vwap
+7 SMDV 56.85
+9 SMDV 57.04
+10 SMDV 56.97

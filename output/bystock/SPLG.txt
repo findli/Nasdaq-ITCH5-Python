@@ -1,0 +1,6 @@
+hour stock vwap
+6 SPLG 31.21
+7 SPLG 31.25
+8 SPLG 31.2
+9 SPLG 31.41
+10 SPLG 31.4

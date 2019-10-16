@@ -1,0 +1,7 @@
+hour stock vwap
+5 AKCA 28.76
+6 AKCA 27.81
+7 AKCA 28.05
+8 AKCA 28.09
+9 AKCA 28.4
+10 AKCA 28.12

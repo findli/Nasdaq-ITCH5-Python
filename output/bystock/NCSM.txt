@@ -1,0 +1,7 @@
+hour stock vwap
+4 NCSM 5.76
+5 NCSM 5.65
+6 NCSM 5.64
+7 NCSM 5.57
+9 NCSM 5.65
+10 NCSM 5.65

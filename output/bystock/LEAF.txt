@@ -1,0 +1,3 @@
+hour stock vwap
+8 LEAF 7.65
+10 LEAF 7.58

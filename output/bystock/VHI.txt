@@ -1,0 +1,7 @@
+hour stock vwap
+4 VHI 3.22
+5 VHI 3.23
+7 VHI 3.29
+8 VHI 3.24
+9 VHI 3.29
+10 VHI 3.31

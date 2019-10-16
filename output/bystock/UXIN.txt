@@ -1,0 +1,8 @@
+hour stock vwap
+4 UXIN 3.55
+5 UXIN 3.44
+6 UXIN 3.44
+7 UXIN 3.44
+8 UXIN 3.47
+9 UXIN 3.46
+10 UXIN 3.43

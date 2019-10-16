@@ -1,0 +1,3 @@
+hour stock vwap
+8 INVE 5.37
+10 INVE 5.2

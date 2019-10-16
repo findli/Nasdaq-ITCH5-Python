@@ -1,0 +1,7 @@
+hour stock vwap
+4 KIE 29.77
+5 KIE 29.87
+6 KIE 29.98
+7 KIE 30.06
+9 KIE 30.14
+10 KIE 30.11

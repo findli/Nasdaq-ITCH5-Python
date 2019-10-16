@@ -1,0 +1,6 @@
+hour stock vwap
+4 GENC 13.49
+5 GENC 13.46
+6 GENC 13.62
+8 GENC 13.85
+10 GENC 13.94

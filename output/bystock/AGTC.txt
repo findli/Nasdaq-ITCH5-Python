@@ -1,0 +1,5 @@
+hour stock vwap
+5 AGTC 2.87
+7 AGTC 2.87
+8 AGTC 2.96
+10 AGTC 2.99

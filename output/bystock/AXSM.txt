@@ -1,0 +1,9 @@
+hour stock vwap
+3 AXSM 8.3
+4 AXSM 8.22
+5 AXSM 7.89
+6 AXSM 8.06
+7 AXSM 8.13
+8 AXSM 8.19
+9 AXSM 8.26
+10 AXSM 8.38

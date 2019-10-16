@@ -1,0 +1,4 @@
+hour stock vwap
+8 NESR 7.8
+9 NESR 7.86
+10 NESR 7.86

@@ -1,0 +1,4 @@
+hour stock vwap
+4 INOD 1.41
+6 INOD 1.45
+7 INOD 1.39

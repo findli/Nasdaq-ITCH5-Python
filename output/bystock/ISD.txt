@@ -1,0 +1,5 @@
+hour stock vwap
+6 ISD 13.76
+8 ISD 13.8
+9 ISD 13.86
+10 ISD 13.87

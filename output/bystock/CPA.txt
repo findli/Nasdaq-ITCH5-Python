@@ -1,0 +1,8 @@
+hour stock vwap
+4 CPA 94.92
+5 CPA 94.64
+6 CPA 94.33
+7 CPA 93.32
+8 CPA 93.75
+9 CPA 94.47
+10 CPA 94.89

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MDR 8.88
+5 MDR 8.96
+6 MDR 8.99
+7 MDR 9.02
+8 MDR 9.03
+9 MDR 9.16
+10 MDR 9.11

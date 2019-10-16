@@ -1,0 +1,8 @@
+hour stock vwap
+4 UAL 85.98
+5 UAL 85.88
+6 UAL 86.6
+7 UAL 86.96
+8 UAL 86.91
+9 UAL 87.55
+10 UAL 87.4

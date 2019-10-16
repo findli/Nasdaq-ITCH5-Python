@@ -1,0 +1,5 @@
+hour stock vwap
+7 CVRS 1.2
+8 CVRS 1.2
+9 CVRS 1.18
+10 CVRS 1.17

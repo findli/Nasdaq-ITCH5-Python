@@ -1,0 +1,5 @@
+hour stock vwap
+4 KNOP 18.98
+7 KNOP 19.17
+9 KNOP 19.2
+10 KNOP 19.2

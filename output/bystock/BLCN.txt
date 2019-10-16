@@ -1,0 +1,4 @@
+hour stock vwap
+5 BLCN 21.2
+6 BLCN 21.32
+10 BLCN 21.3

@@ -1,0 +1,6 @@
+hour stock vwap
+4 HBP 2.47
+5 HBP 2.4
+7 HBP 2.31
+8 HBP 2.31
+10 HBP 2.33

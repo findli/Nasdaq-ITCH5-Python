@@ -1,0 +1,6 @@
+hour stock vwap
+5 FENC 6.45
+6 FENC 6.36
+7 FENC 6.34
+9 FENC 6.42
+10 FENC 6.46

@@ -1,0 +1,5 @@
+hour stock vwap
+5 MGTA 6.94
+6 MGTA 6.78
+7 MGTA 6.79
+10 MGTA 6.84

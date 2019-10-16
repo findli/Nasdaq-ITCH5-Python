@@ -1,0 +1,4 @@
+hour stock vwap
+4 BGFV 3.4
+9 BGFV 3.44
+10 BGFV 3.38

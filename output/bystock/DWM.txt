@@ -1,0 +1,4 @@
+hour stock vwap
+5 DWM 49.12
+9 DWM 49.65
+10 DWM 49.55

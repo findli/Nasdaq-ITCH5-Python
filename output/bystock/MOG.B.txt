@@ -1,0 +1,2 @@
+hour stock vwap
+10 MOG.B 88.4

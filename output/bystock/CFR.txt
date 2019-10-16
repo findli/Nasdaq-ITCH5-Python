@@ -1,0 +1,8 @@
+hour stock vwap
+4 CFR 99.24
+5 CFR 99.55
+6 CFR 99.9
+7 CFR 99.95
+8 CFR 99.75
+9 CFR 99.84
+10 CFR 99.36

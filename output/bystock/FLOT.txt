@@ -1,0 +1,6 @@
+hour stock vwap
+4 FLOT 50.75
+5 FLOT 50.75
+8 FLOT 50.74
+9 FLOT 50.76
+10 FLOT 50.76

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BID 39.19
+5 BID 38.98
+6 BID 38.91
+7 BID 38.85
+8 BID 38.83
+9 BID 39.07
+10 BID 39.02

@@ -1,0 +1,4 @@
+hour stock vwap
+5 RYB 6.85
+6 RYB 6.88
+7 RYB 7.09

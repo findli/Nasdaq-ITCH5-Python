@@ -1,0 +1,2 @@
+hour stock vwap
+7 NTN 2.91

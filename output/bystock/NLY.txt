@@ -1,0 +1,8 @@
+hour stock vwap
+4 NLY 10.39
+5 NLY 10.42
+6 NLY 10.43
+7 NLY 10.41
+8 NLY 10.4
+9 NLY 10.43
+10 NLY 10.42

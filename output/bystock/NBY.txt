@@ -1,0 +1,4 @@
+hour stock vwap
+5 NBY 2.21
+6 NBY 1.93
+7 NBY 1.89

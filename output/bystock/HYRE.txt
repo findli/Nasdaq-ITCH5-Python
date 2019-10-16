@@ -1,0 +1,7 @@
+hour stock vwap
+4 HYRE 4.29
+5 HYRE 4.58
+6 HYRE 4.58
+7 HYRE 4.5
+8 HYRE 4.54
+10 HYRE 4.59

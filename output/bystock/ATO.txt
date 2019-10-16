@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATO 94.76
+5 ATO 95.16
+6 ATO 95.09
+7 ATO 95.22
+8 ATO 95.06
+9 ATO 95.52
+10 ATO 95.51

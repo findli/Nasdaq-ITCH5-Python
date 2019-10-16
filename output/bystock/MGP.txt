@@ -1,0 +1,8 @@
+hour stock vwap
+4 MGP 30.34
+5 MGP 30.43
+6 MGP 30.71
+7 MGP 30.84
+8 MGP 30.85
+9 MGP 30.72
+10 MGP 30.57

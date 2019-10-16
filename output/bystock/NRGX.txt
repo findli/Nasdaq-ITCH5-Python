@@ -1,0 +1,4 @@
+hour stock vwap
+5 NRGX 20.42
+6 NRGX 20.78
+7 NRGX 20.43

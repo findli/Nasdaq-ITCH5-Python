@@ -1,0 +1,5 @@
+hour stock vwap
+6 PGF 18.06
+7 PGF 18.07
+9 PGF 18.08
+10 PGF 18.09

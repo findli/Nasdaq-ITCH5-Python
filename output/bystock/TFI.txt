@@ -1,0 +1,8 @@
+hour stock vwap
+4 TFI 48.3
+5 TFI 48.3
+6 TFI 48.27
+7 TFI 48.27
+8 TFI 48.24
+9 TFI 48.28
+10 TFI 48.27

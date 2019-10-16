@@ -1,0 +1,3 @@
+hour stock vwap
+6 GLV 10.7
+9 GLV 10.73

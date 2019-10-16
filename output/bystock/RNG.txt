@@ -1,0 +1,8 @@
+hour stock vwap
+4 RNG 87.98
+5 RNG 87.81
+6 RNG 87.88
+7 RNG 88.31
+8 RNG 87.92
+9 RNG 88.92
+10 RNG 89.23

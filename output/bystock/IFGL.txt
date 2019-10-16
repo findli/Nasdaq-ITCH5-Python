@@ -1,0 +1,4 @@
+hour stock vwap
+7 IFGL 29.49
+8 IFGL 29.45
+10 IFGL 29.66

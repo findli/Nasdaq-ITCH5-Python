@@ -1,0 +1,4 @@
+hour stock vwap
+6 SPHB 39.09
+9 SPHB 39.39
+10 SPHB 39.56

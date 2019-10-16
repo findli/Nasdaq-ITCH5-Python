@@ -1,0 +1,5 @@
+hour stock vwap
+6 FDL 27.96
+7 FDL 27.9
+9 FDL 28.06
+10 FDL 28.09

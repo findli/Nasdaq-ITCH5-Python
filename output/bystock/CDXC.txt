@@ -1,0 +1,6 @@
+hour stock vwap
+6 CDXC 3.24
+7 CDXC 3.23
+8 CDXC 3.26
+9 CDXC 3.26
+10 CDXC 3.26

@@ -1,0 +1,7 @@
+hour stock vwap
+4 MCRI 42.89
+5 MCRI 42.86
+7 MCRI 42.87
+8 MCRI 42.7
+9 MCRI 42.75
+10 MCRI 42.82

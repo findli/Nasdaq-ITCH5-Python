@@ -1,0 +1,6 @@
+hour stock vwap
+4 RSP 98.81
+5 RSP 98.67
+7 RSP 99.21
+9 RSP 99.43
+10 RSP 99.67

@@ -1,0 +1,6 @@
+hour stock vwap
+6 TNC 58.15
+7 TNC 58.46
+8 TNC 58.4
+9 TNC 58.32
+10 TNC 58.04

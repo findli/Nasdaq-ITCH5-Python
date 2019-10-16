@@ -1,0 +1,4 @@
+hour stock vwap
+6 ENT 2.6
+9 ENT 2.6
+10 ENT 2.62

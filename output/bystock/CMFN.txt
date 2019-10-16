@@ -1,0 +1,5 @@
+hour stock vwap
+4 CMFN 7.48
+5 CMFN 7.51
+7 CMFN 7.59
+10 CMFN 7.69

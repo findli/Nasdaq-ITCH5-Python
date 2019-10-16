@@ -1,0 +1,8 @@
+hour stock vwap
+4 SOI 15.01
+5 SOI 14.87
+6 SOI 14.81
+7 SOI 14.75
+8 SOI 14.65
+9 SOI 14.73
+10 SOI 14.65

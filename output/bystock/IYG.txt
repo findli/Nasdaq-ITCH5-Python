@@ -1,0 +1,5 @@
+hour stock vwap
+5 IYG 123.37
+7 IYG 124.07
+9 IYG 124.22
+10 IYG 124.2

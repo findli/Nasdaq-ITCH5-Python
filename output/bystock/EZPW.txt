@@ -1,0 +1,9 @@
+hour stock vwap
+4 EZPW 9.12
+5 EZPW 9.23
+6 EZPW 9.24
+7 EZPW 9.29
+8 EZPW 9.37
+9 EZPW 9.48
+10 EZPW 9.5
+11 EZPW 9.74

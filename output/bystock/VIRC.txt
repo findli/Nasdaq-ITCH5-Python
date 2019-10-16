@@ -1,0 +1,5 @@
+hour stock vwap
+5 VIRC 4.27
+8 VIRC 4.16
+9 VIRC 4.26
+10 VIRC 4.24

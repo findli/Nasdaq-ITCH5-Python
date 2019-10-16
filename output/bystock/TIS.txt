@@ -1,0 +1,10 @@
+hour stock vwap
+2 TIS 1.24
+3 TIS 1.18
+4 TIS 1.16
+5 TIS 1.14
+6 TIS 1.07
+7 TIS 1.11
+9 TIS 1.04
+10 TIS 1.08
+11 TIS 1.07

@@ -1,0 +1,6 @@
+hour stock vwap
+4 KRP 16.45
+5 KRP 16.35
+6 KRP 16.6
+7 KRP 16.93
+10 KRP 16.8

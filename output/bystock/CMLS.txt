@@ -1,0 +1,5 @@
+hour stock vwap
+5 CMLS 12.01
+8 CMLS 12.0
+9 CMLS 12.04
+10 CMLS 12.08

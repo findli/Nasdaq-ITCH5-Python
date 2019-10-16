@@ -1,0 +1,8 @@
+hour stock vwap
+4 DSW 26.92
+5 DSW 26.93
+6 DSW 27.04
+7 DSW 27.07
+8 DSW 26.95
+9 DSW 27.16
+10 DSW 27.12

@@ -1,0 +1,8 @@
+hour stock vwap
+4 GPRO 4.94
+5 GPRO 4.9
+6 GPRO 4.83
+7 GPRO 4.86
+8 GPRO 4.85
+9 GPRO 4.85
+10 GPRO 4.85

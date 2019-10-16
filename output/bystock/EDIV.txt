@@ -1,0 +1,4 @@
+hour stock vwap
+7 EDIV 32.03
+8 EDIV 32.1
+9 EDIV 32.53

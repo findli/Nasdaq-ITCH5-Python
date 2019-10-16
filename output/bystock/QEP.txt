@@ -1,0 +1,8 @@
+hour stock vwap
+4 QEP 8.27
+5 QEP 8.31
+6 QEP 8.43
+7 QEP 8.48
+8 QEP 8.42
+9 QEP 8.48
+10 QEP 8.58

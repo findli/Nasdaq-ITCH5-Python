@@ -1,0 +1,6 @@
+hour stock vwap
+4 SPNS 12.06
+5 SPNS 12.07
+8 SPNS 12.08
+9 SPNS 12.11
+10 SPNS 12.11

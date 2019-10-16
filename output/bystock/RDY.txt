@@ -1,0 +1,8 @@
+hour stock vwap
+4 RDY 37.45
+5 RDY 37.46
+6 RDY 37.44
+7 RDY 37.6
+8 RDY 37.45
+9 RDY 37.59
+10 RDY 37.55

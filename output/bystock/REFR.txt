@@ -1,0 +1,8 @@
+hour stock vwap
+4 REFR 2.59
+5 REFR 2.46
+6 REFR 2.46
+7 REFR 2.52
+8 REFR 2.51
+9 REFR 2.5
+10 REFR 2.49

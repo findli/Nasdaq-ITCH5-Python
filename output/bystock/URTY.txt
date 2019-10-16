@@ -1,0 +1,7 @@
+hour stock vwap
+4 URTY 63.86
+5 URTY 63.29
+7 URTY 64.94
+8 URTY 64.46
+9 URTY 65.09
+10 URTY 65.88

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SYRS 5.57
+5 SYRS 5.4
+6 SYRS 5.32
+7 SYRS 5.34
+8 SYRS 5.38
+9 SYRS 5.55
+10 SYRS 5.67

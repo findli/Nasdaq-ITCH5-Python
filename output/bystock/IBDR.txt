@@ -1,0 +1,4 @@
+hour stock vwap
+5 IBDR 23.55
+8 IBDR 23.54
+10 IBDR 23.64

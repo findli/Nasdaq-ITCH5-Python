@@ -1,0 +1,9 @@
+hour stock vwap
+4 GHL 28.54
+5 GHL 28.85
+6 GHL 28.7
+7 GHL 28.72
+8 GHL 28.74
+9 GHL 28.85
+10 GHL 28.66
+11 GHL 27.87

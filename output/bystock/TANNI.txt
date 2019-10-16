@@ -1,0 +1,4 @@
+hour stock vwap
+8 TANNI 25.44
+9 TANNI 25.42
+10 TANNI 25.77

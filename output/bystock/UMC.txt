@@ -1,0 +1,8 @@
+hour stock vwap
+4 UMC 1.83
+5 UMC 1.84
+6 UMC 1.84
+7 UMC 1.84
+8 UMC 1.84
+9 UMC 1.85
+10 UMC 1.87

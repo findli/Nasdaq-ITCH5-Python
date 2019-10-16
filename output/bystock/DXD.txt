@@ -1,0 +1,8 @@
+hour stock vwap
+4 DXD 31.12
+5 DXD 31.15
+6 DXD 30.9
+7 DXD 30.87
+8 DXD 30.99
+9 DXD 30.86
+10 DXD 30.67

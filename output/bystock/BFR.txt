@@ -1,0 +1,8 @@
+hour stock vwap
+4 BFR 13.41
+5 BFR 13.36
+6 BFR 13.37
+7 BFR 13.44
+8 BFR 13.4
+9 BFR 13.5
+10 BFR 13.58

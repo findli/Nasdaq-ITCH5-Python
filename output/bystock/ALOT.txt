@@ -1,0 +1,5 @@
+hour stock vwap
+4 ALOT 19.98
+8 ALOT 19.94
+9 ALOT 19.95
+10 ALOT 19.97

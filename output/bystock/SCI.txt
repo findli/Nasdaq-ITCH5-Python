@@ -1,0 +1,8 @@
+hour stock vwap
+4 SCI 43.22
+5 SCI 43.22
+6 SCI 43.56
+7 SCI 43.56
+8 SCI 43.46
+9 SCI 43.67
+10 SCI 43.62

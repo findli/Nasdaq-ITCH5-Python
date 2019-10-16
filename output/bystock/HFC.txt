@@ -1,0 +1,9 @@
+hour stock vwap
+3 HFC 54.16
+4 HFC 54.51
+5 HFC 54.21
+6 HFC 55.04
+7 HFC 55.16
+8 HFC 55.18
+9 HFC 55.76
+10 HFC 55.75

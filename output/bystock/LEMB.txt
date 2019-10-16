@@ -1,0 +1,5 @@
+hour stock vwap
+5 LEMB 44.63
+6 LEMB 44.62
+8 LEMB 44.64
+9 LEMB 44.83

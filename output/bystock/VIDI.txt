@@ -1,0 +1,5 @@
+hour stock vwap
+6 VIDI 24.5
+8 VIDI 24.57
+9 VIDI 24.82
+10 VIDI 24.84

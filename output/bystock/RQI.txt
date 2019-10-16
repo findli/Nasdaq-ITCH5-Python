@@ -1,0 +1,5 @@
+hour stock vwap
+4 RQI 11.79
+7 RQI 11.95
+8 RQI 11.94
+10 RQI 11.93

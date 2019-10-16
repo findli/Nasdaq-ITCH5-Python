@@ -1,0 +1,8 @@
+hour stock vwap
+4 GPC 98.81
+5 GPC 98.48
+6 GPC 98.81
+7 GPC 98.92
+8 GPC 98.41
+9 GPC 98.96
+10 GPC 99.3

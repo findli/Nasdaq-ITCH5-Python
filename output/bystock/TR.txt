@@ -1,0 +1,5 @@
+hour stock vwap
+6 TR 34.18
+7 TR 34.12
+8 TR 34.05
+10 TR 34.19

@@ -1,0 +1,4 @@
+hour stock vwap
+6 SUSA 109.37
+7 SUSA 109.5
+10 SUSA 110.4

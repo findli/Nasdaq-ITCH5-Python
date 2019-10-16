@@ -1,0 +1,4 @@
+hour stock vwap
+5 INFU 3.73
+6 INFU 3.75
+10 INFU 3.78

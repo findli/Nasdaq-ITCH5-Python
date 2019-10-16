@@ -1,0 +1,8 @@
+hour stock vwap
+4 WTR 34.06
+5 WTR 34.22
+6 WTR 34.29
+7 WTR 34.28
+8 WTR 34.28
+9 WTR 34.48
+10 WTR 34.35

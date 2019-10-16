@@ -1,0 +1,4 @@
+hour stock vwap
+4 GGT 8.18
+9 GGT 8.3
+10 GGT 8.3

@@ -1,0 +1,4 @@
+hour stock vwap
+2 KOLD 19.21
+6 KOLD 19.27
+7 KOLD 19.15

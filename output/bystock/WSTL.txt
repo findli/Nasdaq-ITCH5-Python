@@ -1,0 +1,5 @@
+hour stock vwap
+5 WSTL 2.19
+7 WSTL 2.19
+8 WSTL 2.16
+10 WSTL 2.22

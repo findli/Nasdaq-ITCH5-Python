@@ -1,0 +1,5 @@
+hour stock vwap
+4 IOTS 4.67
+5 IOTS 4.81
+9 IOTS 4.95
+10 IOTS 5.0

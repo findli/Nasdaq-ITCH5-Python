@@ -1,0 +1,7 @@
+hour stock vwap
+4 SMHB 21.8
+5 SMHB 21.79
+6 SMHB 21.9
+7 SMHB 21.93
+8 SMHB 21.81
+10 SMHB 21.84

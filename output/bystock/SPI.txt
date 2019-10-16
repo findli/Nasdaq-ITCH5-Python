@@ -1,0 +1,5 @@
+hour stock vwap
+5 SPI 2.05
+6 SPI 2.29
+7 SPI 2.15
+10 SPI 2.1

@@ -1,0 +1,7 @@
+hour stock vwap
+4 RAND 3.17
+5 RAND 3.09
+6 RAND 3.12
+7 RAND 3.1
+8 RAND 3.09
+10 RAND 3.11

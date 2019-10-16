@@ -1,0 +1,8 @@
+hour stock vwap
+4 TBBK 8.54
+5 TBBK 8.51
+6 TBBK 8.58
+7 TBBK 8.54
+9 TBBK 8.56
+10 TBBK 8.59
+11 TBBK 8.54

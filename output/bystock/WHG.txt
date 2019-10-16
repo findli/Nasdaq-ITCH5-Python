@@ -1,0 +1,8 @@
+hour stock vwap
+4 WHG 37.05
+5 WHG 36.72
+6 WHG 36.46
+7 WHG 36.18
+8 WHG 36.21
+9 WHG 36.7
+10 WHG 36.86

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CIT 46.0
+5 CIT 46.13
+6 CIT 46.63
+7 CIT 46.79
+8 CIT 46.67
+9 CIT 47.03
+10 CIT 47.01

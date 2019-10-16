@@ -1,0 +1,8 @@
+hour stock vwap
+4 BCO 71.56
+5 BCO 71.67
+6 BCO 71.82
+7 BCO 72.67
+8 BCO 72.68
+9 BCO 73.35
+10 BCO 73.36

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CRC 19.66
+5 CRC 20.03
+6 CRC 20.28
+7 CRC 20.23
+8 CRC 20.32
+9 CRC 20.49
+10 CRC 20.49

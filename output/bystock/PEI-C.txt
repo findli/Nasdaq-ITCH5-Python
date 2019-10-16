@@ -1,0 +1,4 @@
+hour stock vwap
+5 PEI-C 18.02
+6 PEI-C 18.2
+7 PEI-C 18.26

@@ -1,0 +1,8 @@
+hour stock vwap
+4 BGG 12.38
+5 BGG 12.32
+6 BGG 12.43
+7 BGG 12.58
+8 BGG 12.63
+9 BGG 12.69
+10 BGG 12.75

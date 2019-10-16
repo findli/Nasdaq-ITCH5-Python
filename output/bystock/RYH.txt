@@ -1,0 +1,4 @@
+hour stock vwap
+4 RYH 188.94
+5 RYH 189.57
+9 RYH 191.06

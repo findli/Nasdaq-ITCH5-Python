@@ -1,0 +1,4 @@
+hour stock vwap
+5 IWC 89.47
+8 IWC 89.9
+10 IWC 90.23

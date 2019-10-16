@@ -1,0 +1,8 @@
+hour stock vwap
+4 EXK 2.12
+5 EXK 2.12
+6 EXK 2.09
+7 EXK 2.12
+8 EXK 2.11
+9 EXK 2.18
+10 EXK 2.16

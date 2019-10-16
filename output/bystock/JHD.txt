@@ -1,0 +1,4 @@
+hour stock vwap
+5 JHD 9.88
+6 JHD 9.88
+10 JHD 9.89

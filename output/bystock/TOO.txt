@@ -1,0 +1,6 @@
+hour stock vwap
+4 TOO 1.22
+5 TOO 1.2
+6 TOO 1.2
+7 TOO 1.2
+9 TOO 1.2

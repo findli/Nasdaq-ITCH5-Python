@@ -1,0 +1,8 @@
+hour stock vwap
+4 HZO 17.73
+5 HZO 17.69
+6 HZO 17.56
+7 HZO 17.73
+8 HZO 17.64
+9 HZO 17.84
+10 HZO 18.01

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TRQ 1.64
+5 TRQ 1.64
+6 TRQ 1.66
+7 TRQ 1.66
+8 TRQ 1.65
+9 TRQ 1.7
+10 TRQ 1.68

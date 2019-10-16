@@ -1,0 +1,3 @@
+hour stock vwap
+7 MITT-B 25.36
+10 MITT-B 25.37

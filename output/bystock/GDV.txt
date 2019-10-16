@@ -1,0 +1,5 @@
+hour stock vwap
+5 GDV 20.16
+7 GDV 20.2
+9 GDV 20.34
+10 GDV 20.27

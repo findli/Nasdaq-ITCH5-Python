@@ -1,0 +1,4 @@
+hour stock vwap
+4 SPKE 8.23
+5 SPKE 8.31
+10 SPKE 8.15

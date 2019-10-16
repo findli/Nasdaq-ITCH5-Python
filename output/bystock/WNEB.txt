@@ -1,0 +1,8 @@
+hour stock vwap
+4 WNEB 9.3
+5 WNEB 9.32
+6 WNEB 9.34
+7 WNEB 9.32
+8 WNEB 9.32
+9 WNEB 9.34
+10 WNEB 9.3

@@ -1,0 +1,4 @@
+hour stock vwap
+6 CPIX 5.36
+8 CPIX 5.53
+10 CPIX 5.43

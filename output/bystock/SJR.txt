@@ -1,0 +1,8 @@
+hour stock vwap
+4 SJR 20.01
+5 SJR 19.98
+6 SJR 20.02
+7 SJR 20.0
+8 SJR 19.99
+9 SJR 20.13
+10 SJR 20.13

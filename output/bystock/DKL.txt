@@ -1,0 +1,5 @@
+hour stock vwap
+5 DKL 30.17
+7 DKL 30.26
+9 DKL 30.32
+10 DKL 30.06

@@ -1,0 +1,8 @@
+hour stock vwap
+4 ERF 8.77
+5 ERF 8.68
+6 ERF 8.78
+7 ERF 8.84
+8 ERF 8.86
+9 ERF 8.93
+10 ERF 8.89

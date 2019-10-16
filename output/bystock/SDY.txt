@@ -1,0 +1,7 @@
+hour stock vwap
+4 SDY 94.28
+5 SDY 93.7
+6 SDY 93.93
+7 SDY 93.95
+9 SDY 94.21
+10 SDY 94.2

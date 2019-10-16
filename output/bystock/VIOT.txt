@@ -1,0 +1,5 @@
+hour stock vwap
+6 VIOT 7.73
+7 VIOT 7.79
+8 VIOT 7.72
+10 VIOT 7.76

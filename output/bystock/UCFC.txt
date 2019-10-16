@@ -1,0 +1,7 @@
+hour stock vwap
+4 UCFC 9.35
+5 UCFC 9.35
+7 UCFC 9.36
+8 UCFC 9.36
+9 UCFC 9.4
+10 UCFC 9.42

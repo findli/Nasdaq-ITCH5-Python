@@ -1,0 +1,3 @@
+hour stock vwap
+9 TWO-E 23.89
+10 TWO-E 23.89

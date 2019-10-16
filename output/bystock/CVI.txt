@@ -1,0 +1,8 @@
+hour stock vwap
+4 CVI 39.5
+5 CVI 39.67
+6 CVI 40.05
+7 CVI 40.25
+8 CVI 40.18
+9 CVI 40.2
+10 CVI 40.02

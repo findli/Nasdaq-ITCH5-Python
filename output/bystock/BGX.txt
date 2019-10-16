@@ -1,0 +1,5 @@
+hour stock vwap
+4 BGX 14.88
+5 BGX 14.87
+6 BGX 14.87
+9 BGX 14.86

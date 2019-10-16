@@ -1,0 +1,5 @@
+hour stock vwap
+4 SAR 23.01
+7 SAR 23.21
+10 SAR 23.03
+11 SAR 23.02

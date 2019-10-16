@@ -1,0 +1,8 @@
+hour stock vwap
+4 AXL 14.28
+5 AXL 14.32
+6 AXL 14.45
+7 AXL 14.44
+8 AXL 14.36
+9 AXL 14.52
+10 AXL 14.51

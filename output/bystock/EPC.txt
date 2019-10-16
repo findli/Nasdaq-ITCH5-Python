@@ -1,0 +1,8 @@
+hour stock vwap
+4 EPC 39.14
+5 EPC 39.07
+6 EPC 39.2
+7 EPC 39.01
+8 EPC 38.89
+9 EPC 39.05
+10 EPC 39.01

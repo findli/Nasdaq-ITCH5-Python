@@ -1,0 +1,5 @@
+hour stock vwap
+4 FNWB 15.31
+8 FNWB 15.19
+9 FNWB 15.25
+10 FNWB 15.25

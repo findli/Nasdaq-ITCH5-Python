@@ -1,0 +1,3 @@
+hour stock vwap
+8 NEE-K 24.39
+9 NEE-K 24.37

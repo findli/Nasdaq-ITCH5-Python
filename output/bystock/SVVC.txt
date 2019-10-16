@@ -1,0 +1,3 @@
+hour stock vwap
+4 SVVC 13.13
+9 SVVC 13.31

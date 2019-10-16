@@ -1,0 +1,8 @@
+hour stock vwap
+4 BRS 3.78
+5 BRS 3.65
+6 BRS 3.65
+7 BRS 3.65
+8 BRS 3.71
+9 BRS 3.68
+10 BRS 3.63

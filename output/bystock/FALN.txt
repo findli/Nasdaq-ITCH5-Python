@@ -1,0 +1,4 @@
+hour stock vwap
+4 FALN 25.59
+6 FALN 25.55
+7 FALN 25.56

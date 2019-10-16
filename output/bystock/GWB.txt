@@ -1,0 +1,8 @@
+hour stock vwap
+4 GWB 35.07
+5 GWB 35.26
+6 GWB 35.27
+7 GWB 35.42
+8 GWB 35.27
+9 GWB 35.38
+10 GWB 35.34

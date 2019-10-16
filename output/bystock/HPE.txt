@@ -1,0 +1,8 @@
+hour stock vwap
+4 HPE 15.5
+5 HPE 15.35
+6 HPE 15.43
+7 HPE 15.47
+8 HPE 15.45
+9 HPE 15.61
+10 HPE 15.55

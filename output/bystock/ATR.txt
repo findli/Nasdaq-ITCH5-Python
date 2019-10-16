@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATR 98.03
+5 ATR 97.88
+6 ATR 98.27
+7 ATR 98.18
+8 ATR 97.91
+9 ATR 98.11
+10 ATR 97.88

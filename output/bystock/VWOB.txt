@@ -1,0 +1,7 @@
+hour stock vwap
+4 VWOB 76.38
+5 VWOB 76.38
+6 VWOB 76.4
+7 VWOB 76.4
+9 VWOB 76.55
+10 VWOB 76.66

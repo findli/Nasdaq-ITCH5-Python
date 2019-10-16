@@ -1,0 +1,7 @@
+hour stock vwap
+5 PNNT 7.16
+6 PNNT 7.15
+7 PNNT 7.13
+8 PNNT 7.16
+9 PNNT 7.17
+10 PNNT 7.16

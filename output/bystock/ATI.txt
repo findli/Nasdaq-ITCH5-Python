@@ -1,0 +1,8 @@
+hour stock vwap
+4 ATI 26.49
+5 ATI 26.47
+6 ATI 26.63
+7 ATI 26.71
+8 ATI 26.76
+9 ATI 27.06
+10 ATI 27.17

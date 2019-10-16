@@ -1,0 +1,4 @@
+hour stock vwap
+4 YUMA 0.11
+5 YUMA 0.11
+8 YUMA 0.11

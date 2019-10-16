@@ -1,0 +1,8 @@
+hour stock vwap
+4 CNK 39.94
+5 CNK 40.17
+6 CNK 40.24
+7 CNK 40.14
+8 CNK 40.09
+9 CNK 40.3
+10 CNK 40.15

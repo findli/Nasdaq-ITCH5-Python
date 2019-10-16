@@ -1,0 +1,7 @@
+hour stock vwap
+4 VET 23.81
+5 VET 23.75
+6 VET 24.09
+7 VET 24.11
+9 VET 24.46
+10 VET 24.44

@@ -1,0 +1,9 @@
+hour stock vwap
+4 BLNK 2.14
+5 BLNK 2.19
+6 BLNK 2.2
+7 BLNK 2.24
+8 BLNK 2.3
+9 BLNK 2.38
+10 BLNK 2.43
+11 BLNK 2.48

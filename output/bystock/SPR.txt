@@ -1,0 +1,8 @@
+hour stock vwap
+4 SPR 82.01
+5 SPR 82.36
+6 SPR 83.19
+7 SPR 83.19
+8 SPR 83.19
+9 SPR 83.76
+10 SPR 83.64

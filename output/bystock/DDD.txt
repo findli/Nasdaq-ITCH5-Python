@@ -1,0 +1,8 @@
+hour stock vwap
+4 DDD 12.06
+5 DDD 12.08
+6 DDD 12.01
+7 DDD 12.08
+8 DDD 12.19
+9 DDD 12.27
+10 DDD 12.33

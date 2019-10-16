@@ -1,0 +1,5 @@
+hour stock vwap
+5 FHLC 42.76
+7 FHLC 42.99
+9 FHLC 43.15
+10 FHLC 43.19

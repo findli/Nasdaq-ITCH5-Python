@@ -1,0 +1,9 @@
+hour stock vwap
+4 STX 43.17
+5 STX 43.14
+6 STX 43.07
+7 STX 43.32
+8 STX 43.29
+9 STX 43.75
+10 STX 43.7
+14 STX 43.99

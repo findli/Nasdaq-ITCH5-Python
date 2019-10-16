@@ -1,0 +1,3 @@
+hour stock vwap
+7 IBDT 25.35
+9 IBDT 25.41

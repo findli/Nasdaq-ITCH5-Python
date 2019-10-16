@@ -1,0 +1,8 @@
+hour stock vwap
+4 EQM 46.48
+5 EQM 46.28
+6 EQM 46.59
+7 EQM 46.74
+8 EQM 46.88
+9 EQM 46.99
+10 EQM 46.95

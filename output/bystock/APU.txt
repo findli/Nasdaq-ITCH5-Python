@@ -1,0 +1,8 @@
+hour stock vwap
+4 APU 30.02
+5 APU 30.07
+6 APU 30.18
+7 APU 30.21
+8 APU 30.34
+9 APU 30.51
+10 APU 30.39

@@ -1,0 +1,4 @@
+hour stock vwap
+6 GBL 19.27
+9 GBL 19.29
+10 GBL 19.34

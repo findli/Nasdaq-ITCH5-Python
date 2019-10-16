@@ -1,0 +1,4 @@
+hour stock vwap
+5 PER 2.31
+9 PER 2.33
+10 PER 2.36

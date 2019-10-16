@@ -1,0 +1,4 @@
+hour stock vwap
+4 CETX 0.77
+6 CETX 0.77
+10 CETX 0.75

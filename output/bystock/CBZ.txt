@@ -1,0 +1,6 @@
+hour stock vwap
+4 CBZ 19.5
+5 CBZ 19.44
+7 CBZ 19.6
+9 CBZ 19.74
+10 CBZ 19.58

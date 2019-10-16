@@ -1,0 +1,6 @@
+hour stock vwap
+4 TGA 1.76
+6 TGA 1.8
+7 TGA 1.8
+9 TGA 1.83
+10 TGA 1.84

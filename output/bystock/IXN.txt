@@ -1,0 +1,7 @@
+hour stock vwap
+4 IXN 153.22
+5 IXN 153.02
+6 IXN 153.16
+7 IXN 153.66
+9 IXN 154.92
+10 IXN 155.12

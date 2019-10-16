@@ -1,0 +1,5 @@
+hour stock vwap
+6 PSCT 75.78
+7 PSCT 75.83
+9 PSCT 75.93
+10 PSCT 76.46

@@ -1,0 +1,4 @@
+hour stock vwap
+5 TBF 22.56
+8 TBF 22.59
+9 TBF 22.6

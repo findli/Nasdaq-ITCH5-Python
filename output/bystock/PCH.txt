@@ -1,0 +1,8 @@
+hour stock vwap
+4 PCH 35.84
+5 PCH 36.23
+6 PCH 36.32
+7 PCH 36.4
+8 PCH 36.37
+9 PCH 36.53
+10 PCH 36.39

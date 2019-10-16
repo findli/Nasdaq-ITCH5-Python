@@ -1,0 +1,7 @@
+hour stock vwap
+5 CYBE 20.53
+6 CYBE 20.61
+7 CYBE 20.49
+8 CYBE 20.47
+9 CYBE 20.89
+10 CYBE 20.89

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PGNX 4.5
+5 PGNX 4.5
+6 PGNX 4.49
+7 PGNX 4.45
+8 PGNX 4.42
+9 PGNX 4.46
+10 PGNX 4.48

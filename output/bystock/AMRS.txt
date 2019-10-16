@@ -1,0 +1,8 @@
+hour stock vwap
+4 AMRS 2.76
+5 AMRS 2.73
+6 AMRS 2.93
+7 AMRS 3.09
+8 AMRS 3.15
+9 AMRS 3.08
+10 AMRS 3.1

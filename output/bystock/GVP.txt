@@ -1,0 +1,4 @@
+hour stock vwap
+8 GVP 2.84
+9 GVP 2.83
+10 GVP 2.89

@@ -1,0 +1,8 @@
+hour stock vwap
+4 OCUL 3.79
+5 OCUL 3.77
+6 OCUL 3.7
+7 OCUL 3.75
+8 OCUL 3.76
+9 OCUL 3.79
+10 OCUL 3.84

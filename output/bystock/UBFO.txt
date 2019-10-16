@@ -1,0 +1,5 @@
+hour stock vwap
+4 UBFO 10.24
+6 UBFO 10.38
+9 UBFO 10.23
+10 UBFO 10.38

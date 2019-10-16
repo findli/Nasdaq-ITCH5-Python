@@ -1,0 +1,8 @@
+hour stock vwap
+4 PNW 87.27
+5 PNW 87.54
+6 PNW 87.37
+7 PNW 87.36
+8 PNW 87.25
+9 PNW 87.79
+10 PNW 87.82

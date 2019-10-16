@@ -1,0 +1,4 @@
+hour stock vwap
+8 CZWI 11.5
+9 CZWI 11.67
+10 CZWI 11.68

@@ -1,0 +1,3 @@
+hour stock vwap
+7 STND 31.2
+10 STND 31.96

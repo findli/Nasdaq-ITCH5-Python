@@ -1,0 +1,6 @@
+hour stock vwap
+4 ARQL 3.38
+5 ARQL 3.41
+7 ARQL 3.44
+9 ARQL 3.44
+10 ARQL 3.54

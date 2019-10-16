@@ -1,0 +1,7 @@
+hour stock vwap
+5 OFC 24.57
+6 OFC 24.56
+7 OFC 24.64
+8 OFC 24.65
+9 OFC 24.7
+10 OFC 24.62

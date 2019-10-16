@@ -1,0 +1,8 @@
+hour stock vwap
+4 CWK 15.73
+5 CWK 16.09
+6 CWK 16.14
+7 CWK 16.23
+8 CWK 16.4
+9 CWK 16.56
+10 CWK 16.2

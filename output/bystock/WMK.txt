@@ -1,0 +1,7 @@
+hour stock vwap
+5 WMK 47.85
+6 WMK 47.71
+7 WMK 47.62
+8 WMK 47.59
+9 WMK 48.16
+10 WMK 48.3

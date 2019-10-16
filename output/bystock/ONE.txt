@@ -1,0 +1,4 @@
+hour stock vwap
+5 ONE 8.67
+8 ONE 8.57
+10 ONE 8.62

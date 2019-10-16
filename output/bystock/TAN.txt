@@ -1,0 +1,7 @@
+hour stock vwap
+4 TAN 22.26
+5 TAN 22.24
+6 TAN 22.35
+7 TAN 22.35
+9 TAN 22.45
+10 TAN 22.51

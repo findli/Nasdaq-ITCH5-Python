@@ -1,0 +1,4 @@
+hour stock vwap
+4 FTF 9.43
+6 FTF 9.46
+7 FTF 9.44

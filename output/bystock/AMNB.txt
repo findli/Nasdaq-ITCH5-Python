@@ -1,0 +1,6 @@
+hour stock vwap
+4 AMNB 32.84
+5 AMNB 32.91
+8 AMNB 32.46
+9 AMNB 32.54
+10 AMNB 32.56

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PFF 35.84
+5 PFF 35.92
+6 PFF 36.01
+7 PFF 36.03
+8 PFF 36.01
+9 PFF 36.07
+10 PFF 36.1

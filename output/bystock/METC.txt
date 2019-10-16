@@ -1,0 +1,7 @@
+hour stock vwap
+4 METC 5.64
+5 METC 5.52
+7 METC 5.75
+8 METC 5.82
+9 METC 5.9
+10 METC 5.9

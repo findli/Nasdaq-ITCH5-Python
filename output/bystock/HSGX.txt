@@ -1,0 +1,8 @@
+hour stock vwap
+4 HSGX 0.14
+5 HSGX 0.13
+6 HSGX 0.13
+7 HSGX 0.14
+8 HSGX 0.14
+9 HSGX 0.14
+10 HSGX 0.14

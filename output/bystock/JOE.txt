@@ -1,0 +1,6 @@
+hour stock vwap
+4 JOE 15.34
+5 JOE 15.39
+7 JOE 15.42
+9 JOE 15.44
+10 JOE 15.34

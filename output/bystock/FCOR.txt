@@ -1,0 +1,2 @@
+hour stock vwap
+7 FCOR 48.39

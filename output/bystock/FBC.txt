@@ -1,0 +1,8 @@
+hour stock vwap
+4 FBC 30.26
+5 FBC 30.17
+6 FBC 30.17
+7 FBC 30.1
+8 FBC 30.11
+9 FBC 30.15
+10 FBC 30.39

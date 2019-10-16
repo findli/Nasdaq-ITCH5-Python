@@ -1,0 +1,4 @@
+hour stock vwap
+7 RPG 107.26
+9 RPG 107.67
+10 RPG 107.89

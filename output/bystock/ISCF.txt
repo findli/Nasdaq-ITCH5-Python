@@ -1,0 +1,4 @@
+hour stock vwap
+6 ISCF 27.84
+8 ISCF 27.86
+9 ISCF 28.04

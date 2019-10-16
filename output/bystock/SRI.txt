@@ -1,0 +1,8 @@
+hour stock vwap
+4 SRI 25.7
+5 SRI 25.68
+6 SRI 25.81
+7 SRI 25.87
+8 SRI 25.84
+9 SRI 26.05
+10 SRI 25.99

@@ -1,0 +1,8 @@
+hour stock vwap
+4 REG 64.01
+5 REG 64.52
+6 REG 64.68
+7 REG 64.9
+8 REG 64.61
+9 REG 64.87
+10 REG 64.89

@@ -1,0 +1,8 @@
+hour stock vwap
+4 SCL 86.13
+5 SCL 85.08
+6 SCL 84.84
+7 SCL 85.37
+8 SCL 85.15
+9 SCL 85.6
+10 SCL 85.86

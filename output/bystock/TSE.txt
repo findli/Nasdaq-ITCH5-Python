@@ -1,0 +1,8 @@
+hour stock vwap
+4 TSE 48.69
+5 TSE 48.6
+6 TSE 49.23
+7 TSE 49.57
+8 TSE 49.12
+9 TSE 49.39
+10 TSE 49.32

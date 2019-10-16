@@ -1,0 +1,6 @@
+hour stock vwap
+6 BIOL 1.67
+7 BIOL 1.69
+8 BIOL 1.7
+9 BIOL 1.79
+10 BIOL 1.9

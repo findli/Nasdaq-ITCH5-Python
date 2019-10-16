@@ -1,0 +1,8 @@
+hour stock vwap
+4 NK 1.13
+5 NK 1.12
+6 NK 1.08
+7 NK 1.1
+8 NK 1.11
+9 NK 1.1
+10 NK 1.08

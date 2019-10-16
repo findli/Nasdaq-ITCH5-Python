@@ -1,0 +1,3 @@
+hour stock vwap
+9 TLH 132.88
+10 TLH 133.13

@@ -1,0 +1,3 @@
+hour stock vwap
+7 ZB-G 26.84
+10 ZB-G 27.32

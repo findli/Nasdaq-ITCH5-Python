@@ -1,0 +1,7 @@
+hour stock vwap
+5 KOF 61.28
+6 KOF 61.23
+7 KOF 61.11
+8 KOF 61.02
+9 KOF 61.62
+10 KOF 61.19

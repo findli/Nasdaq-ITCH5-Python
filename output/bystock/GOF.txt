@@ -1,0 +1,6 @@
+hour stock vwap
+6 GOF 19.33
+7 GOF 19.33
+8 GOF 19.34
+9 GOF 19.3
+10 GOF 19.2

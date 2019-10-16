@@ -1,0 +1,2 @@
+hour stock vwap
+7 DTD 90.03

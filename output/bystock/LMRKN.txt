@@ -1,0 +1,6 @@
+hour stock vwap
+4 LMRKN 24.5
+5 LMRKN 24.83
+6 LMRKN 24.89
+7 LMRKN 24.86
+8 LMRKN 24.8

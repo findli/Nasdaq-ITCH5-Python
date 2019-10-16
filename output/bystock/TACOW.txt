@@ -1,0 +1,8 @@
+hour stock vwap
+4 TACOW 1.9
+5 TACOW 1.9
+6 TACOW 1.9
+7 TACOW 1.9
+8 TACOW 1.9
+9 TACOW 1.9
+10 TACOW 1.89

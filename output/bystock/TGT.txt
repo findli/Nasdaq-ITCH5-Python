@@ -1,0 +1,8 @@
+hour stock vwap
+4 TGT 71.97
+5 TGT 71.49
+6 TGT 71.99
+7 TGT 71.96
+8 TGT 72.0
+9 TGT 72.4
+10 TGT 72.35

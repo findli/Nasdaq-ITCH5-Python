@@ -1,0 +1,6 @@
+hour stock vwap
+4 SBFG 18.5
+5 SBFG 18.3
+6 SBFG 18.4
+9 SBFG 18.4
+10 SBFG 18.29

@@ -1,0 +1,8 @@
+hour stock vwap
+4 PLT 37.51
+5 PLT 37.71
+6 PLT 37.83
+7 PLT 37.82
+8 PLT 37.73
+9 PLT 38.07
+10 PLT 38.09

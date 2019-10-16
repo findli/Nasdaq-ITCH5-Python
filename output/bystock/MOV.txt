@@ -1,0 +1,8 @@
+hour stock vwap
+4 MOV 32.66
+5 MOV 32.55
+6 MOV 32.33
+7 MOV 32.43
+8 MOV 32.48
+9 MOV 32.49
+10 MOV 32.6

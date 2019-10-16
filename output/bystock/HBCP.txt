@@ -1,0 +1,7 @@
+hour stock vwap
+4 HBCP 36.5
+5 HBCP 36.06
+6 HBCP 35.59
+8 HBCP 35.32
+9 HBCP 35.73
+10 HBCP 35.66

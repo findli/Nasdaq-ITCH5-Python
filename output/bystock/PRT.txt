@@ -1,0 +1,4 @@
+hour stock vwap
+4 PRT 9.08
+7 PRT 8.91
+8 PRT 8.97

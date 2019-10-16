@@ -1,0 +1,4 @@
+hour stock vwap
+4 BAC-L 1290.27
+8 BAC-L 1292.06
+10 BAC-L 1292.6

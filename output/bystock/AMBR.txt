@@ -1,0 +1,5 @@
+hour stock vwap
+5 AMBR 8.4
+7 AMBR 8.32
+9 AMBR 8.47
+10 AMBR 8.52

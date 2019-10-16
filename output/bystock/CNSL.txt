@@ -1,0 +1,7 @@
+hour stock vwap
+4 CNSL 10.2
+5 CNSL 10.33
+6 CNSL 10.33
+8 CNSL 10.34
+9 CNSL 10.44
+10 CNSL 10.43

@@ -1,0 +1,4 @@
+hour stock vwap
+5 NXR 14.67
+6 NXR 14.62
+10 NXR 14.7

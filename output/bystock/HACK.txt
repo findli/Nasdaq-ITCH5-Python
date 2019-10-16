@@ -1,0 +1,5 @@
+hour stock vwap
+4 HACK 36.49
+8 HACK 36.59
+9 HACK 36.82
+10 HACK 36.86

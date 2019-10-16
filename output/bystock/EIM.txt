@@ -1,0 +1,4 @@
+hour stock vwap
+5 EIM 11.56
+6 EIM 11.56
+9 EIM 11.58

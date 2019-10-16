@@ -1,0 +1,6 @@
+hour stock vwap
+5 SPSB 30.3
+6 SPSB 30.32
+8 SPSB 30.32
+9 SPSB 30.33
+10 SPSB 30.36

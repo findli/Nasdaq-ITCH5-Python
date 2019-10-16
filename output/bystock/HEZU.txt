@@ -1,0 +1,4 @@
+hour stock vwap
+6 HEZU 27.72
+9 HEZU 27.8
+10 HEZU 27.8

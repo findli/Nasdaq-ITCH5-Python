@@ -1,0 +1,7 @@
+hour stock vwap
+5 VTA 10.7
+6 VTA 10.7
+7 VTA 10.72
+8 VTA 10.7
+9 VTA 10.68
+10 VTA 10.72

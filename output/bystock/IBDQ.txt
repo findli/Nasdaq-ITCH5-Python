@@ -1,0 +1,7 @@
+hour stock vwap
+4 IBDQ 24.2
+5 IBDQ 24.2
+6 IBDQ 24.2
+7 IBDQ 24.2
+8 IBDQ 24.2
+9 IBDQ 24.25

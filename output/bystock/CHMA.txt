@@ -1,0 +1,5 @@
+hour stock vwap
+7 CHMA 3.69
+8 CHMA 3.6
+9 CHMA 3.51
+10 CHMA 3.46

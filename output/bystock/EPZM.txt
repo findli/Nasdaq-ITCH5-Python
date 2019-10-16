@@ -1,0 +1,8 @@
+hour stock vwap
+4 EPZM 9.52
+5 EPZM 9.61
+6 EPZM 9.86
+7 EPZM 9.91
+8 EPZM 9.99
+9 EPZM 10.11
+10 EPZM 10.13

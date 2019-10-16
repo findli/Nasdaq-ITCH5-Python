@@ -1,0 +1,8 @@
+hour stock vwap
+4 UDR 43.28
+5 UDR 43.57
+6 UDR 43.48
+7 UDR 43.57
+8 UDR 43.52
+9 UDR 43.53
+10 UDR 43.6

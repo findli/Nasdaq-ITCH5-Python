@@ -1,0 +1,4 @@
+hour stock vwap
+5 IWX 50.06
+6 IWX 50.3
+9 IWX 50.54

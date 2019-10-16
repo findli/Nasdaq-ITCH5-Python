@@ -1,0 +1,6 @@
+hour stock vwap
+5 CPK 89.56
+7 CPK 89.43
+8 CPK 89.43
+9 CPK 89.55
+10 CPK 89.57

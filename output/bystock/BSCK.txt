@@ -1,0 +1,5 @@
+hour stock vwap
+5 BSCK 21.08
+7 BSCK 21.1
+9 BSCK 21.1
+10 BSCK 21.1

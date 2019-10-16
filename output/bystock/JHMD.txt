@@ -1,0 +1,3 @@
+hour stock vwap
+6 JHMD 27.23
+9 JHMD 27.35

@@ -1,0 +1,5 @@
+hour stock vwap
+5 UAN 3.62
+7 UAN 3.63
+8 UAN 3.66
+10 UAN 3.6

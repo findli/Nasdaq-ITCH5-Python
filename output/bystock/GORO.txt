@@ -1,0 +1,7 @@
+hour stock vwap
+5 GORO 4.5
+6 GORO 4.47
+7 GORO 4.5
+8 GORO 4.49
+9 GORO 4.54
+10 GORO 4.53

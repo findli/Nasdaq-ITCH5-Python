@@ -1,0 +1,5 @@
+hour stock vwap
+5 HIVE 3.75
+8 HIVE 3.81
+9 HIVE 3.8
+10 HIVE 3.82

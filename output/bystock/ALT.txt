@@ -1,0 +1,10 @@
+hour stock vwap
+3 ALT 3.14
+4 ALT 2.97
+5 ALT 2.96
+6 ALT 3.0
+7 ALT 3.04
+8 ALT 3.18
+9 ALT 3.19
+10 ALT 3.25
+11 ALT 3.22

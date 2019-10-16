@@ -1,0 +1,8 @@
+hour stock vwap
+4 TELL 9.31
+5 TELL 9.55
+6 TELL 9.7
+7 TELL 9.51
+8 TELL 9.52
+9 TELL 9.63
+10 TELL 9.74

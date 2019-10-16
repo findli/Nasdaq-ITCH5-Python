@@ -1,0 +1,7 @@
+hour stock vwap
+4 REV 25.35
+5 REV 25.23
+6 REV 24.97
+8 REV 25.75
+9 REV 25.62
+10 REV 25.52

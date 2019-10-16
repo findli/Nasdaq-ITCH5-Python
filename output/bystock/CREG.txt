@@ -1,0 +1,8 @@
+hour stock vwap
+4 CREG 1.15
+5 CREG 1.16
+6 CREG 1.1
+7 CREG 1.1
+8 CREG 1.12
+9 CREG 1.16
+10 CREG 1.17

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AIR 36.49
+5 AIR 36.29
+6 AIR 36.88
+7 AIR 37.1
+8 AIR 37.05
+9 AIR 37.01
+10 AIR 36.81

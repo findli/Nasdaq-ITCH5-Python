@@ -1,0 +1,8 @@
+hour stock vwap
+4 OMF 29.24
+5 OMF 29.07
+6 OMF 29.47
+7 OMF 29.46
+8 OMF 29.39
+9 OMF 29.55
+10 OMF 29.49

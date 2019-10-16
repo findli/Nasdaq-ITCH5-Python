@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNX 95.72
+5 SNX 95.42
+6 SNX 95.3
+7 SNX 95.6
+8 SNX 95.31
+9 SNX 95.72
+10 SNX 96.05

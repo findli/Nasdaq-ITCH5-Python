@@ -1,0 +1,8 @@
+hour stock vwap
+4 HUD 13.11
+5 HUD 12.94
+6 HUD 12.98
+7 HUD 12.88
+8 HUD 12.79
+9 HUD 12.92
+10 HUD 12.99

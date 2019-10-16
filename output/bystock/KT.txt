@@ -1,0 +1,7 @@
+hour stock vwap
+4 KT 13.86
+5 KT 13.88
+6 KT 13.87
+7 KT 13.85
+8 KT 13.77
+10 KT 13.76

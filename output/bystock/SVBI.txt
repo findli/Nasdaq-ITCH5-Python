@@ -1,0 +1,6 @@
+hour stock vwap
+4 SVBI 8.33
+5 SVBI 8.35
+6 SVBI 8.41
+7 SVBI 8.39
+9 SVBI 8.4

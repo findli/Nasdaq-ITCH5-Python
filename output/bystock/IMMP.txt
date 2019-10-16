@@ -1,0 +1,4 @@
+hour stock vwap
+4 IMMP 2.2
+6 IMMP 2.26
+7 IMMP 2.24

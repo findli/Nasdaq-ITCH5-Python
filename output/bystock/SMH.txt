@@ -1,0 +1,8 @@
+hour stock vwap
+4 SMH 95.43
+5 SMH 94.96
+6 SMH 94.88
+7 SMH 95.22
+8 SMH 95.52
+9 SMH 96.29
+10 SMH 96.69

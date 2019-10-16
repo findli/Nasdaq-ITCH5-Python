@@ -1,0 +1,8 @@
+hour stock vwap
+4 PSEC 6.7
+5 PSEC 6.74
+6 PSEC 6.78
+7 PSEC 6.8
+8 PSEC 6.78
+9 PSEC 6.82
+10 PSEC 6.78

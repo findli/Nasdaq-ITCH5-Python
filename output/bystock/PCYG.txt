@@ -1,0 +1,6 @@
+hour stock vwap
+4 PCYG 7.74
+6 PCYG 7.88
+7 PCYG 8.14
+8 PCYG 8.49
+10 PCYG 8.41

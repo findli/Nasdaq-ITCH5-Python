@@ -1,0 +1,6 @@
+hour stock vwap
+5 RVT 13.3
+6 RVT 13.4
+8 RVT 13.42
+9 RVT 13.41
+10 RVT 13.49

@@ -1,0 +1,8 @@
+hour stock vwap
+4 LZB 28.84
+5 LZB 29.03
+6 LZB 29.2
+7 LZB 29.19
+8 LZB 29.13
+9 LZB 29.28
+10 LZB 29.2

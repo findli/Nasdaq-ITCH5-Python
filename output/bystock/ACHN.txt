@@ -1,0 +1,8 @@
+hour stock vwap
+4 ACHN 2.14
+5 ACHN 2.09
+6 ACHN 2.08
+7 ACHN 2.09
+8 ACHN 2.11
+9 ACHN 2.11
+10 ACHN 2.16

@@ -1,0 +1,7 @@
+hour stock vwap
+4 SWI 17.39
+6 SWI 17.29
+7 SWI 17.25
+8 SWI 17.23
+9 SWI 17.55
+10 SWI 17.28

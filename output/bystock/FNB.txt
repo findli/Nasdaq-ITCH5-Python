@@ -1,0 +1,8 @@
+hour stock vwap
+4 FNB 11.74
+5 FNB 11.76
+6 FNB 11.79
+7 FNB 11.8
+8 FNB 11.81
+9 FNB 11.8
+10 FNB 11.8

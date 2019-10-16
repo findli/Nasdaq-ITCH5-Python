@@ -1,0 +1,7 @@
+hour stock vwap
+4 LODE 0.16
+6 LODE 0.18
+7 LODE 0.18
+8 LODE 0.18
+9 LODE 0.18
+10 LODE 0.17

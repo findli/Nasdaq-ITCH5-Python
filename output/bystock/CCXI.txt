@@ -1,0 +1,7 @@
+hour stock vwap
+5 CCXI 11.38
+6 CCXI 11.6
+7 CCXI 11.71
+8 CCXI 11.8
+9 CCXI 12.01
+10 CCXI 12.32

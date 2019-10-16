@@ -1,0 +1,8 @@
+hour stock vwap
+4 NWN 61.34
+5 NWN 61.61
+6 NWN 61.51
+7 NWN 61.44
+8 NWN 61.05
+9 NWN 61.58
+10 NWN 61.5

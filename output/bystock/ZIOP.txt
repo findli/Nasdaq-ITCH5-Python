@@ -1,0 +1,8 @@
+hour stock vwap
+4 ZIOP 2.01
+5 ZIOP 2.07
+6 ZIOP 2.05
+7 ZIOP 2.05
+8 ZIOP 2.08
+9 ZIOP 2.1
+10 ZIOP 2.1

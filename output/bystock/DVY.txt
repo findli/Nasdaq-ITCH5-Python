@@ -1,0 +1,7 @@
+hour stock vwap
+4 DVY 93.45
+5 DVY 93.41
+7 DVY 93.76
+8 DVY 93.5
+9 DVY 94.12
+10 DVY 94.11

@@ -1,0 +1,7 @@
+hour stock vwap
+5 ETJ 8.52
+6 ETJ 8.52
+7 ETJ 8.52
+8 ETJ 8.52
+9 ETJ 8.56
+10 ETJ 8.59

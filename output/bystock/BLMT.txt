@@ -1,0 +1,6 @@
+hour stock vwap
+4 BLMT 33.24
+6 BLMT 33.11
+7 BLMT 33.1
+8 BLMT 32.92
+10 BLMT 32.92

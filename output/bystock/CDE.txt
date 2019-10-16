@@ -1,0 +1,8 @@
+hour stock vwap
+4 CDE 4.9
+5 CDE 4.94
+6 CDE 4.93
+7 CDE 4.94
+8 CDE 4.95
+9 CDE 5.06
+10 CDE 5.04

@@ -1,0 +1,6 @@
+hour stock vwap
+4 OSPN 14.09
+5 OSPN 13.99
+8 OSPN 14.25
+9 OSPN 14.26
+10 OSPN 14.29

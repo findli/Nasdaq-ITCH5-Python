@@ -1,0 +1,5 @@
+hour stock vwap
+6 IIM 14.27
+7 IIM 14.26
+8 IIM 14.26
+10 IIM 14.24

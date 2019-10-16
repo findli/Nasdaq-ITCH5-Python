@@ -1,0 +1,9 @@
+hour stock vwap
+3 ERJ 21.15
+4 ERJ 20.96
+5 ERJ 20.74
+6 ERJ 20.79
+7 ERJ 20.75
+8 ERJ 20.84
+9 ERJ 20.82
+10 ERJ 20.98

@@ -1,0 +1,7 @@
+hour stock vwap
+4 RTEC 21.47
+5 RTEC 21.44
+6 RTEC 21.31
+8 RTEC 21.45
+9 RTEC 21.59
+10 RTEC 21.57

@@ -1,0 +1,8 @@
+hour stock vwap
+4 MTG 12.17
+5 MTG 12.3
+6 MTG 12.34
+7 MTG 12.29
+8 MTG 12.26
+9 MTG 12.36
+10 MTG 12.34

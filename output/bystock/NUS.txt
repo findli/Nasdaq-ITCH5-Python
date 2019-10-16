@@ -1,0 +1,8 @@
+hour stock vwap
+4 NUS 63.19
+5 NUS 64.49
+6 NUS 64.88
+7 NUS 64.91
+8 NUS 64.38
+9 NUS 64.32
+10 NUS 63.75

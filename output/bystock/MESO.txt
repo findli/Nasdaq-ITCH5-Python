@@ -1,0 +1,4 @@
+hour stock vwap
+6 MESO 4.49
+9 MESO 4.52
+10 MESO 4.53

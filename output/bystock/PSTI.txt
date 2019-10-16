@@ -1,0 +1,7 @@
+hour stock vwap
+4 PSTI 1.12
+5 PSTI 1.12
+6 PSTI 1.13
+7 PSTI 1.13
+8 PSTI 1.14
+10 PSTI 1.14

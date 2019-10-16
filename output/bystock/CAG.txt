@@ -1,0 +1,8 @@
+hour stock vwap
+4 CAG 21.15
+5 CAG 21.2
+6 CAG 21.5
+7 CAG 21.52
+8 CAG 21.49
+9 CAG 21.51
+10 CAG 21.45

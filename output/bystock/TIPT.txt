@@ -1,0 +1,5 @@
+hour stock vwap
+5 TIPT 5.79
+7 TIPT 5.88
+8 TIPT 5.88
+9 TIPT 5.92

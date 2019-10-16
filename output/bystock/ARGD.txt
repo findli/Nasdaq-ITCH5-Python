@@ -1,0 +1,3 @@
+hour stock vwap
+7 ARGD 25.26
+9 ARGD 25.29

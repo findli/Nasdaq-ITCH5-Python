@@ -1,0 +1,8 @@
+hour stock vwap
+4 TEUM 2.47
+5 TEUM 2.48
+6 TEUM 2.43
+7 TEUM 2.44
+8 TEUM 2.5
+9 TEUM 2.5
+10 TEUM 2.5

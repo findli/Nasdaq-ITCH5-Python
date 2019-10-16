@@ -1,0 +1,5 @@
+hour stock vwap
+7 HTD 22.74
+8 HTD 22.76
+9 HTD 22.79
+10 HTD 22.96

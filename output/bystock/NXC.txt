@@ -1,0 +1,3 @@
+hour stock vwap
+7 NXC 13.86
+8 NXC 13.84

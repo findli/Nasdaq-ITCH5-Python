@@ -1,0 +1,8 @@
+hour stock vwap
+4 DF 3.91
+5 DF 3.97
+6 DF 4.07
+7 DF 4.05
+8 DF 4.05
+9 DF 4.03
+10 DF 4.05

@@ -1,0 +1,4 @@
+hour stock vwap
+5 HAIR 0.94
+6 HAIR 0.9
+10 HAIR 0.93

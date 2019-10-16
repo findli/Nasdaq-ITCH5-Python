@@ -1,0 +1,6 @@
+hour stock vwap
+6 AKER 1.17
+7 AKER 1.09
+8 AKER 1.1
+9 AKER 1.11
+10 AKER 1.13

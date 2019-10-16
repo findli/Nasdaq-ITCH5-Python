@@ -1,0 +1,8 @@
+hour stock vwap
+4 FRTA 4.71
+5 FRTA 4.72
+6 FRTA 4.78
+7 FRTA 4.8
+8 FRTA 4.74
+9 FRTA 4.82
+10 FRTA 4.85

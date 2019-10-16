@@ -1,0 +1,7 @@
+hour stock vwap
+4 LNTH 16.54
+5 LNTH 16.44
+6 LNTH 16.47
+7 LNTH 16.41
+9 LNTH 16.44
+10 LNTH 16.56

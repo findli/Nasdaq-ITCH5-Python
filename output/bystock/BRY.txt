@@ -1,0 +1,8 @@
+hour stock vwap
+4 BRY 11.28
+5 BRY 11.57
+6 BRY 11.58
+7 BRY 11.55
+8 BRY 11.58
+9 BRY 11.75
+10 BRY 11.69

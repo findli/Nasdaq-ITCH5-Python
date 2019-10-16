@@ -1,0 +1,2 @@
+hour stock vwap
+9 AMH-F 22.69

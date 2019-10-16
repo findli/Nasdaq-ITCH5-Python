@@ -1,0 +1,8 @@
+hour stock vwap
+4 BKH 65.6
+5 BKH 66.03
+6 BKH 66.29
+7 BKH 66.46
+8 BKH 66.23
+9 BKH 66.77
+10 BKH 66.91

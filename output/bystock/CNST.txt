@@ -1,0 +1,7 @@
+hour stock vwap
+4 CNST 6.62
+5 CNST 6.84
+6 CNST 6.76
+7 CNST 6.78
+9 CNST 6.98
+10 CNST 6.93

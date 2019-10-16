@@ -1,0 +1,5 @@
+hour stock vwap
+4 MYF 13.4
+5 MYF 13.38
+6 MYF 13.4
+9 MYF 13.45

@@ -1,0 +1,9 @@
+hour stock vwap
+4 CMD 79.1
+5 CMD 79.28
+6 CMD 79.93
+7 CMD 79.97
+8 CMD 79.54
+9 CMD 80.26
+10 CMD 80.2
+12 CMD 81.01

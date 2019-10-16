@@ -1,0 +1,6 @@
+hour stock vwap
+6 DAVA 23.58
+7 DAVA 23.97
+8 DAVA 24.02
+9 DAVA 24.14
+10 DAVA 24.07

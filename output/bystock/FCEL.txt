@@ -1,0 +1,8 @@
+hour stock vwap
+4 FCEL 0.51
+5 FCEL 0.51
+6 FCEL 0.51
+7 FCEL 0.51
+8 FCEL 0.52
+9 FCEL 0.52
+10 FCEL 0.51

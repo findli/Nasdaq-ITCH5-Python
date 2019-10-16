@@ -1,0 +1,7 @@
+hour stock vwap
+4 CRNX 25.1
+5 CRNX 24.79
+6 CRNX 24.75
+8 CRNX 24.32
+9 CRNX 24.42
+10 CRNX 24.59

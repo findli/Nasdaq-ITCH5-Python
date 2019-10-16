@@ -1,0 +1,8 @@
+hour stock vwap
+4 ADMP 3.12
+5 ADMP 3.14
+6 ADMP 3.12
+7 ADMP 3.12
+8 ADMP 3.11
+9 ADMP 3.07
+10 ADMP 3.09

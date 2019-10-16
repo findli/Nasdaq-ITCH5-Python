@@ -1,0 +1,6 @@
+hour stock vwap
+4 IGHG 73.25
+5 IGHG 73.25
+6 IGHG 73.28
+8 IGHG 73.25
+9 IGHG 73.29

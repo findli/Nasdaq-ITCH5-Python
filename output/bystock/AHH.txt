@@ -1,0 +1,4 @@
+hour stock vwap
+5 AHH 14.82
+7 AHH 14.95
+10 AHH 14.87

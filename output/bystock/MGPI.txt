@@ -1,0 +1,7 @@
+hour stock vwap
+5 MGPI 71.41
+6 MGPI 71.74
+7 MGPI 71.52
+8 MGPI 70.88
+9 MGPI 70.74
+10 MGPI 71.03

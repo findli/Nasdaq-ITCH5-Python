@@ -1,0 +1,4 @@
+hour stock vwap
+7 ZIV 66.5
+9 ZIV 67.08
+10 ZIV 67.07

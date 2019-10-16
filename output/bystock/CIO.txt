@@ -1,0 +1,7 @@
+hour stock vwap
+5 CIO 11.4
+6 CIO 11.4
+7 CIO 11.48
+8 CIO 11.45
+9 CIO 11.46
+10 CIO 11.44

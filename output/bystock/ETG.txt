@@ -1,0 +1,4 @@
+hour stock vwap
+6 ETG 14.76
+7 ETG 14.84
+10 ETG 14.9

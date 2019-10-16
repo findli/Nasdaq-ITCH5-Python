@@ -1,0 +1,3 @@
+hour stock vwap
+6 PMT-B 24.7
+9 PMT-B 24.77

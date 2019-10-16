@@ -1,0 +1,8 @@
+hour stock vwap
+4 APYX 8.81
+5 APYX 8.63
+6 APYX 8.68
+7 APYX 8.66
+8 APYX 8.67
+9 APYX 8.7
+10 APYX 8.62

@@ -1,0 +1,8 @@
+hour stock vwap
+4 CIR 25.96
+5 CIR 26.09
+6 CIR 26.04
+7 CIR 26.03
+8 CIR 26.0
+9 CIR 26.67
+10 CIR 27.31

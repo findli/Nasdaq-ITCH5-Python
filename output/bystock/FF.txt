@@ -1,0 +1,7 @@
+hour stock vwap
+4 FF 17.76
+5 FF 17.71
+6 FF 17.88
+8 FF 17.72
+9 FF 17.82
+10 FF 17.83

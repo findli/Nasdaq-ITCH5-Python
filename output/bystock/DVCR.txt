@@ -1,0 +1,3 @@
+hour stock vwap
+6 DVCR 3.35
+7 DVCR 3.39

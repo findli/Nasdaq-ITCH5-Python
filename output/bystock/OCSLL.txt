@@ -1,0 +1,5 @@
+hour stock vwap
+5 OCSLL 24.47
+6 OCSLL 24.4
+7 OCSLL 24.64
+10 OCSLL 24.58

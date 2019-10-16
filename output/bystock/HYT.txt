@@ -1,0 +1,7 @@
+hour stock vwap
+5 HYT 9.89
+6 HYT 9.91
+7 HYT 9.93
+8 HYT 9.93
+9 HYT 9.94
+10 HYT 9.96

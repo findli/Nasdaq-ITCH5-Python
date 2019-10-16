@@ -1,0 +1,7 @@
+hour stock vwap
+4 NZF 14.26
+5 NZF 14.24
+6 NZF 14.26
+8 NZF 14.2
+9 NZF 14.2
+10 NZF 14.19

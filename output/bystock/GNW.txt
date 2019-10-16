@@ -1,0 +1,10 @@
+hour stock vwap
+4 GNW 4.66
+5 GNW 4.67
+6 GNW 4.71
+7 GNW 4.73
+8 GNW 4.71
+9 GNW 4.71
+10 GNW 4.71
+11 GNW 4.81
+12 GNW 4.72

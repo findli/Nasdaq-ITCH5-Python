@@ -1,0 +1,8 @@
+hour stock vwap
+4 WEC 70.27
+5 WEC 71.2
+6 WEC 71.15
+7 WEC 71.09
+8 WEC 70.95
+9 WEC 71.48
+10 WEC 71.41

@@ -1,0 +1,6 @@
+hour stock vwap
+6 USAK 18.4
+7 USAK 18.48
+8 USAK 18.26
+9 USAK 18.48
+10 USAK 18.61

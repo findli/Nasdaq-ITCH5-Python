@@ -1,0 +1,7 @@
+hour stock vwap
+4 FLKS 0.32
+5 FLKS 0.31
+6 FLKS 0.31
+7 FLKS 0.31
+9 FLKS 0.3
+10 FLKS 0.3

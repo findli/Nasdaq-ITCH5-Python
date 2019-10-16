@@ -1,0 +1,3 @@
+hour stock vwap
+4 OPGN 1.54
+10 OPGN 1.5

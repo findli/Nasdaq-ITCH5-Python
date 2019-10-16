@@ -1,0 +1,4 @@
+hour stock vwap
+4 BBDO 10.37
+8 BBDO 10.1
+9 BBDO 10.38

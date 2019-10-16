@@ -1,0 +1,2 @@
+hour stock vwap
+5 DHS 68.79

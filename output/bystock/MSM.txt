@@ -1,0 +1,8 @@
+hour stock vwap
+4 MSM 83.08
+5 MSM 82.73
+6 MSM 83.32
+7 MSM 83.53
+8 MSM 83.56
+9 MSM 84.38
+10 MSM 84.19

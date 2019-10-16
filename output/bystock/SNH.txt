@@ -1,0 +1,8 @@
+hour stock vwap
+4 SNH 13.37
+5 SNH 13.49
+6 SNH 13.55
+7 SNH 13.64
+8 SNH 13.56
+9 SNH 13.61
+10 SNH 13.56

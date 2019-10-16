@@ -1,0 +1,8 @@
+hour stock vwap
+4 DBC 15.56
+5 DBC 15.63
+6 DBC 15.64
+7 DBC 15.66
+8 DBC 15.6
+9 DBC 15.63
+10 DBC 15.6

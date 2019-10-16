@@ -1,0 +1,4 @@
+hour stock vwap
+8 PZA 24.94
+9 PZA 24.95
+10 PZA 24.96

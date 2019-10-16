@@ -1,0 +1,3 @@
+hour stock vwap
+9 RILYZ 24.46
+10 RILYZ 24.47

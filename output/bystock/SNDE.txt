@@ -1,0 +1,4 @@
+hour stock vwap
+5 SNDE 3.15
+9 SNDE 3.2
+10 SNDE 3.25

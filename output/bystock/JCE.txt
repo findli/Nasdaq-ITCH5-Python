@@ -1,0 +1,2 @@
+hour stock vwap
+5 JCE 13.06

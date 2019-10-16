@@ -1,0 +1,7 @@
+hour stock vwap
+5 HEI.A 66.39
+6 HEI.A 66.68
+7 HEI.A 67.36
+8 HEI.A 67.41
+9 HEI.A 67.53
+10 HEI.A 67.74

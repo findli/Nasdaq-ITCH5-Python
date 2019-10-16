@@ -1,0 +1,5 @@
+hour stock vwap
+4 CTG 4.34
+5 CTG 4.28
+7 CTG 4.3
+9 CTG 4.31

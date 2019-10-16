@@ -1,0 +1,9 @@
+hour stock vwap
+4 PYX 12.5
+5 PYX 12.8
+6 PYX 13.19
+7 PYX 13.48
+8 PYX 14.47
+9 PYX 14.93
+10 PYX 14.79
+13 PYX 15.77

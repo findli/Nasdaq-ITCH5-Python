@@ -1,0 +1,8 @@
+hour stock vwap
+4 GLW 33.42
+5 GLW 33.34
+6 GLW 33.39
+7 GLW 33.44
+8 GLW 33.4
+9 GLW 33.55
+10 GLW 33.52

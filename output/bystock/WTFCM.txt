@@ -1,0 +1,4 @@
+hour stock vwap
+8 WTFCM 27.52
+9 WTFCM 27.76
+10 WTFCM 27.64

@@ -1,0 +1,6 @@
+hour stock vwap
+5 RBS 6.42
+6 RBS 6.43
+8 RBS 6.42
+9 RBS 6.44
+10 RBS 6.45

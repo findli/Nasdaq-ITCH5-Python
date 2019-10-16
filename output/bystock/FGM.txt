@@ -1,0 +1,5 @@
+hour stock vwap
+4 FGM 41.82
+6 FGM 41.73
+7 FGM 41.71
+8 FGM 41.24

@@ -1,0 +1,8 @@
+hour stock vwap
+4 XXII 2.22
+5 XXII 2.26
+6 XXII 2.29
+7 XXII 2.29
+8 XXII 2.32
+9 XXII 2.33
+10 XXII 2.32

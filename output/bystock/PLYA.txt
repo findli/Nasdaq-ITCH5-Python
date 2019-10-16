@@ -1,0 +1,7 @@
+hour stock vwap
+4 PLYA 7.88
+5 PLYA 7.89
+6 PLYA 7.82
+7 PLYA 7.83
+9 PLYA 7.84
+10 PLYA 7.82

@@ -1,0 +1,4 @@
+hour stock vwap
+5 VDC 135.17
+9 VDC 135.99
+10 VDC 135.52

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AFG 94.08
+5 AFG 94.17
+6 AFG 94.74
+7 AFG 95.04
+8 AFG 94.99
+9 AFG 95.19
+10 AFG 94.95

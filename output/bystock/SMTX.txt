@@ -1,0 +1,8 @@
+hour stock vwap
+4 SMTX 5.31
+5 SMTX 5.35
+6 SMTX 5.36
+7 SMTX 5.14
+8 SMTX 5.21
+9 SMTX 5.2
+10 SMTX 5.01

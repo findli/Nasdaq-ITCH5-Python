@@ -1,0 +1,6 @@
+hour stock vwap
+6 TRST 7.8
+7 TRST 7.8
+8 TRST 7.76
+9 TRST 7.84
+10 TRST 7.79

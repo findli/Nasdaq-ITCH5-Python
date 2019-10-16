@@ -1,0 +1,4 @@
+hour stock vwap
+8 ENIC 5.26
+9 ENIC 5.27
+10 ENIC 5.29

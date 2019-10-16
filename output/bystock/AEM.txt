@@ -1,0 +1,8 @@
+hour stock vwap
+4 AEM 42.44
+5 AEM 42.52
+6 AEM 42.32
+7 AEM 42.37
+8 AEM 42.44
+9 AEM 43.42
+10 AEM 43.03

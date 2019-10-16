@@ -1,0 +1,3 @@
+hour stock vwap
+7 RETO 1.88
+10 RETO 1.84

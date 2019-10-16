@@ -1,0 +1,5 @@
+hour stock vwap
+5 TESS 15.94
+7 TESS 15.97
+8 TESS 15.8
+10 TESS 15.91

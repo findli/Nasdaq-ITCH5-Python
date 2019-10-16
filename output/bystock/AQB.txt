@@ -1,0 +1,4 @@
+hour stock vwap
+4 AQB 2.2
+6 AQB 2.14
+9 AQB 2.23

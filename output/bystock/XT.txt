@@ -1,0 +1,5 @@
+hour stock vwap
+4 XT 35.54
+7 XT 35.65
+9 XT 35.61
+10 XT 35.9

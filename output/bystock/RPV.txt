@@ -1,0 +1,3 @@
+hour stock vwap
+8 RPV 62.44
+9 RPV 62.52

@@ -1,0 +1,8 @@
+hour stock vwap
+4 APA 33.14
+5 APA 33.01
+6 APA 33.11
+7 APA 33.08
+8 APA 33.09
+9 APA 33.33
+10 APA 33.33

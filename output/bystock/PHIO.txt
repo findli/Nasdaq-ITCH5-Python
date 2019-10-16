@@ -1,0 +1,8 @@
+hour stock vwap
+4 PHIO 0.35
+5 PHIO 0.36
+6 PHIO 0.36
+7 PHIO 0.36
+8 PHIO 0.36
+9 PHIO 0.35
+10 PHIO 0.36

@@ -1,0 +1,9 @@
+hour stock vwap
+4 MTH 40.24
+5 MTH 40.43
+6 MTH 40.18
+7 MTH 40.07
+8 MTH 40.06
+9 MTH 40.7
+10 MTH 40.91
+11 MTH 42.65

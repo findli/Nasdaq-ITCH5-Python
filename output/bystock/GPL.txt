@@ -1,0 +1,4 @@
+hour stock vwap
+5 GPL 0.72
+9 GPL 0.73
+10 GPL 0.73

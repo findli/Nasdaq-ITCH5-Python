@@ -1,0 +1,8 @@
+hour stock vwap
+4 CIM 18.92
+5 CIM 18.94
+6 CIM 18.95
+7 CIM 18.95
+8 CIM 18.96
+9 CIM 18.99
+10 CIM 18.94

@@ -1,0 +1,6 @@
+hour stock vwap
+5 YIN 6.96
+6 YIN 7.02
+8 YIN 7.05
+9 YIN 7.02
+10 YIN 7.06

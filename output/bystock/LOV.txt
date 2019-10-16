@@ -1,0 +1,5 @@
+hour stock vwap
+6 LOV 9.05
+7 LOV 9.05
+8 LOV 9.15
+10 LOV 9.15

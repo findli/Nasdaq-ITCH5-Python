@@ -1,0 +1,4 @@
+hour stock vwap
+6 HSPX 45.6
+7 HSPX 45.67
+9 HSPX 46.04

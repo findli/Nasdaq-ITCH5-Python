@@ -1,0 +1,8 @@
+hour stock vwap
+4 YRCW 5.76
+5 YRCW 5.66
+6 YRCW 5.78
+7 YRCW 5.81
+8 YRCW 5.83
+9 YRCW 5.89
+10 YRCW 5.93

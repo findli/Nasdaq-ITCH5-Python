@@ -1,0 +1,8 @@
+hour stock vwap
+4 EROS 9.08
+5 EROS 9.23
+6 EROS 9.3
+7 EROS 9.26
+8 EROS 9.3
+9 EROS 9.34
+10 EROS 9.39

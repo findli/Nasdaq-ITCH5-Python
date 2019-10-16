@@ -1,0 +1,5 @@
+hour stock vwap
+5 AMTBB 12.44
+6 AMTBB 12.1
+8 AMTBB 12.69
+10 AMTBB 12.7

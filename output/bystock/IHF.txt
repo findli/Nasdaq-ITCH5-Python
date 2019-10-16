@@ -1,0 +1,6 @@
+hour stock vwap
+5 IHF 178.81
+6 IHF 179.22
+7 IHF 179.42
+9 IHF 179.24
+10 IHF 179.65

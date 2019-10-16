@@ -1,0 +1,8 @@
+hour stock vwap
+4 BGCP 6.13
+5 BGCP 6.08
+6 BGCP 6.13
+7 BGCP 6.11
+8 BGCP 6.09
+9 BGCP 6.16
+10 BGCP 6.14

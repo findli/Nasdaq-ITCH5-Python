@@ -1,0 +1,5 @@
+hour stock vwap
+4 SCPH 3.78
+5 SCPH 3.95
+7 SCPH 3.89
+10 SCPH 3.7

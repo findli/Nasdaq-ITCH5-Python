@@ -1,0 +1,8 @@
+hour stock vwap
+4 RBC 74.91
+5 RBC 75.23
+6 RBC 75.32
+7 RBC 75.45
+8 RBC 75.17
+9 RBC 76.4
+10 RBC 76.44

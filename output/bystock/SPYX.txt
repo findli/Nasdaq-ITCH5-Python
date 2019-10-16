@@ -1,0 +1,2 @@
+hour stock vwap
+10 SPYX 65.37

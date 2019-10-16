@@ -1,0 +1,7 @@
+hour stock vwap
+4 SELB 1.63
+5 SELB 1.63
+7 SELB 1.68
+8 SELB 1.7
+9 SELB 1.74
+10 SELB 1.74

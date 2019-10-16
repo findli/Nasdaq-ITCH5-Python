@@ -1,0 +1,8 @@
+hour stock vwap
+4 ONB 16.18
+5 ONB 16.22
+6 ONB 16.3
+7 ONB 16.25
+8 ONB 16.23
+9 ONB 16.28
+10 ONB 16.2

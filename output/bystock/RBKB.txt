@@ -1,0 +1,4 @@
+hour stock vwap
+4 RBKB 11.74
+5 RBKB 11.67
+7 RBKB 11.7

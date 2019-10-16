@@ -1,0 +1,8 @@
+hour stock vwap
+4 LKSD 7.79
+5 LKSD 7.87
+6 LKSD 8.02
+7 LKSD 7.93
+8 LKSD 7.86
+9 LKSD 7.97
+10 LKSD 7.95

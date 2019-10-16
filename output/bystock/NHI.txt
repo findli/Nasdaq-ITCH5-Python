@@ -1,0 +1,8 @@
+hour stock vwap
+4 NHI 80.99
+5 NHI 81.46
+6 NHI 81.67
+7 NHI 81.77
+8 NHI 81.83
+9 NHI 81.93
+10 NHI 81.5

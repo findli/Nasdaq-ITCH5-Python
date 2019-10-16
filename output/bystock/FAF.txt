@@ -1,0 +1,8 @@
+hour stock vwap
+4 FAF 48.95
+5 FAF 48.85
+6 FAF 49.08
+7 FAF 49.2
+8 FAF 49.04
+9 FAF 49.28
+10 FAF 49.53

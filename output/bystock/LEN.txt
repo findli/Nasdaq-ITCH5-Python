@@ -1,0 +1,8 @@
+hour stock vwap
+4 LEN 45.4
+5 LEN 45.59
+6 LEN 45.14
+7 LEN 45.04
+8 LEN 45.14
+9 LEN 45.9
+10 LEN 46.29

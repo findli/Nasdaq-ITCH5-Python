@@ -1,0 +1,5 @@
+hour stock vwap
+5 BCRH 6.46
+8 BCRH 6.59
+9 BCRH 6.51
+10 BCRH 6.48

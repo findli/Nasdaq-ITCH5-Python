@@ -1,0 +1,8 @@
+hour stock vwap
+4 LGCY 1.55
+5 LGCY 1.46
+6 LGCY 1.49
+7 LGCY 1.5
+8 LGCY 1.49
+9 LGCY 1.47
+10 LGCY 1.45

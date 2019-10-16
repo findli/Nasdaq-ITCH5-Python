@@ -1,0 +1,7 @@
+hour stock vwap
+4 APOG 33.56
+5 APOG 33.28
+6 APOG 33.4
+8 APOG 33.4
+9 APOG 33.59
+10 APOG 33.72

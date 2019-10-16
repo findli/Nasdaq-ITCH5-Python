@@ -1,0 +1,3 @@
+hour stock vwap
+6 DNN 0.52
+7 DNN 0.52

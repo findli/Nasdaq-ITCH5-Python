@@ -1,0 +1,6 @@
+hour stock vwap
+5 UUP 25.49
+7 UUP 25.48
+8 UUP 25.48
+9 UUP 25.47
+10 UUP 25.34

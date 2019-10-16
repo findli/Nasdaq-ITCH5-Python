@@ -1,0 +1,8 @@
+hour stock vwap
+4 PAH 11.04
+5 PAH 11.03
+6 PAH 11.09
+7 PAH 11.11
+8 PAH 11.0
+9 PAH 11.1
+10 PAH 11.1

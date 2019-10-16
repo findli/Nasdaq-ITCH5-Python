@@ -1,0 +1,3 @@
+hour stock vwap
+6 VER-F 25.19
+9 VER-F 25.18

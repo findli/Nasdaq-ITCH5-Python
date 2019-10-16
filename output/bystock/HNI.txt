@@ -1,0 +1,8 @@
+hour stock vwap
+4 HNI 37.86
+5 HNI 38.16
+6 HNI 38.2
+7 HNI 38.16
+8 HNI 37.99
+9 HNI 38.09
+10 HNI 38.26

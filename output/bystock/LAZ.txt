@@ -1,0 +1,8 @@
+hour stock vwap
+4 LAZ 39.09
+5 LAZ 38.98
+6 LAZ 39.06
+7 LAZ 39.12
+8 LAZ 39.02
+9 LAZ 39.34
+10 LAZ 39.7

@@ -1,0 +1,3 @@
+hour stock vwap
+6 EXFO 3.29
+10 EXFO 3.3

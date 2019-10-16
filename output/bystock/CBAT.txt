@@ -1,0 +1,5 @@
+hour stock vwap
+4 CBAT 1.12
+6 CBAT 1.09
+9 CBAT 1.09
+10 CBAT 1.12

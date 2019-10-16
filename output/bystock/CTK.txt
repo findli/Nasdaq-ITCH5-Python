@@ -1,0 +1,7 @@
+hour stock vwap
+4 CTK 11.44
+5 CTK 11.19
+6 CTK 11.54
+7 CTK 11.72
+9 CTK 11.77
+10 CTK 11.91

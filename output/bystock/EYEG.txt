@@ -1,0 +1,5 @@
+hour stock vwap
+6 EYEG 0.48
+8 EYEG 0.48
+9 EYEG 0.48
+10 EYEG 0.48

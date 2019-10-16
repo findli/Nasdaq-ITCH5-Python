@@ -1,0 +1,7 @@
+hour stock vwap
+4 ESL 121.56
+5 ESL 121.53
+6 ESL 121.5
+7 ESL 121.52
+9 ESL 121.52
+10 ESL 121.59

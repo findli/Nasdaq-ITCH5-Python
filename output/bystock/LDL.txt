@@ -1,0 +1,8 @@
+hour stock vwap
+4 LDL 25.8
+5 LDL 25.38
+6 LDL 25.78
+7 LDL 25.94
+8 LDL 25.98
+9 LDL 26.31
+10 LDL 26.41

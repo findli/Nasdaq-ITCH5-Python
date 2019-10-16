@@ -1,0 +1,5 @@
+hour stock vwap
+7 CHY 10.94
+8 CHY 10.95
+9 CHY 11.02
+10 CHY 11.0

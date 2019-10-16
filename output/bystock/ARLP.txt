@@ -1,0 +1,7 @@
+hour stock vwap
+5 ARLP 19.29
+6 ARLP 19.5
+7 ARLP 19.55
+8 ARLP 19.51
+9 ARLP 19.55
+10 ARLP 19.51

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TDC 43.96
+5 TDC 44.01
+6 TDC 44.13
+7 TDC 44.18
+8 TDC 44.07
+9 TDC 44.09
+10 TDC 44.22

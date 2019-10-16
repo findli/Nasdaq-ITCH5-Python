@@ -1,0 +1,8 @@
+hour stock vwap
+4 PJC 67.63
+5 PJC 67.72
+6 PJC 67.61
+7 PJC 67.75
+8 PJC 67.79
+9 PJC 68.4
+10 PJC 68.39

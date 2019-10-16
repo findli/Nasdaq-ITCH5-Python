@@ -1,0 +1,4 @@
+hour stock vwap
+5 OZM 12.55
+7 OZM 12.64
+10 OZM 13.07

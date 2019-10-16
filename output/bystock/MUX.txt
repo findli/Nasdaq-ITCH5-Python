@@ -1,0 +1,9 @@
+hour stock vwap
+4 MUX 1.79
+5 MUX 1.79
+6 MUX 1.77
+7 MUX 1.78
+8 MUX 1.77
+9 MUX 1.8
+10 MUX 1.78
+13 MUX 1.8

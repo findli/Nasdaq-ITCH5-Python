@@ -1,0 +1,7 @@
+hour stock vwap
+5 CSLT 2.65
+6 CSLT 2.66
+7 CSLT 2.68
+8 CSLT 2.73
+9 CSLT 2.75
+10 CSLT 2.78

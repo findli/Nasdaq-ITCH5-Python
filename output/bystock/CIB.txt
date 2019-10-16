@@ -1,0 +1,8 @@
+hour stock vwap
+4 CIB 43.28
+5 CIB 43.18
+6 CIB 43.18
+7 CIB 43.45
+8 CIB 43.32
+9 CIB 43.43
+10 CIB 43.67

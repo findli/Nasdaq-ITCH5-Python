@@ -1,0 +1,4 @@
+hour stock vwap
+6 GEC 3.24
+7 GEC 3.17
+10 GEC 3.24

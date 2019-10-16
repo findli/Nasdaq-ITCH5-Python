@@ -1,0 +1,4 @@
+hour stock vwap
+4 ACHV 1.42
+7 ACHV 1.45
+10 ACHV 1.47

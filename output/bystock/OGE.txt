@@ -1,0 +1,8 @@
+hour stock vwap
+4 OGE 40.12
+5 OGE 40.29
+6 OGE 40.21
+7 OGE 40.32
+8 OGE 40.2
+9 OGE 40.3
+10 OGE 40.3

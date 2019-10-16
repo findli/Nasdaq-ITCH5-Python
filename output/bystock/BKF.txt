@@ -1,0 +1,5 @@
+hour stock vwap
+5 BKF 40.71
+6 BKF 40.78
+8 BKF 40.78
+9 BKF 41.01

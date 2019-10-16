@@ -1,0 +1,7 @@
+hour stock vwap
+4 CCNE 25.77
+6 CCNE 25.74
+7 CCNE 25.61
+8 CCNE 25.47
+9 CCNE 25.62
+10 CCNE 25.69

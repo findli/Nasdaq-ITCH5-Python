@@ -1,0 +1,8 @@
+hour stock vwap
+4 XEC 74.88
+5 XEC 75.36
+6 XEC 76.11
+7 XEC 75.94
+8 XEC 75.94
+9 XEC 76.15
+10 XEC 76.19

@@ -1,0 +1,8 @@
+hour stock vwap
+4 EXP 72.05
+5 EXP 71.77
+6 EXP 71.37
+7 EXP 70.8
+8 EXP 70.6
+9 EXP 70.87
+10 EXP 70.64

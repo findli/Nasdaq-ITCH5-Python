@@ -1,0 +1,8 @@
+hour stock vwap
+4 SSP 18.35
+5 SSP 18.19
+6 SSP 18.14
+7 SSP 18.21
+8 SSP 18.28
+9 SSP 18.44
+10 SSP 18.58

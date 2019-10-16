@@ -1,0 +1,8 @@
+hour stock vwap
+4 HST 17.99
+5 HST 18.14
+6 HST 18.14
+7 HST 18.16
+8 HST 18.11
+9 HST 18.17
+10 HST 18.18

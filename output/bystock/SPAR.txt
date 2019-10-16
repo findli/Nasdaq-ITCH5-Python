@@ -1,0 +1,6 @@
+hour stock vwap
+4 SPAR 7.97
+5 SPAR 7.99
+8 SPAR 8.0
+9 SPAR 7.99
+10 SPAR 7.92

@@ -1,0 +1,9 @@
+hour stock vwap
+4 OZK 31.75
+5 OZK 31.55
+6 OZK 31.67
+7 OZK 31.61
+8 OZK 31.61
+9 OZK 31.6
+10 OZK 31.55
+11 OZK 31.48

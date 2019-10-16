@@ -1,0 +1,5 @@
+hour stock vwap
+5 BOMN 25.07
+8 BOMN 24.93
+9 BOMN 24.94
+10 BOMN 24.93

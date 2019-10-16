@@ -1,0 +1,3 @@
+hour stock vwap
+7 BSCR 19.15
+8 BSCR 19.14

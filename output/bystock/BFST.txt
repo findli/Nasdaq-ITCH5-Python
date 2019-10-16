@@ -1,0 +1,7 @@
+hour stock vwap
+4 BFST 22.95
+5 BFST 23.14
+6 BFST 23.14
+8 BFST 23.21
+9 BFST 23.27
+10 BFST 23.21

@@ -1,0 +1,8 @@
+hour stock vwap
+4 WSM 52.6
+5 WSM 52.21
+6 WSM 52.42
+7 WSM 52.47
+8 WSM 52.43
+9 WSM 52.81
+10 WSM 52.99

@@ -1,0 +1,8 @@
+hour stock vwap
+4 AVA 41.23
+5 AVA 41.27
+6 AVA 41.33
+7 AVA 41.45
+8 AVA 41.49
+9 AVA 41.59
+10 AVA 41.52

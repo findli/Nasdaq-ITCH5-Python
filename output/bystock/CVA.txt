@@ -1,0 +1,8 @@
+hour stock vwap
+4 CVA 15.76
+5 CVA 15.73
+6 CVA 15.71
+7 CVA 15.71
+8 CVA 15.73
+9 CVA 15.79
+10 CVA 15.8

@@ -1,0 +1,3 @@
+hour stock vwap
+6 FNCL 37.74
+7 FNCL 37.76

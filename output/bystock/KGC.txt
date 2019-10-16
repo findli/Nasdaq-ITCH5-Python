@@ -1,0 +1,8 @@
+hour stock vwap
+4 KGC 3.27
+5 KGC 3.26
+6 KGC 3.24
+7 KGC 3.26
+8 KGC 3.29
+9 KGC 3.37
+10 KGC 3.34

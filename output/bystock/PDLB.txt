@@ -1,0 +1,6 @@
+hour stock vwap
+6 PDLB 12.97
+7 PDLB 12.92
+8 PDLB 12.94
+9 PDLB 12.95
+10 PDLB 12.93

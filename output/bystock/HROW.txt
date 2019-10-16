@@ -1,0 +1,8 @@
+hour stock vwap
+5 HROW 5.95
+6 HROW 5.94
+7 HROW 5.9
+8 HROW 5.91
+9 HROW 6.06
+10 HROW 6.01
+11 HROW 6.24

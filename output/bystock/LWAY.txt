@@ -1,0 +1,4 @@
+hour stock vwap
+4 LWAY 2.96
+8 LWAY 2.74
+9 LWAY 2.72

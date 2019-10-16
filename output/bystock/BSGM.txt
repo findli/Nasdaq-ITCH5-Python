@@ -1,0 +1,4 @@
+hour stock vwap
+4 BSGM 4.31
+6 BSGM 4.33
+10 BSGM 4.27

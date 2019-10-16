@@ -1,0 +1,7 @@
+hour stock vwap
+4 ORGO 14.41
+5 ORGO 14.03
+6 ORGO 13.72
+7 ORGO 14.08
+8 ORGO 13.93
+10 ORGO 13.7

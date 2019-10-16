@@ -1,0 +1,7 @@
+hour stock vwap
+4 PFBI 14.46
+6 PFBI 14.34
+7 PFBI 14.26
+8 PFBI 14.26
+9 PFBI 14.28
+10 PFBI 14.38

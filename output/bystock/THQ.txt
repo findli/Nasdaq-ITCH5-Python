@@ -1,0 +1,4 @@
+hour stock vwap
+7 THQ 17.48
+8 THQ 17.48
+10 THQ 17.62

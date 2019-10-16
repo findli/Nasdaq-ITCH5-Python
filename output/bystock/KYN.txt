@@ -1,0 +1,7 @@
+hour stock vwap
+5 KYN 15.37
+6 KYN 15.44
+7 KYN 15.45
+8 KYN 15.43
+9 KYN 15.58
+10 KYN 15.52

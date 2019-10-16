@@ -1,0 +1,8 @@
+hour stock vwap
+4 GRC 33.46
+5 GRC 33.08
+6 GRC 33.2
+7 GRC 33.3
+8 GRC 33.49
+9 GRC 33.77
+10 GRC 33.78

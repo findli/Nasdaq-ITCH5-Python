@@ -1,0 +1,8 @@
+hour stock vwap
+4 DFRG 7.87
+5 DFRG 7.93
+6 DFRG 7.84
+7 DFRG 7.77
+8 DFRG 7.76
+9 DFRG 7.87
+10 DFRG 7.92

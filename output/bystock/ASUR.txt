@@ -1,0 +1,8 @@
+hour stock vwap
+4 ASUR 5.54
+5 ASUR 5.52
+6 ASUR 5.44
+7 ASUR 5.41
+8 ASUR 5.36
+9 ASUR 5.41
+10 ASUR 5.46

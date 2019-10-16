@@ -1,0 +1,3 @@
+hour stock vwap
+10 HJLI 1.8
+11 HJLI 1.8

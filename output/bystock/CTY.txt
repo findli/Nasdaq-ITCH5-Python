@@ -1,0 +1,6 @@
+hour stock vwap
+4 CTY 19.69
+6 CTY 19.72
+7 CTY 19.75
+8 CTY 19.78
+10 CTY 19.98

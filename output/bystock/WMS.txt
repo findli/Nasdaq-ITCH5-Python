@@ -1,0 +1,8 @@
+hour stock vwap
+4 WMS 25.11
+5 WMS 25.07
+6 WMS 25.08
+7 WMS 25.07
+8 WMS 24.85
+9 WMS 24.95
+10 WMS 24.86

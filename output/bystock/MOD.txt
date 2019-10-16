@@ -1,0 +1,8 @@
+hour stock vwap
+4 MOD 13.44
+5 MOD 14.07
+6 MOD 14.21
+7 MOD 14.22
+8 MOD 14.26
+9 MOD 14.33
+10 MOD 14.3

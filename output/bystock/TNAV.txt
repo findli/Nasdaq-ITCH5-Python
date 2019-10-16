@@ -1,0 +1,4 @@
+hour stock vwap
+4 TNAV 4.35
+5 TNAV 4.2
+10 TNAV 4.36

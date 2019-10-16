@@ -1,0 +1,6 @@
+hour stock vwap
+4 ESE 63.94
+6 ESE 63.92
+7 ESE 64.0
+9 ESE 64.2
+10 ESE 64.03

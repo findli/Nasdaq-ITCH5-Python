@@ -1,0 +1,5 @@
+hour stock vwap
+4 URTH 83.73
+5 URTH 83.63
+6 URTH 83.85
+10 URTH 84.39

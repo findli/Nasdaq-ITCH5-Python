@@ -1,0 +1,8 @@
+hour stock vwap
+4 ESIO 30.0
+5 ESIO 30.0
+6 ESIO 30.0
+7 ESIO 30.0
+8 ESIO 30.0
+9 ESIO 30.0
+10 ESIO 29.99

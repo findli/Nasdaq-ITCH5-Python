@@ -1,0 +1,8 @@
+hour stock vwap
+4 RES 10.9
+5 RES 10.85
+6 RES 10.94
+7 RES 10.82
+8 RES 10.84
+9 RES 10.96
+10 RES 10.95

@@ -1,0 +1,8 @@
+hour stock vwap
+4 FRAN 0.81
+5 FRAN 0.8
+6 FRAN 0.81
+7 FRAN 0.8
+8 FRAN 0.8
+9 FRAN 0.8
+10 FRAN 0.81

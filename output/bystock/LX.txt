@@ -1,0 +1,8 @@
+hour stock vwap
+4 LX 9.55
+5 LX 9.46
+6 LX 9.48
+7 LX 9.43
+8 LX 9.45
+9 LX 9.49
+10 LX 9.42

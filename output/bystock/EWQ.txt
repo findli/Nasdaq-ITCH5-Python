@@ -1,0 +1,7 @@
+hour stock vwap
+4 EWQ 27.88
+5 EWQ 27.84
+6 EWQ 27.95
+7 EWQ 27.94
+9 EWQ 28.17
+10 EWQ 28.2

@@ -1,0 +1,5 @@
+hour stock vwap
+4 VBK 165.42
+5 VBK 165.22
+7 VBK 166.75
+10 VBK 167.41

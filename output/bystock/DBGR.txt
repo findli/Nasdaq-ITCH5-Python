@@ -1,0 +1,3 @@
+hour stock vwap
+6 DBGR 24.71
+9 DBGR 24.77

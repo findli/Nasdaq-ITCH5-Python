@@ -1,0 +1,3 @@
+hour stock vwap
+8 DLR-H 25.33
+9 DLR-H 25.34

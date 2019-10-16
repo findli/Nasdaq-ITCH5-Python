@@ -1,0 +1,2 @@
+hour stock vwap
+8 RNEM 51.0

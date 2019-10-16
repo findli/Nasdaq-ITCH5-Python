@@ -1,0 +1,8 @@
+hour stock vwap
+4 ECR 1.16
+5 ECR 1.16
+6 ECR 1.16
+7 ECR 1.16
+8 ECR 1.16
+9 ECR 1.16
+10 ECR 1.15

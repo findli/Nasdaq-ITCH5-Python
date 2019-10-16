@@ -1,0 +1,7 @@
+hour stock vwap
+4 EMES 2.85
+5 EMES 2.89
+6 EMES 2.9
+7 EMES 2.9
+8 EMES 2.9
+10 EMES 2.9

@@ -1,0 +1,6 @@
+hour stock vwap
+4 BPTH 1.95
+5 BPTH 1.99
+6 BPTH 2.04
+7 BPTH 2.04
+10 BPTH 2.02

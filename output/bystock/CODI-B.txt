@@ -1,0 +1,3 @@
+hour stock vwap
+8 CODI-B 20.3
+10 CODI-B 20.44

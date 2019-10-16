@@ -1,0 +1,8 @@
+hour stock vwap
+4 SSD 59.45
+5 SSD 59.44
+6 SSD 59.31
+7 SSD 59.42
+8 SSD 59.3
+9 SSD 59.58
+10 SSD 60.28

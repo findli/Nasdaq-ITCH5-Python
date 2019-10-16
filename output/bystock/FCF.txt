@@ -1,0 +1,8 @@
+hour stock vwap
+4 FCF 13.9
+5 FCF 13.94
+6 FCF 13.67
+7 FCF 13.58
+8 FCF 13.61
+9 FCF 13.71
+10 FCF 13.64

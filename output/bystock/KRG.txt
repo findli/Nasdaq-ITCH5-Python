@@ -1,0 +1,7 @@
+hour stock vwap
+5 KRG 16.36
+6 KRG 16.4
+7 KRG 16.48
+8 KRG 16.44
+9 KRG 16.5
+10 KRG 16.43

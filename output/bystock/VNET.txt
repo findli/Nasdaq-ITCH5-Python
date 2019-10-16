@@ -1,0 +1,8 @@
+hour stock vwap
+4 VNET 8.7
+5 VNET 8.65
+6 VNET 8.65
+7 VNET 8.69
+8 VNET 8.67
+9 VNET 8.71
+10 VNET 8.71

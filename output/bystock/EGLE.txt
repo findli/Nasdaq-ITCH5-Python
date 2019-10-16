@@ -1,0 +1,8 @@
+hour stock vwap
+4 EGLE 4.09
+5 EGLE 4.1
+6 EGLE 4.03
+7 EGLE 4.0
+8 EGLE 4.1
+9 EGLE 4.14
+10 EGLE 4.13

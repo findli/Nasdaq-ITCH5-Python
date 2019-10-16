@@ -1,0 +1,8 @@
+hour stock vwap
+4 CMS 50.96
+5 CMS 51.33
+6 CMS 51.23
+7 CMS 51.19
+8 CMS 51.0
+9 CMS 51.29
+10 CMS 51.42

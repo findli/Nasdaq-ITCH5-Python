@@ -1,0 +1,8 @@
+hour stock vwap
+4 TEL 78.92
+5 TEL 78.85
+6 TEL 79.12
+7 TEL 79.3
+8 TEL 79.22
+9 TEL 79.92
+10 TEL 80.17

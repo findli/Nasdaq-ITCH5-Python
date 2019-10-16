@@ -1,0 +1,7 @@
+hour stock vwap
+4 IGOV 48.86
+5 IGOV 48.88
+6 IGOV 48.9
+7 IGOV 48.91
+9 IGOV 49.1
+10 IGOV 49.14

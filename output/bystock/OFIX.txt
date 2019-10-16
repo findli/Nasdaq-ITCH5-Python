@@ -1,0 +1,7 @@
+hour stock vwap
+4 OFIX 52.13
+5 OFIX 52.18
+7 OFIX 52.83
+8 OFIX 52.76
+9 OFIX 53.18
+10 OFIX 52.93

@@ -1,0 +1,9 @@
+hour stock vwap
+3 XBI 80.33
+4 XBI 80.49
+5 XBI 80.24
+6 XBI 80.46
+7 XBI 80.86
+8 XBI 80.86
+9 XBI 81.41
+10 XBI 82.05

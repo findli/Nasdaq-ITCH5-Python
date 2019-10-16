@@ -1,0 +1,7 @@
+hour stock vwap
+5 CRTO 24.48
+6 CRTO 24.34
+7 CRTO 24.39
+8 CRTO 24.2
+9 CRTO 24.47
+10 CRTO 24.76

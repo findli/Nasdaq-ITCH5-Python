@@ -1,0 +1,4 @@
+hour stock vwap
+7 VIS 132.82
+9 VIS 133.37
+10 VIS 133.29

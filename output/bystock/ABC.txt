@@ -1,0 +1,8 @@
+hour stock vwap
+4 ABC 79.67
+5 ABC 79.57
+6 ABC 79.54
+7 ABC 79.6
+8 ABC 79.13
+9 ABC 78.84
+10 ABC 78.53

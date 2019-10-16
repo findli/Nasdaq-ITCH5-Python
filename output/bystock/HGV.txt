@@ -1,0 +1,8 @@
+hour stock vwap
+4 HGV 30.48
+5 HGV 30.26
+6 HGV 30.25
+7 HGV 30.29
+8 HGV 30.34
+9 HGV 30.42
+10 HGV 30.42

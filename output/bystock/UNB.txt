@@ -1,0 +1,5 @@
+hour stock vwap
+5 UNB 46.74
+6 UNB 47.2
+9 UNB 47.25
+10 UNB 47.31

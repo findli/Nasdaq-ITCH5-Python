@@ -1,0 +1,5 @@
+hour stock vwap
+5 GIM 6.37
+6 GIM 6.38
+8 GIM 6.38
+10 GIM 6.38

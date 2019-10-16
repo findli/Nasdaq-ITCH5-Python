@@ -1,0 +1,7 @@
+hour stock vwap
+5 HWKN 41.53
+6 HWKN 41.57
+7 HWKN 41.53
+8 HWKN 41.43
+9 HWKN 41.93
+10 HWKN 41.74

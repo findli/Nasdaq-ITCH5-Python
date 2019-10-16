@@ -1,0 +1,7 @@
+hour stock vwap
+4 IJH 181.23
+5 IJH 181.53
+6 IJH 181.65
+7 IJH 181.86
+9 IJH 182.65
+10 IJH 182.36

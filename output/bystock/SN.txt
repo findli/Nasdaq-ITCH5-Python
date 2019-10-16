@@ -1,0 +1,7 @@
+hour stock vwap
+5 SN 0.27
+6 SN 0.27
+7 SN 0.27
+8 SN 0.26
+9 SN 0.26
+10 SN 0.26

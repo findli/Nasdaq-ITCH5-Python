@@ -1,0 +1,7 @@
+hour stock vwap
+4 TRIL 1.79
+5 TRIL 1.75
+6 TRIL 1.74
+8 TRIL 1.73
+9 TRIL 1.73
+10 TRIL 1.72

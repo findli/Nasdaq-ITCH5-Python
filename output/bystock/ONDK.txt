@@ -1,0 +1,8 @@
+hour stock vwap
+4 ONDK 7.01
+5 ONDK 6.96
+6 ONDK 7.05
+7 ONDK 7.03
+8 ONDK 7.04
+9 ONDK 7.13
+10 ONDK 7.21

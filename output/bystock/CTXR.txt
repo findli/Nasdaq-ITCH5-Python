@@ -1,0 +1,5 @@
+hour stock vwap
+5 CTXR 1.0
+6 CTXR 0.98
+8 CTXR 0.99
+10 CTXR 0.98

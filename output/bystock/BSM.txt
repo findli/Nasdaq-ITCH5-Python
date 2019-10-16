@@ -1,0 +1,2 @@
+hour stock vwap
+7 BSM 16.78

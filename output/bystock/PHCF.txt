@@ -1,0 +1,4 @@
+hour stock vwap
+5 PHCF 5.06
+8 PHCF 4.93
+10 PHCF 4.65

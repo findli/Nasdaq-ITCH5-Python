@@ -1,0 +1,6 @@
+hour stock vwap
+6 ARGT 27.44
+7 ARGT 27.41
+8 ARGT 27.42
+9 ARGT 27.74
+10 ARGT 27.67

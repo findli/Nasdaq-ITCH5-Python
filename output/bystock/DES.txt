@@ -1,0 +1,4 @@
+hour stock vwap
+5 DES 26.8
+6 DES 26.94
+9 DES 27.1

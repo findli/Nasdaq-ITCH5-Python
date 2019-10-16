@@ -1,0 +1,5 @@
+hour stock vwap
+5 KAMN 57.73
+6 KAMN 57.98
+9 KAMN 58.15
+10 KAMN 58.49

@@ -1,0 +1,4 @@
+hour stock vwap
+4 WRTC 3.61
+8 WRTC 3.4
+10 WRTC 3.33

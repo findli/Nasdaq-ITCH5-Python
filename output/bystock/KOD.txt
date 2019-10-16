@@ -1,0 +1,4 @@
+hour stock vwap
+6 KOD 8.05
+7 KOD 8.07
+10 KOD 7.95

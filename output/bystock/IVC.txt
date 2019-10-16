@@ -1,0 +1,7 @@
+hour stock vwap
+4 IVC 5.35
+5 IVC 5.14
+6 IVC 5.1
+7 IVC 5.14
+8 IVC 5.19
+10 IVC 5.21

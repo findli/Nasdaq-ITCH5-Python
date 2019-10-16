@@ -1,0 +1,8 @@
+hour stock vwap
+4 VST 24.8
+5 VST 24.89
+6 VST 24.94
+7 VST 24.97
+8 VST 24.98
+9 VST 24.99
+10 VST 24.95

@@ -1,0 +1,8 @@
+hour stock vwap
+4 TGI 17.32
+5 TGI 17.41
+6 TGI 17.59
+7 TGI 17.61
+8 TGI 17.74
+9 TGI 17.79
+10 TGI 17.45

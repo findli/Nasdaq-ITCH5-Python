@@ -1,0 +1,8 @@
+hour stock vwap
+4 VSH 18.91
+5 VSH 18.94
+6 VSH 19.0
+7 VSH 19.13
+8 VSH 19.15
+9 VSH 19.34
+10 VSH 19.37

@@ -2,7 +2,9 @@
 
 
 ## Parser
-Considering the large amount of daily Nasdaq trading data, the speed is very essential. I wrap a [C parser](https://github.com/shawfdong/itch5parser) in Python. I also add two functions to calulate the running volume-weighted average price (VWAP) for each stock at every trading hour.
+Considering the large amount of daily Nasdaq trading data, the speed is very essential. I improve the Python parsing speed for Nasdaq daily trading data (10 GB each) by wrapping a [C parser](https://github.com/shawfdong/itch5parser)  (with MIT license).
+
+In addtion, I provide two functions to calculate and output the running volume-weighted average price (VWAP) for each stock at every trading hour.
 
 
 ## Dataset
